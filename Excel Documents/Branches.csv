@@ -1,0 +1,1001 @@
+BranchID,BranchName,Area,City,Pincode,OpenDate,IsActive
+1,Kurmannapalem Depot 1,Seethammadhara,Visakhapatnam,53005,2020-12-28 00:00:00,TRUE
+2,Maharanipeta Depot 2,NAD,Visakhapatnam,53045,2020-02-25 00:00:00,FALSE
+3,Gajuwaka Depot 3,Maddilapalem,Visakhapatnam,53029,2022-06-10 00:00:00,TRUE
+4,Anakapalle Depot 4,Maddilapalem,Visakhapatnam,53080,2020-09-03 00:00:00,TRUE
+5,Maddilapalem Depot 5,Seethammadhara,Visakhapatnam,53076,2019-12-12 00:00:00,TRUE
+6,Anakapalle Depot 6,Pendurthi,Visakhapatnam,53054,2024-10-04 00:00:00,FALSE
+7,NAD Depot 7,Akkayyapalem,Visakhapatnam,53087,2022-05-16 00:00:00,TRUE
+8,Bheemunipatnam Depot 8,Pendurthi,Visakhapatnam,53052,2023-06-08 00:00:00,TRUE
+9,NAD Depot 9,Seethammadhara,Visakhapatnam,53022,2022-01-07 00:00:00,TRUE
+10,Gajuwaka Depot 10,Pendurthi,Visakhapatnam,53051,2024-04-19 00:00:00,TRUE
+11,Auto Nagar Depot 11,Marripalem,Visakhapatnam,53050,2021-10-07 00:00:00,TRUE
+12,Dwaraka Nagar Depot 12,Bheemunipatnam,Visakhapatnam,53045,2024-03-18 00:00:00,FALSE
+13,Siripuram Depot 13,Anakapalle,Visakhapatnam,53037,2021-11-11 00:00:00,FALSE
+14,Maddilapalem Depot 14,Kurmannapalem,Visakhapatnam,53086,2018-04-14 00:00:00,TRUE
+15,Akkayyapalem Depot 15,Dabagardens,Visakhapatnam,53017,2019-01-15 00:00:00,TRUE
+16,Marripalem Depot 16,MVP Colony,Visakhapatnam,53072,2022-12-21 00:00:00,TRUE
+17,Seethammadhara Depot 17,Malkapuram,Visakhapatnam,53046,2020-06-05 00:00:00,FALSE
+18,Resapuvanipalem Depot 18,Maharanipeta,Visakhapatnam,53027,2021-05-02 00:00:00,TRUE
+19,Akkayyapalem Depot 19,Anakapalle,Visakhapatnam,53087,2019-06-21 00:00:00,FALSE
+20,Maharanipeta Depot 20,Malkapuram,Visakhapatnam,53069,2020-10-05 00:00:00,TRUE
+21,MVP Colony Depot 21,Dwaraka Nagar,Visakhapatnam,53087,2023-10-03 00:00:00,TRUE
+22,PM Palem Depot 22,Yendada,Visakhapatnam,53004,2025-05-17 00:00:00,TRUE
+23,Pendurthi Depot 23,Gajuwaka,Visakhapatnam,53050,2018-12-19 00:00:00,TRUE
+24,Auto Nagar Depot 24,Siripuram,Visakhapatnam,53085,2019-03-23 00:00:00,TRUE
+25,Kancharapalem Depot 25,Pendurthi,Visakhapatnam,53025,2018-09-27 00:00:00,TRUE
+26,Akkayyapalem Depot 26,Pendurthi,Visakhapatnam,53017,2022-06-23 00:00:00,TRUE
+27,Yendada Depot 27,Anakapalle,Visakhapatnam,53081,2025-01-18 00:00:00,TRUE
+28,Seethammadhara Depot 28,Gajuwaka,Visakhapatnam,53047,2025-08-15 00:00:00,FALSE
+29,Gajuwaka Depot 29,Venkojipalem,Visakhapatnam,53091,2023-03-10 00:00:00,FALSE
+30,Malkapuram Depot 30,Resapuvanipalem,Visakhapatnam,53013,2020-01-15 00:00:00,TRUE
+31,Kurmannapalem Depot 31,Old Town,Visakhapatnam,53094,2020-06-16 00:00:00,FALSE
+32,Maddilapalem Depot 32,Old Town,Visakhapatnam,53021,2022-10-31 00:00:00,TRUE
+33,MVP Colony Depot 33,Yendada,Visakhapatnam,53095,2018-06-10 00:00:00,TRUE
+34,Resapuvanipalem Depot 34,Resapuvanipalem,Visakhapatnam,53023,2024-05-01 00:00:00,FALSE
+35,Dabagardens Depot 35,Kancharapalem,Visakhapatnam,53033,2022-11-17 00:00:00,TRUE
+36,Gajuwaka Depot 36,Dwaraka Nagar,Visakhapatnam,53098,2025-05-08 00:00:00,TRUE
+37,Maharanipeta Depot 37,Old Town,Visakhapatnam,53090,2018-07-13 00:00:00,TRUE
+38,Maddilapalem Depot 38,Auto Nagar,Visakhapatnam,53027,2021-11-16 00:00:00,FALSE
+39,Dabagardens Depot 39,PM Palem,Visakhapatnam,53051,2024-11-25 00:00:00,TRUE
+40,Kancharapalem Depot 40,NAD,Visakhapatnam,53045,2022-10-03 00:00:00,TRUE
+41,Dabagardens Depot 41,Kancharapalem,Visakhapatnam,53095,2025-09-20 00:00:00,FALSE
+42,Kancharapalem Depot 42,Maddilapalem,Visakhapatnam,53087,2025-10-31 00:00:00,FALSE
+43,Venkojipalem Depot 43,Kancharapalem,Visakhapatnam,53017,2023-06-29 00:00:00,TRUE
+44,Dabagardens Depot 44,Marripalem,Visakhapatnam,53034,2019-12-16 00:00:00,TRUE
+45,Resapuvanipalem Depot 45,Akkayyapalem,Visakhapatnam,53070,2020-12-02 00:00:00,TRUE
+46,Seethammadhara Depot 46,Malkapuram,Visakhapatnam,53045,2022-08-14 00:00:00,TRUE
+47,Resapuvanipalem Depot 47,Pendurthi,Visakhapatnam,53018,2019-07-14 00:00:00,FALSE
+48,Akkayyapalem Depot 48,Dabagardens,Visakhapatnam,53031,2018-01-25 00:00:00,FALSE
+49,MVP Colony Depot 49,Resapuvanipalem,Visakhapatnam,53045,2025-10-30 00:00:00,TRUE
+50,Dabagardens Depot 50,MVP Colony,Visakhapatnam,53076,2024-04-26 00:00:00,TRUE
+51,Resapuvanipalem Depot 51,Dwaraka Nagar,Visakhapatnam,53071,2022-10-06 00:00:00,TRUE
+52,Old Town Depot 52,Anakapalle,Visakhapatnam,53099,2022-07-22 00:00:00,TRUE
+53,Dabagardens Depot 53,Pendurthi,Visakhapatnam,53002,2022-01-16 00:00:00,TRUE
+54,Maddilapalem Depot 54,Maddilapalem,Visakhapatnam,53036,2021-05-29 00:00:00,TRUE
+55,Dabagardens Depot 55,Pendurthi,Visakhapatnam,53058,2019-04-08 00:00:00,TRUE
+56,Anakapalle Depot 56,Anakapalle,Visakhapatnam,53073,2022-01-26 00:00:00,TRUE
+57,Marripalem Depot 57,NAD,Visakhapatnam,53006,2018-02-14 00:00:00,FALSE
+58,NAD Depot 58,PM Palem,Visakhapatnam,53092,2021-09-20 00:00:00,TRUE
+59,Dwaraka Nagar Depot 59,Resapuvanipalem,Visakhapatnam,53063,2022-11-14 00:00:00,TRUE
+60,Marripalem Depot 60,Auto Nagar,Visakhapatnam,53002,2022-01-11 00:00:00,TRUE
+61,Resapuvanipalem Depot 61,Old Town,Visakhapatnam,53094,2025-04-27 00:00:00,TRUE
+62,NAD Depot 62,MVP Colony,Visakhapatnam,53096,2018-04-24 00:00:00,FALSE
+63,MVP Colony Depot 63,Pendurthi,Visakhapatnam,53048,2020-01-31 00:00:00,TRUE
+64,Dwaraka Nagar Depot 64,PM Palem,Visakhapatnam,53040,2024-12-01 00:00:00,FALSE
+65,Seethammadhara Depot 65,Resapuvanipalem,Visakhapatnam,53046,2021-08-04 00:00:00,TRUE
+66,MVP Colony Depot 66,Marripalem,Visakhapatnam,53048,2020-11-04 00:00:00,TRUE
+67,Maddilapalem Depot 67,Dwaraka Nagar,Visakhapatnam,53073,2025-01-17 00:00:00,TRUE
+68,Siripuram Depot 68,Gopalapatnam,Visakhapatnam,53055,2023-08-09 00:00:00,TRUE
+69,Old Town Depot 69,Maharanipeta,Visakhapatnam,53081,2018-11-25 00:00:00,TRUE
+70,Seethammadhara Depot 70,MVP Colony,Visakhapatnam,53057,2025-02-21 00:00:00,TRUE
+71,Maddilapalem Depot 71,Anakapalle,Visakhapatnam,53062,2020-02-21 00:00:00,TRUE
+72,Gajuwaka Depot 72,Maddilapalem,Visakhapatnam,53079,2023-09-26 00:00:00,TRUE
+73,Pendurthi Depot 73,NAD,Visakhapatnam,53085,2018-08-15 00:00:00,FALSE
+74,Auto Nagar Depot 74,NAD,Visakhapatnam,53057,2018-02-06 00:00:00,TRUE
+75,Yendada Depot 75,Pendurthi,Visakhapatnam,53001,2022-12-21 00:00:00,TRUE
+76,Maharanipeta Depot 76,Siripuram,Visakhapatnam,53061,2018-12-15 00:00:00,TRUE
+77,Kancharapalem Depot 77,Anakapalle,Visakhapatnam,53055,2023-12-31 00:00:00,TRUE
+78,Yendada Depot 78,Old Town,Visakhapatnam,53080,2018-11-30 00:00:00,TRUE
+79,Old Town Depot 79,Venkojipalem,Visakhapatnam,53039,2024-05-03 00:00:00,FALSE
+80,Malkapuram Depot 80,Gopalapatnam,Visakhapatnam,53085,2025-04-05 00:00:00,TRUE
+81,Auto Nagar Depot 81,Kancharapalem,Visakhapatnam,53082,2018-04-25 00:00:00,TRUE
+82,Venkojipalem Depot 82,PM Palem,Visakhapatnam,53058,2025-10-02 00:00:00,TRUE
+83,Venkojipalem Depot 83,Maharanipeta,Visakhapatnam,53048,2024-03-22 00:00:00,FALSE
+84,Malkapuram Depot 84,Kancharapalem,Visakhapatnam,53031,2024-05-02 00:00:00,FALSE
+85,Kurmannapalem Depot 85,Dwaraka Nagar,Visakhapatnam,53030,2020-01-10 00:00:00,TRUE
+86,Akkayyapalem Depot 86,Kurmannapalem,Visakhapatnam,53084,2019-01-24 00:00:00,TRUE
+87,Dabagardens Depot 87,Gopalapatnam,Visakhapatnam,53030,2024-03-19 00:00:00,TRUE
+88,Marripalem Depot 88,Maharanipeta,Visakhapatnam,53090,2019-04-08 00:00:00,TRUE
+89,Bheemunipatnam Depot 89,Venkojipalem,Visakhapatnam,53010,2022-12-06 00:00:00,TRUE
+90,Resapuvanipalem Depot 90,PM Palem,Visakhapatnam,53066,2019-02-23 00:00:00,FALSE
+91,Marripalem Depot 91,Seethammadhara,Visakhapatnam,53025,2024-04-25 00:00:00,TRUE
+92,MVP Colony Depot 92,Malkapuram,Visakhapatnam,53080,2018-08-24 00:00:00,TRUE
+93,Maddilapalem Depot 93,Malkapuram,Visakhapatnam,53006,2018-03-04 00:00:00,TRUE
+94,Anakapalle Depot 94,Pendurthi,Visakhapatnam,53016,2019-07-10 00:00:00,TRUE
+95,Old Town Depot 95,Siripuram,Visakhapatnam,53073,2019-04-15 00:00:00,TRUE
+96,Malkapuram Depot 96,PM Palem,Visakhapatnam,53044,2025-08-19 00:00:00,TRUE
+97,Dwaraka Nagar Depot 97,Akkayyapalem,Visakhapatnam,53048,2023-10-03 00:00:00,TRUE
+98,PM Palem Depot 98,Gopalapatnam,Visakhapatnam,53006,2024-10-09 00:00:00,TRUE
+99,Malkapuram Depot 99,Marripalem,Visakhapatnam,53042,2024-10-06 00:00:00,TRUE
+100,Venkojipalem Depot 100,Akkayyapalem,Visakhapatnam,53033,2021-12-22 00:00:00,FALSE
+101,Gajuwaka Depot 101,Maharanipeta,Visakhapatnam,53057,2019-04-11 00:00:00,FALSE
+102,Dwaraka Nagar Depot 102,NAD,Visakhapatnam,53034,2020-01-29 00:00:00,TRUE
+103,Venkojipalem Depot 103,Venkojipalem,Visakhapatnam,53049,2019-08-14 00:00:00,TRUE
+104,Marripalem Depot 104,Dabagardens,Visakhapatnam,53098,2021-01-05 00:00:00,TRUE
+105,Gajuwaka Depot 105,Auto Nagar,Visakhapatnam,53020,2023-06-19 00:00:00,FALSE
+106,Maddilapalem Depot 106,Maddilapalem,Visakhapatnam,53010,2020-01-17 00:00:00,FALSE
+107,Gopalapatnam Depot 107,Seethammadhara,Visakhapatnam,53089,2023-01-12 00:00:00,TRUE
+108,Old Town Depot 108,Kancharapalem,Visakhapatnam,53010,2022-01-18 00:00:00,TRUE
+109,Pendurthi Depot 109,MVP Colony,Visakhapatnam,53076,2025-01-02 00:00:00,TRUE
+110,Seethammadhara Depot 110,Malkapuram,Visakhapatnam,53094,2023-03-31 00:00:00,FALSE
+111,Yendada Depot 111,Malkapuram,Visakhapatnam,53041,2018-01-25 00:00:00,FALSE
+112,Auto Nagar Depot 112,Akkayyapalem,Visakhapatnam,53003,2020-10-15 00:00:00,TRUE
+113,Resapuvanipalem Depot 113,MVP Colony,Visakhapatnam,53094,2025-07-11 00:00:00,TRUE
+114,Yendada Depot 114,Kurmannapalem,Visakhapatnam,53009,2023-08-11 00:00:00,TRUE
+115,Maharanipeta Depot 115,Maharanipeta,Visakhapatnam,53068,2024-07-21 00:00:00,TRUE
+116,Marripalem Depot 116,Dwaraka Nagar,Visakhapatnam,53026,2022-10-12 00:00:00,TRUE
+117,Malkapuram Depot 117,Pendurthi,Visakhapatnam,53031,2019-08-02 00:00:00,TRUE
+118,Auto Nagar Depot 118,PM Palem,Visakhapatnam,53047,2023-09-16 00:00:00,TRUE
+119,Malkapuram Depot 119,Marripalem,Visakhapatnam,53092,2022-07-21 00:00:00,TRUE
+120,Dabagardens Depot 120,Auto Nagar,Visakhapatnam,53086,2021-08-16 00:00:00,TRUE
+121,Akkayyapalem Depot 121,Akkayyapalem,Visakhapatnam,53045,2019-09-10 00:00:00,TRUE
+122,Gajuwaka Depot 122,Venkojipalem,Visakhapatnam,53059,2022-07-17 00:00:00,FALSE
+123,Maharanipeta Depot 123,Pendurthi,Visakhapatnam,53022,2024-07-31 00:00:00,TRUE
+124,Pendurthi Depot 124,PM Palem,Visakhapatnam,53040,2020-10-29 00:00:00,TRUE
+125,NAD Depot 125,Siripuram,Visakhapatnam,53075,2018-11-24 00:00:00,TRUE
+126,Pendurthi Depot 126,Maharanipeta,Visakhapatnam,53046,2023-04-01 00:00:00,FALSE
+127,PM Palem Depot 127,NAD,Visakhapatnam,53063,2021-07-31 00:00:00,TRUE
+128,Kurmannapalem Depot 128,Marripalem,Visakhapatnam,53003,2019-11-06 00:00:00,TRUE
+129,Akkayyapalem Depot 129,Dabagardens,Visakhapatnam,53003,2020-06-13 00:00:00,FALSE
+130,Anakapalle Depot 130,Siripuram,Visakhapatnam,53078,2021-03-03 00:00:00,TRUE
+131,Siripuram Depot 131,Akkayyapalem,Visakhapatnam,53094,2018-08-21 00:00:00,TRUE
+132,NAD Depot 132,NAD,Visakhapatnam,53074,2021-10-29 00:00:00,TRUE
+133,Siripuram Depot 133,Kurmannapalem,Visakhapatnam,53069,2025-03-16 00:00:00,TRUE
+134,Gajuwaka Depot 134,Siripuram,Visakhapatnam,53042,2021-08-31 00:00:00,FALSE
+135,Yendada Depot 135,Old Town,Visakhapatnam,53087,2021-10-15 00:00:00,TRUE
+136,Bheemunipatnam Depot 136,Maddilapalem,Visakhapatnam,53012,2025-01-09 00:00:00,TRUE
+137,Gopalapatnam Depot 137,Old Town,Visakhapatnam,53052,2020-11-18 00:00:00,TRUE
+138,Gajuwaka Depot 138,Auto Nagar,Visakhapatnam,53073,2025-05-03 00:00:00,TRUE
+139,Bheemunipatnam Depot 139,Old Town,Visakhapatnam,53091,2021-09-10 00:00:00,TRUE
+140,Gajuwaka Depot 140,MVP Colony,Visakhapatnam,53027,2019-08-08 00:00:00,TRUE
+141,Malkapuram Depot 141,Malkapuram,Visakhapatnam,53055,2021-11-10 00:00:00,TRUE
+142,Venkojipalem Depot 142,Old Town,Visakhapatnam,53074,2021-09-17 00:00:00,TRUE
+143,Dabagardens Depot 143,Gopalapatnam,Visakhapatnam,53098,2018-05-10 00:00:00,TRUE
+144,Resapuvanipalem Depot 144,Marripalem,Visakhapatnam,53091,2023-01-31 00:00:00,TRUE
+145,Malkapuram Depot 145,Kancharapalem,Visakhapatnam,53068,2021-01-27 00:00:00,TRUE
+146,Gajuwaka Depot 146,Marripalem,Visakhapatnam,53061,2019-02-13 00:00:00,TRUE
+147,MVP Colony Depot 147,Resapuvanipalem,Visakhapatnam,53030,2022-06-30 00:00:00,TRUE
+148,Old Town Depot 148,MVP Colony,Visakhapatnam,53016,2018-09-04 00:00:00,TRUE
+149,Marripalem Depot 149,Seethammadhara,Visakhapatnam,53034,2024-10-18 00:00:00,TRUE
+150,Seethammadhara Depot 150,PM Palem,Visakhapatnam,53021,2023-12-05 00:00:00,TRUE
+151,Dabagardens Depot 151,Akkayyapalem,Visakhapatnam,53057,2023-08-06 00:00:00,TRUE
+152,Yendada Depot 152,Anakapalle,Visakhapatnam,53028,2021-08-19 00:00:00,TRUE
+153,Venkojipalem Depot 153,PM Palem,Visakhapatnam,53002,2018-09-26 00:00:00,FALSE
+154,Venkojipalem Depot 154,Malkapuram,Visakhapatnam,53008,2020-07-23 00:00:00,FALSE
+155,Bheemunipatnam Depot 155,Yendada,Visakhapatnam,53085,2025-01-12 00:00:00,TRUE
+156,Kurmannapalem Depot 156,Gajuwaka,Visakhapatnam,53034,2022-11-12 00:00:00,TRUE
+157,Malkapuram Depot 157,Siripuram,Visakhapatnam,53042,2022-10-10 00:00:00,TRUE
+158,Pendurthi Depot 158,Gopalapatnam,Visakhapatnam,53028,2024-05-21 00:00:00,FALSE
+159,Kurmannapalem Depot 159,MVP Colony,Visakhapatnam,53039,2021-03-03 00:00:00,TRUE
+160,Gajuwaka Depot 160,Gopalapatnam,Visakhapatnam,53032,2019-10-24 00:00:00,FALSE
+161,Siripuram Depot 161,Maharanipeta,Visakhapatnam,53007,2020-05-09 00:00:00,TRUE
+162,Anakapalle Depot 162,Seethammadhara,Visakhapatnam,53056,2019-07-27 00:00:00,TRUE
+163,Dwaraka Nagar Depot 163,MVP Colony,Visakhapatnam,53002,2019-07-01 00:00:00,TRUE
+164,Kancharapalem Depot 164,PM Palem,Visakhapatnam,53046,2019-02-04 00:00:00,FALSE
+165,Venkojipalem Depot 165,Yendada,Visakhapatnam,53012,2022-08-24 00:00:00,FALSE
+166,Auto Nagar Depot 166,Maddilapalem,Visakhapatnam,53075,2020-08-18 00:00:00,TRUE
+167,Maddilapalem Depot 167,MVP Colony,Visakhapatnam,53065,2024-09-03 00:00:00,FALSE
+168,Dabagardens Depot 168,Dwaraka Nagar,Visakhapatnam,53094,2018-03-23 00:00:00,TRUE
+169,NAD Depot 169,Dwaraka Nagar,Visakhapatnam,53016,2023-06-20 00:00:00,FALSE
+170,Gajuwaka Depot 170,Seethammadhara,Visakhapatnam,53029,2025-09-08 00:00:00,TRUE
+171,Resapuvanipalem Depot 171,PM Palem,Visakhapatnam,53070,2023-08-13 00:00:00,TRUE
+172,Gopalapatnam Depot 172,NAD,Visakhapatnam,53045,2020-05-31 00:00:00,TRUE
+173,Kurmannapalem Depot 173,Dabagardens,Visakhapatnam,53023,2018-03-04 00:00:00,TRUE
+174,NAD Depot 174,Maddilapalem,Visakhapatnam,53026,2023-09-15 00:00:00,FALSE
+175,Marripalem Depot 175,Malkapuram,Visakhapatnam,53035,2018-02-13 00:00:00,TRUE
+176,Resapuvanipalem Depot 176,Anakapalle,Visakhapatnam,53070,2021-03-01 00:00:00,TRUE
+177,Dabagardens Depot 177,Bheemunipatnam,Visakhapatnam,53096,2021-01-05 00:00:00,FALSE
+178,Auto Nagar Depot 178,Marripalem,Visakhapatnam,53054,2022-04-18 00:00:00,FALSE
+179,Yendada Depot 179,Bheemunipatnam,Visakhapatnam,53019,2025-02-13 00:00:00,TRUE
+180,Old Town Depot 180,Kancharapalem,Visakhapatnam,53033,2025-10-12 00:00:00,FALSE
+181,Akkayyapalem Depot 181,Siripuram,Visakhapatnam,53085,2019-04-21 00:00:00,TRUE
+182,Dabagardens Depot 182,Maddilapalem,Visakhapatnam,53052,2025-10-14 00:00:00,TRUE
+183,Venkojipalem Depot 183,Resapuvanipalem,Visakhapatnam,53057,2024-02-27 00:00:00,FALSE
+184,Maharanipeta Depot 184,Gajuwaka,Visakhapatnam,53061,2025-04-05 00:00:00,TRUE
+185,Maharanipeta Depot 185,Marripalem,Visakhapatnam,53049,2020-08-18 00:00:00,FALSE
+186,Malkapuram Depot 186,Dabagardens,Visakhapatnam,53009,2022-05-31 00:00:00,TRUE
+187,Old Town Depot 187,Venkojipalem,Visakhapatnam,53087,2021-08-12 00:00:00,TRUE
+188,Old Town Depot 188,Kurmannapalem,Visakhapatnam,53034,2023-04-23 00:00:00,FALSE
+189,Maharanipeta Depot 189,Akkayyapalem,Visakhapatnam,53019,2018-09-27 00:00:00,TRUE
+190,Kancharapalem Depot 190,Siripuram,Visakhapatnam,53068,2019-11-24 00:00:00,TRUE
+191,Venkojipalem Depot 191,Seethammadhara,Visakhapatnam,53020,2025-06-03 00:00:00,TRUE
+192,Resapuvanipalem Depot 192,Resapuvanipalem,Visakhapatnam,53006,2021-08-11 00:00:00,TRUE
+193,Bheemunipatnam Depot 193,Dwaraka Nagar,Visakhapatnam,53053,2019-09-23 00:00:00,FALSE
+194,Dwaraka Nagar Depot 194,Malkapuram,Visakhapatnam,53046,2025-06-08 00:00:00,TRUE
+195,Anakapalle Depot 195,Venkojipalem,Visakhapatnam,53012,2021-01-31 00:00:00,TRUE
+196,Anakapalle Depot 196,Dabagardens,Visakhapatnam,53015,2023-01-15 00:00:00,FALSE
+197,PM Palem Depot 197,Seethammadhara,Visakhapatnam,53098,2023-10-21 00:00:00,TRUE
+198,Venkojipalem Depot 198,MVP Colony,Visakhapatnam,53047,2023-06-26 00:00:00,TRUE
+199,Old Town Depot 199,Malkapuram,Visakhapatnam,53067,2021-10-25 00:00:00,TRUE
+200,Gajuwaka Depot 200,Marripalem,Visakhapatnam,53026,2018-01-04 00:00:00,TRUE
+201,Maddilapalem Depot 201,Maharanipeta,Visakhapatnam,53023,2021-06-09 00:00:00,TRUE
+202,Auto Nagar Depot 202,Kurmannapalem,Visakhapatnam,53031,2020-12-23 00:00:00,TRUE
+203,Kancharapalem Depot 203,Resapuvanipalem,Visakhapatnam,53064,2018-12-30 00:00:00,TRUE
+204,Bheemunipatnam Depot 204,Pendurthi,Visakhapatnam,53080,2022-03-03 00:00:00,FALSE
+205,Yendada Depot 205,Malkapuram,Visakhapatnam,53006,2021-04-24 00:00:00,FALSE
+206,Resapuvanipalem Depot 206,Old Town,Visakhapatnam,53033,2021-12-14 00:00:00,FALSE
+207,Maharanipeta Depot 207,MVP Colony,Visakhapatnam,53080,2020-02-24 00:00:00,TRUE
+208,NAD Depot 208,Venkojipalem,Visakhapatnam,53027,2021-09-11 00:00:00,TRUE
+209,Anakapalle Depot 209,Yendada,Visakhapatnam,53051,2023-11-24 00:00:00,FALSE
+210,Resapuvanipalem Depot 210,Gajuwaka,Visakhapatnam,53014,2024-08-25 00:00:00,FALSE
+211,Anakapalle Depot 211,Dabagardens,Visakhapatnam,53056,2022-08-27 00:00:00,TRUE
+212,NAD Depot 212,Anakapalle,Visakhapatnam,53051,2023-07-06 00:00:00,TRUE
+213,Venkojipalem Depot 213,Akkayyapalem,Visakhapatnam,53095,2020-03-31 00:00:00,TRUE
+214,Venkojipalem Depot 214,Pendurthi,Visakhapatnam,53071,2021-09-14 00:00:00,FALSE
+215,Dwaraka Nagar Depot 215,NAD,Visakhapatnam,53029,2018-11-12 00:00:00,TRUE
+216,Dwaraka Nagar Depot 216,Gopalapatnam,Visakhapatnam,53012,2020-06-02 00:00:00,FALSE
+217,Maddilapalem Depot 217,Venkojipalem,Visakhapatnam,53026,2021-10-06 00:00:00,TRUE
+218,Marripalem Depot 218,Dabagardens,Visakhapatnam,53096,2022-09-08 00:00:00,TRUE
+219,Bheemunipatnam Depot 219,Maddilapalem,Visakhapatnam,53081,2019-08-20 00:00:00,TRUE
+220,Siripuram Depot 220,Kancharapalem,Visakhapatnam,53001,2020-02-02 00:00:00,TRUE
+221,Kancharapalem Depot 221,Kurmannapalem,Visakhapatnam,53012,2021-07-06 00:00:00,TRUE
+222,Venkojipalem Depot 222,Pendurthi,Visakhapatnam,53072,2022-06-06 00:00:00,FALSE
+223,Venkojipalem Depot 223,Maddilapalem,Visakhapatnam,53040,2021-06-01 00:00:00,FALSE
+224,Bheemunipatnam Depot 224,Marripalem,Visakhapatnam,53033,2021-06-03 00:00:00,TRUE
+225,Maddilapalem Depot 225,Siripuram,Visakhapatnam,53069,2025-04-25 00:00:00,FALSE
+226,Venkojipalem Depot 226,Gopalapatnam,Visakhapatnam,53091,2024-07-19 00:00:00,TRUE
+227,Auto Nagar Depot 227,Siripuram,Visakhapatnam,53059,2024-03-27 00:00:00,TRUE
+228,Gajuwaka Depot 228,Marripalem,Visakhapatnam,53009,2022-08-02 00:00:00,TRUE
+229,Maddilapalem Depot 229,Kurmannapalem,Visakhapatnam,53029,2022-12-04 00:00:00,TRUE
+230,Dabagardens Depot 230,Siripuram,Visakhapatnam,53076,2024-11-06 00:00:00,FALSE
+231,PM Palem Depot 231,Anakapalle,Visakhapatnam,53027,2020-04-12 00:00:00,TRUE
+232,Bheemunipatnam Depot 232,Resapuvanipalem,Visakhapatnam,53016,2018-07-20 00:00:00,TRUE
+233,Old Town Depot 233,Gopalapatnam,Visakhapatnam,53024,2018-02-28 00:00:00,TRUE
+234,Gopalapatnam Depot 234,Akkayyapalem,Visakhapatnam,53087,2025-07-27 00:00:00,TRUE
+235,Marripalem Depot 235,Seethammadhara,Visakhapatnam,53019,2020-04-27 00:00:00,TRUE
+236,Anakapalle Depot 236,Dwaraka Nagar,Visakhapatnam,53026,2019-01-10 00:00:00,FALSE
+237,Akkayyapalem Depot 237,Venkojipalem,Visakhapatnam,53033,2022-12-18 00:00:00,TRUE
+238,Maddilapalem Depot 238,Dabagardens,Visakhapatnam,53018,2018-06-21 00:00:00,FALSE
+239,Pendurthi Depot 239,Akkayyapalem,Visakhapatnam,53075,2021-07-29 00:00:00,TRUE
+240,Pendurthi Depot 240,Kurmannapalem,Visakhapatnam,53042,2024-02-26 00:00:00,TRUE
+241,Venkojipalem Depot 241,Akkayyapalem,Visakhapatnam,53051,2018-05-15 00:00:00,FALSE
+242,MVP Colony Depot 242,Resapuvanipalem,Visakhapatnam,53038,2020-07-03 00:00:00,TRUE
+243,Siripuram Depot 243,Anakapalle,Visakhapatnam,53020,2020-01-24 00:00:00,TRUE
+244,Venkojipalem Depot 244,Yendada,Visakhapatnam,53015,2018-06-08 00:00:00,TRUE
+245,Venkojipalem Depot 245,Siripuram,Visakhapatnam,53084,2023-11-18 00:00:00,TRUE
+246,Pendurthi Depot 246,Gopalapatnam,Visakhapatnam,53045,2018-03-14 00:00:00,TRUE
+247,Siripuram Depot 247,Gopalapatnam,Visakhapatnam,53036,2021-05-25 00:00:00,TRUE
+248,Siripuram Depot 248,MVP Colony,Visakhapatnam,53061,2021-01-15 00:00:00,TRUE
+249,Maddilapalem Depot 249,Maharanipeta,Visakhapatnam,53077,2019-02-17 00:00:00,TRUE
+250,Siripuram Depot 250,MVP Colony,Visakhapatnam,53085,2021-05-13 00:00:00,TRUE
+251,Auto Nagar Depot 251,Malkapuram,Visakhapatnam,53058,2023-05-25 00:00:00,TRUE
+252,PM Palem Depot 252,Malkapuram,Visakhapatnam,53023,2019-03-26 00:00:00,TRUE
+253,PM Palem Depot 253,Marripalem,Visakhapatnam,53059,2019-01-27 00:00:00,TRUE
+254,Seethammadhara Depot 254,Old Town,Visakhapatnam,53051,2023-03-05 00:00:00,TRUE
+255,Maddilapalem Depot 255,Kancharapalem,Visakhapatnam,53075,2019-02-03 00:00:00,TRUE
+256,Bheemunipatnam Depot 256,Maharanipeta,Visakhapatnam,53046,2018-11-09 00:00:00,TRUE
+257,Malkapuram Depot 257,Seethammadhara,Visakhapatnam,53085,2019-01-04 00:00:00,TRUE
+258,Resapuvanipalem Depot 258,Gopalapatnam,Visakhapatnam,53039,2019-09-03 00:00:00,TRUE
+259,Dwaraka Nagar Depot 259,Akkayyapalem,Visakhapatnam,53015,2019-09-19 00:00:00,TRUE
+260,Marripalem Depot 260,Marripalem,Visakhapatnam,53016,2021-08-21 00:00:00,TRUE
+261,Seethammadhara Depot 261,Maharanipeta,Visakhapatnam,53069,2018-06-22 00:00:00,TRUE
+262,Malkapuram Depot 262,Siripuram,Visakhapatnam,53037,2022-07-12 00:00:00,TRUE
+263,MVP Colony Depot 263,Akkayyapalem,Visakhapatnam,53094,2023-12-31 00:00:00,TRUE
+264,Dwaraka Nagar Depot 264,Gajuwaka,Visakhapatnam,53014,2018-08-08 00:00:00,TRUE
+265,Dabagardens Depot 265,PM Palem,Visakhapatnam,53030,2018-12-23 00:00:00,TRUE
+266,Kurmannapalem Depot 266,Gajuwaka,Visakhapatnam,53055,2022-05-30 00:00:00,TRUE
+267,Pendurthi Depot 267,Maharanipeta,Visakhapatnam,53016,2018-12-12 00:00:00,TRUE
+268,Akkayyapalem Depot 268,Akkayyapalem,Visakhapatnam,53077,2023-10-03 00:00:00,TRUE
+269,NAD Depot 269,Old Town,Visakhapatnam,53044,2019-02-06 00:00:00,TRUE
+270,Old Town Depot 270,Dabagardens,Visakhapatnam,53023,2021-05-28 00:00:00,TRUE
+271,Anakapalle Depot 271,Maharanipeta,Visakhapatnam,53024,2018-02-14 00:00:00,FALSE
+272,Bheemunipatnam Depot 272,Maddilapalem,Visakhapatnam,53012,2020-09-29 00:00:00,TRUE
+273,MVP Colony Depot 273,Malkapuram,Visakhapatnam,53099,2019-07-29 00:00:00,TRUE
+274,Akkayyapalem Depot 274,Venkojipalem,Visakhapatnam,53043,2018-10-01 00:00:00,FALSE
+275,Maddilapalem Depot 275,Gopalapatnam,Visakhapatnam,53068,2021-09-13 00:00:00,TRUE
+276,Siripuram Depot 276,Resapuvanipalem,Visakhapatnam,53007,2022-02-06 00:00:00,TRUE
+277,Resapuvanipalem Depot 277,Dabagardens,Visakhapatnam,53045,2024-07-15 00:00:00,FALSE
+278,Venkojipalem Depot 278,PM Palem,Visakhapatnam,53064,2019-07-07 00:00:00,TRUE
+279,Maddilapalem Depot 279,PM Palem,Visakhapatnam,53060,2025-08-17 00:00:00,TRUE
+280,Bheemunipatnam Depot 280,Yendada,Visakhapatnam,53082,2023-10-03 00:00:00,TRUE
+281,NAD Depot 281,Kurmannapalem,Visakhapatnam,53097,2020-08-08 00:00:00,TRUE
+282,Maharanipeta Depot 282,Anakapalle,Visakhapatnam,53072,2020-08-27 00:00:00,TRUE
+283,Yendada Depot 283,Venkojipalem,Visakhapatnam,53051,2025-01-11 00:00:00,FALSE
+284,Yendada Depot 284,NAD,Visakhapatnam,53030,2025-04-26 00:00:00,FALSE
+285,Pendurthi Depot 285,Gajuwaka,Visakhapatnam,53039,2023-06-27 00:00:00,TRUE
+286,Dwaraka Nagar Depot 286,Gopalapatnam,Visakhapatnam,53054,2022-08-10 00:00:00,TRUE
+287,Anakapalle Depot 287,MVP Colony,Visakhapatnam,53043,2024-02-12 00:00:00,TRUE
+288,Malkapuram Depot 288,Yendada,Visakhapatnam,53060,2024-12-11 00:00:00,TRUE
+289,Auto Nagar Depot 289,NAD,Visakhapatnam,53035,2020-02-07 00:00:00,FALSE
+290,Venkojipalem Depot 290,Marripalem,Visakhapatnam,53031,2019-05-10 00:00:00,TRUE
+291,Yendada Depot 291,Seethammadhara,Visakhapatnam,53050,2021-01-16 00:00:00,TRUE
+292,Malkapuram Depot 292,Seethammadhara,Visakhapatnam,53029,2021-12-10 00:00:00,FALSE
+293,Pendurthi Depot 293,Gopalapatnam,Visakhapatnam,53041,2023-09-07 00:00:00,TRUE
+294,Seethammadhara Depot 294,Yendada,Visakhapatnam,53068,2018-02-07 00:00:00,TRUE
+295,Dwaraka Nagar Depot 295,Akkayyapalem,Visakhapatnam,53059,2024-05-04 00:00:00,TRUE
+296,PM Palem Depot 296,Malkapuram,Visakhapatnam,53087,2019-02-18 00:00:00,FALSE
+297,MVP Colony Depot 297,Kurmannapalem,Visakhapatnam,53086,2022-09-01 00:00:00,TRUE
+298,Anakapalle Depot 298,Kurmannapalem,Visakhapatnam,53038,2022-01-22 00:00:00,FALSE
+299,Kancharapalem Depot 299,Venkojipalem,Visakhapatnam,53008,2025-05-05 00:00:00,FALSE
+300,Malkapuram Depot 300,Dabagardens,Visakhapatnam,53003,2018-08-22 00:00:00,FALSE
+301,Anakapalle Depot 301,Pendurthi,Visakhapatnam,53097,2023-10-01 00:00:00,FALSE
+302,Maddilapalem Depot 302,Auto Nagar,Visakhapatnam,53062,2019-07-16 00:00:00,TRUE
+303,MVP Colony Depot 303,Siripuram,Visakhapatnam,53076,2024-06-20 00:00:00,TRUE
+304,Yendada Depot 304,Seethammadhara,Visakhapatnam,53096,2024-08-11 00:00:00,TRUE
+305,Resapuvanipalem Depot 305,Akkayyapalem,Visakhapatnam,53038,2024-02-08 00:00:00,FALSE
+306,Marripalem Depot 306,Bheemunipatnam,Visakhapatnam,53084,2018-12-12 00:00:00,FALSE
+307,Gopalapatnam Depot 307,Dabagardens,Visakhapatnam,53047,2025-09-30 00:00:00,TRUE
+308,Seethammadhara Depot 308,Maharanipeta,Visakhapatnam,53064,2018-07-17 00:00:00,TRUE
+309,MVP Colony Depot 309,Siripuram,Visakhapatnam,53067,2018-09-10 00:00:00,TRUE
+310,PM Palem Depot 310,Kancharapalem,Visakhapatnam,53022,2025-08-23 00:00:00,TRUE
+311,Maharanipeta Depot 311,Pendurthi,Visakhapatnam,53050,2022-01-15 00:00:00,TRUE
+312,Pendurthi Depot 312,Gopalapatnam,Visakhapatnam,53026,2024-12-17 00:00:00,FALSE
+313,Yendada Depot 313,Dwaraka Nagar,Visakhapatnam,53088,2020-12-01 00:00:00,FALSE
+314,Auto Nagar Depot 314,Yendada,Visakhapatnam,53061,2020-12-29 00:00:00,TRUE
+315,Old Town Depot 315,Anakapalle,Visakhapatnam,53065,2022-07-31 00:00:00,TRUE
+316,Auto Nagar Depot 316,Maddilapalem,Visakhapatnam,53020,2021-02-16 00:00:00,FALSE
+317,Venkojipalem Depot 317,Marripalem,Visakhapatnam,53086,2022-08-14 00:00:00,TRUE
+318,Yendada Depot 318,Malkapuram,Visakhapatnam,53092,2022-06-09 00:00:00,TRUE
+319,Resapuvanipalem Depot 319,Dwaraka Nagar,Visakhapatnam,53034,2023-01-16 00:00:00,TRUE
+320,Marripalem Depot 320,Dabagardens,Visakhapatnam,53073,2021-06-05 00:00:00,TRUE
+321,Kurmannapalem Depot 321,Akkayyapalem,Visakhapatnam,53009,2024-02-25 00:00:00,FALSE
+322,Dabagardens Depot 322,Dwaraka Nagar,Visakhapatnam,53040,2019-11-11 00:00:00,TRUE
+323,PM Palem Depot 323,Resapuvanipalem,Visakhapatnam,53096,2025-10-05 00:00:00,FALSE
+324,Yendada Depot 324,PM Palem,Visakhapatnam,53044,2022-06-27 00:00:00,FALSE
+325,Auto Nagar Depot 325,Malkapuram,Visakhapatnam,53024,2019-08-11 00:00:00,FALSE
+326,Venkojipalem Depot 326,Pendurthi,Visakhapatnam,53018,2020-05-22 00:00:00,TRUE
+327,Bheemunipatnam Depot 327,NAD,Visakhapatnam,53065,2018-01-13 00:00:00,TRUE
+328,Maharanipeta Depot 328,Bheemunipatnam,Visakhapatnam,53052,2020-05-26 00:00:00,TRUE
+329,Venkojipalem Depot 329,MVP Colony,Visakhapatnam,53020,2020-06-29 00:00:00,TRUE
+330,Pendurthi Depot 330,Maddilapalem,Visakhapatnam,53096,2025-04-11 00:00:00,TRUE
+331,MVP Colony Depot 331,Resapuvanipalem,Visakhapatnam,53091,2022-04-24 00:00:00,TRUE
+332,Dabagardens Depot 332,NAD,Visakhapatnam,53099,2024-10-07 00:00:00,TRUE
+333,Old Town Depot 333,Siripuram,Visakhapatnam,53029,2021-06-20 00:00:00,TRUE
+334,Venkojipalem Depot 334,Maharanipeta,Visakhapatnam,53011,2022-01-13 00:00:00,TRUE
+335,Dwaraka Nagar Depot 335,Auto Nagar,Visakhapatnam,53028,2018-01-15 00:00:00,TRUE
+336,Anakapalle Depot 336,Kurmannapalem,Visakhapatnam,53065,2018-08-31 00:00:00,TRUE
+337,Maddilapalem Depot 337,Marripalem,Visakhapatnam,53060,2019-03-29 00:00:00,TRUE
+338,Pendurthi Depot 338,Resapuvanipalem,Visakhapatnam,53044,2021-09-17 00:00:00,TRUE
+339,Siripuram Depot 339,Marripalem,Visakhapatnam,53027,2021-02-27 00:00:00,TRUE
+340,Akkayyapalem Depot 340,Seethammadhara,Visakhapatnam,53004,2023-08-30 00:00:00,FALSE
+341,Malkapuram Depot 341,NAD,Visakhapatnam,53081,2021-01-26 00:00:00,TRUE
+342,Yendada Depot 342,Yendada,Visakhapatnam,53066,2024-08-08 00:00:00,TRUE
+343,Venkojipalem Depot 343,Maddilapalem,Visakhapatnam,53048,2023-12-18 00:00:00,TRUE
+344,NAD Depot 344,Resapuvanipalem,Visakhapatnam,53062,2024-06-15 00:00:00,FALSE
+345,Anakapalle Depot 345,Venkojipalem,Visakhapatnam,53091,2024-12-05 00:00:00,TRUE
+346,Auto Nagar Depot 346,Old Town,Visakhapatnam,53025,2019-04-04 00:00:00,TRUE
+347,Pendurthi Depot 347,Siripuram,Visakhapatnam,53010,2023-10-16 00:00:00,FALSE
+348,Siripuram Depot 348,Dabagardens,Visakhapatnam,53096,2020-03-16 00:00:00,TRUE
+349,Marripalem Depot 349,Dabagardens,Visakhapatnam,53038,2018-04-04 00:00:00,TRUE
+350,NAD Depot 350,Malkapuram,Visakhapatnam,53027,2022-09-08 00:00:00,TRUE
+351,Marripalem Depot 351,Malkapuram,Visakhapatnam,53081,2019-11-02 00:00:00,TRUE
+352,Malkapuram Depot 352,Pendurthi,Visakhapatnam,53014,2018-07-01 00:00:00,TRUE
+353,Bheemunipatnam Depot 353,Gajuwaka,Visakhapatnam,53092,2023-02-07 00:00:00,TRUE
+354,Dwaraka Nagar Depot 354,MVP Colony,Visakhapatnam,53047,2023-04-15 00:00:00,TRUE
+355,Auto Nagar Depot 355,Auto Nagar,Visakhapatnam,53061,2019-06-10 00:00:00,TRUE
+356,Kancharapalem Depot 356,Yendada,Visakhapatnam,53027,2021-12-20 00:00:00,TRUE
+357,Siripuram Depot 357,Dabagardens,Visakhapatnam,53036,2023-10-27 00:00:00,FALSE
+358,Seethammadhara Depot 358,Bheemunipatnam,Visakhapatnam,53018,2019-07-21 00:00:00,TRUE
+359,Siripuram Depot 359,PM Palem,Visakhapatnam,53075,2023-12-17 00:00:00,TRUE
+360,Gajuwaka Depot 360,NAD,Visakhapatnam,53060,2018-06-27 00:00:00,TRUE
+361,Auto Nagar Depot 361,Auto Nagar,Visakhapatnam,53080,2024-04-11 00:00:00,FALSE
+362,Resapuvanipalem Depot 362,Siripuram,Visakhapatnam,53001,2020-09-24 00:00:00,TRUE
+363,Yendada Depot 363,Dwaraka Nagar,Visakhapatnam,53013,2024-08-18 00:00:00,TRUE
+364,Anakapalle Depot 364,Anakapalle,Visakhapatnam,53074,2024-07-26 00:00:00,FALSE
+365,NAD Depot 365,Maharanipeta,Visakhapatnam,53093,2018-08-09 00:00:00,TRUE
+366,Yendada Depot 366,Resapuvanipalem,Visakhapatnam,53087,2020-09-09 00:00:00,FALSE
+367,Dabagardens Depot 367,Gopalapatnam,Visakhapatnam,53078,2019-08-04 00:00:00,FALSE
+368,Old Town Depot 368,Yendada,Visakhapatnam,53009,2020-09-04 00:00:00,TRUE
+369,Yendada Depot 369,Maharanipeta,Visakhapatnam,53096,2020-07-07 00:00:00,TRUE
+370,Akkayyapalem Depot 370,Dwaraka Nagar,Visakhapatnam,53026,2018-01-04 00:00:00,FALSE
+371,Maddilapalem Depot 371,Yendada,Visakhapatnam,53031,2020-06-18 00:00:00,FALSE
+372,Kurmannapalem Depot 372,Maddilapalem,Visakhapatnam,53020,2023-04-01 00:00:00,FALSE
+373,Dwaraka Nagar Depot 373,Dabagardens,Visakhapatnam,53013,2020-02-05 00:00:00,TRUE
+374,Old Town Depot 374,Kancharapalem,Visakhapatnam,53042,2019-03-10 00:00:00,FALSE
+375,Gajuwaka Depot 375,NAD,Visakhapatnam,53004,2024-03-26 00:00:00,TRUE
+376,Kancharapalem Depot 376,Marripalem,Visakhapatnam,53080,2024-11-15 00:00:00,TRUE
+377,Dabagardens Depot 377,Maddilapalem,Visakhapatnam,53085,2024-02-13 00:00:00,TRUE
+378,Anakapalle Depot 378,Yendada,Visakhapatnam,53086,2018-02-01 00:00:00,TRUE
+379,Gajuwaka Depot 379,Seethammadhara,Visakhapatnam,53065,2023-02-19 00:00:00,TRUE
+380,Dabagardens Depot 380,Resapuvanipalem,Visakhapatnam,53095,2020-04-28 00:00:00,TRUE
+381,Old Town Depot 381,NAD,Visakhapatnam,53070,2023-10-30 00:00:00,TRUE
+382,NAD Depot 382,PM Palem,Visakhapatnam,53031,2019-02-20 00:00:00,TRUE
+383,Kurmannapalem Depot 383,Pendurthi,Visakhapatnam,53040,2021-04-26 00:00:00,FALSE
+384,Old Town Depot 384,Maharanipeta,Visakhapatnam,53043,2020-02-26 00:00:00,TRUE
+385,NAD Depot 385,Maddilapalem,Visakhapatnam,53015,2025-08-29 00:00:00,TRUE
+386,Kancharapalem Depot 386,Yendada,Visakhapatnam,53059,2022-07-27 00:00:00,TRUE
+387,PM Palem Depot 387,NAD,Visakhapatnam,53003,2018-08-30 00:00:00,TRUE
+388,Bheemunipatnam Depot 388,Maddilapalem,Visakhapatnam,53024,2024-12-09 00:00:00,FALSE
+389,Kurmannapalem Depot 389,Dabagardens,Visakhapatnam,53018,2020-10-31 00:00:00,TRUE
+390,Gajuwaka Depot 390,Auto Nagar,Visakhapatnam,53049,2019-01-23 00:00:00,FALSE
+391,Seethammadhara Depot 391,Resapuvanipalem,Visakhapatnam,53084,2023-04-23 00:00:00,TRUE
+392,Kurmannapalem Depot 392,Akkayyapalem,Visakhapatnam,53002,2022-08-17 00:00:00,TRUE
+393,Auto Nagar Depot 393,Akkayyapalem,Visakhapatnam,53070,2022-01-01 00:00:00,TRUE
+394,Akkayyapalem Depot 394,Auto Nagar,Visakhapatnam,53011,2023-12-20 00:00:00,TRUE
+395,Maddilapalem Depot 395,Auto Nagar,Visakhapatnam,53055,2025-01-12 00:00:00,TRUE
+396,NAD Depot 396,Marripalem,Visakhapatnam,53016,2023-02-20 00:00:00,TRUE
+397,Kancharapalem Depot 397,Maddilapalem,Visakhapatnam,53084,2025-06-10 00:00:00,TRUE
+398,Bheemunipatnam Depot 398,Kancharapalem,Visakhapatnam,53089,2025-01-30 00:00:00,TRUE
+399,Siripuram Depot 399,Pendurthi,Visakhapatnam,53097,2018-02-25 00:00:00,FALSE
+400,Dabagardens Depot 400,Dwaraka Nagar,Visakhapatnam,53023,2024-11-06 00:00:00,TRUE
+401,Dabagardens Depot 401,PM Palem,Visakhapatnam,53037,2022-05-21 00:00:00,TRUE
+402,Kurmannapalem Depot 402,Gajuwaka,Visakhapatnam,53012,2025-10-01 00:00:00,TRUE
+403,Old Town Depot 403,Resapuvanipalem,Visakhapatnam,53083,2024-08-18 00:00:00,TRUE
+404,Old Town Depot 404,NAD,Visakhapatnam,53089,2022-05-22 00:00:00,TRUE
+405,NAD Depot 405,PM Palem,Visakhapatnam,53009,2024-01-04 00:00:00,TRUE
+406,Malkapuram Depot 406,NAD,Visakhapatnam,53019,2024-04-01 00:00:00,FALSE
+407,Resapuvanipalem Depot 407,Kancharapalem,Visakhapatnam,53089,2021-01-25 00:00:00,TRUE
+408,Dwaraka Nagar Depot 408,Kurmannapalem,Visakhapatnam,53039,2022-06-06 00:00:00,TRUE
+409,Anakapalle Depot 409,PM Palem,Visakhapatnam,53013,2023-03-02 00:00:00,TRUE
+410,Siripuram Depot 410,Gajuwaka,Visakhapatnam,53050,2020-07-15 00:00:00,TRUE
+411,Malkapuram Depot 411,Venkojipalem,Visakhapatnam,53043,2021-02-11 00:00:00,TRUE
+412,Siripuram Depot 412,NAD,Visakhapatnam,53012,2019-10-10 00:00:00,TRUE
+413,Venkojipalem Depot 413,Kurmannapalem,Visakhapatnam,53024,2018-07-07 00:00:00,FALSE
+414,Dwaraka Nagar Depot 414,Maddilapalem,Visakhapatnam,53050,2020-11-06 00:00:00,TRUE
+415,Maharanipeta Depot 415,Maharanipeta,Visakhapatnam,53029,2018-09-12 00:00:00,TRUE
+416,Gajuwaka Depot 416,Kurmannapalem,Visakhapatnam,53017,2021-12-26 00:00:00,TRUE
+417,MVP Colony Depot 417,Malkapuram,Visakhapatnam,53095,2020-10-27 00:00:00,TRUE
+418,Seethammadhara Depot 418,Kancharapalem,Visakhapatnam,53085,2019-04-02 00:00:00,TRUE
+419,Pendurthi Depot 419,Yendada,Visakhapatnam,53098,2018-05-04 00:00:00,TRUE
+420,Akkayyapalem Depot 420,Yendada,Visakhapatnam,53047,2020-09-13 00:00:00,FALSE
+421,Kurmannapalem Depot 421,Gajuwaka,Visakhapatnam,53007,2019-02-12 00:00:00,TRUE
+422,Akkayyapalem Depot 422,Pendurthi,Visakhapatnam,53004,2023-04-20 00:00:00,FALSE
+423,Dwaraka Nagar Depot 423,Dwaraka Nagar,Visakhapatnam,53059,2024-03-24 00:00:00,TRUE
+424,Yendada Depot 424,Dwaraka Nagar,Visakhapatnam,53063,2023-05-19 00:00:00,TRUE
+425,Bheemunipatnam Depot 425,Anakapalle,Visakhapatnam,53008,2019-04-30 00:00:00,TRUE
+426,Kurmannapalem Depot 426,Malkapuram,Visakhapatnam,53057,2023-04-06 00:00:00,TRUE
+427,Marripalem Depot 427,Maddilapalem,Visakhapatnam,53010,2023-09-18 00:00:00,FALSE
+428,PM Palem Depot 428,Siripuram,Visakhapatnam,53073,2024-11-08 00:00:00,TRUE
+429,Maddilapalem Depot 429,Bheemunipatnam,Visakhapatnam,53068,2018-08-18 00:00:00,TRUE
+430,Kancharapalem Depot 430,Auto Nagar,Visakhapatnam,53028,2019-02-20 00:00:00,FALSE
+431,Kurmannapalem Depot 431,Anakapalle,Visakhapatnam,53059,2019-06-24 00:00:00,FALSE
+432,Resapuvanipalem Depot 432,Auto Nagar,Visakhapatnam,53013,2020-04-21 00:00:00,TRUE
+433,NAD Depot 433,Dwaraka Nagar,Visakhapatnam,53091,2023-04-30 00:00:00,TRUE
+434,Seethammadhara Depot 434,Kancharapalem,Visakhapatnam,53002,2025-01-14 00:00:00,TRUE
+435,Resapuvanipalem Depot 435,Gopalapatnam,Visakhapatnam,53088,2018-05-12 00:00:00,TRUE
+436,Gopalapatnam Depot 436,Venkojipalem,Visakhapatnam,53078,2019-07-25 00:00:00,TRUE
+437,MVP Colony Depot 437,Yendada,Visakhapatnam,53042,2018-06-21 00:00:00,TRUE
+438,Dabagardens Depot 438,Akkayyapalem,Visakhapatnam,53003,2024-09-15 00:00:00,TRUE
+439,Anakapalle Depot 439,Siripuram,Visakhapatnam,53005,2021-03-14 00:00:00,TRUE
+440,Siripuram Depot 440,Pendurthi,Visakhapatnam,53096,2021-07-10 00:00:00,TRUE
+441,NAD Depot 441,Yendada,Visakhapatnam,53004,2025-08-13 00:00:00,TRUE
+442,Malkapuram Depot 442,Gopalapatnam,Visakhapatnam,53030,2018-09-27 00:00:00,TRUE
+443,Kancharapalem Depot 443,PM Palem,Visakhapatnam,53063,2025-07-17 00:00:00,TRUE
+444,Siripuram Depot 444,Gopalapatnam,Visakhapatnam,53026,2021-06-23 00:00:00,TRUE
+445,Akkayyapalem Depot 445,Auto Nagar,Visakhapatnam,53005,2022-07-25 00:00:00,TRUE
+446,Bheemunipatnam Depot 446,Venkojipalem,Visakhapatnam,53091,2018-04-05 00:00:00,TRUE
+447,Seethammadhara Depot 447,Akkayyapalem,Visakhapatnam,53001,2019-09-27 00:00:00,TRUE
+448,Old Town Depot 448,Anakapalle,Visakhapatnam,53061,2024-04-20 00:00:00,FALSE
+449,MVP Colony Depot 449,Kurmannapalem,Visakhapatnam,53031,2024-04-21 00:00:00,TRUE
+450,Bheemunipatnam Depot 450,MVP Colony,Visakhapatnam,53018,2023-11-09 00:00:00,TRUE
+451,Maddilapalem Depot 451,Seethammadhara,Visakhapatnam,53030,2022-09-28 00:00:00,TRUE
+452,Maharanipeta Depot 452,Anakapalle,Visakhapatnam,53053,2020-11-03 00:00:00,TRUE
+453,MVP Colony Depot 453,PM Palem,Visakhapatnam,53035,2022-07-29 00:00:00,TRUE
+454,Bheemunipatnam Depot 454,Dwaraka Nagar,Visakhapatnam,53003,2021-04-01 00:00:00,TRUE
+455,Seethammadhara Depot 455,MVP Colony,Visakhapatnam,53054,2018-10-28 00:00:00,FALSE
+456,Pendurthi Depot 456,Venkojipalem,Visakhapatnam,53084,2023-10-02 00:00:00,TRUE
+457,Anakapalle Depot 457,Akkayyapalem,Visakhapatnam,53064,2025-05-19 00:00:00,TRUE
+458,Kancharapalem Depot 458,Marripalem,Visakhapatnam,53025,2022-11-21 00:00:00,TRUE
+459,Maharanipeta Depot 459,Yendada,Visakhapatnam,53024,2025-10-05 00:00:00,TRUE
+460,Bheemunipatnam Depot 460,Malkapuram,Visakhapatnam,53068,2020-11-20 00:00:00,TRUE
+461,Old Town Depot 461,Venkojipalem,Visakhapatnam,53061,2020-05-19 00:00:00,TRUE
+462,Anakapalle Depot 462,Gopalapatnam,Visakhapatnam,53044,2025-08-08 00:00:00,TRUE
+463,Anakapalle Depot 463,Auto Nagar,Visakhapatnam,53030,2022-10-30 00:00:00,TRUE
+464,Marripalem Depot 464,Bheemunipatnam,Visakhapatnam,53052,2019-07-03 00:00:00,TRUE
+465,PM Palem Depot 465,Dabagardens,Visakhapatnam,53047,2022-04-06 00:00:00,TRUE
+466,MVP Colony Depot 466,Akkayyapalem,Visakhapatnam,53082,2020-05-30 00:00:00,TRUE
+467,Maddilapalem Depot 467,Kancharapalem,Visakhapatnam,53018,2022-07-22 00:00:00,FALSE
+468,Resapuvanipalem Depot 468,NAD,Visakhapatnam,53061,2024-07-13 00:00:00,TRUE
+469,Maharanipeta Depot 469,Marripalem,Visakhapatnam,53046,2021-11-14 00:00:00,TRUE
+470,Seethammadhara Depot 470,Gopalapatnam,Visakhapatnam,53089,2018-03-14 00:00:00,FALSE
+471,Malkapuram Depot 471,Dwaraka Nagar,Visakhapatnam,53081,2021-04-11 00:00:00,TRUE
+472,Resapuvanipalem Depot 472,Akkayyapalem,Visakhapatnam,53091,2024-08-22 00:00:00,TRUE
+473,Pendurthi Depot 473,Resapuvanipalem,Visakhapatnam,53033,2019-11-01 00:00:00,FALSE
+474,Venkojipalem Depot 474,Maharanipeta,Visakhapatnam,53006,2020-03-23 00:00:00,FALSE
+475,PM Palem Depot 475,Marripalem,Visakhapatnam,53035,2018-04-30 00:00:00,TRUE
+476,Seethammadhara Depot 476,NAD,Visakhapatnam,53090,2020-10-16 00:00:00,TRUE
+477,Akkayyapalem Depot 477,Seethammadhara,Visakhapatnam,53034,2020-08-26 00:00:00,TRUE
+478,Dwaraka Nagar Depot 478,NAD,Visakhapatnam,53012,2020-03-23 00:00:00,FALSE
+479,Auto Nagar Depot 479,NAD,Visakhapatnam,53067,2021-11-30 00:00:00,TRUE
+480,Bheemunipatnam Depot 480,PM Palem,Visakhapatnam,53062,2020-11-24 00:00:00,TRUE
+481,NAD Depot 481,Kurmannapalem,Visakhapatnam,53021,2020-12-23 00:00:00,TRUE
+482,Old Town Depot 482,Maddilapalem,Visakhapatnam,53090,2020-12-13 00:00:00,TRUE
+483,Auto Nagar Depot 483,Kancharapalem,Visakhapatnam,53063,2019-08-01 00:00:00,TRUE
+484,MVP Colony Depot 484,Dabagardens,Visakhapatnam,53055,2022-04-27 00:00:00,TRUE
+485,Akkayyapalem Depot 485,Pendurthi,Visakhapatnam,53010,2023-04-20 00:00:00,TRUE
+486,Maharanipeta Depot 486,MVP Colony,Visakhapatnam,53025,2023-01-27 00:00:00,TRUE
+487,Old Town Depot 487,NAD,Visakhapatnam,53085,2023-04-17 00:00:00,FALSE
+488,MVP Colony Depot 488,Gajuwaka,Visakhapatnam,53025,2024-07-13 00:00:00,TRUE
+489,Resapuvanipalem Depot 489,Anakapalle,Visakhapatnam,53031,2020-11-24 00:00:00,FALSE
+490,Kancharapalem Depot 490,Marripalem,Visakhapatnam,53043,2018-08-22 00:00:00,TRUE
+491,PM Palem Depot 491,Gajuwaka,Visakhapatnam,53029,2023-10-02 00:00:00,TRUE
+492,Resapuvanipalem Depot 492,Dabagardens,Visakhapatnam,53089,2023-02-04 00:00:00,TRUE
+493,Seethammadhara Depot 493,Siripuram,Visakhapatnam,53040,2025-06-06 00:00:00,TRUE
+494,Seethammadhara Depot 494,Maddilapalem,Visakhapatnam,53029,2023-03-12 00:00:00,TRUE
+495,Yendada Depot 495,Auto Nagar,Visakhapatnam,53067,2021-06-08 00:00:00,TRUE
+496,NAD Depot 496,Pendurthi,Visakhapatnam,53007,2021-08-24 00:00:00,TRUE
+497,MVP Colony Depot 497,Seethammadhara,Visakhapatnam,53081,2020-10-01 00:00:00,TRUE
+498,Siripuram Depot 498,Auto Nagar,Visakhapatnam,53016,2023-09-07 00:00:00,TRUE
+499,Venkojipalem Depot 499,Dabagardens,Visakhapatnam,53061,2023-12-08 00:00:00,TRUE
+500,Dwaraka Nagar Depot 500,Venkojipalem,Visakhapatnam,53009,2024-12-29 00:00:00,FALSE
+501,Gopalapatnam Depot 501,NAD,Visakhapatnam,53033,2025-07-01 00:00:00,TRUE
+502,Anakapalle Depot 502,Auto Nagar,Visakhapatnam,53062,2022-09-10 00:00:00,FALSE
+503,PM Palem Depot 503,Auto Nagar,Visakhapatnam,53080,2018-07-29 00:00:00,FALSE
+504,NAD Depot 504,Resapuvanipalem,Visakhapatnam,53036,2019-06-29 00:00:00,TRUE
+505,NAD Depot 505,Anakapalle,Visakhapatnam,53088,2024-12-11 00:00:00,TRUE
+506,Venkojipalem Depot 506,NAD,Visakhapatnam,53097,2025-05-29 00:00:00,FALSE
+507,Kancharapalem Depot 507,NAD,Visakhapatnam,53019,2022-06-02 00:00:00,TRUE
+508,Maddilapalem Depot 508,Pendurthi,Visakhapatnam,53099,2025-07-08 00:00:00,TRUE
+509,Dabagardens Depot 509,NAD,Visakhapatnam,53041,2019-11-03 00:00:00,FALSE
+510,Seethammadhara Depot 510,Akkayyapalem,Visakhapatnam,53023,2022-05-04 00:00:00,TRUE
+511,Malkapuram Depot 511,Dwaraka Nagar,Visakhapatnam,53032,2023-02-20 00:00:00,TRUE
+512,NAD Depot 512,Kurmannapalem,Visakhapatnam,53095,2022-05-03 00:00:00,TRUE
+513,Seethammadhara Depot 513,Old Town,Visakhapatnam,53037,2023-03-21 00:00:00,TRUE
+514,PM Palem Depot 514,MVP Colony,Visakhapatnam,53096,2020-03-04 00:00:00,TRUE
+515,Kancharapalem Depot 515,Auto Nagar,Visakhapatnam,53032,2018-04-24 00:00:00,FALSE
+516,Dabagardens Depot 516,MVP Colony,Visakhapatnam,53079,2021-08-08 00:00:00,TRUE
+517,PM Palem Depot 517,PM Palem,Visakhapatnam,53044,2025-08-28 00:00:00,FALSE
+518,Maddilapalem Depot 518,Gajuwaka,Visakhapatnam,53030,2024-06-12 00:00:00,TRUE
+519,Kurmannapalem Depot 519,Old Town,Visakhapatnam,53006,2018-06-03 00:00:00,TRUE
+520,Auto Nagar Depot 520,Kurmannapalem,Visakhapatnam,53047,2021-05-20 00:00:00,TRUE
+521,Yendada Depot 521,Yendada,Visakhapatnam,53037,2019-03-28 00:00:00,TRUE
+522,Venkojipalem Depot 522,Bheemunipatnam,Visakhapatnam,53097,2025-02-17 00:00:00,TRUE
+523,Resapuvanipalem Depot 523,Maddilapalem,Visakhapatnam,53094,2019-12-04 00:00:00,TRUE
+524,Kurmannapalem Depot 524,Kancharapalem,Visakhapatnam,53084,2021-08-27 00:00:00,FALSE
+525,Pendurthi Depot 525,MVP Colony,Visakhapatnam,53031,2024-01-18 00:00:00,TRUE
+526,Malkapuram Depot 526,Seethammadhara,Visakhapatnam,53041,2019-07-24 00:00:00,TRUE
+527,Marripalem Depot 527,Anakapalle,Visakhapatnam,53044,2023-04-11 00:00:00,TRUE
+528,PM Palem Depot 528,Auto Nagar,Visakhapatnam,53047,2020-10-18 00:00:00,TRUE
+529,Dwaraka Nagar Depot 529,Auto Nagar,Visakhapatnam,53004,2018-04-15 00:00:00,TRUE
+530,NAD Depot 530,Old Town,Visakhapatnam,53009,2023-08-02 00:00:00,TRUE
+531,Anakapalle Depot 531,Resapuvanipalem,Visakhapatnam,53052,2021-06-28 00:00:00,FALSE
+532,Pendurthi Depot 532,Resapuvanipalem,Visakhapatnam,53081,2024-06-20 00:00:00,TRUE
+533,Malkapuram Depot 533,PM Palem,Visakhapatnam,53040,2021-12-13 00:00:00,TRUE
+534,Old Town Depot 534,Maharanipeta,Visakhapatnam,53067,2018-10-08 00:00:00,FALSE
+535,Bheemunipatnam Depot 535,Gajuwaka,Visakhapatnam,53086,2020-07-19 00:00:00,TRUE
+536,Malkapuram Depot 536,Marripalem,Visakhapatnam,53047,2025-05-22 00:00:00,TRUE
+537,Anakapalle Depot 537,Maharanipeta,Visakhapatnam,53073,2022-11-06 00:00:00,TRUE
+538,Bheemunipatnam Depot 538,NAD,Visakhapatnam,53024,2023-11-15 00:00:00,TRUE
+539,Dwaraka Nagar Depot 539,Akkayyapalem,Visakhapatnam,53096,2024-10-09 00:00:00,TRUE
+540,Malkapuram Depot 540,PM Palem,Visakhapatnam,53056,2019-10-09 00:00:00,TRUE
+541,Bheemunipatnam Depot 541,Siripuram,Visakhapatnam,53042,2021-05-21 00:00:00,TRUE
+542,Gopalapatnam Depot 542,Marripalem,Visakhapatnam,53097,2023-08-12 00:00:00,TRUE
+543,Old Town Depot 543,Yendada,Visakhapatnam,53072,2019-11-04 00:00:00,TRUE
+544,Resapuvanipalem Depot 544,Marripalem,Visakhapatnam,53098,2019-04-08 00:00:00,TRUE
+545,Maddilapalem Depot 545,Maddilapalem,Visakhapatnam,53027,2023-08-31 00:00:00,TRUE
+546,Kancharapalem Depot 546,Anakapalle,Visakhapatnam,53020,2024-04-12 00:00:00,TRUE
+547,MVP Colony Depot 547,Resapuvanipalem,Visakhapatnam,53057,2018-05-05 00:00:00,TRUE
+548,Old Town Depot 548,Dabagardens,Visakhapatnam,53034,2024-10-10 00:00:00,TRUE
+549,Bheemunipatnam Depot 549,Siripuram,Visakhapatnam,53066,2025-01-18 00:00:00,TRUE
+550,NAD Depot 550,Gajuwaka,Visakhapatnam,53044,2019-11-09 00:00:00,TRUE
+551,Akkayyapalem Depot 551,Kancharapalem,Visakhapatnam,53023,2020-08-08 00:00:00,TRUE
+552,Siripuram Depot 552,Maharanipeta,Visakhapatnam,53093,2019-03-26 00:00:00,TRUE
+553,Kurmannapalem Depot 553,Bheemunipatnam,Visakhapatnam,53066,2018-08-04 00:00:00,TRUE
+554,Anakapalle Depot 554,NAD,Visakhapatnam,53009,2024-04-09 00:00:00,TRUE
+555,Auto Nagar Depot 555,Anakapalle,Visakhapatnam,53022,2025-03-01 00:00:00,TRUE
+556,Bheemunipatnam Depot 556,PM Palem,Visakhapatnam,53032,2020-03-25 00:00:00,TRUE
+557,Bheemunipatnam Depot 557,Malkapuram,Visakhapatnam,53080,2022-11-21 00:00:00,TRUE
+558,Seethammadhara Depot 558,Resapuvanipalem,Visakhapatnam,53028,2022-12-30 00:00:00,TRUE
+559,Siripuram Depot 559,Maharanipeta,Visakhapatnam,53041,2019-05-25 00:00:00,TRUE
+560,Seethammadhara Depot 560,Bheemunipatnam,Visakhapatnam,53062,2022-12-07 00:00:00,FALSE
+561,Gopalapatnam Depot 561,Kurmannapalem,Visakhapatnam,53061,2023-10-25 00:00:00,FALSE
+562,Maharanipeta Depot 562,Kancharapalem,Visakhapatnam,53019,2023-08-11 00:00:00,TRUE
+563,NAD Depot 563,Malkapuram,Visakhapatnam,53090,2022-04-20 00:00:00,FALSE
+564,Dwaraka Nagar Depot 564,Malkapuram,Visakhapatnam,53094,2022-10-08 00:00:00,TRUE
+565,Dabagardens Depot 565,Dabagardens,Visakhapatnam,53051,2025-03-28 00:00:00,FALSE
+566,Maharanipeta Depot 566,Marripalem,Visakhapatnam,53001,2018-06-20 00:00:00,TRUE
+567,Kancharapalem Depot 567,Resapuvanipalem,Visakhapatnam,53092,2025-08-10 00:00:00,FALSE
+568,Old Town Depot 568,Pendurthi,Visakhapatnam,53021,2024-03-20 00:00:00,TRUE
+569,Venkojipalem Depot 569,MVP Colony,Visakhapatnam,53081,2022-02-07 00:00:00,TRUE
+570,Maharanipeta Depot 570,Maharanipeta,Visakhapatnam,53087,2020-06-18 00:00:00,TRUE
+571,Marripalem Depot 571,Marripalem,Visakhapatnam,53052,2025-04-20 00:00:00,TRUE
+572,Dwaraka Nagar Depot 572,MVP Colony,Visakhapatnam,53004,2024-11-29 00:00:00,FALSE
+573,Anakapalle Depot 573,Gopalapatnam,Visakhapatnam,53036,2022-01-28 00:00:00,TRUE
+574,Malkapuram Depot 574,Marripalem,Visakhapatnam,53069,2021-08-24 00:00:00,FALSE
+575,Dwaraka Nagar Depot 575,Auto Nagar,Visakhapatnam,53033,2022-05-05 00:00:00,TRUE
+576,Gajuwaka Depot 576,Malkapuram,Visakhapatnam,53050,2018-10-03 00:00:00,TRUE
+577,Kurmannapalem Depot 577,Auto Nagar,Visakhapatnam,53037,2023-07-21 00:00:00,FALSE
+578,Gajuwaka Depot 578,NAD,Visakhapatnam,53025,2020-05-08 00:00:00,TRUE
+579,MVP Colony Depot 579,Pendurthi,Visakhapatnam,53030,2020-06-17 00:00:00,FALSE
+580,Kurmannapalem Depot 580,Dwaraka Nagar,Visakhapatnam,53094,2019-03-15 00:00:00,TRUE
+581,MVP Colony Depot 581,Bheemunipatnam,Visakhapatnam,53025,2018-06-13 00:00:00,FALSE
+582,Bheemunipatnam Depot 582,NAD,Visakhapatnam,53081,2020-01-06 00:00:00,TRUE
+583,Pendurthi Depot 583,Maddilapalem,Visakhapatnam,53011,2018-08-18 00:00:00,TRUE
+584,Maddilapalem Depot 584,Gajuwaka,Visakhapatnam,53042,2025-10-15 00:00:00,TRUE
+585,Dwaraka Nagar Depot 585,Anakapalle,Visakhapatnam,53021,2019-03-15 00:00:00,TRUE
+586,Old Town Depot 586,Malkapuram,Visakhapatnam,53087,2020-03-22 00:00:00,TRUE
+587,Bheemunipatnam Depot 587,Auto Nagar,Visakhapatnam,53051,2022-08-03 00:00:00,FALSE
+588,Akkayyapalem Depot 588,Gopalapatnam,Visakhapatnam,53004,2025-07-20 00:00:00,TRUE
+589,Seethammadhara Depot 589,MVP Colony,Visakhapatnam,53045,2025-01-08 00:00:00,TRUE
+590,Anakapalle Depot 590,Kancharapalem,Visakhapatnam,53080,2025-08-20 00:00:00,FALSE
+591,Marripalem Depot 591,Maharanipeta,Visakhapatnam,53002,2023-01-24 00:00:00,TRUE
+592,Old Town Depot 592,Resapuvanipalem,Visakhapatnam,53044,2025-05-28 00:00:00,TRUE
+593,Maddilapalem Depot 593,Marripalem,Visakhapatnam,53067,2019-08-07 00:00:00,TRUE
+594,Dabagardens Depot 594,Yendada,Visakhapatnam,53021,2025-09-30 00:00:00,TRUE
+595,Kancharapalem Depot 595,Dabagardens,Visakhapatnam,53066,2018-01-23 00:00:00,FALSE
+596,Dabagardens Depot 596,Venkojipalem,Visakhapatnam,53025,2024-05-23 00:00:00,FALSE
+597,Auto Nagar Depot 597,Gopalapatnam,Visakhapatnam,53075,2024-11-24 00:00:00,TRUE
+598,Yendada Depot 598,Siripuram,Visakhapatnam,53035,2020-05-14 00:00:00,TRUE
+599,Maharanipeta Depot 599,Dabagardens,Visakhapatnam,53042,2021-07-27 00:00:00,TRUE
+600,Old Town Depot 600,Auto Nagar,Visakhapatnam,53021,2024-06-07 00:00:00,FALSE
+601,Kurmannapalem Depot 601,NAD,Visakhapatnam,53063,2018-07-10 00:00:00,FALSE
+602,NAD Depot 602,Maharanipeta,Visakhapatnam,53054,2021-04-19 00:00:00,FALSE
+603,Dabagardens Depot 603,Gajuwaka,Visakhapatnam,53012,2024-08-09 00:00:00,TRUE
+604,Yendada Depot 604,Kurmannapalem,Visakhapatnam,53015,2024-10-18 00:00:00,FALSE
+605,PM Palem Depot 605,Kurmannapalem,Visakhapatnam,53011,2023-01-13 00:00:00,TRUE
+606,Dwaraka Nagar Depot 606,Maddilapalem,Visakhapatnam,53064,2021-05-10 00:00:00,TRUE
+607,Resapuvanipalem Depot 607,Kurmannapalem,Visakhapatnam,53036,2022-02-26 00:00:00,FALSE
+608,Maharanipeta Depot 608,Dabagardens,Visakhapatnam,53083,2021-02-11 00:00:00,TRUE
+609,Yendada Depot 609,Venkojipalem,Visakhapatnam,53090,2023-04-21 00:00:00,TRUE
+610,PM Palem Depot 610,MVP Colony,Visakhapatnam,53087,2021-04-24 00:00:00,TRUE
+611,Malkapuram Depot 611,Resapuvanipalem,Visakhapatnam,53049,2020-10-17 00:00:00,TRUE
+612,Anakapalle Depot 612,Gopalapatnam,Visakhapatnam,53004,2018-12-22 00:00:00,TRUE
+613,Siripuram Depot 613,Anakapalle,Visakhapatnam,53077,2023-04-06 00:00:00,TRUE
+614,Auto Nagar Depot 614,Old Town,Visakhapatnam,53024,2019-07-14 00:00:00,TRUE
+615,Resapuvanipalem Depot 615,Seethammadhara,Visakhapatnam,53065,2020-12-02 00:00:00,TRUE
+616,Seethammadhara Depot 616,Akkayyapalem,Visakhapatnam,53061,2020-07-05 00:00:00,TRUE
+617,Maddilapalem Depot 617,Akkayyapalem,Visakhapatnam,53021,2024-11-15 00:00:00,TRUE
+618,Resapuvanipalem Depot 618,Yendada,Visakhapatnam,53069,2025-01-02 00:00:00,TRUE
+619,Dwaraka Nagar Depot 619,Bheemunipatnam,Visakhapatnam,53061,2021-07-05 00:00:00,FALSE
+620,Akkayyapalem Depot 620,Resapuvanipalem,Visakhapatnam,53060,2023-05-24 00:00:00,TRUE
+621,Kurmannapalem Depot 621,Seethammadhara,Visakhapatnam,53067,2025-09-02 00:00:00,TRUE
+622,Yendada Depot 622,Seethammadhara,Visakhapatnam,53018,2023-04-11 00:00:00,FALSE
+623,Kurmannapalem Depot 623,Maharanipeta,Visakhapatnam,53048,2019-02-10 00:00:00,FALSE
+624,Maharanipeta Depot 624,Auto Nagar,Visakhapatnam,53021,2021-11-05 00:00:00,TRUE
+625,Yendada Depot 625,Dwaraka Nagar,Visakhapatnam,53018,2023-08-05 00:00:00,TRUE
+626,Auto Nagar Depot 626,Yendada,Visakhapatnam,53074,2024-02-21 00:00:00,TRUE
+627,Gajuwaka Depot 627,Auto Nagar,Visakhapatnam,53027,2023-02-21 00:00:00,TRUE
+628,Anakapalle Depot 628,Resapuvanipalem,Visakhapatnam,53048,2024-04-25 00:00:00,FALSE
+629,Resapuvanipalem Depot 629,Siripuram,Visakhapatnam,53070,2025-06-16 00:00:00,TRUE
+630,Siripuram Depot 630,Old Town,Visakhapatnam,53025,2021-05-14 00:00:00,TRUE
+631,Dabagardens Depot 631,Maharanipeta,Visakhapatnam,53009,2022-09-19 00:00:00,TRUE
+632,Marripalem Depot 632,NAD,Visakhapatnam,53027,2023-10-11 00:00:00,TRUE
+633,Akkayyapalem Depot 633,Venkojipalem,Visakhapatnam,53015,2025-09-03 00:00:00,TRUE
+634,Siripuram Depot 634,Venkojipalem,Visakhapatnam,53075,2025-06-27 00:00:00,TRUE
+635,Maddilapalem Depot 635,Bheemunipatnam,Visakhapatnam,53012,2021-02-22 00:00:00,TRUE
+636,Kancharapalem Depot 636,Bheemunipatnam,Visakhapatnam,53045,2024-08-11 00:00:00,TRUE
+637,Gajuwaka Depot 637,Maharanipeta,Visakhapatnam,53026,2020-01-05 00:00:00,TRUE
+638,Siripuram Depot 638,Dwaraka Nagar,Visakhapatnam,53035,2024-07-26 00:00:00,TRUE
+639,Venkojipalem Depot 639,Yendada,Visakhapatnam,53052,2025-10-27 00:00:00,TRUE
+640,Old Town Depot 640,Dabagardens,Visakhapatnam,53055,2019-03-29 00:00:00,TRUE
+641,Bheemunipatnam Depot 641,Malkapuram,Visakhapatnam,53085,2018-04-01 00:00:00,TRUE
+642,Bheemunipatnam Depot 642,Old Town,Visakhapatnam,53069,2025-04-30 00:00:00,TRUE
+643,Malkapuram Depot 643,PM Palem,Visakhapatnam,53047,2024-03-07 00:00:00,TRUE
+644,Malkapuram Depot 644,Kurmannapalem,Visakhapatnam,53070,2019-08-04 00:00:00,TRUE
+645,MVP Colony Depot 645,MVP Colony,Visakhapatnam,53015,2024-08-07 00:00:00,TRUE
+646,Pendurthi Depot 646,Kancharapalem,Visakhapatnam,53073,2024-06-10 00:00:00,FALSE
+647,Bheemunipatnam Depot 647,Anakapalle,Visakhapatnam,53070,2018-03-03 00:00:00,TRUE
+648,Bheemunipatnam Depot 648,MVP Colony,Visakhapatnam,53031,2018-01-24 00:00:00,TRUE
+649,Akkayyapalem Depot 649,NAD,Visakhapatnam,53062,2024-08-09 00:00:00,FALSE
+650,Auto Nagar Depot 650,Gopalapatnam,Visakhapatnam,53098,2018-06-20 00:00:00,TRUE
+651,Anakapalle Depot 651,Kancharapalem,Visakhapatnam,53031,2018-06-04 00:00:00,TRUE
+652,Siripuram Depot 652,NAD,Visakhapatnam,53034,2018-12-03 00:00:00,TRUE
+653,Auto Nagar Depot 653,Resapuvanipalem,Visakhapatnam,53011,2022-10-02 00:00:00,TRUE
+654,Kancharapalem Depot 654,Anakapalle,Visakhapatnam,53032,2025-09-11 00:00:00,TRUE
+655,Pendurthi Depot 655,Bheemunipatnam,Visakhapatnam,53042,2019-03-11 00:00:00,FALSE
+656,Seethammadhara Depot 656,Maharanipeta,Visakhapatnam,53006,2023-08-01 00:00:00,TRUE
+657,Resapuvanipalem Depot 657,Maddilapalem,Visakhapatnam,53037,2023-09-08 00:00:00,TRUE
+658,Maddilapalem Depot 658,Dwaraka Nagar,Visakhapatnam,53067,2020-02-23 00:00:00,FALSE
+659,Seethammadhara Depot 659,Akkayyapalem,Visakhapatnam,53086,2020-05-08 00:00:00,TRUE
+660,Venkojipalem Depot 660,Anakapalle,Visakhapatnam,53012,2020-09-10 00:00:00,TRUE
+661,Dabagardens Depot 661,Akkayyapalem,Visakhapatnam,53085,2022-06-20 00:00:00,TRUE
+662,Bheemunipatnam Depot 662,NAD,Visakhapatnam,53069,2025-09-16 00:00:00,TRUE
+663,Auto Nagar Depot 663,Akkayyapalem,Visakhapatnam,53035,2025-06-02 00:00:00,TRUE
+664,Maddilapalem Depot 664,Yendada,Visakhapatnam,53054,2025-09-20 00:00:00,TRUE
+665,MVP Colony Depot 665,NAD,Visakhapatnam,53010,2018-08-21 00:00:00,TRUE
+666,Kurmannapalem Depot 666,Resapuvanipalem,Visakhapatnam,53013,2022-04-16 00:00:00,FALSE
+667,Kurmannapalem Depot 667,Siripuram,Visakhapatnam,53013,2025-07-06 00:00:00,FALSE
+668,Pendurthi Depot 668,NAD,Visakhapatnam,53076,2023-04-24 00:00:00,TRUE
+669,NAD Depot 669,Gopalapatnam,Visakhapatnam,53056,2019-06-05 00:00:00,TRUE
+670,Maharanipeta Depot 670,PM Palem,Visakhapatnam,53006,2018-11-03 00:00:00,TRUE
+671,Akkayyapalem Depot 671,Maddilapalem,Visakhapatnam,53029,2024-07-15 00:00:00,TRUE
+672,Seethammadhara Depot 672,Dabagardens,Visakhapatnam,53047,2022-07-24 00:00:00,TRUE
+673,Anakapalle Depot 673,Anakapalle,Visakhapatnam,53023,2018-01-15 00:00:00,TRUE
+674,Marripalem Depot 674,PM Palem,Visakhapatnam,53056,2020-08-21 00:00:00,TRUE
+675,Venkojipalem Depot 675,Kurmannapalem,Visakhapatnam,53092,2019-04-25 00:00:00,FALSE
+676,NAD Depot 676,Venkojipalem,Visakhapatnam,53029,2018-01-15 00:00:00,TRUE
+677,Malkapuram Depot 677,NAD,Visakhapatnam,53040,2024-08-14 00:00:00,FALSE
+678,Resapuvanipalem Depot 678,Maharanipeta,Visakhapatnam,53069,2020-03-16 00:00:00,TRUE
+679,Gopalapatnam Depot 679,PM Palem,Visakhapatnam,53044,2019-06-02 00:00:00,TRUE
+680,Kancharapalem Depot 680,Marripalem,Visakhapatnam,53076,2020-06-30 00:00:00,TRUE
+681,Venkojipalem Depot 681,Kancharapalem,Visakhapatnam,53017,2023-08-26 00:00:00,FALSE
+682,Bheemunipatnam Depot 682,Venkojipalem,Visakhapatnam,53077,2020-01-30 00:00:00,TRUE
+683,Kurmannapalem Depot 683,Dwaraka Nagar,Visakhapatnam,53099,2025-01-17 00:00:00,TRUE
+684,Kancharapalem Depot 684,Gopalapatnam,Visakhapatnam,53032,2023-09-24 00:00:00,FALSE
+685,Marripalem Depot 685,Pendurthi,Visakhapatnam,53038,2022-07-05 00:00:00,TRUE
+686,Gopalapatnam Depot 686,Auto Nagar,Visakhapatnam,53094,2025-08-24 00:00:00,FALSE
+687,Malkapuram Depot 687,Dabagardens,Visakhapatnam,53040,2023-02-07 00:00:00,TRUE
+688,Malkapuram Depot 688,PM Palem,Visakhapatnam,53084,2020-04-29 00:00:00,FALSE
+689,Resapuvanipalem Depot 689,PM Palem,Visakhapatnam,53087,2020-11-13 00:00:00,TRUE
+690,Dabagardens Depot 690,Gajuwaka,Visakhapatnam,53035,2024-02-25 00:00:00,TRUE
+691,Malkapuram Depot 691,Bheemunipatnam,Visakhapatnam,53005,2022-11-27 00:00:00,TRUE
+692,Akkayyapalem Depot 692,Auto Nagar,Visakhapatnam,53044,2023-04-19 00:00:00,TRUE
+693,Gopalapatnam Depot 693,Dwaraka Nagar,Visakhapatnam,53048,2020-03-18 00:00:00,FALSE
+694,Maddilapalem Depot 694,Dabagardens,Visakhapatnam,53017,2021-10-20 00:00:00,FALSE
+695,Pendurthi Depot 695,Bheemunipatnam,Visakhapatnam,53020,2021-07-10 00:00:00,TRUE
+696,Dabagardens Depot 696,Seethammadhara,Visakhapatnam,53046,2021-02-24 00:00:00,TRUE
+697,Auto Nagar Depot 697,Maddilapalem,Visakhapatnam,53023,2018-08-09 00:00:00,FALSE
+698,Siripuram Depot 698,MVP Colony,Visakhapatnam,53099,2022-03-15 00:00:00,TRUE
+699,Dwaraka Nagar Depot 699,Kurmannapalem,Visakhapatnam,53057,2023-09-23 00:00:00,TRUE
+700,Gajuwaka Depot 700,Yendada,Visakhapatnam,53050,2020-02-01 00:00:00,TRUE
+701,PM Palem Depot 701,Malkapuram,Visakhapatnam,53015,2021-08-08 00:00:00,TRUE
+702,Venkojipalem Depot 702,Maddilapalem,Visakhapatnam,53080,2020-02-11 00:00:00,TRUE
+703,Maharanipeta Depot 703,Venkojipalem,Visakhapatnam,53074,2024-11-07 00:00:00,TRUE
+704,Dwaraka Nagar Depot 704,Siripuram,Visakhapatnam,53091,2020-09-12 00:00:00,FALSE
+705,Maharanipeta Depot 705,Maharanipeta,Visakhapatnam,53042,2019-05-12 00:00:00,TRUE
+706,Kancharapalem Depot 706,Resapuvanipalem,Visakhapatnam,53078,2019-01-04 00:00:00,FALSE
+707,Dwaraka Nagar Depot 707,Akkayyapalem,Visakhapatnam,53028,2022-12-10 00:00:00,FALSE
+708,Malkapuram Depot 708,Gajuwaka,Visakhapatnam,53030,2019-04-21 00:00:00,FALSE
+709,Akkayyapalem Depot 709,Resapuvanipalem,Visakhapatnam,53055,2020-09-24 00:00:00,TRUE
+710,Yendada Depot 710,Resapuvanipalem,Visakhapatnam,53005,2023-10-30 00:00:00,TRUE
+711,Kurmannapalem Depot 711,Gopalapatnam,Visakhapatnam,53092,2023-05-17 00:00:00,TRUE
+712,Maddilapalem Depot 712,Venkojipalem,Visakhapatnam,53049,2023-03-08 00:00:00,TRUE
+713,Old Town Depot 713,Gopalapatnam,Visakhapatnam,53071,2022-05-06 00:00:00,TRUE
+714,Kurmannapalem Depot 714,PM Palem,Visakhapatnam,53057,2019-01-08 00:00:00,FALSE
+715,Siripuram Depot 715,Dabagardens,Visakhapatnam,53001,2018-10-04 00:00:00,TRUE
+716,Seethammadhara Depot 716,Malkapuram,Visakhapatnam,53001,2022-11-07 00:00:00,FALSE
+717,Pendurthi Depot 717,Dabagardens,Visakhapatnam,53045,2023-10-15 00:00:00,TRUE
+718,Dwaraka Nagar Depot 718,Kancharapalem,Visakhapatnam,53068,2023-07-16 00:00:00,TRUE
+719,Pendurthi Depot 719,Marripalem,Visakhapatnam,53027,2020-06-22 00:00:00,TRUE
+720,Auto Nagar Depot 720,Old Town,Visakhapatnam,53079,2024-04-09 00:00:00,TRUE
+721,Pendurthi Depot 721,NAD,Visakhapatnam,53080,2022-02-21 00:00:00,TRUE
+722,Venkojipalem Depot 722,Marripalem,Visakhapatnam,53083,2021-09-03 00:00:00,TRUE
+723,Venkojipalem Depot 723,Dwaraka Nagar,Visakhapatnam,53044,2019-10-24 00:00:00,TRUE
+724,Malkapuram Depot 724,Akkayyapalem,Visakhapatnam,53052,2018-01-16 00:00:00,TRUE
+725,Venkojipalem Depot 725,Marripalem,Visakhapatnam,53058,2022-01-17 00:00:00,TRUE
+726,Akkayyapalem Depot 726,Seethammadhara,Visakhapatnam,53091,2023-02-16 00:00:00,TRUE
+727,PM Palem Depot 727,Maddilapalem,Visakhapatnam,53004,2022-03-23 00:00:00,TRUE
+728,Venkojipalem Depot 728,Yendada,Visakhapatnam,53087,2018-06-22 00:00:00,FALSE
+729,Siripuram Depot 729,Marripalem,Visakhapatnam,53023,2018-10-04 00:00:00,TRUE
+730,Dabagardens Depot 730,Seethammadhara,Visakhapatnam,53034,2025-03-25 00:00:00,TRUE
+731,Dabagardens Depot 731,Old Town,Visakhapatnam,53099,2019-12-05 00:00:00,TRUE
+732,Pendurthi Depot 732,Marripalem,Visakhapatnam,53069,2019-07-03 00:00:00,TRUE
+733,MVP Colony Depot 733,Kurmannapalem,Visakhapatnam,53040,2021-05-17 00:00:00,TRUE
+734,Venkojipalem Depot 734,Anakapalle,Visakhapatnam,53096,2021-08-02 00:00:00,TRUE
+735,Malkapuram Depot 735,Gopalapatnam,Visakhapatnam,53058,2024-03-02 00:00:00,TRUE
+736,Resapuvanipalem Depot 736,Dwaraka Nagar,Visakhapatnam,53011,2024-11-11 00:00:00,TRUE
+737,Maharanipeta Depot 737,Dabagardens,Visakhapatnam,53066,2019-08-28 00:00:00,TRUE
+738,Seethammadhara Depot 738,Kancharapalem,Visakhapatnam,53003,2018-03-06 00:00:00,TRUE
+739,Anakapalle Depot 739,NAD,Visakhapatnam,53089,2023-02-03 00:00:00,TRUE
+740,Seethammadhara Depot 740,Siripuram,Visakhapatnam,53041,2025-02-11 00:00:00,TRUE
+741,MVP Colony Depot 741,Auto Nagar,Visakhapatnam,53048,2018-09-28 00:00:00,TRUE
+742,Old Town Depot 742,PM Palem,Visakhapatnam,53016,2018-07-27 00:00:00,TRUE
+743,Venkojipalem Depot 743,Kurmannapalem,Visakhapatnam,53039,2018-12-24 00:00:00,FALSE
+744,Old Town Depot 744,Kurmannapalem,Visakhapatnam,53071,2018-01-23 00:00:00,TRUE
+745,Akkayyapalem Depot 745,Pendurthi,Visakhapatnam,53012,2025-06-01 00:00:00,FALSE
+746,Old Town Depot 746,Old Town,Visakhapatnam,53019,2022-04-14 00:00:00,FALSE
+747,Yendada Depot 747,Anakapalle,Visakhapatnam,53026,2020-06-21 00:00:00,TRUE
+748,PM Palem Depot 748,Kancharapalem,Visakhapatnam,53032,2019-06-30 00:00:00,FALSE
+749,Maddilapalem Depot 749,Akkayyapalem,Visakhapatnam,53013,2020-06-08 00:00:00,TRUE
+750,Anakapalle Depot 750,Kancharapalem,Visakhapatnam,53045,2023-08-16 00:00:00,TRUE
+751,Old Town Depot 751,PM Palem,Visakhapatnam,53091,2022-01-02 00:00:00,TRUE
+752,Seethammadhara Depot 752,Malkapuram,Visakhapatnam,53064,2025-05-19 00:00:00,TRUE
+753,Kancharapalem Depot 753,MVP Colony,Visakhapatnam,53055,2020-01-26 00:00:00,TRUE
+754,Siripuram Depot 754,Resapuvanipalem,Visakhapatnam,53093,2020-10-15 00:00:00,TRUE
+755,Kurmannapalem Depot 755,Kurmannapalem,Visakhapatnam,53045,2025-02-16 00:00:00,FALSE
+756,Pendurthi Depot 756,Yendada,Visakhapatnam,53076,2024-06-28 00:00:00,TRUE
+757,Bheemunipatnam Depot 757,Gajuwaka,Visakhapatnam,53039,2020-11-06 00:00:00,TRUE
+758,Dabagardens Depot 758,Seethammadhara,Visakhapatnam,53038,2025-07-16 00:00:00,FALSE
+759,Anakapalle Depot 759,Bheemunipatnam,Visakhapatnam,53087,2022-11-25 00:00:00,TRUE
+760,MVP Colony Depot 760,Bheemunipatnam,Visakhapatnam,53023,2023-09-19 00:00:00,TRUE
+761,Akkayyapalem Depot 761,Resapuvanipalem,Visakhapatnam,53056,2022-05-09 00:00:00,TRUE
+762,Dwaraka Nagar Depot 762,Seethammadhara,Visakhapatnam,53093,2024-06-23 00:00:00,TRUE
+763,Gopalapatnam Depot 763,Maharanipeta,Visakhapatnam,53069,2020-03-02 00:00:00,FALSE
+764,Dwaraka Nagar Depot 764,Gajuwaka,Visakhapatnam,53026,2022-12-25 00:00:00,TRUE
+765,Marripalem Depot 765,Bheemunipatnam,Visakhapatnam,53028,2021-06-09 00:00:00,TRUE
+766,Maharanipeta Depot 766,Seethammadhara,Visakhapatnam,53083,2021-11-21 00:00:00,TRUE
+767,Gopalapatnam Depot 767,NAD,Visakhapatnam,53083,2019-10-08 00:00:00,TRUE
+768,Kurmannapalem Depot 768,Marripalem,Visakhapatnam,53094,2019-02-19 00:00:00,TRUE
+769,Siripuram Depot 769,Akkayyapalem,Visakhapatnam,53027,2018-12-11 00:00:00,TRUE
+770,NAD Depot 770,Kurmannapalem,Visakhapatnam,53063,2020-01-18 00:00:00,TRUE
+771,Pendurthi Depot 771,Anakapalle,Visakhapatnam,53029,2022-03-02 00:00:00,FALSE
+772,Dwaraka Nagar Depot 772,Akkayyapalem,Visakhapatnam,53002,2019-04-14 00:00:00,TRUE
+773,Anakapalle Depot 773,Dabagardens,Visakhapatnam,53063,2018-04-05 00:00:00,TRUE
+774,Malkapuram Depot 774,Maddilapalem,Visakhapatnam,53041,2022-05-10 00:00:00,FALSE
+775,Akkayyapalem Depot 775,Pendurthi,Visakhapatnam,53054,2018-10-25 00:00:00,FALSE
+776,Venkojipalem Depot 776,Bheemunipatnam,Visakhapatnam,53075,2023-12-15 00:00:00,TRUE
+777,Seethammadhara Depot 777,Bheemunipatnam,Visakhapatnam,53053,2020-05-14 00:00:00,TRUE
+778,Anakapalle Depot 778,Maharanipeta,Visakhapatnam,53032,2024-04-02 00:00:00,TRUE
+779,NAD Depot 779,Venkojipalem,Visakhapatnam,53048,2022-10-31 00:00:00,TRUE
+780,Kurmannapalem Depot 780,Resapuvanipalem,Visakhapatnam,53063,2025-02-01 00:00:00,TRUE
+781,Gopalapatnam Depot 781,MVP Colony,Visakhapatnam,53039,2022-11-13 00:00:00,TRUE
+782,MVP Colony Depot 782,Resapuvanipalem,Visakhapatnam,53051,2025-05-14 00:00:00,TRUE
+783,Gajuwaka Depot 783,Yendada,Visakhapatnam,53057,2021-08-24 00:00:00,TRUE
+784,Auto Nagar Depot 784,NAD,Visakhapatnam,53017,2018-07-18 00:00:00,TRUE
+785,Maddilapalem Depot 785,Pendurthi,Visakhapatnam,53040,2024-02-14 00:00:00,TRUE
+786,NAD Depot 786,PM Palem,Visakhapatnam,53083,2018-10-07 00:00:00,TRUE
+787,PM Palem Depot 787,Malkapuram,Visakhapatnam,53091,2020-01-06 00:00:00,FALSE
+788,Resapuvanipalem Depot 788,Kancharapalem,Visakhapatnam,53095,2022-08-27 00:00:00,TRUE
+789,Kancharapalem Depot 789,Anakapalle,Visakhapatnam,53039,2023-06-19 00:00:00,FALSE
+790,Dwaraka Nagar Depot 790,Bheemunipatnam,Visakhapatnam,53030,2022-04-06 00:00:00,TRUE
+791,Gopalapatnam Depot 791,Resapuvanipalem,Visakhapatnam,53092,2022-04-01 00:00:00,TRUE
+792,Dwaraka Nagar Depot 792,Maharanipeta,Visakhapatnam,53006,2025-04-23 00:00:00,TRUE
+793,Siripuram Depot 793,MVP Colony,Visakhapatnam,53057,2022-05-16 00:00:00,TRUE
+794,Malkapuram Depot 794,MVP Colony,Visakhapatnam,53078,2023-10-28 00:00:00,FALSE
+795,MVP Colony Depot 795,Kurmannapalem,Visakhapatnam,53031,2019-05-18 00:00:00,TRUE
+796,Bheemunipatnam Depot 796,NAD,Visakhapatnam,53005,2024-11-19 00:00:00,TRUE
+797,Maharanipeta Depot 797,Anakapalle,Visakhapatnam,53091,2018-09-16 00:00:00,TRUE
+798,Yendada Depot 798,Pendurthi,Visakhapatnam,53065,2018-03-21 00:00:00,TRUE
+799,MVP Colony Depot 799,Gopalapatnam,Visakhapatnam,53012,2018-03-06 00:00:00,TRUE
+800,Kancharapalem Depot 800,Akkayyapalem,Visakhapatnam,53082,2018-11-30 00:00:00,TRUE
+801,Old Town Depot 801,Kancharapalem,Visakhapatnam,53010,2019-07-15 00:00:00,FALSE
+802,Anakapalle Depot 802,Kurmannapalem,Visakhapatnam,53076,2020-09-14 00:00:00,TRUE
+803,Maharanipeta Depot 803,PM Palem,Visakhapatnam,53013,2024-02-03 00:00:00,FALSE
+804,Pendurthi Depot 804,Old Town,Visakhapatnam,53008,2019-04-04 00:00:00,FALSE
+805,NAD Depot 805,Maharanipeta,Visakhapatnam,53089,2020-05-30 00:00:00,TRUE
+806,Venkojipalem Depot 806,Gopalapatnam,Visakhapatnam,53038,2020-02-04 00:00:00,FALSE
+807,Gajuwaka Depot 807,Pendurthi,Visakhapatnam,53059,2024-07-26 00:00:00,TRUE
+808,Marripalem Depot 808,Kurmannapalem,Visakhapatnam,53082,2025-03-16 00:00:00,TRUE
+809,Dwaraka Nagar Depot 809,Kancharapalem,Visakhapatnam,53064,2021-10-26 00:00:00,TRUE
+810,Dwaraka Nagar Depot 810,Auto Nagar,Visakhapatnam,53066,2023-08-26 00:00:00,TRUE
+811,Malkapuram Depot 811,Akkayyapalem,Visakhapatnam,53053,2023-10-03 00:00:00,TRUE
+812,Bheemunipatnam Depot 812,Anakapalle,Visakhapatnam,53033,2024-11-11 00:00:00,TRUE
+813,Marripalem Depot 813,Resapuvanipalem,Visakhapatnam,53017,2024-04-04 00:00:00,TRUE
+814,Kurmannapalem Depot 814,Dabagardens,Visakhapatnam,53023,2022-01-16 00:00:00,TRUE
+815,Yendada Depot 815,Anakapalle,Visakhapatnam,53023,2025-04-19 00:00:00,TRUE
+816,Venkojipalem Depot 816,Dwaraka Nagar,Visakhapatnam,53024,2023-05-03 00:00:00,FALSE
+817,Maddilapalem Depot 817,Siripuram,Visakhapatnam,53051,2022-05-21 00:00:00,TRUE
+818,Malkapuram Depot 818,Venkojipalem,Visakhapatnam,53090,2024-04-19 00:00:00,TRUE
+819,Yendada Depot 819,Venkojipalem,Visakhapatnam,53073,2022-06-26 00:00:00,FALSE
+820,Siripuram Depot 820,Yendada,Visakhapatnam,53019,2023-09-30 00:00:00,FALSE
+821,Maddilapalem Depot 821,NAD,Visakhapatnam,53031,2025-08-29 00:00:00,TRUE
+822,Malkapuram Depot 822,Kurmannapalem,Visakhapatnam,53059,2023-05-01 00:00:00,TRUE
+823,Old Town Depot 823,Malkapuram,Visakhapatnam,53024,2024-02-14 00:00:00,TRUE
+824,NAD Depot 824,MVP Colony,Visakhapatnam,53073,2023-12-12 00:00:00,FALSE
+825,Auto Nagar Depot 825,Dwaraka Nagar,Visakhapatnam,53068,2019-09-26 00:00:00,TRUE
+826,Auto Nagar Depot 826,Pendurthi,Visakhapatnam,53039,2018-12-03 00:00:00,TRUE
+827,Yendada Depot 827,Gajuwaka,Visakhapatnam,53056,2020-06-19 00:00:00,FALSE
+828,Gajuwaka Depot 828,Anakapalle,Visakhapatnam,53081,2022-03-17 00:00:00,TRUE
+829,Akkayyapalem Depot 829,Yendada,Visakhapatnam,53033,2020-09-12 00:00:00,TRUE
+830,Anakapalle Depot 830,Dabagardens,Visakhapatnam,53054,2024-07-11 00:00:00,TRUE
+831,Akkayyapalem Depot 831,Anakapalle,Visakhapatnam,53037,2020-05-22 00:00:00,TRUE
+832,Maharanipeta Depot 832,Maddilapalem,Visakhapatnam,53016,2024-08-17 00:00:00,FALSE
+833,Marripalem Depot 833,MVP Colony,Visakhapatnam,53052,2019-09-25 00:00:00,FALSE
+834,Kurmannapalem Depot 834,Malkapuram,Visakhapatnam,53052,2019-10-21 00:00:00,TRUE
+835,Dabagardens Depot 835,Maharanipeta,Visakhapatnam,53085,2025-01-17 00:00:00,FALSE
+836,Siripuram Depot 836,Pendurthi,Visakhapatnam,53073,2025-08-29 00:00:00,TRUE
+837,Kancharapalem Depot 837,Malkapuram,Visakhapatnam,53065,2019-02-23 00:00:00,TRUE
+838,Kurmannapalem Depot 838,Dabagardens,Visakhapatnam,53096,2025-03-29 00:00:00,TRUE
+839,Bheemunipatnam Depot 839,Kancharapalem,Visakhapatnam,53058,2023-01-16 00:00:00,FALSE
+840,Maharanipeta Depot 840,Auto Nagar,Visakhapatnam,53015,2025-09-21 00:00:00,TRUE
+841,Dwaraka Nagar Depot 841,Akkayyapalem,Visakhapatnam,53096,2025-09-01 00:00:00,TRUE
+842,MVP Colony Depot 842,Siripuram,Visakhapatnam,53064,2025-06-26 00:00:00,TRUE
+843,Auto Nagar Depot 843,PM Palem,Visakhapatnam,53058,2023-05-29 00:00:00,TRUE
+844,Maddilapalem Depot 844,Seethammadhara,Visakhapatnam,53058,2018-11-08 00:00:00,FALSE
+845,Gajuwaka Depot 845,Gajuwaka,Visakhapatnam,53062,2022-08-15 00:00:00,TRUE
+846,Bheemunipatnam Depot 846,Akkayyapalem,Visakhapatnam,53018,2018-07-25 00:00:00,FALSE
+847,Akkayyapalem Depot 847,Auto Nagar,Visakhapatnam,53040,2025-01-26 00:00:00,FALSE
+848,Yendada Depot 848,Maddilapalem,Visakhapatnam,53083,2023-09-01 00:00:00,TRUE
+849,Maddilapalem Depot 849,Old Town,Visakhapatnam,53056,2020-04-09 00:00:00,TRUE
+850,Gajuwaka Depot 850,Gajuwaka,Visakhapatnam,53013,2018-08-16 00:00:00,FALSE
+851,Dabagardens Depot 851,Gopalapatnam,Visakhapatnam,53048,2019-02-09 00:00:00,FALSE
+852,Maharanipeta Depot 852,Auto Nagar,Visakhapatnam,53002,2022-04-20 00:00:00,TRUE
+853,Bheemunipatnam Depot 853,Old Town,Visakhapatnam,53009,2023-08-09 00:00:00,FALSE
+854,Dwaraka Nagar Depot 854,Gopalapatnam,Visakhapatnam,53013,2022-07-15 00:00:00,TRUE
+855,Gopalapatnam Depot 855,PM Palem,Visakhapatnam,53056,2023-08-29 00:00:00,TRUE
+856,Dwaraka Nagar Depot 856,PM Palem,Visakhapatnam,53077,2023-04-08 00:00:00,TRUE
+857,Old Town Depot 857,Bheemunipatnam,Visakhapatnam,53086,2024-09-08 00:00:00,TRUE
+858,Gopalapatnam Depot 858,Akkayyapalem,Visakhapatnam,53045,2024-06-21 00:00:00,FALSE
+859,Dwaraka Nagar Depot 859,Pendurthi,Visakhapatnam,53081,2024-10-07 00:00:00,TRUE
+860,Auto Nagar Depot 860,Pendurthi,Visakhapatnam,53070,2020-08-19 00:00:00,FALSE
+861,Maharanipeta Depot 861,Venkojipalem,Visakhapatnam,53004,2022-10-30 00:00:00,TRUE
+862,Old Town Depot 862,PM Palem,Visakhapatnam,53062,2021-05-29 00:00:00,TRUE
+863,Dabagardens Depot 863,Pendurthi,Visakhapatnam,53086,2018-02-27 00:00:00,TRUE
+864,Dabagardens Depot 864,Dabagardens,Visakhapatnam,53008,2020-09-27 00:00:00,TRUE
+865,Kurmannapalem Depot 865,Akkayyapalem,Visakhapatnam,53094,2022-04-11 00:00:00,TRUE
+866,Old Town Depot 866,Maharanipeta,Visakhapatnam,53019,2019-02-18 00:00:00,FALSE
+867,Kancharapalem Depot 867,Yendada,Visakhapatnam,53045,2019-09-21 00:00:00,TRUE
+868,Marripalem Depot 868,Pendurthi,Visakhapatnam,53048,2018-03-18 00:00:00,TRUE
+869,Gopalapatnam Depot 869,Maddilapalem,Visakhapatnam,53016,2019-10-31 00:00:00,FALSE
+870,Marripalem Depot 870,Venkojipalem,Visakhapatnam,53096,2018-09-21 00:00:00,TRUE
+871,NAD Depot 871,MVP Colony,Visakhapatnam,53049,2019-07-03 00:00:00,TRUE
+872,Maharanipeta Depot 872,Dwaraka Nagar,Visakhapatnam,53059,2023-09-09 00:00:00,FALSE
+873,Dwaraka Nagar Depot 873,Siripuram,Visakhapatnam,53020,2021-06-12 00:00:00,TRUE
+874,Maddilapalem Depot 874,Kurmannapalem,Visakhapatnam,53013,2020-01-16 00:00:00,TRUE
+875,MVP Colony Depot 875,Seethammadhara,Visakhapatnam,53041,2025-08-31 00:00:00,TRUE
+876,Venkojipalem Depot 876,Maharanipeta,Visakhapatnam,53058,2021-02-03 00:00:00,TRUE
+877,MVP Colony Depot 877,Old Town,Visakhapatnam,53048,2019-09-15 00:00:00,TRUE
+878,Venkojipalem Depot 878,Dwaraka Nagar,Visakhapatnam,53026,2021-06-08 00:00:00,TRUE
+879,Auto Nagar Depot 879,Dwaraka Nagar,Visakhapatnam,53095,2021-02-28 00:00:00,TRUE
+880,Anakapalle Depot 880,Dwaraka Nagar,Visakhapatnam,53012,2021-11-30 00:00:00,TRUE
+881,Seethammadhara Depot 881,Siripuram,Visakhapatnam,53010,2018-01-28 00:00:00,FALSE
+882,NAD Depot 882,MVP Colony,Visakhapatnam,53032,2023-02-02 00:00:00,FALSE
+883,Resapuvanipalem Depot 883,Anakapalle,Visakhapatnam,53015,2018-05-08 00:00:00,TRUE
+884,Siripuram Depot 884,Akkayyapalem,Visakhapatnam,53076,2022-11-20 00:00:00,FALSE
+885,Marripalem Depot 885,Malkapuram,Visakhapatnam,53090,2019-06-06 00:00:00,TRUE
+886,Pendurthi Depot 886,Bheemunipatnam,Visakhapatnam,53037,2021-04-10 00:00:00,TRUE
+887,Bheemunipatnam Depot 887,Auto Nagar,Visakhapatnam,53057,2021-03-02 00:00:00,FALSE
+888,Pendurthi Depot 888,Yendada,Visakhapatnam,53080,2019-01-02 00:00:00,FALSE
+889,NAD Depot 889,Maharanipeta,Visakhapatnam,53057,2022-10-18 00:00:00,FALSE
+890,Kurmannapalem Depot 890,Yendada,Visakhapatnam,53014,2020-08-06 00:00:00,TRUE
+891,Kancharapalem Depot 891,Bheemunipatnam,Visakhapatnam,53025,2018-01-26 00:00:00,FALSE
+892,Auto Nagar Depot 892,Yendada,Visakhapatnam,53083,2019-05-21 00:00:00,TRUE
+893,Yendada Depot 893,Venkojipalem,Visakhapatnam,53020,2021-06-14 00:00:00,TRUE
+894,Pendurthi Depot 894,Auto Nagar,Visakhapatnam,53058,2023-04-02 00:00:00,FALSE
+895,Old Town Depot 895,Old Town,Visakhapatnam,53018,2019-12-11 00:00:00,TRUE
+896,Bheemunipatnam Depot 896,Dabagardens,Visakhapatnam,53004,2021-01-29 00:00:00,FALSE
+897,Malkapuram Depot 897,Siripuram,Visakhapatnam,53055,2018-03-24 00:00:00,FALSE
+898,PM Palem Depot 898,Siripuram,Visakhapatnam,53090,2025-08-26 00:00:00,TRUE
+899,Resapuvanipalem Depot 899,Akkayyapalem,Visakhapatnam,53040,2022-03-17 00:00:00,FALSE
+900,Malkapuram Depot 900,Maharanipeta,Visakhapatnam,53085,2025-09-10 00:00:00,FALSE
+901,Malkapuram Depot 901,Yendada,Visakhapatnam,53014,2020-07-13 00:00:00,TRUE
+902,Kancharapalem Depot 902,Dwaraka Nagar,Visakhapatnam,53075,2023-01-06 00:00:00,TRUE
+903,Maharanipeta Depot 903,Bheemunipatnam,Visakhapatnam,53081,2019-12-05 00:00:00,FALSE
+904,Auto Nagar Depot 904,Kurmannapalem,Visakhapatnam,53050,2021-07-15 00:00:00,FALSE
+905,Maddilapalem Depot 905,Gopalapatnam,Visakhapatnam,53073,2023-09-25 00:00:00,TRUE
+906,Seethammadhara Depot 906,Maddilapalem,Visakhapatnam,53045,2021-05-05 00:00:00,TRUE
+907,Akkayyapalem Depot 907,Gopalapatnam,Visakhapatnam,53039,2022-12-14 00:00:00,FALSE
+908,Marripalem Depot 908,NAD,Visakhapatnam,53006,2018-09-29 00:00:00,TRUE
+909,Dabagardens Depot 909,NAD,Visakhapatnam,53049,2019-09-18 00:00:00,TRUE
+910,Malkapuram Depot 910,NAD,Visakhapatnam,53019,2024-03-16 00:00:00,FALSE
+911,Akkayyapalem Depot 911,Dwaraka Nagar,Visakhapatnam,53006,2018-11-19 00:00:00,TRUE
+912,Maddilapalem Depot 912,PM Palem,Visakhapatnam,53052,2025-01-06 00:00:00,TRUE
+913,Anakapalle Depot 913,Akkayyapalem,Visakhapatnam,53035,2020-02-01 00:00:00,TRUE
+914,Seethammadhara Depot 914,Anakapalle,Visakhapatnam,53092,2021-11-24 00:00:00,FALSE
+915,Marripalem Depot 915,NAD,Visakhapatnam,53025,2021-05-28 00:00:00,TRUE
+916,Marripalem Depot 916,Akkayyapalem,Visakhapatnam,53082,2019-02-15 00:00:00,TRUE
+917,Yendada Depot 917,Akkayyapalem,Visakhapatnam,53080,2021-07-30 00:00:00,TRUE
+918,Anakapalle Depot 918,Dabagardens,Visakhapatnam,53056,2025-02-03 00:00:00,TRUE
+919,Gopalapatnam Depot 919,Akkayyapalem,Visakhapatnam,53074,2020-06-21 00:00:00,TRUE
+920,PM Palem Depot 920,Resapuvanipalem,Visakhapatnam,53045,2024-04-17 00:00:00,TRUE
+921,Dabagardens Depot 921,Yendada,Visakhapatnam,53011,2018-02-10 00:00:00,TRUE
+922,Maharanipeta Depot 922,Marripalem,Visakhapatnam,53089,2022-05-10 00:00:00,TRUE
+923,Gopalapatnam Depot 923,Siripuram,Visakhapatnam,53056,2025-04-11 00:00:00,TRUE
+924,Gopalapatnam Depot 924,Maddilapalem,Visakhapatnam,53061,2020-06-12 00:00:00,FALSE
+925,Gajuwaka Depot 925,Dabagardens,Visakhapatnam,53034,2021-04-11 00:00:00,FALSE
+926,PM Palem Depot 926,Old Town,Visakhapatnam,53086,2020-04-23 00:00:00,FALSE
+927,Old Town Depot 927,Seethammadhara,Visakhapatnam,53094,2020-03-20 00:00:00,FALSE
+928,Auto Nagar Depot 928,Gajuwaka,Visakhapatnam,53013,2021-04-30 00:00:00,TRUE
+929,Maharanipeta Depot 929,MVP Colony,Visakhapatnam,53023,2022-08-23 00:00:00,TRUE
+930,Malkapuram Depot 930,Maharanipeta,Visakhapatnam,53019,2019-01-30 00:00:00,TRUE
+931,Kancharapalem Depot 931,Bheemunipatnam,Visakhapatnam,53035,2025-03-16 00:00:00,TRUE
+932,PM Palem Depot 932,Venkojipalem,Visakhapatnam,53090,2024-04-17 00:00:00,TRUE
+933,Venkojipalem Depot 933,PM Palem,Visakhapatnam,53002,2020-06-29 00:00:00,TRUE
+934,Auto Nagar Depot 934,Siripuram,Visakhapatnam,53056,2020-12-13 00:00:00,TRUE
+935,PM Palem Depot 935,Resapuvanipalem,Visakhapatnam,53040,2021-02-28 00:00:00,TRUE
+936,MVP Colony Depot 936,Siripuram,Visakhapatnam,53047,2019-04-23 00:00:00,TRUE
+937,Auto Nagar Depot 937,Dwaraka Nagar,Visakhapatnam,53066,2020-01-07 00:00:00,TRUE
+938,NAD Depot 938,Maharanipeta,Visakhapatnam,53058,2023-08-06 00:00:00,TRUE
+939,Kancharapalem Depot 939,Kancharapalem,Visakhapatnam,53093,2018-06-24 00:00:00,FALSE
+940,Old Town Depot 940,Kurmannapalem,Visakhapatnam,53072,2020-01-14 00:00:00,FALSE
+941,Auto Nagar Depot 941,MVP Colony,Visakhapatnam,53032,2020-11-22 00:00:00,TRUE
+942,Akkayyapalem Depot 942,Akkayyapalem,Visakhapatnam,53032,2018-05-18 00:00:00,TRUE
+943,MVP Colony Depot 943,Marripalem,Visakhapatnam,53088,2023-07-18 00:00:00,FALSE
+944,Malkapuram Depot 944,Venkojipalem,Visakhapatnam,53008,2020-02-27 00:00:00,TRUE
+945,Bheemunipatnam Depot 945,Kancharapalem,Visakhapatnam,53061,2020-02-08 00:00:00,TRUE
+946,Maddilapalem Depot 946,NAD,Visakhapatnam,53036,2021-12-01 00:00:00,FALSE
+947,MVP Colony Depot 947,Kancharapalem,Visakhapatnam,53068,2019-12-16 00:00:00,TRUE
+948,Kancharapalem Depot 948,Old Town,Visakhapatnam,53020,2022-03-21 00:00:00,TRUE
+949,Siripuram Depot 949,Maharanipeta,Visakhapatnam,53098,2021-10-01 00:00:00,TRUE
+950,Gopalapatnam Depot 950,Auto Nagar,Visakhapatnam,53051,2020-04-28 00:00:00,TRUE
+951,Gopalapatnam Depot 951,Gopalapatnam,Visakhapatnam,53026,2020-03-26 00:00:00,TRUE
+952,Dabagardens Depot 952,Anakapalle,Visakhapatnam,53096,2020-07-07 00:00:00,TRUE
+953,Auto Nagar Depot 953,MVP Colony,Visakhapatnam,53014,2020-02-20 00:00:00,TRUE
+954,Malkapuram Depot 954,Venkojipalem,Visakhapatnam,53011,2022-08-09 00:00:00,TRUE
+955,Pendurthi Depot 955,Resapuvanipalem,Visakhapatnam,53050,2023-03-11 00:00:00,TRUE
+956,Auto Nagar Depot 956,Pendurthi,Visakhapatnam,53070,2018-04-14 00:00:00,FALSE
+957,Seethammadhara Depot 957,NAD,Visakhapatnam,53027,2021-11-11 00:00:00,FALSE
+958,Siripuram Depot 958,PM Palem,Visakhapatnam,53009,2025-07-04 00:00:00,TRUE
+959,Old Town Depot 959,MVP Colony,Visakhapatnam,53003,2023-11-28 00:00:00,FALSE
+960,Old Town Depot 960,Venkojipalem,Visakhapatnam,53033,2021-02-01 00:00:00,FALSE
+961,Maharanipeta Depot 961,Kurmannapalem,Visakhapatnam,53068,2018-06-18 00:00:00,TRUE
+962,Anakapalle Depot 962,Siripuram,Visakhapatnam,53095,2020-05-09 00:00:00,TRUE
+963,Gajuwaka Depot 963,Resapuvanipalem,Visakhapatnam,53086,2025-07-26 00:00:00,TRUE
+964,MVP Colony Depot 964,Gopalapatnam,Visakhapatnam,53053,2022-01-22 00:00:00,FALSE
+965,Bheemunipatnam Depot 965,Dabagardens,Visakhapatnam,53008,2023-09-04 00:00:00,FALSE
+966,Maharanipeta Depot 966,PM Palem,Visakhapatnam,53006,2022-07-18 00:00:00,FALSE
+967,Gopalapatnam Depot 967,Seethammadhara,Visakhapatnam,53019,2023-09-30 00:00:00,TRUE
+968,Kancharapalem Depot 968,Bheemunipatnam,Visakhapatnam,53036,2020-12-26 00:00:00,TRUE
+969,Dwaraka Nagar Depot 969,Anakapalle,Visakhapatnam,53083,2022-01-30 00:00:00,TRUE
+970,Kancharapalem Depot 970,Marripalem,Visakhapatnam,53066,2020-01-21 00:00:00,TRUE
+971,MVP Colony Depot 971,Gajuwaka,Visakhapatnam,53012,2021-09-07 00:00:00,TRUE
+972,Akkayyapalem Depot 972,Dwaraka Nagar,Visakhapatnam,53007,2022-09-09 00:00:00,TRUE
+973,NAD Depot 973,Gopalapatnam,Visakhapatnam,53062,2025-05-12 00:00:00,FALSE
+974,Pendurthi Depot 974,PM Palem,Visakhapatnam,53082,2020-04-24 00:00:00,FALSE
+975,Gopalapatnam Depot 975,Seethammadhara,Visakhapatnam,53006,2021-11-10 00:00:00,TRUE
+976,Auto Nagar Depot 976,Dwaraka Nagar,Visakhapatnam,53094,2020-05-10 00:00:00,TRUE
+977,Dwaraka Nagar Depot 977,PM Palem,Visakhapatnam,53096,2021-10-01 00:00:00,TRUE
+978,Venkojipalem Depot 978,Resapuvanipalem,Visakhapatnam,53007,2025-05-10 00:00:00,TRUE
+979,Gopalapatnam Depot 979,Maharanipeta,Visakhapatnam,53097,2022-09-21 00:00:00,TRUE
+980,MVP Colony Depot 980,Auto Nagar,Visakhapatnam,53055,2025-01-17 00:00:00,TRUE
+981,Bheemunipatnam Depot 981,Akkayyapalem,Visakhapatnam,53072,2023-10-29 00:00:00,FALSE
+982,MVP Colony Depot 982,Bheemunipatnam,Visakhapatnam,53034,2022-03-02 00:00:00,TRUE
+983,Anakapalle Depot 983,Gajuwaka,Visakhapatnam,53042,2019-04-13 00:00:00,FALSE
+984,Anakapalle Depot 984,Seethammadhara,Visakhapatnam,53076,2019-05-07 00:00:00,TRUE
+985,Akkayyapalem Depot 985,Maharanipeta,Visakhapatnam,53002,2019-09-12 00:00:00,TRUE
+986,Anakapalle Depot 986,Venkojipalem,Visakhapatnam,53042,2018-08-27 00:00:00,TRUE
+987,Anakapalle Depot 987,Kurmannapalem,Visakhapatnam,53090,2023-04-08 00:00:00,FALSE
+988,Dwaraka Nagar Depot 988,Akkayyapalem,Visakhapatnam,53024,2022-02-05 00:00:00,TRUE
+989,Maharanipeta Depot 989,Dabagardens,Visakhapatnam,53092,2023-02-25 00:00:00,TRUE
+990,Bheemunipatnam Depot 990,PM Palem,Visakhapatnam,53028,2018-10-08 00:00:00,FALSE
+991,Old Town Depot 991,MVP Colony,Visakhapatnam,53013,2025-10-21 00:00:00,TRUE
+992,Bheemunipatnam Depot 992,Bheemunipatnam,Visakhapatnam,53032,2023-08-24 00:00:00,TRUE
+993,Anakapalle Depot 993,Auto Nagar,Visakhapatnam,53028,2024-06-04 00:00:00,TRUE
+994,Anakapalle Depot 994,Old Town,Visakhapatnam,53024,2023-10-23 00:00:00,TRUE
+995,Auto Nagar Depot 995,Old Town,Visakhapatnam,53003,2019-03-30 00:00:00,FALSE
+996,Old Town Depot 996,Seethammadhara,Visakhapatnam,53082,2023-08-11 00:00:00,TRUE
+997,Anakapalle Depot 997,Dwaraka Nagar,Visakhapatnam,53042,2024-04-14 00:00:00,TRUE
+998,Pendurthi Depot 998,Marripalem,Visakhapatnam,53080,2019-09-02 00:00:00,TRUE
+999,Kurmannapalem Depot 999,Maharanipeta,Visakhapatnam,53088,2021-02-03 00:00:00,TRUE
+1000,Pendurthi Depot 1000,Kurmannapalem,Visakhapatnam,53090,2022-12-02 00:00:00,TRUE

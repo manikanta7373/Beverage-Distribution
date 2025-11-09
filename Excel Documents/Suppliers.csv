@@ -1,0 +1,1001 @@
+SupplierID,SupplierName,Focus,Phone,Email,Address,GSTIN,ContractStart,IsPreferred
+1,Ramu Agencies,Coke Portfolio,6018243824,ramuagencies1342@example.com,"107, Industrial Estate, Visakhapatnam",37SWGKN7189JHOK,2025-10-20 00:00:00,TRUE
+2,Manoj Enterprises,Pepsi Portfolio,7467551290,manojenterprises1954@example.com,"299, Old Town, Visakhapatnam",37KOCNB3173PT8Q,2019-08-12 00:00:00,TRUE
+3,Radha Enterprises,Local Portfolio,9227649579,radhaenterprises1659@mail.com,"252, Old Town, Visakhapatnam",37UVGQF5897V7PG,2024-06-13 00:00:00,TRUE
+4,Shiva Enterprises #4,Mixed,9322268852,shivaenterprises43643@example.com,"29, Industrial Estate, Visakhapatnam",37GSXCF1282HNIF,2022-02-14 00:00:00,FALSE
+5,Anusha Beverages #5,Mixed,7655396259,anushabeverages53612@mail.com,"142, Industrial Estate, Visakhapatnam",37UDHXD1014XYQM,2019-02-21 00:00:00,FALSE
+6,Vinayaka Distributors #6,Local Portfolio,9687657090,vinayakadistributors62556@demo.in,"207, Old Town, Visakhapatnam",37ZIUCI3698Z94L,2020-12-05 00:00:00,FALSE
+7,Surya Distributors #7,Pepsi Portfolio,7201338457,suryadistributors71915@example.com,"167, Auto Nagar, Visakhapatnam",37INTBD8134BK9I,2025-09-03 00:00:00,FALSE
+8,Vishnu Wholesale #8,Pepsi Portfolio,6285554547,vishnuwholesale8749@demo.in,"81, Old Town, Visakhapatnam",37WQDRI6579GZFR,2024-02-11 00:00:00,FALSE
+9,Vinayaka Wholesale #9,Local Portfolio,8719526328,vinayakawholesale98201@mail.com,"139, Industrial Estate, Visakhapatnam",37KYTHT6776GEHW,2021-03-02 00:00:00,FALSE
+10,Balaji Distributors #10,Mixed,8612159803,balajidistributors107983@mail.com,"92, Auto Nagar, Visakhapatnam",37OACQK2715BKUI,2023-03-29 00:00:00,FALSE
+11,Sri Traders #11,Coke Portfolio,7207529832,sritraders116221@demo.in,"28, Industrial Estate, Visakhapatnam",37WLGZM1011E70P,2022-07-31 00:00:00,FALSE
+12,Prasad Distributors #12,Local Portfolio,8035650754,prasaddistributors122494@mail.com,"140, Wholesale Market, Visakhapatnam",37PZMIU2111DIML,2025-06-18 00:00:00,FALSE
+13,Sai Distributors #13,Mixed,6712767154,saidistributors136848@mail.com,"83, Wholesale Market, Visakhapatnam",37UPDNO7801W9F2,2019-09-12 00:00:00,FALSE
+14,Surya Traders #14,Mixed,6974864259,suryatraders144649@example.com,"40, Wholesale Market, Visakhapatnam",37XDJBP7507YDMW,2025-09-15 00:00:00,FALSE
+15,Vinayaka Foods #15,Local Portfolio,8615346774,vinayakafoods15310@mail.com,"228, Wholesale Market, Visakhapatnam",37ZJZED7204S62Y,2019-10-24 00:00:00,FALSE
+16,Suma Distributors #16,Mixed,8025486129,sumadistributors16528@mail.com,"108, Industrial Estate, Visakhapatnam",37SXUDR4582I50A,2019-03-21 00:00:00,FALSE
+17,Sai Beverages #17,Pepsi Portfolio,6844716544,saibeverages173229@mail.com,"267, Industrial Estate, Visakhapatnam",37SJSXI3028MIWF,2022-07-05 00:00:00,FALSE
+18,Harsha Wholesale #18,Mixed,9630754872,harshawholesale18108@demo.in,"269, Industrial Estate, Visakhapatnam",37IXFJD4346HGP5,2023-05-25 00:00:00,FALSE
+19,Vinayaka Wholesale #19,Coke Portfolio,8845499287,vinayakawholesale19880@mail.com,"74, Wholesale Market, Visakhapatnam",37DFAJX4179FT54,2019-09-03 00:00:00,FALSE
+20,Suma Traders #20,Coke Portfolio,7184981939,sumatraders204778@mail.com,"156, Industrial Estate, Visakhapatnam",37UFQKF9242XMJP,2025-03-16 00:00:00,FALSE
+21,Vinayaka Enterprises #21,Coke Portfolio,9334511067,vinayakaenterprises219975@mail.com,"177, Wholesale Market, Visakhapatnam",37MIIUL0072IGOJ,2021-06-29 00:00:00,FALSE
+22,Vinayaka Wholesale #22,Coke Portfolio,7064319413,vinayakawholesale222595@demo.in,"261, Wholesale Market, Visakhapatnam",37IRCCX4160CQ01,2025-05-09 00:00:00,FALSE
+23,Annapurna Agencies #23,Pepsi Portfolio,9174918045,annapurnaagencies233047@example.com,"296, Auto Nagar, Visakhapatnam",37RUKCI0938M3QY,2024-08-03 00:00:00,FALSE
+24,Prasad Enterprises #24,Pepsi Portfolio,9597043888,prasadenterprises24109@demo.in,"58, Industrial Estate, Visakhapatnam",37GDVJI1390PUY6,2025-10-17 00:00:00,FALSE
+25,Surya Distributors #25,Coke Portfolio,6374612978,suryadistributors257015@demo.in,"234, Old Town, Visakhapatnam",37WLASY4014TPFO,2023-07-09 00:00:00,FALSE
+26,Suma Agencies #26,Pepsi Portfolio,9173658736,sumaagencies262724@example.com,"243, Industrial Estate, Visakhapatnam",37SYWOI3220NZ7U,2022-04-09 00:00:00,FALSE
+27,Surya Foods #27,Coke Portfolio,7720182606,suryafoods273126@demo.in,"182, Wholesale Market, Visakhapatnam",37NHUQN8656YP32,2021-05-22 00:00:00,FALSE
+28,Kiran Enterprises #28,Pepsi Portfolio,8908116810,kiranenterprises281539@mail.com,"275, Industrial Estate, Visakhapatnam",37UIPUU3661V8T6,2023-04-28 00:00:00,FALSE
+29,Om Wholesale #29,Coke Portfolio,7047931388,omwholesale292696@demo.in,"221, Industrial Estate, Visakhapatnam",37KXVMH7130ET47,2022-07-26 00:00:00,FALSE
+30,Suma Beverages #30,Coke Portfolio,7196757059,sumabeverages30919@demo.in,"99, Industrial Estate, Visakhapatnam",37TQWGI5865XDJN,2022-01-04 00:00:00,FALSE
+31,Balaji Agencies #31,Pepsi Portfolio,7541215020,balajiagencies314619@mail.com,"228, Industrial Estate, Visakhapatnam",37NKEIG4133RNYW,2025-02-22 00:00:00,FALSE
+32,Om Wholesale #32,Pepsi Portfolio,9949909320,omwholesale32986@demo.in,"48, Old Town, Visakhapatnam",37HEMSX6127MMWO,2023-04-29 00:00:00,FALSE
+33,Ravi Distributors #33,Coke Portfolio,7547141788,ravidistributors335291@mail.com,"155, Industrial Estate, Visakhapatnam",37XBPEG7367QKPE,2020-01-05 00:00:00,FALSE
+34,Suma Distributors #34,Local Portfolio,8187725015,sumadistributors346141@demo.in,"125, Wholesale Market, Visakhapatnam",37GIRQZ0574D4T0,2024-12-19 00:00:00,FALSE
+35,Teja Enterprises #35,Pepsi Portfolio,9366519451,tejaenterprises352530@demo.in,"260, Auto Nagar, Visakhapatnam",37BYHEW4578FQYM,2019-05-08 00:00:00,FALSE
+36,Vijaya Beverages #36,Local Portfolio,8866032339,vijayabeverages364359@example.com,"138, Auto Nagar, Visakhapatnam",37FXYKL4339BV9J,2023-09-16 00:00:00,FALSE
+37,Surya Traders #37,Pepsi Portfolio,6779665022,suryatraders378997@example.com,"214, Old Town, Visakhapatnam",37QJCLQ2989KHZY,2019-07-26 00:00:00,FALSE
+38,Naveen Agencies #38,Pepsi Portfolio,9176395734,naveenagencies387165@mail.com,"166, Auto Nagar, Visakhapatnam",37DVRCF0487IJ8R,2024-11-18 00:00:00,FALSE
+39,Rohit Wholesale #39,Mixed,6970966856,rohitwholesale399708@mail.com,"213, Industrial Estate, Visakhapatnam",37LUAMO5608SQN5,2020-02-28 00:00:00,FALSE
+40,Rohit Agencies #40,Local Portfolio,6069875179,rohitagencies409726@demo.in,"261, Industrial Estate, Visakhapatnam",37GWVCG4729MRHD,2023-12-03 00:00:00,FALSE
+41,Gandhi Enterprises #41,Local Portfolio,8589627794,gandhienterprises411777@example.com,"192, Auto Nagar, Visakhapatnam",37MGQAG5987EITS,2025-07-01 00:00:00,FALSE
+42,Lakshmi Beverages #42,Mixed,7930319369,lakshmibeverages426280@example.com,"270, Industrial Estate, Visakhapatnam",37EGEDV0862JEPQ,2019-03-21 00:00:00,FALSE
+43,Naveen Enterprises #43,Pepsi Portfolio,7215973933,naveenenterprises438764@demo.in,"180, Old Town, Visakhapatnam",37JVGQC2388CVKE,2025-09-09 00:00:00,FALSE
+44,Sri Wholesale #44,Mixed,7698061551,sriwholesale446701@demo.in,"189, Wholesale Market, Visakhapatnam",37XXKKH6751CLQ9,2021-09-14 00:00:00,FALSE
+45,Gandhi Wholesale #45,Pepsi Portfolio,6508600678,gandhiwholesale456724@example.com,"89, Old Town, Visakhapatnam",37ZXJEE3302PNCP,2019-08-21 00:00:00,FALSE
+46,Vijaya Agencies #46,Local Portfolio,6391550771,vijayaagencies465264@example.com,"25, Wholesale Market, Visakhapatnam",37XRRGE8635UWNT,2020-03-21 00:00:00,FALSE
+47,Anil Traders #47,Local Portfolio,7631027497,aniltraders475087@demo.in,"224, Old Town, Visakhapatnam",37LTHJO1484BE15,2021-04-22 00:00:00,FALSE
+48,Gandhi Wholesale #48,Coke Portfolio,8248065258,gandhiwholesale483037@example.com,"185, Wholesale Market, Visakhapatnam",37IKFAR9692T03Y,2023-09-04 00:00:00,FALSE
+49,Sri Distributors #49,Mixed,8304732277,sridistributors49658@example.com,"119, Old Town, Visakhapatnam",37TTHKQ3124SKM8,2021-10-29 00:00:00,FALSE
+50,Krishna Traders #50,Pepsi Portfolio,8168225811,krishnatraders508968@demo.in,"137, Old Town, Visakhapatnam",37KGZRI2074E0AS,2023-06-04 00:00:00,FALSE
+51,Lakshmi Foods #51,Pepsi Portfolio,8067513478,lakshmifoods515464@demo.in,"186, Industrial Estate, Visakhapatnam",37MTXLI1493GIS6,2023-04-17 00:00:00,FALSE
+52,Shiva Enterprises #52,Local Portfolio,8246578925,shivaenterprises527346@example.com,"178, Auto Nagar, Visakhapatnam",37KPOYV0282NZZ9,2020-04-29 00:00:00,FALSE
+53,Vijaya Traders #53,Pepsi Portfolio,6971388407,vijayatraders536442@example.com,"285, Industrial Estate, Visakhapatnam",37LYJRD1531WMHF,2025-10-14 00:00:00,FALSE
+54,Vinayaka Beverages #54,Local Portfolio,8128313055,vinayakabeverages542822@mail.com,"201, Auto Nagar, Visakhapatnam",37AWUER7861Q4WY,2021-09-21 00:00:00,FALSE
+55,Sri Foods #55,Pepsi Portfolio,9153516248,srifoods554796@mail.com,"161, Wholesale Market, Visakhapatnam",37ULLHP2760IITG,2022-04-15 00:00:00,FALSE
+56,Surya Wholesale #56,Local Portfolio,6013296470,suryawholesale565374@example.com,"122, Auto Nagar, Visakhapatnam",37QEVUQ0723MRII,2023-08-01 00:00:00,FALSE
+57,Shiva Agencies #57,Coke Portfolio,7503332649,shivaagencies571375@demo.in,"234, Wholesale Market, Visakhapatnam",37VNFCY9832QGPP,2019-02-08 00:00:00,FALSE
+58,Ravi Agencies #58,Pepsi Portfolio,8786155042,raviagencies585091@mail.com,"296, Auto Nagar, Visakhapatnam",37CXUOQ8701G8JH,2020-03-19 00:00:00,FALSE
+59,Teja Traders #59,Mixed,8415866188,tejatraders595806@demo.in,"211, Old Town, Visakhapatnam",37JZZAL8415BCTC,2024-11-14 00:00:00,FALSE
+60,Suma Foods #60,Pepsi Portfolio,9574673208,sumafoods603104@demo.in,"20, Auto Nagar, Visakhapatnam",37EPREZ2958ZKAU,2023-07-06 00:00:00,FALSE
+61,Rohit Distributors #61,Pepsi Portfolio,7480493769,rohitdistributors619985@example.com,"79, Industrial Estate, Visakhapatnam",37ROMLZ5665H1J9,2023-09-28 00:00:00,FALSE
+62,Sri Agencies #62,Pepsi Portfolio,7628428311,sriagencies625528@example.com,"150, Auto Nagar, Visakhapatnam",37NWTYK8964OZHW,2022-02-05 00:00:00,FALSE
+63,Vijaya Beverages #63,Local Portfolio,9120369151,vijayabeverages635255@mail.com,"39, Auto Nagar, Visakhapatnam",37DVQPE6073CKB1,2021-11-28 00:00:00,FALSE
+64,Kiran Distributors #64,Mixed,8194170802,kirandistributors642585@example.com,"154, Wholesale Market, Visakhapatnam",37DLYYI0824AJEQ,2021-10-26 00:00:00,FALSE
+65,Vinayaka Beverages #65,Mixed,6102669590,vinayakabeverages652451@mail.com,"269, Auto Nagar, Visakhapatnam",37VESLX3765O7VW,2020-08-13 00:00:00,FALSE
+66,Ravi Agencies #66,Local Portfolio,8624551175,raviagencies667806@mail.com,"197, Industrial Estate, Visakhapatnam",37YOIID3702ZMSZ,2021-03-22 00:00:00,FALSE
+67,Harsha Wholesale #67,Coke Portfolio,6713022140,harshawholesale675937@demo.in,"103, Old Town, Visakhapatnam",37TXGUY4903P4Z4,2020-12-07 00:00:00,FALSE
+68,Kiran Foods #68,Local Portfolio,8822572796,kiranfoods685886@mail.com,"82, Auto Nagar, Visakhapatnam",37AGZUW3092LCLM,2023-08-27 00:00:00,FALSE
+69,Rohit Agencies #69,Coke Portfolio,8529688808,rohitagencies694887@demo.in,"100, Wholesale Market, Visakhapatnam",37FNSKE6937F9P9,2024-10-10 00:00:00,FALSE
+70,Ravi Traders #70,Mixed,7892639511,ravitraders707671@demo.in,"219, Old Town, Visakhapatnam",37CNAGA2754GEWW,2023-08-21 00:00:00,FALSE
+71,Kiran Agencies #71,Mixed,7995096333,kiranagencies712737@mail.com,"81, Wholesale Market, Visakhapatnam",37PVAAF5705KG49,2019-09-28 00:00:00,FALSE
+72,Sree Traders #72,Pepsi Portfolio,6189112697,sreetraders727849@demo.in,"122, Industrial Estate, Visakhapatnam",37TUXXG1155C2PJ,2020-07-11 00:00:00,FALSE
+73,Vishnu Enterprises #73,Local Portfolio,9539423022,vishnuenterprises734209@example.com,"75, Old Town, Visakhapatnam",37ISXSV4781HRLR,2020-08-05 00:00:00,FALSE
+74,Teja Distributors #74,Mixed,6927749516,tejadistributors746429@example.com,"73, Wholesale Market, Visakhapatnam",37PVHAR3991GH6D,2023-08-17 00:00:00,FALSE
+75,Vijaya Distributors #75,Mixed,8534151502,vijayadistributors757913@demo.in,"223, Old Town, Visakhapatnam",37HLHGE3270MKSK,2021-05-03 00:00:00,FALSE
+76,Balaji Foods #76,Local Portfolio,6122367005,balajifoods767013@demo.in,"28, Wholesale Market, Visakhapatnam",37WHOES3075QVHN,2021-05-24 00:00:00,FALSE
+77,Gandhi Enterprises #77,Mixed,8685372334,gandhienterprises773739@example.com,"44, Old Town, Visakhapatnam",37VIVLT0782RTK6,2023-01-15 00:00:00,FALSE
+78,Anil Enterprises #78,Mixed,6547808280,anilenterprises782473@example.com,"187, Industrial Estate, Visakhapatnam",37HGXKX2971C37K,2022-10-12 00:00:00,FALSE
+79,Anusha Traders #79,Mixed,8970172980,anushatraders798073@example.com,"244, Industrial Estate, Visakhapatnam",37AIWBL4147LA0S,2021-04-15 00:00:00,FALSE
+80,Vijaya Distributors #80,Local Portfolio,9420713802,vijayadistributors809632@example.com,"241, Wholesale Market, Visakhapatnam",37VWSIX0336AVHR,2024-12-09 00:00:00,FALSE
+81,Lakshmi Traders #81,Mixed,9414036005,lakshmitraders816985@mail.com,"285, Old Town, Visakhapatnam",37HWDOO4445J7NA,2023-08-04 00:00:00,FALSE
+82,Anusha Wholesale #82,Pepsi Portfolio,9510679936,anushawholesale828450@demo.in,"138, Wholesale Market, Visakhapatnam",37OMBJF9941RY6L,2019-04-11 00:00:00,FALSE
+83,Venkateswara Enterprises #83,Pepsi Portfolio,6285543904,venkateswaraenterprises83652@demo.in,"34, Wholesale Market, Visakhapatnam",37JPTAZ7839F3W5,2024-03-10 00:00:00,FALSE
+84,Prasad Foods #84,Mixed,9835981212,prasadfoods841180@example.com,"268, Old Town, Visakhapatnam",37ZZBZR2814QWBW,2025-06-10 00:00:00,FALSE
+85,Surya Agencies #85,Mixed,9358399605,suryaagencies858492@example.com,"166, Old Town, Visakhapatnam",37NYURQ8581KL63,2020-12-11 00:00:00,FALSE
+86,Ravi Traders #86,Coke Portfolio,8964180402,ravitraders862787@demo.in,"83, Industrial Estate, Visakhapatnam",37NPNMC9315E94V,2023-01-16 00:00:00,FALSE
+87,Vishnu Beverages #87,Pepsi Portfolio,9207863789,vishnubeverages871096@example.com,"41, Auto Nagar, Visakhapatnam",37HTEFJ6118USBR,2020-02-01 00:00:00,FALSE
+88,Anusha Enterprises #88,Pepsi Portfolio,9926359975,anushaenterprises887423@example.com,"149, Industrial Estate, Visakhapatnam",37ZDSRI9062NE8V,2021-03-14 00:00:00,FALSE
+89,Annapurna Distributors #89,Pepsi Portfolio,7242552782,annapurnadistributors896238@demo.in,"107, Industrial Estate, Visakhapatnam",37FAESJ7851PUWA,2020-09-09 00:00:00,FALSE
+90,Lakshmi Enterprises #90,Local Portfolio,8954703017,lakshmienterprises901564@example.com,"207, Industrial Estate, Visakhapatnam",37UOQQT5270VU2W,2025-02-12 00:00:00,FALSE
+91,Sai Beverages #91,Pepsi Portfolio,7020251113,saibeverages913870@demo.in,"102, Industrial Estate, Visakhapatnam",37IGIUT7377SBAP,2021-12-29 00:00:00,FALSE
+92,Sai Distributors #92,Local Portfolio,6971224267,saidistributors922400@mail.com,"162, Auto Nagar, Visakhapatnam",37JCEXE3704WJGI,2025-01-29 00:00:00,FALSE
+93,Vijaya Foods #93,Coke Portfolio,9378403043,vijayafoods936063@demo.in,"36, Auto Nagar, Visakhapatnam",37LPYFB5809HXM8,2024-02-24 00:00:00,FALSE
+94,Suma Enterprises #94,Mixed,6205387125,sumaenterprises947323@example.com,"168, Auto Nagar, Visakhapatnam",37FAULU0471T5ZS,2021-04-26 00:00:00,FALSE
+95,Venkateswara Agencies #95,Coke Portfolio,7563900957,venkateswaraagencies951525@mail.com,"108, Auto Nagar, Visakhapatnam",37STDHO4453ASPO,2020-04-06 00:00:00,FALSE
+96,Sree Enterprises #96,Coke Portfolio,7944593041,sreeenterprises968687@mail.com,"91, Auto Nagar, Visakhapatnam",37PULXS3399VWF4,2025-04-16 00:00:00,FALSE
+97,Prasad Wholesale #97,Coke Portfolio,6148462404,prasadwholesale971510@example.com,"161, Old Town, Visakhapatnam",37HZGCJ9584O3YI,2020-06-19 00:00:00,FALSE
+98,Vishnu Wholesale #98,Coke Portfolio,6353506232,vishnuwholesale983626@example.com,"31, Old Town, Visakhapatnam",37XGLBD4616FROD,2025-04-11 00:00:00,FALSE
+99,Suma Agencies #99,Coke Portfolio,8358516592,sumaagencies995645@example.com,"93, Auto Nagar, Visakhapatnam",37SCIPZ3929HH2C,2024-12-13 00:00:00,FALSE
+100,Annapurna Beverages #100,Coke Portfolio,7165213597,annapurnabeverages100946@demo.in,"160, Wholesale Market, Visakhapatnam",37XBTEK2451B9AA,2022-02-23 00:00:00,FALSE
+101,Krishna Wholesale #101,Pepsi Portfolio,9911654084,krishnawholesale1019136@mail.com,"267, Old Town, Visakhapatnam",37QLZAN7606LQ88,2023-11-01 00:00:00,FALSE
+102,Harsha Beverages #102,Local Portfolio,6851619326,harshabeverages1022750@example.com,"184, Wholesale Market, Visakhapatnam",37VHHFX9204ONOQ,2021-04-17 00:00:00,FALSE
+103,Anil Distributors #103,Local Portfolio,7083740163,anildistributors103151@demo.in,"4, Industrial Estate, Visakhapatnam",37YVHNR0904ZWLG,2024-05-24 00:00:00,FALSE
+104,Rohit Foods #104,Mixed,8712101339,rohitfoods1045918@mail.com,"171, Industrial Estate, Visakhapatnam",37RTMBD4758KUL7,2023-01-12 00:00:00,FALSE
+105,Naveen Foods #105,Local Portfolio,9112563121,naveenfoods1055178@mail.com,"75, Auto Nagar, Visakhapatnam",37EEAUR8998LWVT,2024-11-20 00:00:00,FALSE
+106,Kiran Foods #106,Mixed,9921310647,kiranfoods1064388@demo.in,"160, Industrial Estate, Visakhapatnam",37WIRSV9244C32U,2021-07-22 00:00:00,FALSE
+107,Surya Traders #107,Local Portfolio,6349603320,suryatraders1079174@example.com,"165, Industrial Estate, Visakhapatnam",37QJKFY7660J3PW,2021-05-09 00:00:00,FALSE
+108,Anusha Traders #108,Pepsi Portfolio,9320439513,anushatraders1089318@mail.com,"289, Auto Nagar, Visakhapatnam",37ARSNM5164JRUA,2020-05-04 00:00:00,FALSE
+109,Anusha Distributors #109,Mixed,7879403029,anushadistributors1099927@demo.in,"272, Industrial Estate, Visakhapatnam",37WSZQS6315QH70,2022-08-15 00:00:00,FALSE
+110,Vijaya Beverages #110,Local Portfolio,8377488246,vijayabeverages1104672@demo.in,"158, Old Town, Visakhapatnam",37TXWZB9557A4B7,2019-01-17 00:00:00,FALSE
+111,Anusha Distributors #111,Pepsi Portfolio,8459978875,anushadistributors1118125@demo.in,"150, Old Town, Visakhapatnam",37QQKYD9496HUW2,2021-11-20 00:00:00,FALSE
+112,Balaji Distributors #112,Coke Portfolio,8373816574,balajidistributors1127300@mail.com,"22, Wholesale Market, Visakhapatnam",37MKPOS5388XI2A,2023-06-10 00:00:00,FALSE
+113,Balaji Traders #113,Coke Portfolio,6628126095,balajitraders1134466@example.com,"58, Auto Nagar, Visakhapatnam",37TWAWA3245VZ04,2024-06-07 00:00:00,FALSE
+114,Lakshmi Distributors #114,Mixed,7450719940,lakshmidistributors1142824@example.com,"239, Wholesale Market, Visakhapatnam",37AZDAB1140ZVBT,2025-07-03 00:00:00,FALSE
+115,Shiva Wholesale #115,Local Portfolio,7116509988,shivawholesale1151309@example.com,"253, Industrial Estate, Visakhapatnam",37SRRQG5877E5Y7,2019-03-10 00:00:00,FALSE
+116,Vinayaka Distributors #116,Mixed,7429041444,vinayakadistributors1168342@demo.in,"1, Industrial Estate, Visakhapatnam",37GSSPB2179C7Q5,2024-10-13 00:00:00,FALSE
+117,Sree Wholesale #117,Local Portfolio,6404600902,sreewholesale1174771@example.com,"172, Old Town, Visakhapatnam",37NADQN0889U5ZA,2020-10-26 00:00:00,FALSE
+118,Annapurna Wholesale #118,Pepsi Portfolio,7297463741,annapurnawholesale1183381@mail.com,"128, Auto Nagar, Visakhapatnam",37ZDAFJ5877GRF6,2019-02-22 00:00:00,FALSE
+119,Om Agencies #119,Pepsi Portfolio,9495721163,omagencies1199257@example.com,"22, Auto Nagar, Visakhapatnam",37GJVEK3610RR5C,2024-08-02 00:00:00,FALSE
+120,Teja Distributors #120,Coke Portfolio,9008734013,tejadistributors1203758@example.com,"56, Industrial Estate, Visakhapatnam",37YJZBR1483BQX6,2020-06-19 00:00:00,FALSE
+121,Sri Foods #121,Pepsi Portfolio,9711194054,srifoods1217827@example.com,"233, Auto Nagar, Visakhapatnam",37FNUSQ5967IC2Z,2025-02-03 00:00:00,FALSE
+122,Balaji Wholesale #122,Coke Portfolio,9532766714,balajiwholesale1223807@demo.in,"187, Wholesale Market, Visakhapatnam",37WIWOL6330T2RU,2023-05-03 00:00:00,FALSE
+123,Anusha Enterprises #123,Local Portfolio,7473321856,anushaenterprises1232785@mail.com,"92, Old Town, Visakhapatnam",37MJRSA1221QFAU,2023-12-19 00:00:00,FALSE
+124,Harsha Agencies #124,Pepsi Portfolio,6615602870,harshaagencies1245577@example.com,"144, Auto Nagar, Visakhapatnam",37LEGRM9812P2P8,2022-07-05 00:00:00,FALSE
+125,Vishnu Wholesale #125,Mixed,6707395252,vishnuwholesale1252207@example.com,"141, Old Town, Visakhapatnam",37CZLTS5640S705,2019-06-27 00:00:00,FALSE
+126,Vishnu Traders #126,Mixed,7146660355,vishnutraders1265022@example.com,"116, Auto Nagar, Visakhapatnam",37OMLUT8486QMFY,2019-10-08 00:00:00,FALSE
+127,Om Distributors #127,Coke Portfolio,9592657902,omdistributors1279123@mail.com,"171, Old Town, Visakhapatnam",37SHCCM6416XNP1,2025-07-11 00:00:00,FALSE
+128,Vijaya Traders #128,Pepsi Portfolio,6465497404,vijayatraders1285308@demo.in,"104, Wholesale Market, Visakhapatnam",37GWPPP4414PL9Z,2023-03-13 00:00:00,FALSE
+129,Vijaya Traders #129,Pepsi Portfolio,7344998756,vijayatraders1294570@demo.in,"250, Auto Nagar, Visakhapatnam",37WKGHC2426YMDV,2022-11-08 00:00:00,FALSE
+130,Gandhi Distributors #130,Coke Portfolio,9942363859,gandhidistributors1301702@mail.com,"138, Old Town, Visakhapatnam",37AXZZR6051RT1L,2025-07-15 00:00:00,FALSE
+131,Annapurna Distributors #131,Coke Portfolio,9838667793,annapurnadistributors1313149@example.com,"192, Industrial Estate, Visakhapatnam",37SGPKX6463KAKM,2022-02-23 00:00:00,FALSE
+132,Anil Agencies #132,Pepsi Portfolio,7286555817,anilagencies1321071@demo.in,"200, Wholesale Market, Visakhapatnam",37NUOKC6872ZH8B,2023-02-11 00:00:00,FALSE
+133,Anil Agencies #133,Local Portfolio,8729126298,anilagencies1333982@demo.in,"141, Industrial Estate, Visakhapatnam",37PGXWF4924GYYO,2019-06-14 00:00:00,FALSE
+134,Vijaya Foods #134,Mixed,7127912435,vijayafoods1343852@mail.com,"22, Old Town, Visakhapatnam",37LMGYO1728YLUB,2025-07-17 00:00:00,FALSE
+135,Ravi Enterprises #135,Mixed,8267627166,ravienterprises1355023@demo.in,"150, Old Town, Visakhapatnam",37GBYAX8953PZI6,2022-05-15 00:00:00,FALSE
+136,Krishna Distributors #136,Pepsi Portfolio,9243773408,krishnadistributors1369755@demo.in,"52, Industrial Estate, Visakhapatnam",37MEKOY5518WWTL,2020-12-21 00:00:00,FALSE
+137,Balaji Wholesale #137,Pepsi Portfolio,9184860099,balajiwholesale1379029@mail.com,"85, Old Town, Visakhapatnam",37RJWZH0155RYKE,2020-04-26 00:00:00,FALSE
+138,Vishnu Enterprises #138,Coke Portfolio,8927028981,vishnuenterprises1386024@example.com,"215, Auto Nagar, Visakhapatnam",37XZBQB3786YPHH,2023-08-12 00:00:00,FALSE
+139,Ravi Wholesale #139,Coke Portfolio,9558074122,raviwholesale1396971@mail.com,"200, Auto Nagar, Visakhapatnam",37WBMRV8394O9JG,2025-07-07 00:00:00,FALSE
+140,Sree Foods #140,Mixed,8351798302,sreefoods1403788@example.com,"149, Wholesale Market, Visakhapatnam",37RXMRA8848VXMJ,2024-08-09 00:00:00,FALSE
+141,Krishna Agencies #141,Pepsi Portfolio,6630342217,krishnaagencies1418399@mail.com,"146, Wholesale Market, Visakhapatnam",37QUKRD9422XDK9,2021-06-16 00:00:00,FALSE
+142,Harsha Foods #142,Coke Portfolio,8239410660,harshafoods1423777@example.com,"284, Auto Nagar, Visakhapatnam",37UJLNY7689S4JC,2024-03-24 00:00:00,FALSE
+143,Sri Beverages #143,Coke Portfolio,7384544094,sribeverages143146@example.com,"249, Wholesale Market, Visakhapatnam",37GFKHU2878R7NY,2019-06-26 00:00:00,FALSE
+144,Venkateswara Wholesale #144,Mixed,6455215240,venkateswarawholesale1441237@demo.in,"282, Auto Nagar, Visakhapatnam",37YRYCF8246NA2L,2025-08-01 00:00:00,FALSE
+145,Vishnu Enterprises #145,Mixed,8567381177,vishnuenterprises1459763@mail.com,"284, Industrial Estate, Visakhapatnam",37VAEHL2642L1HY,2019-08-16 00:00:00,FALSE
+146,Vishnu Foods #146,Mixed,8916730848,vishnufoods1463132@demo.in,"171, Wholesale Market, Visakhapatnam",37ZREUX8133ASTC,2020-09-18 00:00:00,FALSE
+147,Sai Wholesale #147,Local Portfolio,6546954083,saiwholesale1474954@mail.com,"275, Old Town, Visakhapatnam",37IZDGJ5172A48T,2023-11-22 00:00:00,FALSE
+148,Surya Foods #148,Mixed,8151292600,suryafoods1489449@example.com,"82, Industrial Estate, Visakhapatnam",37QWHSO5878PBT0,2021-05-25 00:00:00,FALSE
+149,Krishna Agencies #149,Coke Portfolio,7092999571,krishnaagencies1493974@demo.in,"276, Auto Nagar, Visakhapatnam",37OEDQF3084LLR1,2023-04-12 00:00:00,FALSE
+150,Harsha Enterprises #150,Coke Portfolio,7259563849,harshaenterprises1507325@demo.in,"77, Wholesale Market, Visakhapatnam",37BPQGB9880QG4V,2019-06-18 00:00:00,FALSE
+151,Teja Foods #151,Coke Portfolio,8004547553,tejafoods1513731@example.com,"70, Old Town, Visakhapatnam",37LPMXO1607JTGY,2019-08-21 00:00:00,FALSE
+152,Naveen Foods #152,Coke Portfolio,9557479871,naveenfoods1524920@demo.in,"145, Old Town, Visakhapatnam",37ONJIG2605V7U2,2021-06-24 00:00:00,FALSE
+153,Balaji Foods #153,Coke Portfolio,7355770832,balajifoods153533@mail.com,"46, Old Town, Visakhapatnam",37WVVJW9981AK5Y,2023-03-08 00:00:00,FALSE
+154,Sai Foods #154,Mixed,8966142219,saifoods154807@mail.com,"173, Auto Nagar, Visakhapatnam",37RBEKT4633TUPC,2025-09-15 00:00:00,FALSE
+155,Anusha Beverages #155,Coke Portfolio,6284410380,anushabeverages1559479@example.com,"63, Old Town, Visakhapatnam",37RXWUY4643GX5H,2019-02-23 00:00:00,FALSE
+156,Sai Enterprises #156,Local Portfolio,7591935695,saienterprises1566575@example.com,"255, Old Town, Visakhapatnam",37NHWBP1622U6UJ,2023-04-15 00:00:00,FALSE
+157,Krishna Traders #157,Local Portfolio,6455332729,krishnatraders1571110@example.com,"70, Wholesale Market, Visakhapatnam",37OZSYU8828RVCL,2021-04-06 00:00:00,FALSE
+158,Vishnu Beverages #158,Local Portfolio,7258925340,vishnubeverages1586588@mail.com,"271, Old Town, Visakhapatnam",37ORVRU2216D7YA,2025-03-26 00:00:00,FALSE
+159,Sree Distributors #159,Coke Portfolio,9741441865,sreedistributors1594203@mail.com,"298, Wholesale Market, Visakhapatnam",37LTZCC1806PO7D,2025-07-24 00:00:00,FALSE
+160,Venkateswara Traders #160,Coke Portfolio,9959307515,venkateswaratraders1604349@example.com,"214, Old Town, Visakhapatnam",37NKRQS4124LSOV,2023-10-19 00:00:00,FALSE
+161,Venkateswara Enterprises #161,Mixed,8928183877,venkateswaraenterprises161646@demo.in,"242, Old Town, Visakhapatnam",37ROOUA8191BEUE,2020-11-19 00:00:00,FALSE
+162,Ravi Wholesale #162,Mixed,8980672271,raviwholesale1622103@mail.com,"178, Industrial Estate, Visakhapatnam",37OZEZN9211U7FR,2022-06-05 00:00:00,FALSE
+163,Vishnu Traders #163,Local Portfolio,9433585272,vishnutraders1636565@mail.com,"140, Old Town, Visakhapatnam",37SDBOV3524I634,2020-04-17 00:00:00,FALSE
+164,Anil Agencies #164,Local Portfolio,8298921595,anilagencies1641741@example.com,"236, Industrial Estate, Visakhapatnam",37PJWXE6076MS0X,2022-12-01 00:00:00,FALSE
+165,Vishnu Distributors #165,Pepsi Portfolio,8931306376,vishnudistributors1657909@demo.in,"68, Auto Nagar, Visakhapatnam",37ABMKQ6196IM7Y,2019-09-14 00:00:00,FALSE
+166,Sai Distributors #166,Mixed,9794408599,saidistributors1667829@mail.com,"131, Wholesale Market, Visakhapatnam",37RSQJT5993RP6J,2025-04-12 00:00:00,FALSE
+167,Sai Traders #167,Coke Portfolio,8771370936,saitraders1673150@mail.com,"234, Auto Nagar, Visakhapatnam",37ZPIMO2384C4S4,2021-07-18 00:00:00,FALSE
+168,Balaji Agencies #168,Pepsi Portfolio,7943165020,balajiagencies1685354@demo.in,"267, Industrial Estate, Visakhapatnam",37UTIXK0780VXVT,2024-01-05 00:00:00,FALSE
+169,Balaji Traders #169,Pepsi Portfolio,7022953116,balajitraders1696068@mail.com,"171, Wholesale Market, Visakhapatnam",37FLCUS3045VLGJ,2024-10-01 00:00:00,FALSE
+170,Teja Wholesale #170,Mixed,9839245407,tejawholesale1704407@example.com,"235, Old Town, Visakhapatnam",37RAHYS3810XY57,2024-01-02 00:00:00,FALSE
+171,Sree Traders #171,Local Portfolio,7731049835,sreetraders1715591@example.com,"204, Auto Nagar, Visakhapatnam",37DBMLB0256ROF6,2025-05-14 00:00:00,FALSE
+172,Harsha Agencies #172,Pepsi Portfolio,9651920684,harshaagencies1727745@example.com,"43, Wholesale Market, Visakhapatnam",37IIPJG9176CFB7,2023-01-04 00:00:00,FALSE
+173,Harsha Distributors #173,Mixed,6757763114,harshadistributors1732945@example.com,"148, Auto Nagar, Visakhapatnam",37HWRLF1125ND5W,2025-05-07 00:00:00,FALSE
+174,Kiran Distributors #174,Pepsi Portfolio,6983342523,kirandistributors1746506@example.com,"246, Old Town, Visakhapatnam",37QQZOF5050H9F0,2024-12-26 00:00:00,FALSE
+175,Anusha Foods #175,Local Portfolio,6235245770,anushafoods1753091@demo.in,"139, Old Town, Visakhapatnam",37FXCHN5204F0YO,2023-09-13 00:00:00,FALSE
+176,Ravi Foods #176,Mixed,6327377857,ravifoods1768488@mail.com,"43, Auto Nagar, Visakhapatnam",37EYSMA6632TCAJ,2023-09-16 00:00:00,FALSE
+177,Balaji Traders #177,Pepsi Portfolio,9262062477,balajitraders1777390@example.com,"292, Old Town, Visakhapatnam",37GAYRO9952GO3A,2022-02-03 00:00:00,FALSE
+178,Lakshmi Traders #178,Coke Portfolio,7462247685,lakshmitraders1782860@mail.com,"23, Auto Nagar, Visakhapatnam",37OAGZP9098H2Z8,2024-10-24 00:00:00,FALSE
+179,Harsha Agencies #179,Mixed,9610688690,harshaagencies17935@example.com,"47, Industrial Estate, Visakhapatnam",37YBYRB4418KSNX,2025-08-04 00:00:00,FALSE
+180,Sri Foods #180,Local Portfolio,8344967077,srifoods1808859@demo.in,"64, Industrial Estate, Visakhapatnam",37ZANVH8534C0FY,2025-02-25 00:00:00,FALSE
+181,Anil Traders #181,Mixed,6989756583,aniltraders1814672@example.com,"77, Old Town, Visakhapatnam",37FCDZQ0178OS0F,2020-09-26 00:00:00,FALSE
+182,Rohit Traders #182,Local Portfolio,6622322296,rohittraders1821866@demo.in,"88, Old Town, Visakhapatnam",37EGOOB8537DQRU,2023-09-19 00:00:00,FALSE
+183,Anil Distributors #183,Mixed,8586723356,anildistributors1831232@demo.in,"108, Auto Nagar, Visakhapatnam",37JBZWM2064RP8E,2019-07-06 00:00:00,FALSE
+184,Anil Enterprises #184,Mixed,9086402258,anilenterprises1844958@mail.com,"133, Old Town, Visakhapatnam",37BDRAL4323F58A,2021-02-01 00:00:00,FALSE
+185,Lakshmi Enterprises #185,Pepsi Portfolio,6021313477,lakshmienterprises1852141@mail.com,"166, Old Town, Visakhapatnam",37JXHUR6616C7PU,2024-04-05 00:00:00,FALSE
+186,Sree Enterprises #186,Local Portfolio,9796842684,sreeenterprises1865207@example.com,"108, Old Town, Visakhapatnam",37YGQCJ0223DJ9N,2024-12-19 00:00:00,FALSE
+187,Suma Traders #187,Pepsi Portfolio,8155391961,sumatraders1873754@mail.com,"1, Wholesale Market, Visakhapatnam",37USOWN1994UYZY,2021-10-07 00:00:00,FALSE
+188,Harsha Enterprises #188,Coke Portfolio,7510371737,harshaenterprises1882111@demo.in,"139, Industrial Estate, Visakhapatnam",37FBGUX6457J3TB,2024-04-12 00:00:00,FALSE
+189,Teja Foods #189,Coke Portfolio,9451007945,tejafoods1892855@mail.com,"271, Old Town, Visakhapatnam",37GNXHD9409DN51,2019-03-28 00:00:00,FALSE
+190,Teja Traders #190,Pepsi Portfolio,9828827264,tejatraders1909005@demo.in,"280, Auto Nagar, Visakhapatnam",37BTNZT0119VXLW,2023-04-29 00:00:00,FALSE
+191,Kiran Agencies #191,Mixed,8265209718,kiranagencies1917019@mail.com,"277, Old Town, Visakhapatnam",37MUUSR9775IHBS,2022-10-22 00:00:00,FALSE
+192,Annapurna Wholesale #192,Local Portfolio,7936049772,annapurnawholesale1924291@demo.in,"269, Industrial Estate, Visakhapatnam",37HDUPS6110FLSF,2021-08-15 00:00:00,FALSE
+193,Surya Enterprises #193,Mixed,8712755618,suryaenterprises1936901@mail.com,"186, Wholesale Market, Visakhapatnam",37VFMCK6528SYSX,2025-10-22 00:00:00,FALSE
+194,Sree Distributors #194,Pepsi Portfolio,8034905967,sreedistributors1941065@demo.in,"154, Auto Nagar, Visakhapatnam",37WCFXU1016WU5Z,2024-09-05 00:00:00,FALSE
+195,Anil Beverages #195,Coke Portfolio,9084578701,anilbeverages1955629@example.com,"183, Industrial Estate, Visakhapatnam",37EHHBT5003YJ0I,2025-08-10 00:00:00,FALSE
+196,Om Wholesale #196,Coke Portfolio,7839057114,omwholesale196494@mail.com,"201, Wholesale Market, Visakhapatnam",37SZAEP9925BA0E,2024-08-12 00:00:00,FALSE
+197,Anil Enterprises #197,Pepsi Portfolio,6045257990,anilenterprises1974119@example.com,"108, Old Town, Visakhapatnam",37IVAGF9431EIQD,2019-10-10 00:00:00,FALSE
+198,Prasad Foods #198,Pepsi Portfolio,7814566672,prasadfoods1989438@demo.in,"206, Old Town, Visakhapatnam",37FDDCK6746HDKN,2021-12-16 00:00:00,FALSE
+199,Balaji Foods #199,Mixed,6056477441,balajifoods1995130@mail.com,"29, Auto Nagar, Visakhapatnam",37OOJDL3143R5MU,2025-08-03 00:00:00,FALSE
+200,Balaji Distributors #200,Pepsi Portfolio,6417614898,balajidistributors200962@mail.com,"122, Auto Nagar, Visakhapatnam",37SJRTH4802FOWA,2024-02-14 00:00:00,FALSE
+201,Venkateswara Enterprises #201,Coke Portfolio,6987408801,venkateswaraenterprises2016552@mail.com,"126, Old Town, Visakhapatnam",37XRITZ3745S8SV,2023-02-22 00:00:00,FALSE
+202,Gandhi Wholesale #202,Mixed,9837166789,gandhiwholesale2027279@example.com,"210, Auto Nagar, Visakhapatnam",37NRGKQ2825E8EF,2025-05-20 00:00:00,FALSE
+203,Sai Foods #203,Coke Portfolio,9123961599,saifoods2037752@demo.in,"18, Industrial Estate, Visakhapatnam",37KFMSP8444IEJ2,2025-08-02 00:00:00,FALSE
+204,Suma Agencies #204,Coke Portfolio,7999709714,sumaagencies2044292@example.com,"288, Industrial Estate, Visakhapatnam",37ERNQO3093K62D,2025-02-10 00:00:00,FALSE
+205,Venkateswara Wholesale #205,Coke Portfolio,7543757236,venkateswarawholesale205298@example.com,"154, Industrial Estate, Visakhapatnam",37VMOLP7101KO57,2024-11-04 00:00:00,FALSE
+206,Prasad Foods #206,Mixed,9919617330,prasadfoods2065652@example.com,"50, Industrial Estate, Visakhapatnam",37NHFOH9829C5Q2,2020-02-01 00:00:00,FALSE
+207,Annapurna Distributors #207,Mixed,8821067671,annapurnadistributors20731@mail.com,"120, Wholesale Market, Visakhapatnam",37EMJEK3436ZL5E,2024-08-02 00:00:00,FALSE
+208,Anil Agencies #208,Mixed,7953135025,anilagencies2085676@mail.com,"129, Wholesale Market, Visakhapatnam",37LMYOF4756D9PL,2025-06-07 00:00:00,FALSE
+209,Rohit Beverages #209,Coke Portfolio,6082376653,rohitbeverages2092605@demo.in,"193, Old Town, Visakhapatnam",37IDCFK4219JEAB,2023-09-23 00:00:00,FALSE
+210,Suma Foods #210,Local Portfolio,6859209131,sumafoods2108933@example.com,"295, Wholesale Market, Visakhapatnam",37UTJYD1397XNIM,2021-09-11 00:00:00,FALSE
+211,Krishna Traders #211,Local Portfolio,8276435028,krishnatraders2111253@example.com,"177, Auto Nagar, Visakhapatnam",37MRRAM4810C58N,2019-04-01 00:00:00,FALSE
+212,Krishna Enterprises #212,Mixed,6535046331,krishnaenterprises2124002@demo.in,"283, Auto Nagar, Visakhapatnam",37WTBPP3820WNZA,2021-08-24 00:00:00,FALSE
+213,Surya Enterprises #213,Coke Portfolio,8145440106,suryaenterprises2139901@mail.com,"266, Auto Nagar, Visakhapatnam",37GLMUV7052QZWS,2022-04-09 00:00:00,FALSE
+214,Krishna Wholesale #214,Coke Portfolio,9950468933,krishnawholesale2142407@mail.com,"66, Industrial Estate, Visakhapatnam",37WZPMM9843TL6C,2025-07-09 00:00:00,FALSE
+215,Sree Foods #215,Mixed,8365508541,sreefoods215412@example.com,"194, Wholesale Market, Visakhapatnam",37CSDJU9889HIAA,2023-05-21 00:00:00,FALSE
+216,Rohit Foods #216,Local Portfolio,6924192305,rohitfoods2169007@demo.in,"198, Old Town, Visakhapatnam",37NCQWQ0229XJNM,2021-01-09 00:00:00,FALSE
+217,Lakshmi Wholesale #217,Local Portfolio,6646070448,lakshmiwholesale2177640@mail.com,"74, Old Town, Visakhapatnam",37REMQQ8517CM3B,2024-10-18 00:00:00,FALSE
+218,Sree Foods #218,Mixed,8107154816,sreefoods2183371@demo.in,"250, Old Town, Visakhapatnam",37JQQZG4301KYOK,2024-02-24 00:00:00,FALSE
+219,Annapurna Enterprises #219,Coke Portfolio,9022518217,annapurnaenterprises2193296@mail.com,"121, Old Town, Visakhapatnam",37PVGOF1851LNW7,2020-07-13 00:00:00,FALSE
+220,Annapurna Traders #220,Pepsi Portfolio,6119714828,annapurnatraders2205484@mail.com,"300, Wholesale Market, Visakhapatnam",37NSGFF7343RS0A,2021-01-23 00:00:00,FALSE
+221,Teja Beverages #221,Pepsi Portfolio,7706097284,tejabeverages221311@example.com,"116, Auto Nagar, Visakhapatnam",37CXQFD4546G1SE,2022-12-29 00:00:00,FALSE
+222,Om Wholesale #222,Mixed,9910605683,omwholesale2224133@example.com,"139, Old Town, Visakhapatnam",37NZGOW7932WGZB,2025-05-29 00:00:00,FALSE
+223,Vinayaka Agencies #223,Local Portfolio,7287775651,vinayakaagencies2237498@mail.com,"231, Auto Nagar, Visakhapatnam",37KRHDD0719CH8S,2022-04-01 00:00:00,FALSE
+224,Kiran Wholesale #224,Coke Portfolio,7180001061,kiranwholesale2244116@example.com,"87, Old Town, Visakhapatnam",37YHJRG9860JFK1,2023-08-08 00:00:00,FALSE
+225,Krishna Wholesale #225,Mixed,6897138919,krishnawholesale2257166@mail.com,"18, Industrial Estate, Visakhapatnam",37ADPTZ3345CMVA,2020-03-18 00:00:00,FALSE
+226,Vijaya Foods #226,Mixed,6683897921,vijayafoods2263388@demo.in,"278, Auto Nagar, Visakhapatnam",37IRJLA6837TAVG,2021-11-12 00:00:00,FALSE
+227,Naveen Distributors #227,Mixed,9440745017,naveendistributors2277108@mail.com,"80, Wholesale Market, Visakhapatnam",37IAYEW6977L1EL,2019-09-28 00:00:00,FALSE
+228,Surya Distributors #228,Pepsi Portfolio,9441106162,suryadistributors2282859@mail.com,"143, Auto Nagar, Visakhapatnam",37LBDLE0196CMWL,2019-01-06 00:00:00,FALSE
+229,Sai Enterprises #229,Coke Portfolio,6748076258,saienterprises2293217@mail.com,"228, Auto Nagar, Visakhapatnam",37PUUAM3461ARLT,2019-02-28 00:00:00,FALSE
+230,Venkateswara Distributors #230,Coke Portfolio,9523363487,venkateswaradistributors2305143@mail.com,"45, Wholesale Market, Visakhapatnam",37IEEAK1735CCGN,2024-01-26 00:00:00,FALSE
+231,Naveen Distributors #231,Coke Portfolio,7417419723,naveendistributors2318535@mail.com,"282, Old Town, Visakhapatnam",37YLTNP5774I8BA,2025-01-30 00:00:00,FALSE
+232,Krishna Traders #232,Coke Portfolio,8117432492,krishnatraders2324288@mail.com,"120, Auto Nagar, Visakhapatnam",37YMOSZ1742FNTU,2024-08-11 00:00:00,FALSE
+233,Surya Distributors #233,Mixed,7643902345,suryadistributors2337245@example.com,"197, Wholesale Market, Visakhapatnam",37AULSU7993BXY5,2021-10-15 00:00:00,FALSE
+234,Naveen Distributors #234,Pepsi Portfolio,7792040516,naveendistributors2348347@demo.in,"140, Industrial Estate, Visakhapatnam",37BUDUI5279V0ER,2024-02-28 00:00:00,FALSE
+235,Rohit Agencies #235,Coke Portfolio,8815545856,rohitagencies2356097@mail.com,"129, Auto Nagar, Visakhapatnam",37TZGAS4438IER2,2023-04-25 00:00:00,FALSE
+236,Teja Wholesale #236,Pepsi Portfolio,9686649488,tejawholesale2361867@mail.com,"176, Old Town, Visakhapatnam",37YJKCL1602S284,2021-12-04 00:00:00,FALSE
+237,Teja Wholesale #237,Local Portfolio,9489475928,tejawholesale2372992@example.com,"14, Old Town, Visakhapatnam",37QQJVB8047QBSR,2020-03-09 00:00:00,FALSE
+238,Balaji Beverages #238,Pepsi Portfolio,9910640171,balajibeverages238771@example.com,"85, Industrial Estate, Visakhapatnam",37VQXFU0793JE2H,2025-01-02 00:00:00,FALSE
+239,Venkateswara Traders #239,Pepsi Portfolio,9038463922,venkateswaratraders2395768@demo.in,"220, Wholesale Market, Visakhapatnam",37XLTFP2876W50P,2024-12-13 00:00:00,FALSE
+240,Krishna Wholesale #240,Pepsi Portfolio,8791841327,krishnawholesale2406993@demo.in,"105, Auto Nagar, Visakhapatnam",37LKAZT8967MJCZ,2024-09-10 00:00:00,FALSE
+241,Vijaya Wholesale #241,Coke Portfolio,6178987146,vijayawholesale2411958@example.com,"13, Old Town, Visakhapatnam",37CMWBX8058B1RR,2025-09-23 00:00:00,FALSE
+242,Sai Beverages #242,Pepsi Portfolio,7565184965,saibeverages2429609@example.com,"133, Industrial Estate, Visakhapatnam",37MRPRT7384UPVX,2023-09-13 00:00:00,FALSE
+243,Krishna Agencies #243,Mixed,8769284975,krishnaagencies2436495@example.com,"41, Industrial Estate, Visakhapatnam",37FEFRJ0890OE6H,2019-03-26 00:00:00,FALSE
+244,Surya Enterprises #244,Pepsi Portfolio,8088282590,suryaenterprises244382@example.com,"209, Industrial Estate, Visakhapatnam",37XLXFZ8436KBE1,2024-04-08 00:00:00,FALSE
+245,Rohit Enterprises #245,Pepsi Portfolio,8610956395,rohitenterprises2455071@demo.in,"61, Wholesale Market, Visakhapatnam",37WPYFW9092WJ6G,2023-09-26 00:00:00,FALSE
+246,Prasad Distributors #246,Local Portfolio,9637013319,prasaddistributors2464975@mail.com,"235, Old Town, Visakhapatnam",37PRHSJ3017CDQ0,2024-09-13 00:00:00,FALSE
+247,Anusha Traders #247,Local Portfolio,8003409297,anushatraders2477837@mail.com,"20, Auto Nagar, Visakhapatnam",37DQUFD0839WZ7Z,2021-07-14 00:00:00,FALSE
+248,Shiva Distributors #248,Mixed,9493100520,shivadistributors2484969@example.com,"240, Auto Nagar, Visakhapatnam",37CKESO0623LO1Z,2020-01-03 00:00:00,FALSE
+249,Kiran Enterprises #249,Pepsi Portfolio,6610969274,kiranenterprises2497687@example.com,"273, Old Town, Visakhapatnam",37DCAQS7364US0V,2025-03-23 00:00:00,FALSE
+250,Prasad Distributors #250,Local Portfolio,7876515847,prasaddistributors2507374@example.com,"162, Industrial Estate, Visakhapatnam",37ULNRD6778Y86W,2021-07-30 00:00:00,FALSE
+251,Balaji Beverages #251,Coke Portfolio,6151899599,balajibeverages2519421@mail.com,"82, Industrial Estate, Visakhapatnam",37HRDZU7004AMRX,2020-12-15 00:00:00,FALSE
+252,Gandhi Foods #252,Pepsi Portfolio,9606308407,gandhifoods2525833@demo.in,"191, Old Town, Visakhapatnam",37AMYUC6406WJGI,2019-12-03 00:00:00,FALSE
+253,Om Foods #253,Pepsi Portfolio,7975230248,omfoods2531445@demo.in,"111, Wholesale Market, Visakhapatnam",37DTMRE9146VRE9,2025-02-18 00:00:00,FALSE
+254,Annapurna Beverages #254,Mixed,9064990207,annapurnabeverages2548454@mail.com,"254, Wholesale Market, Visakhapatnam",37BTHTI3959F3QP,2023-10-26 00:00:00,FALSE
+255,Harsha Beverages #255,Pepsi Portfolio,8675396556,harshabeverages2552988@mail.com,"181, Wholesale Market, Visakhapatnam",37VGNTR5301HNWH,2022-09-21 00:00:00,FALSE
+256,Vishnu Enterprises #256,Coke Portfolio,6626585760,vishnuenterprises2561416@mail.com,"299, Industrial Estate, Visakhapatnam",37UEAXD4734BBPZ,2022-09-10 00:00:00,FALSE
+257,Venkateswara Enterprises #257,Coke Portfolio,7029875433,venkateswaraenterprises2578684@example.com,"52, Industrial Estate, Visakhapatnam",37MDCNY3513XRXD,2022-10-01 00:00:00,FALSE
+258,Rohit Enterprises #258,Local Portfolio,8967022590,rohitenterprises2581410@mail.com,"262, Industrial Estate, Visakhapatnam",37ECPPR5179P1RD,2019-12-12 00:00:00,FALSE
+259,Anil Distributors #259,Pepsi Portfolio,8580320749,anildistributors259617@demo.in,"264, Auto Nagar, Visakhapatnam",37TUILQ0440X3GO,2019-09-29 00:00:00,FALSE
+260,Anusha Traders #260,Coke Portfolio,9105853687,anushatraders2606691@mail.com,"5, Auto Nagar, Visakhapatnam",37ZRUWG0489YDU5,2021-07-05 00:00:00,FALSE
+261,Lakshmi Beverages #261,Pepsi Portfolio,7380165518,lakshmibeverages2619732@example.com,"115, Wholesale Market, Visakhapatnam",37AHPGC5762A0RJ,2021-05-10 00:00:00,FALSE
+262,Sai Enterprises #262,Pepsi Portfolio,8595383906,saienterprises2623931@example.com,"168, Industrial Estate, Visakhapatnam",37ETVIA2562WKDM,2022-09-03 00:00:00,FALSE
+263,Ravi Traders #263,Coke Portfolio,8465776142,ravitraders263199@example.com,"73, Industrial Estate, Visakhapatnam",37AJQJA2377DO8M,2024-04-07 00:00:00,FALSE
+264,Krishna Traders #264,Mixed,7417531493,krishnatraders2643652@mail.com,"69, Wholesale Market, Visakhapatnam",37VFRAC7935PMUM,2019-11-22 00:00:00,FALSE
+265,Shiva Traders #265,Local Portfolio,7984887606,shivatraders2655280@mail.com,"273, Old Town, Visakhapatnam",37OUDBS1422XLW6,2024-07-08 00:00:00,FALSE
+266,Balaji Agencies #266,Local Portfolio,8342080709,balajiagencies2667307@example.com,"167, Old Town, Visakhapatnam",37VTVCI4835BUAM,2025-06-07 00:00:00,FALSE
+267,Shiva Distributors #267,Coke Portfolio,7420068121,shivadistributors2676065@demo.in,"289, Industrial Estate, Visakhapatnam",37PFJAR1796RS59,2021-11-01 00:00:00,FALSE
+268,Anil Agencies #268,Coke Portfolio,6115728265,anilagencies2683442@mail.com,"31, Auto Nagar, Visakhapatnam",37JFAMV5961TP30,2024-09-01 00:00:00,FALSE
+269,Sree Agencies #269,Pepsi Portfolio,6359269059,sreeagencies2698625@mail.com,"175, Auto Nagar, Visakhapatnam",37RYSPC9504HC6M,2023-01-04 00:00:00,FALSE
+270,Surya Traders #270,Coke Portfolio,7690633917,suryatraders2702507@example.com,"47, Old Town, Visakhapatnam",37YLNLO4808H461,2019-08-07 00:00:00,FALSE
+271,Rohit Beverages #271,Mixed,9468350988,rohitbeverages2711576@example.com,"272, Old Town, Visakhapatnam",37UJFEF4683GCXL,2025-01-19 00:00:00,FALSE
+272,Sree Traders #272,Mixed,7597448903,sreetraders2724541@demo.in,"27, Old Town, Visakhapatnam",37JGHNN5498VRUR,2021-02-17 00:00:00,FALSE
+273,Shiva Wholesale #273,Coke Portfolio,6382741086,shivawholesale2734459@mail.com,"69, Old Town, Visakhapatnam",37LPUIZ3014IMRF,2024-06-02 00:00:00,FALSE
+274,Teja Agencies #274,Mixed,6266422209,tejaagencies274636@mail.com,"188, Wholesale Market, Visakhapatnam",37UHEUF6602X8WB,2020-01-16 00:00:00,FALSE
+275,Krishna Distributors #275,Mixed,7203414918,krishnadistributors2754181@example.com,"67, Old Town, Visakhapatnam",37FLESA5966Q1VU,2022-05-07 00:00:00,FALSE
+276,Om Foods #276,Mixed,6488050594,omfoods276448@mail.com,"187, Industrial Estate, Visakhapatnam",37IFSEF1646LVFU,2020-11-10 00:00:00,FALSE
+277,Sai Distributors #277,Coke Portfolio,6139451791,saidistributors2777064@demo.in,"172, Wholesale Market, Visakhapatnam",37TJOUL1777PXJB,2023-12-17 00:00:00,FALSE
+278,Sri Agencies #278,Local Portfolio,6529163255,sriagencies2781162@example.com,"265, Old Town, Visakhapatnam",37GOUMS0129ANL2,2022-08-12 00:00:00,FALSE
+279,Venkateswara Distributors #279,Pepsi Portfolio,9107242891,venkateswaradistributors2793074@example.com,"145, Industrial Estate, Visakhapatnam",37RDUED9929HJH9,2022-02-26 00:00:00,FALSE
+280,Naveen Enterprises #280,Mixed,6850332720,naveenenterprises2806896@demo.in,"274, Wholesale Market, Visakhapatnam",37UTXYG4047OWZI,2022-03-04 00:00:00,FALSE
+281,Venkateswara Foods #281,Mixed,6800389680,venkateswarafoods2811546@example.com,"100, Industrial Estate, Visakhapatnam",37ONSOX6666IT23,2023-04-11 00:00:00,FALSE
+282,Annapurna Foods #282,Pepsi Portfolio,8339856677,annapurnafoods2829152@mail.com,"13, Old Town, Visakhapatnam",37CIEAK0505C0SL,2025-03-06 00:00:00,FALSE
+283,Prasad Foods #283,Mixed,9446117504,prasadfoods2838967@demo.in,"124, Auto Nagar, Visakhapatnam",37HPBUF5347GF1J,2022-11-08 00:00:00,FALSE
+284,Kiran Foods #284,Local Portfolio,6005220946,kiranfoods2841584@demo.in,"47, Industrial Estate, Visakhapatnam",37EVKGC7148LQ64,2022-03-19 00:00:00,FALSE
+285,Venkateswara Traders #285,Pepsi Portfolio,6850717869,venkateswaratraders2854758@mail.com,"115, Wholesale Market, Visakhapatnam",37VAYMK7062GZ1O,2023-06-18 00:00:00,FALSE
+286,Annapurna Wholesale #286,Pepsi Portfolio,7268089538,annapurnawholesale2862908@example.com,"128, Industrial Estate, Visakhapatnam",37WCFXQ4346A5I8,2021-07-12 00:00:00,FALSE
+287,Krishna Wholesale #287,Coke Portfolio,6619756924,krishnawholesale287247@demo.in,"126, Industrial Estate, Visakhapatnam",37NECTH4525DDHM,2024-10-15 00:00:00,FALSE
+288,Vijaya Beverages #288,Coke Portfolio,7858748482,vijayabeverages2889653@example.com,"222, Old Town, Visakhapatnam",37RNVKR2461Q1EW,2024-03-14 00:00:00,FALSE
+289,Shiva Distributors #289,Mixed,7390639568,shivadistributors2898392@mail.com,"70, Wholesale Market, Visakhapatnam",37JFAZS7430ENHL,2019-08-13 00:00:00,FALSE
+290,Venkateswara Distributors #290,Mixed,8092351111,venkateswaradistributors290403@mail.com,"95, Old Town, Visakhapatnam",37PMNQJ3231VZOB,2021-11-17 00:00:00,FALSE
+291,Ravi Enterprises #291,Coke Portfolio,6707944417,ravienterprises2918854@mail.com,"245, Industrial Estate, Visakhapatnam",37QSXFV3725MCUT,2024-11-06 00:00:00,FALSE
+292,Prasad Distributors #292,Local Portfolio,8441913952,prasaddistributors2925554@example.com,"155, Industrial Estate, Visakhapatnam",37LRKUX1933MRYK,2023-02-14 00:00:00,FALSE
+293,Venkateswara Distributors #293,Coke Portfolio,7424412152,venkateswaradistributors2934314@example.com,"243, Wholesale Market, Visakhapatnam",37QDMZW6333WB1V,2019-06-14 00:00:00,FALSE
+294,Harsha Distributors #294,Mixed,7603863628,harshadistributors2945620@demo.in,"269, Wholesale Market, Visakhapatnam",37NXIZW1366P4KY,2019-06-01 00:00:00,FALSE
+295,Venkateswara Distributors #295,Mixed,9893455490,venkateswaradistributors2953567@mail.com,"283, Auto Nagar, Visakhapatnam",37YWHKN9197GUE7,2019-12-13 00:00:00,FALSE
+296,Teja Foods #296,Mixed,8294187586,tejafoods2968954@mail.com,"284, Wholesale Market, Visakhapatnam",37CWVUK3866YYHI,2024-06-18 00:00:00,FALSE
+297,Sai Distributors #297,Local Portfolio,7339582699,saidistributors2979323@mail.com,"119, Old Town, Visakhapatnam",37ALPNG3942NHX1,2023-05-06 00:00:00,FALSE
+298,Venkateswara Foods #298,Coke Portfolio,7294727449,venkateswarafoods2988918@mail.com,"215, Old Town, Visakhapatnam",37GKAXN8934KVOZ,2024-08-12 00:00:00,FALSE
+299,Om Traders #299,Mixed,8283568413,omtraders299862@demo.in,"198, Wholesale Market, Visakhapatnam",37JRJFT3766SZSN,2020-11-18 00:00:00,FALSE
+300,Sree Agencies #300,Mixed,9849198049,sreeagencies3009316@mail.com,"133, Auto Nagar, Visakhapatnam",37SCPLT1193I7WD,2022-12-26 00:00:00,FALSE
+301,Surya Traders #301,Pepsi Portfolio,7713508606,suryatraders3018635@mail.com,"25, Auto Nagar, Visakhapatnam",37UMFCT8028LPK7,2024-06-19 00:00:00,FALSE
+302,Venkateswara Wholesale #302,Mixed,7748416834,venkateswarawholesale3029110@mail.com,"238, Industrial Estate, Visakhapatnam",37LETOH5511SGFH,2019-03-07 00:00:00,FALSE
+303,Annapurna Distributors #303,Pepsi Portfolio,9211638739,annapurnadistributors303817@example.com,"229, Old Town, Visakhapatnam",37CPXBW3237Z011,2019-04-17 00:00:00,FALSE
+304,Krishna Beverages #304,Pepsi Portfolio,9293996224,krishnabeverages3047108@mail.com,"250, Old Town, Visakhapatnam",37FDUVC7332V9HY,2024-12-10 00:00:00,FALSE
+305,Sai Distributors #305,Pepsi Portfolio,9205883995,saidistributors30518@mail.com,"229, Industrial Estate, Visakhapatnam",37BXEQB1371R96A,2019-07-11 00:00:00,FALSE
+306,Lakshmi Agencies #306,Mixed,6491282602,lakshmiagencies3069323@mail.com,"134, Old Town, Visakhapatnam",37ZEWOA3858POUE,2023-07-22 00:00:00,FALSE
+307,Vinayaka Enterprises #307,Pepsi Portfolio,6418950691,vinayakaenterprises3077942@mail.com,"40, Industrial Estate, Visakhapatnam",37UBEKJ2490ICBF,2022-10-12 00:00:00,FALSE
+308,Balaji Agencies #308,Pepsi Portfolio,8074942735,balajiagencies3085023@mail.com,"164, Industrial Estate, Visakhapatnam",37ZWQTY3857INV5,2021-11-07 00:00:00,FALSE
+309,Harsha Agencies #309,Pepsi Portfolio,7402839924,harshaagencies3091711@demo.in,"236, Industrial Estate, Visakhapatnam",37KVSXQ4459EOZP,2021-04-12 00:00:00,FALSE
+310,Krishna Foods #310,Coke Portfolio,8735802583,krishnafoods3104499@example.com,"67, Wholesale Market, Visakhapatnam",37DVZZI0064H3JX,2024-09-17 00:00:00,FALSE
+311,Balaji Agencies #311,Coke Portfolio,7862491609,balajiagencies3119792@example.com,"98, Old Town, Visakhapatnam",37TBCAL9953Q9J6,2024-05-28 00:00:00,FALSE
+312,Rohit Wholesale #312,Coke Portfolio,8960021336,rohitwholesale3126687@example.com,"149, Wholesale Market, Visakhapatnam",37GQYVL4106O1JT,2024-08-11 00:00:00,FALSE
+313,Kiran Enterprises #313,Coke Portfolio,9117979225,kiranenterprises3132368@demo.in,"71, Auto Nagar, Visakhapatnam",37BENYA8297AAVK,2019-05-25 00:00:00,FALSE
+314,Venkateswara Agencies #314,Coke Portfolio,9055857360,venkateswaraagencies3141586@mail.com,"290, Wholesale Market, Visakhapatnam",37QQQHF3584BGZN,2023-09-11 00:00:00,FALSE
+315,Sree Agencies #315,Local Portfolio,6106439766,sreeagencies3157212@example.com,"107, Wholesale Market, Visakhapatnam",37MBUCZ2128E45H,2019-09-11 00:00:00,FALSE
+316,Vinayaka Distributors #316,Coke Portfolio,6862932502,vinayakadistributors316816@example.com,"107, Auto Nagar, Visakhapatnam",37KGWSH4050TJHV,2021-04-29 00:00:00,FALSE
+317,Sree Beverages #317,Coke Portfolio,6414651094,sreebeverages3174146@example.com,"55, Old Town, Visakhapatnam",37DZTYR2830A5S0,2021-06-13 00:00:00,FALSE
+318,Krishna Wholesale #318,Coke Portfolio,6089495328,krishnawholesale3186253@demo.in,"21, Industrial Estate, Visakhapatnam",37BNHVI9740DFDS,2020-11-04 00:00:00,FALSE
+319,Balaji Wholesale #319,Local Portfolio,6209168783,balajiwholesale3195550@demo.in,"53, Old Town, Visakhapatnam",37OGYQC4919ZH74,2023-06-05 00:00:00,FALSE
+320,Vijaya Enterprises #320,Pepsi Portfolio,6820076723,vijayaenterprises3209884@mail.com,"291, Auto Nagar, Visakhapatnam",37ZMPCJ8602OQ05,2023-06-25 00:00:00,FALSE
+321,Rohit Distributors #321,Mixed,6778888200,rohitdistributors321266@demo.in,"166, Wholesale Market, Visakhapatnam",37GLUYS6931ID5A,2024-04-12 00:00:00,FALSE
+322,Kiran Foods #322,Local Portfolio,7920430573,kiranfoods322571@demo.in,"291, Industrial Estate, Visakhapatnam",37VUXSQ7953A63E,2020-03-19 00:00:00,FALSE
+323,Harsha Traders #323,Pepsi Portfolio,6253574570,harshatraders3231463@demo.in,"7, Industrial Estate, Visakhapatnam",37ZIPKS8421TT2V,2020-02-17 00:00:00,FALSE
+324,Kiran Traders #324,Local Portfolio,9049387590,kirantraders3247362@example.com,"232, Wholesale Market, Visakhapatnam",37ADDSA2441P084,2023-04-25 00:00:00,FALSE
+325,Surya Foods #325,Local Portfolio,7605029481,suryafoods3255920@demo.in,"194, Auto Nagar, Visakhapatnam",37YLZGA5335IPVU,2023-12-07 00:00:00,FALSE
+326,Anusha Wholesale #326,Coke Portfolio,9278516014,anushawholesale3265036@mail.com,"85, Industrial Estate, Visakhapatnam",37GXYTC3296DTUW,2020-05-23 00:00:00,FALSE
+327,Gandhi Beverages #327,Coke Portfolio,6986699642,gandhibeverages3278535@example.com,"230, Wholesale Market, Visakhapatnam",37BXWBN3956PX25,2025-08-12 00:00:00,FALSE
+328,Balaji Enterprises #328,Local Portfolio,6279040485,balajienterprises3284235@mail.com,"148, Auto Nagar, Visakhapatnam",37FURVT1318QJ36,2021-10-07 00:00:00,FALSE
+329,Shiva Enterprises #329,Pepsi Portfolio,7992159174,shivaenterprises3294332@example.com,"274, Industrial Estate, Visakhapatnam",37UTGEA3956XQHD,2024-07-31 00:00:00,FALSE
+330,Ravi Beverages #330,Coke Portfolio,9714509696,ravibeverages3306880@example.com,"248, Old Town, Visakhapatnam",37MVTJF1815EDHW,2019-01-25 00:00:00,FALSE
+331,Harsha Enterprises #331,Mixed,8173518928,harshaenterprises3317722@demo.in,"222, Old Town, Visakhapatnam",37DDFGN2595SQDL,2019-05-02 00:00:00,FALSE
+332,Anusha Agencies #332,Pepsi Portfolio,6217429653,anushaagencies3328072@demo.in,"86, Industrial Estate, Visakhapatnam",37YIQJE4090SDDI,2019-06-22 00:00:00,FALSE
+333,Vinayaka Foods #333,Coke Portfolio,6630650373,vinayakafoods3332674@demo.in,"100, Industrial Estate, Visakhapatnam",37JCEFR1195CVZ1,2020-12-08 00:00:00,FALSE
+334,Annapurna Distributors #334,Local Portfolio,8664306103,annapurnadistributors3349859@demo.in,"130, Industrial Estate, Visakhapatnam",37RQPXZ0785YDMP,2019-07-01 00:00:00,FALSE
+335,Sri Beverages #335,Pepsi Portfolio,9494543925,sribeverages3353418@mail.com,"172, Wholesale Market, Visakhapatnam",37WBYTL8598CCQA,2020-11-24 00:00:00,FALSE
+336,Anil Agencies #336,Mixed,8717864006,anilagencies33651@mail.com,"295, Old Town, Visakhapatnam",37YBRVO6793UGW2,2024-08-31 00:00:00,FALSE
+337,Prasad Enterprises #337,Mixed,7901436387,prasadenterprises3371987@demo.in,"282, Industrial Estate, Visakhapatnam",37NAFZO2016WDMS,2022-05-09 00:00:00,FALSE
+338,Vinayaka Distributors #338,Coke Portfolio,8785904281,vinayakadistributors3381211@example.com,"70, Old Town, Visakhapatnam",37VGNYW6962FKSJ,2021-01-28 00:00:00,FALSE
+339,Kiran Foods #339,Mixed,8003218122,kiranfoods3396822@demo.in,"23, Wholesale Market, Visakhapatnam",37IWJCZ9674C06K,2020-12-24 00:00:00,FALSE
+340,Anusha Foods #340,Coke Portfolio,6360757639,anushafoods3405548@example.com,"222, Old Town, Visakhapatnam",37EBCVI5223DKF4,2021-12-10 00:00:00,FALSE
+341,Krishna Beverages #341,Mixed,6394797997,krishnabeverages3413735@example.com,"294, Industrial Estate, Visakhapatnam",37NSIIZ1426GI78,2022-12-21 00:00:00,FALSE
+342,Gandhi Wholesale #342,Local Portfolio,8975639687,gandhiwholesale342949@mail.com,"156, Wholesale Market, Visakhapatnam",37ABIZY8299CLYM,2021-09-21 00:00:00,FALSE
+343,Sai Beverages #343,Mixed,6146088582,saibeverages3435830@demo.in,"17, Wholesale Market, Visakhapatnam",37IJOVU5673BI9X,2019-06-16 00:00:00,FALSE
+344,Gandhi Distributors #344,Local Portfolio,9753840503,gandhidistributors3443934@demo.in,"144, Wholesale Market, Visakhapatnam",37OSGEQ2809TOVL,2025-01-03 00:00:00,FALSE
+345,Rohit Enterprises #345,Coke Portfolio,9545944220,rohitenterprises3456222@mail.com,"111, Wholesale Market, Visakhapatnam",37BHYZZ3647A9XM,2019-05-13 00:00:00,FALSE
+346,Lakshmi Agencies #346,Pepsi Portfolio,9429500446,lakshmiagencies3462942@example.com,"300, Wholesale Market, Visakhapatnam",37VJUTX8672OZUR,2019-08-26 00:00:00,FALSE
+347,Rohit Distributors #347,Coke Portfolio,8278610605,rohitdistributors3478670@mail.com,"266, Industrial Estate, Visakhapatnam",37QMMGM7393A12W,2024-11-05 00:00:00,FALSE
+348,Venkateswara Agencies #348,Mixed,6608754876,venkateswaraagencies3487504@demo.in,"290, Old Town, Visakhapatnam",37SSHCX1418SHU4,2022-07-27 00:00:00,FALSE
+349,Shiva Wholesale #349,Pepsi Portfolio,6639686691,shivawholesale349874@example.com,"197, Industrial Estate, Visakhapatnam",37AWAWB8221GXBM,2021-04-12 00:00:00,FALSE
+350,Shiva Enterprises #350,Pepsi Portfolio,6241648400,shivaenterprises3505894@mail.com,"250, Old Town, Visakhapatnam",37KDYDU6257KY8F,2023-01-24 00:00:00,FALSE
+351,Vinayaka Agencies #351,Local Portfolio,6614977201,vinayakaagencies3515095@mail.com,"266, Wholesale Market, Visakhapatnam",37YHUVR5264ZJKW,2022-12-09 00:00:00,FALSE
+352,Balaji Agencies #352,Pepsi Portfolio,8477619120,balajiagencies3523406@mail.com,"101, Old Town, Visakhapatnam",37MRMRR7811SC90,2020-11-13 00:00:00,FALSE
+353,Lakshmi Distributors #353,Local Portfolio,8817101073,lakshmidistributors3531679@example.com,"139, Auto Nagar, Visakhapatnam",37CMTPN6949UYEX,2019-09-12 00:00:00,FALSE
+354,Shiva Traders #354,Mixed,6454447491,shivatraders3542036@mail.com,"25, Wholesale Market, Visakhapatnam",37CDCDC4518FJKT,2021-02-03 00:00:00,FALSE
+355,Sri Traders #355,Mixed,6493567080,sritraders3554115@demo.in,"176, Wholesale Market, Visakhapatnam",37SGSVV6908NBLO,2020-02-23 00:00:00,FALSE
+356,Venkateswara Wholesale #356,Coke Portfolio,7841776492,venkateswarawholesale3569859@example.com,"53, Auto Nagar, Visakhapatnam",37UJGGY2830GO6T,2020-01-16 00:00:00,FALSE
+357,Harsha Enterprises #357,Mixed,7409640624,harshaenterprises3579915@demo.in,"148, Wholesale Market, Visakhapatnam",37JISID0460YLWD,2024-03-01 00:00:00,FALSE
+358,Sai Wholesale #358,Local Portfolio,8410241479,saiwholesale3582550@demo.in,"218, Wholesale Market, Visakhapatnam",37DQNPU5851F3J0,2024-01-17 00:00:00,FALSE
+359,Naveen Distributors #359,Mixed,7827745114,naveendistributors359784@example.com,"211, Old Town, Visakhapatnam",37FGDRI6515PYN7,2024-09-10 00:00:00,FALSE
+360,Sri Agencies #360,Coke Portfolio,9732558073,sriagencies3601658@example.com,"259, Auto Nagar, Visakhapatnam",37QZOQU9615Y9SC,2020-05-28 00:00:00,FALSE
+361,Sri Enterprises #361,Pepsi Portfolio,6369127422,srienterprises3619899@demo.in,"179, Industrial Estate, Visakhapatnam",37YTSGN2395JE63,2024-11-12 00:00:00,FALSE
+362,Anusha Wholesale #362,Mixed,6001171651,anushawholesale3627118@example.com,"124, Auto Nagar, Visakhapatnam",37TNVST9441DXWV,2021-03-05 00:00:00,FALSE
+363,Vinayaka Traders #363,Pepsi Portfolio,8912352865,vinayakatraders3631150@mail.com,"286, Auto Nagar, Visakhapatnam",37YZKVQ4141Q356,2019-09-06 00:00:00,FALSE
+364,Sree Agencies #364,Local Portfolio,9907532143,sreeagencies3648976@demo.in,"72, Auto Nagar, Visakhapatnam",37GVTDZ8038CGRR,2025-01-27 00:00:00,FALSE
+365,Gandhi Beverages #365,Pepsi Portfolio,9255337115,gandhibeverages3656864@demo.in,"202, Industrial Estate, Visakhapatnam",37MWTOB0548RGHD,2024-03-23 00:00:00,FALSE
+366,Sai Distributors #366,Local Portfolio,6966417669,saidistributors3668202@mail.com,"287, Auto Nagar, Visakhapatnam",37CUIAT9770LVL9,2019-05-22 00:00:00,FALSE
+367,Suma Wholesale #367,Local Portfolio,9285375181,sumawholesale3671220@demo.in,"297, Wholesale Market, Visakhapatnam",37UDLSC9768YLC7,2022-04-30 00:00:00,FALSE
+368,Naveen Enterprises #368,Coke Portfolio,6644889477,naveenenterprises3686803@demo.in,"205, Auto Nagar, Visakhapatnam",37KVCMZ3359LMA7,2023-06-23 00:00:00,FALSE
+369,Kiran Beverages #369,Pepsi Portfolio,8937169827,kiranbeverages369656@demo.in,"212, Auto Nagar, Visakhapatnam",37VSBKT5899ZAUI,2025-01-06 00:00:00,FALSE
+370,Teja Traders #370,Pepsi Portfolio,6581956206,tejatraders3708149@example.com,"281, Industrial Estate, Visakhapatnam",37YTUHU5193OFHU,2023-08-05 00:00:00,FALSE
+371,Naveen Agencies #371,Local Portfolio,8611414892,naveenagencies3715034@mail.com,"249, Auto Nagar, Visakhapatnam",37CZCVO5391NCQ4,2024-09-23 00:00:00,FALSE
+372,Anil Traders #372,Local Portfolio,7262556100,aniltraders3728517@demo.in,"194, Industrial Estate, Visakhapatnam",37HXIFO3833JPEY,2021-04-18 00:00:00,FALSE
+373,Annapurna Agencies #373,Mixed,6749772040,annapurnaagencies3738902@mail.com,"286, Auto Nagar, Visakhapatnam",37IORYR4388VVIL,2024-02-29 00:00:00,FALSE
+374,Anil Wholesale #374,Mixed,6978102430,anilwholesale3746340@demo.in,"245, Industrial Estate, Visakhapatnam",37QTMVJ5561HKTZ,2024-03-18 00:00:00,FALSE
+375,Harsha Enterprises #375,Local Portfolio,9855367716,harshaenterprises3759600@mail.com,"228, Industrial Estate, Visakhapatnam",37ESHRS9430PPAC,2020-03-31 00:00:00,FALSE
+376,Vinayaka Foods #376,Mixed,8647289186,vinayakafoods3765584@example.com,"36, Auto Nagar, Visakhapatnam",37UHWDM9968DWJ1,2024-01-03 00:00:00,FALSE
+377,Ravi Wholesale #377,Mixed,8926105639,raviwholesale3773693@demo.in,"215, Auto Nagar, Visakhapatnam",37NFZMJ8658MF1B,2021-10-06 00:00:00,FALSE
+378,Harsha Traders #378,Mixed,8054991201,harshatraders3781514@example.com,"228, Wholesale Market, Visakhapatnam",37UVCXC4572D3CO,2019-02-14 00:00:00,FALSE
+379,Anil Beverages #379,Coke Portfolio,9435557409,anilbeverages379584@example.com,"214, Wholesale Market, Visakhapatnam",37APTBK8559XJ8J,2022-11-23 00:00:00,FALSE
+380,Krishna Enterprises #380,Coke Portfolio,6860630869,krishnaenterprises380787@demo.in,"92, Auto Nagar, Visakhapatnam",37FPUQE9369DA1T,2024-11-02 00:00:00,FALSE
+381,Krishna Foods #381,Pepsi Portfolio,9937361416,krishnafoods3811390@demo.in,"181, Old Town, Visakhapatnam",37FDBLT6643PLFA,2024-09-15 00:00:00,FALSE
+382,Krishna Wholesale #382,Mixed,6727615321,krishnawholesale3826739@demo.in,"221, Industrial Estate, Visakhapatnam",37PVAUY0363BSBC,2024-10-01 00:00:00,FALSE
+383,Sree Foods #383,Coke Portfolio,7361277938,sreefoods3832296@example.com,"32, Industrial Estate, Visakhapatnam",37OGNQH8092EWU2,2022-08-19 00:00:00,FALSE
+384,Kiran Wholesale #384,Pepsi Portfolio,7199975885,kiranwholesale3849047@demo.in,"100, Old Town, Visakhapatnam",37DGZWB3706XMZ0,2019-06-01 00:00:00,FALSE
+385,Ravi Beverages #385,Mixed,8890579957,ravibeverages3853569@example.com,"80, Wholesale Market, Visakhapatnam",37CLXUC6674VGZ3,2025-08-10 00:00:00,FALSE
+386,Ravi Beverages #386,Coke Portfolio,9655833519,ravibeverages3862527@demo.in,"91, Industrial Estate, Visakhapatnam",37ZSJNO5817O09B,2024-09-27 00:00:00,FALSE
+387,Sai Distributors #387,Local Portfolio,8039055881,saidistributors387820@mail.com,"123, Old Town, Visakhapatnam",37MRRFJ2704XOC4,2021-02-27 00:00:00,FALSE
+388,Sree Distributors #388,Pepsi Portfolio,7870003394,sreedistributors3884511@mail.com,"58, Auto Nagar, Visakhapatnam",37MDAQK1904E244,2023-03-25 00:00:00,FALSE
+389,Annapurna Beverages #389,Coke Portfolio,8127345616,annapurnabeverages3895942@example.com,"284, Auto Nagar, Visakhapatnam",37TCQLF7619V8ZZ,2024-06-11 00:00:00,FALSE
+390,Vishnu Distributors #390,Mixed,6742175340,vishnudistributors3907793@demo.in,"266, Auto Nagar, Visakhapatnam",37BJCKW0153RN1X,2024-05-31 00:00:00,FALSE
+391,Anusha Foods #391,Mixed,8171846940,anushafoods3918500@mail.com,"300, Auto Nagar, Visakhapatnam",37ZDOWY6023AYGU,2019-12-08 00:00:00,FALSE
+392,Rohit Wholesale #392,Pepsi Portfolio,9403474677,rohitwholesale3921928@mail.com,"1, Industrial Estate, Visakhapatnam",37UBJTN0980ZN9S,2021-10-03 00:00:00,FALSE
+393,Vinayaka Beverages #393,Pepsi Portfolio,9750638673,vinayakabeverages3937197@mail.com,"203, Wholesale Market, Visakhapatnam",37QIPJM5656O51B,2021-07-24 00:00:00,FALSE
+394,Sree Beverages #394,Pepsi Portfolio,7078741976,sreebeverages3948862@demo.in,"101, Wholesale Market, Visakhapatnam",37VIMNB1468N6T1,2019-08-29 00:00:00,FALSE
+395,Surya Beverages #395,Pepsi Portfolio,6407267403,suryabeverages3959354@example.com,"77, Industrial Estate, Visakhapatnam",37QDTXQ8268ETTJ,2022-03-11 00:00:00,FALSE
+396,Sai Traders #396,Coke Portfolio,6415183905,saitraders396710@example.com,"54, Industrial Estate, Visakhapatnam",37AERCM5756XW0X,2020-12-05 00:00:00,FALSE
+397,Venkateswara Distributors #397,Coke Portfolio,7763010061,venkateswaradistributors3974388@mail.com,"191, Auto Nagar, Visakhapatnam",37BLTVT3004IQS4,2024-12-20 00:00:00,FALSE
+398,Rohit Foods #398,Mixed,9595756121,rohitfoods3988945@demo.in,"95, Old Town, Visakhapatnam",37CCZWI9601F9BP,2021-05-25 00:00:00,FALSE
+399,Sri Beverages #399,Coke Portfolio,8511563236,sribeverages3999945@mail.com,"169, Wholesale Market, Visakhapatnam",37JRMJJ0267W975,2024-05-08 00:00:00,FALSE
+400,Krishna Wholesale #400,Coke Portfolio,9616257864,krishnawholesale4001271@example.com,"292, Wholesale Market, Visakhapatnam",37KGIUW8596W6KH,2020-06-16 00:00:00,FALSE
+401,Sri Beverages #401,Mixed,7631216863,sribeverages4011611@mail.com,"149, Wholesale Market, Visakhapatnam",37NAJBT0410ABGS,2020-10-22 00:00:00,FALSE
+402,Krishna Distributors #402,Mixed,7804231703,krishnadistributors4022306@mail.com,"185, Industrial Estate, Visakhapatnam",37RJYSW5594K5E9,2024-02-11 00:00:00,FALSE
+403,Anil Beverages #403,Pepsi Portfolio,9569209844,anilbeverages4038808@example.com,"220, Industrial Estate, Visakhapatnam",37CRJAO6706ZQQ3,2021-04-19 00:00:00,FALSE
+404,Vijaya Agencies #404,Coke Portfolio,8967157303,vijayaagencies4045875@example.com,"118, Old Town, Visakhapatnam",37FQDMO0169UAU7,2024-06-12 00:00:00,FALSE
+405,Sri Foods #405,Local Portfolio,9539545971,srifoods4057567@example.com,"214, Wholesale Market, Visakhapatnam",37GXWHE5739HC7D,2022-07-31 00:00:00,FALSE
+406,Venkateswara Enterprises #406,Local Portfolio,7352357620,venkateswaraenterprises4069084@demo.in,"75, Industrial Estate, Visakhapatnam",37ZDHMP1454I7L1,2020-08-19 00:00:00,FALSE
+407,Anil Foods #407,Mixed,8522776766,anilfoods4072768@mail.com,"249, Auto Nagar, Visakhapatnam",37OKHHW4104C0SW,2022-02-26 00:00:00,FALSE
+408,Balaji Enterprises #408,Local Portfolio,8847459782,balajienterprises4081341@example.com,"232, Auto Nagar, Visakhapatnam",37MWHQJ0718HMKU,2020-04-22 00:00:00,FALSE
+409,Anil Beverages #409,Pepsi Portfolio,8545176080,anilbeverages4098293@mail.com,"293, Old Town, Visakhapatnam",37FUPMB6936HI8J,2023-01-19 00:00:00,FALSE
+410,Rohit Traders #410,Mixed,8012082836,rohittraders4102780@demo.in,"30, Wholesale Market, Visakhapatnam",37EPBBQ5458P34N,2022-12-04 00:00:00,FALSE
+411,Anusha Distributors #411,Pepsi Portfolio,7865537221,anushadistributors411137@mail.com,"106, Industrial Estate, Visakhapatnam",37LYNOZ6352PX18,2019-04-16 00:00:00,FALSE
+412,Vijaya Beverages #412,Pepsi Portfolio,9360307477,vijayabeverages4129047@demo.in,"47, Old Town, Visakhapatnam",37ZACXM5495IOS6,2023-03-04 00:00:00,FALSE
+413,Gandhi Foods #413,Local Portfolio,6366486793,gandhifoods4133221@example.com,"245, Wholesale Market, Visakhapatnam",37SQSWS6654XPAS,2022-02-19 00:00:00,FALSE
+414,Vinayaka Wholesale #414,Mixed,6130048667,vinayakawholesale4141347@example.com,"119, Auto Nagar, Visakhapatnam",37QALWM9136HNIK,2025-05-12 00:00:00,FALSE
+415,Harsha Beverages #415,Local Portfolio,6055295706,harshabeverages4158544@example.com,"192, Auto Nagar, Visakhapatnam",37NVNYK6875NDNG,2023-09-18 00:00:00,FALSE
+416,Balaji Distributors #416,Mixed,8381580848,balajidistributors4166552@mail.com,"148, Wholesale Market, Visakhapatnam",37OHGHT9929TW2F,2021-06-09 00:00:00,FALSE
+417,Teja Enterprises #417,Coke Portfolio,9544020476,tejaenterprises4177746@mail.com,"219, Old Town, Visakhapatnam",37CALEQ4757W62J,2025-01-12 00:00:00,FALSE
+418,Shiva Agencies #418,Coke Portfolio,7026858514,shivaagencies4188759@demo.in,"245, Industrial Estate, Visakhapatnam",37KVIVR9862PAL5,2025-08-14 00:00:00,FALSE
+419,Harsha Beverages #419,Mixed,9139789684,harshabeverages4192621@demo.in,"4, Auto Nagar, Visakhapatnam",37HGRKA0409I6ZP,2023-04-22 00:00:00,FALSE
+420,Ravi Agencies #420,Mixed,6054202004,raviagencies4207768@mail.com,"294, Wholesale Market, Visakhapatnam",37CYHDJ9079QRL8,2019-04-08 00:00:00,FALSE
+421,Teja Wholesale #421,Coke Portfolio,7139320551,tejawholesale4217347@example.com,"152, Industrial Estate, Visakhapatnam",37CKNBY6093C9LT,2022-02-20 00:00:00,FALSE
+422,Annapurna Distributors #422,Pepsi Portfolio,9325314927,annapurnadistributors4221813@example.com,"236, Auto Nagar, Visakhapatnam",37LPEWL6789HI1D,2024-01-27 00:00:00,FALSE
+423,Vijaya Distributors #423,Local Portfolio,9901017745,vijayadistributors4234650@example.com,"148, Industrial Estate, Visakhapatnam",37UEOJB2030AWQU,2022-08-16 00:00:00,FALSE
+424,Vijaya Agencies #424,Mixed,6211278472,vijayaagencies4241103@mail.com,"174, Wholesale Market, Visakhapatnam",37RLUSP1792XGW6,2020-03-11 00:00:00,FALSE
+425,Kiran Distributors #425,Local Portfolio,9508015511,kirandistributors4254195@mail.com,"275, Wholesale Market, Visakhapatnam",37FQZTV2989SDFK,2020-11-17 00:00:00,FALSE
+426,Ravi Enterprises #426,Pepsi Portfolio,9296223095,ravienterprises4269765@demo.in,"90, Auto Nagar, Visakhapatnam",37MBHZZ3201UZQ2,2019-09-19 00:00:00,FALSE
+427,Kiran Traders #427,Pepsi Portfolio,6761966228,kirantraders427402@demo.in,"236, Auto Nagar, Visakhapatnam",37GTJDO2572OAAO,2021-05-01 00:00:00,FALSE
+428,Gandhi Beverages #428,Mixed,9988747684,gandhibeverages4281132@example.com,"52, Old Town, Visakhapatnam",37HWGEI6455DQKQ,2024-07-11 00:00:00,FALSE
+429,Krishna Agencies #429,Local Portfolio,6267919575,krishnaagencies4292771@demo.in,"189, Wholesale Market, Visakhapatnam",37AKLCI2815L8K9,2019-02-08 00:00:00,FALSE
+430,Rohit Traders #430,Mixed,6471991835,rohittraders4302852@demo.in,"241, Auto Nagar, Visakhapatnam",37EQOBR2373LHZ9,2023-02-17 00:00:00,FALSE
+431,Rohit Foods #431,Local Portfolio,7405216318,rohitfoods4311313@example.com,"37, Old Town, Visakhapatnam",37LIDYS3166I5PF,2024-09-29 00:00:00,FALSE
+432,Om Wholesale #432,Local Portfolio,6476831649,omwholesale4324258@example.com,"269, Industrial Estate, Visakhapatnam",37BXTZI2853V4N0,2021-12-01 00:00:00,FALSE
+433,Balaji Agencies #433,Coke Portfolio,9186772066,balajiagencies433128@mail.com,"237, Old Town, Visakhapatnam",37KWACY6710L1BO,2022-09-30 00:00:00,FALSE
+434,Sri Traders #434,Mixed,8628984059,sritraders4346989@demo.in,"41, Industrial Estate, Visakhapatnam",37TXYAO4228L5EQ,2025-06-08 00:00:00,FALSE
+435,Sree Agencies #435,Pepsi Portfolio,6133061567,sreeagencies4352000@mail.com,"144, Old Town, Visakhapatnam",37MCXYF3697G1IL,2021-01-17 00:00:00,FALSE
+436,Rohit Distributors #436,Coke Portfolio,8975169912,rohitdistributors4364741@demo.in,"83, Auto Nagar, Visakhapatnam",37QFOUH4427ECUM,2022-11-17 00:00:00,FALSE
+437,Krishna Traders #437,Coke Portfolio,8609059935,krishnatraders4375584@example.com,"85, Industrial Estate, Visakhapatnam",37FMBPU7742NZOY,2020-12-09 00:00:00,FALSE
+438,Venkateswara Traders #438,Mixed,6858611456,venkateswaratraders4387614@demo.in,"252, Auto Nagar, Visakhapatnam",37WPRIB4439JF22,2023-01-19 00:00:00,FALSE
+439,Balaji Enterprises #439,Coke Portfolio,6193539964,balajienterprises4397380@demo.in,"13, Auto Nagar, Visakhapatnam",37MNQGM1050M5J8,2024-02-24 00:00:00,FALSE
+440,Sri Wholesale #440,Pepsi Portfolio,7040166307,sriwholesale4405867@demo.in,"44, Old Town, Visakhapatnam",37BZXHA4535ZYZK,2024-08-05 00:00:00,FALSE
+441,Sri Enterprises #441,Coke Portfolio,8902208530,srienterprises4415598@example.com,"237, Auto Nagar, Visakhapatnam",37VRZDU4014POR6,2024-01-11 00:00:00,FALSE
+442,Anil Wholesale #442,Coke Portfolio,6148007141,anilwholesale4423159@mail.com,"113, Auto Nagar, Visakhapatnam",37AZMVH7051TIH9,2021-05-22 00:00:00,FALSE
+443,Venkateswara Agencies #443,Local Portfolio,6072222744,venkateswaraagencies4436453@demo.in,"257, Wholesale Market, Visakhapatnam",37TJOSV9919QRIA,2022-09-22 00:00:00,FALSE
+444,Annapurna Wholesale #444,Pepsi Portfolio,6867648651,annapurnawholesale4448319@demo.in,"165, Old Town, Visakhapatnam",37MGTZP9372J4AG,2023-06-02 00:00:00,FALSE
+445,Harsha Wholesale #445,Coke Portfolio,7542059712,harshawholesale4456675@demo.in,"275, Industrial Estate, Visakhapatnam",37EUTOD0258IQ9R,2020-12-11 00:00:00,FALSE
+446,Venkateswara Distributors #446,Mixed,9696932072,venkateswaradistributors4461436@demo.in,"254, Wholesale Market, Visakhapatnam",37OFYEH1144YIU8,2020-01-22 00:00:00,FALSE
+447,Ravi Agencies #447,Pepsi Portfolio,7635135641,raviagencies4479872@example.com,"53, Auto Nagar, Visakhapatnam",37XSPIP4120IWOJ,2020-10-05 00:00:00,FALSE
+448,Sai Traders #448,Local Portfolio,7770713565,saitraders4483840@example.com,"208, Wholesale Market, Visakhapatnam",37NABRU9184NH4X,2021-11-10 00:00:00,FALSE
+449,Vijaya Traders #449,Local Portfolio,6862509580,vijayatraders4493529@example.com,"68, Auto Nagar, Visakhapatnam",37CZHTD1261HDKM,2019-11-21 00:00:00,FALSE
+450,Sree Enterprises #450,Mixed,6380053985,sreeenterprises450941@mail.com,"48, Old Town, Visakhapatnam",37PPWKR6190KV1J,2019-08-06 00:00:00,FALSE
+451,Sree Traders #451,Pepsi Portfolio,6282211956,sreetraders4516195@example.com,"23, Industrial Estate, Visakhapatnam",37EVJOM9634F08Y,2023-03-22 00:00:00,FALSE
+452,Kiran Traders #452,Local Portfolio,9389406408,kirantraders4526519@mail.com,"14, Wholesale Market, Visakhapatnam",37LTQYU4023MMFS,2020-10-07 00:00:00,FALSE
+453,Anusha Agencies #453,Mixed,7077652315,anushaagencies4538055@example.com,"89, Old Town, Visakhapatnam",37WTXQG3264RX11,2019-03-26 00:00:00,FALSE
+454,Anil Enterprises #454,Coke Portfolio,9845775008,anilenterprises4544184@demo.in,"84, Industrial Estate, Visakhapatnam",37KBDWK3050N0SH,2022-04-02 00:00:00,FALSE
+455,Prasad Agencies #455,Pepsi Portfolio,7921531224,prasadagencies4557696@mail.com,"69, Old Town, Visakhapatnam",37VEWHE7489AP82,2020-11-20 00:00:00,FALSE
+456,Anusha Agencies #456,Local Portfolio,6633312582,anushaagencies4565178@demo.in,"97, Auto Nagar, Visakhapatnam",37QHLNH8931MIBW,2019-07-30 00:00:00,FALSE
+457,Om Foods #457,Coke Portfolio,7421925994,omfoods4577120@mail.com,"300, Wholesale Market, Visakhapatnam",37FDVIC7765HLTC,2020-08-13 00:00:00,FALSE
+458,Shiva Distributors #458,Coke Portfolio,7579609542,shivadistributors4587271@example.com,"228, Old Town, Visakhapatnam",37OAUDM4718LAR8,2023-11-09 00:00:00,FALSE
+459,Shiva Foods #459,Pepsi Portfolio,7818333751,shivafoods4594261@mail.com,"140, Auto Nagar, Visakhapatnam",37MRANF0055YZDV,2019-03-20 00:00:00,FALSE
+460,Shiva Foods #460,Mixed,7562345405,shivafoods4603524@mail.com,"9, Old Town, Visakhapatnam",37KLRKF5363L7JH,2025-01-17 00:00:00,FALSE
+461,Anusha Distributors #461,Local Portfolio,7184147758,anushadistributors4613426@demo.in,"268, Industrial Estate, Visakhapatnam",37IIYEZ0866YC9V,2019-03-21 00:00:00,FALSE
+462,Balaji Beverages #462,Pepsi Portfolio,8806506951,balajibeverages4622296@mail.com,"243, Wholesale Market, Visakhapatnam",37TWNLI4986WQTV,2021-06-19 00:00:00,FALSE
+463,Sree Beverages #463,Mixed,8995764374,sreebeverages463247@mail.com,"46, Industrial Estate, Visakhapatnam",37QXKFH6556TAOE,2023-11-15 00:00:00,FALSE
+464,Gandhi Agencies #464,Mixed,6547159771,gandhiagencies4648663@mail.com,"245, Auto Nagar, Visakhapatnam",37GNCSS2774C5NF,2019-02-25 00:00:00,FALSE
+465,Vishnu Distributors #465,Local Portfolio,6701524065,vishnudistributors465596@mail.com,"23, Auto Nagar, Visakhapatnam",37THMLU5195AE1M,2021-02-17 00:00:00,FALSE
+466,Anusha Traders #466,Mixed,8471815864,anushatraders4663330@example.com,"140, Auto Nagar, Visakhapatnam",37BMNFS6244OEAB,2024-08-15 00:00:00,FALSE
+467,Suma Distributors #467,Pepsi Portfolio,9567540791,sumadistributors4673324@example.com,"95, Industrial Estate, Visakhapatnam",37EOVIE1010YIEC,2024-01-02 00:00:00,FALSE
+468,Vishnu Traders #468,Pepsi Portfolio,9205853868,vishnutraders4681733@mail.com,"89, Industrial Estate, Visakhapatnam",37RZPBZ6925HDIG,2023-02-11 00:00:00,FALSE
+469,Naveen Agencies #469,Coke Portfolio,7546951040,naveenagencies4696633@demo.in,"278, Wholesale Market, Visakhapatnam",37FOLWY2046U96E,2025-03-27 00:00:00,FALSE
+470,Vinayaka Agencies #470,Coke Portfolio,9368235019,vinayakaagencies4708918@demo.in,"276, Industrial Estate, Visakhapatnam",37UZLUP2392DC0O,2023-09-23 00:00:00,FALSE
+471,Om Distributors #471,Coke Portfolio,7160421067,omdistributors471376@demo.in,"70, Wholesale Market, Visakhapatnam",37VLGMS5293BOFQ,2019-07-22 00:00:00,FALSE
+472,Kiran Agencies #472,Local Portfolio,6071058286,kiranagencies4721718@mail.com,"69, Industrial Estate, Visakhapatnam",37BQNBF1436IQHF,2021-08-14 00:00:00,FALSE
+473,Harsha Enterprises #473,Pepsi Portfolio,9852252845,harshaenterprises4737849@mail.com,"193, Wholesale Market, Visakhapatnam",37NGWMY5107AUSS,2025-08-04 00:00:00,FALSE
+474,Sai Agencies #474,Pepsi Portfolio,8522236876,saiagencies4744236@demo.in,"9, Wholesale Market, Visakhapatnam",37NJXSX8005FZ9P,2024-02-04 00:00:00,FALSE
+475,Prasad Wholesale #475,Local Portfolio,8881910252,prasadwholesale4752737@demo.in,"276, Auto Nagar, Visakhapatnam",37MFFNM0835A75O,2022-07-19 00:00:00,FALSE
+476,Shiva Enterprises #476,Coke Portfolio,6796915959,shivaenterprises4764518@example.com,"110, Auto Nagar, Visakhapatnam",37XOOBV8913ZCOK,2025-09-11 00:00:00,FALSE
+477,Naveen Agencies #477,Pepsi Portfolio,7339244042,naveenagencies4779302@demo.in,"225, Old Town, Visakhapatnam",37IEXON9388UGWL,2021-04-13 00:00:00,FALSE
+478,Prasad Distributors #478,Local Portfolio,9568105873,prasaddistributors4782534@demo.in,"21, Old Town, Visakhapatnam",37ODJSZ1716OOWQ,2019-04-30 00:00:00,FALSE
+479,Naveen Beverages #479,Local Portfolio,6306982470,naveenbeverages4793481@mail.com,"261, Industrial Estate, Visakhapatnam",37JFYPV1067UEPM,2024-10-22 00:00:00,FALSE
+480,Anusha Wholesale #480,Coke Portfolio,9528460115,anushawholesale4806600@example.com,"1, Auto Nagar, Visakhapatnam",37YNVVZ2853T5F1,2022-10-11 00:00:00,FALSE
+481,Surya Enterprises #481,Local Portfolio,7580262219,suryaenterprises4819161@example.com,"65, Wholesale Market, Visakhapatnam",37TJVYI3101M6BZ,2024-10-04 00:00:00,FALSE
+482,Anil Distributors #482,Coke Portfolio,6358028088,anildistributors4826917@mail.com,"187, Industrial Estate, Visakhapatnam",37JRFYK9669EK90,2023-11-05 00:00:00,FALSE
+483,Vinayaka Beverages #483,Mixed,7375326154,vinayakabeverages4837506@demo.in,"67, Industrial Estate, Visakhapatnam",37MXMHC7255SYEJ,2019-06-29 00:00:00,FALSE
+484,Prasad Traders #484,Mixed,9706985618,prasadtraders4848656@demo.in,"20, Old Town, Visakhapatnam",37AXHOJ1095N33O,2021-05-22 00:00:00,FALSE
+485,Teja Foods #485,Pepsi Portfolio,7129548845,tejafoods4855497@demo.in,"62, Industrial Estate, Visakhapatnam",37AHVYB2122Q82U,2022-08-03 00:00:00,FALSE
+486,Annapurna Beverages #486,Pepsi Portfolio,6018710260,annapurnabeverages4866448@mail.com,"262, Auto Nagar, Visakhapatnam",37ATYCC0566GSOQ,2025-08-30 00:00:00,FALSE
+487,Gandhi Traders #487,Local Portfolio,6580611590,gandhitraders4877252@example.com,"263, Industrial Estate, Visakhapatnam",37XDUVC3457E8UF,2023-05-17 00:00:00,FALSE
+488,Vinayaka Wholesale #488,Pepsi Portfolio,6750456434,vinayakawholesale4881351@mail.com,"277, Wholesale Market, Visakhapatnam",37ABZYE2056OMBZ,2019-04-08 00:00:00,FALSE
+489,Annapurna Enterprises #489,Mixed,8559321615,annapurnaenterprises4898591@mail.com,"117, Wholesale Market, Visakhapatnam",37BQOCS1489IY9F,2022-03-06 00:00:00,FALSE
+490,Vijaya Traders #490,Mixed,7871420738,vijayatraders4904732@example.com,"107, Auto Nagar, Visakhapatnam",37NIOBK3281INEV,2023-04-11 00:00:00,FALSE
+491,Shiva Agencies #491,Mixed,6631356259,shivaagencies4912036@mail.com,"21, Wholesale Market, Visakhapatnam",37EBWZC1245PKQ3,2022-06-26 00:00:00,FALSE
+492,Gandhi Agencies #492,Pepsi Portfolio,7269812869,gandhiagencies4926813@example.com,"258, Wholesale Market, Visakhapatnam",37OXRBH8355AN0L,2023-04-23 00:00:00,FALSE
+493,Anil Beverages #493,Pepsi Portfolio,8024491437,anilbeverages4933593@demo.in,"197, Old Town, Visakhapatnam",37CTDMA1550V0SP,2022-10-23 00:00:00,FALSE
+494,Harsha Agencies #494,Local Portfolio,6978767720,harshaagencies4945757@demo.in,"172, Wholesale Market, Visakhapatnam",37ZXOVQ3825C0Y2,2022-09-03 00:00:00,FALSE
+495,Anusha Beverages #495,Pepsi Portfolio,8847249641,anushabeverages4959429@example.com,"146, Old Town, Visakhapatnam",37COTTO1797O2I6,2019-08-16 00:00:00,FALSE
+496,Sai Agencies #496,Coke Portfolio,9542944166,saiagencies4962876@mail.com,"153, Auto Nagar, Visakhapatnam",37AZMNO7573AJF1,2023-12-09 00:00:00,FALSE
+497,Vijaya Wholesale #497,Coke Portfolio,9993345222,vijayawholesale4979875@demo.in,"263, Old Town, Visakhapatnam",37QZXHZ8384Q0OU,2019-02-02 00:00:00,FALSE
+498,Kiran Traders #498,Mixed,9433235284,kirantraders4987788@demo.in,"166, Auto Nagar, Visakhapatnam",37LVZIO2525U86Y,2023-07-11 00:00:00,FALSE
+499,Om Enterprises #499,Mixed,9825685607,omenterprises499663@mail.com,"92, Old Town, Visakhapatnam",37IVUBE7516EKY9,2021-05-11 00:00:00,FALSE
+500,Harsha Enterprises #500,Coke Portfolio,9611502525,harshaenterprises5004581@mail.com,"226, Old Town, Visakhapatnam",37YNLRF9059RB0J,2020-06-16 00:00:00,FALSE
+501,Sri Enterprises #501,Coke Portfolio,7535136705,srienterprises5012164@example.com,"104, Auto Nagar, Visakhapatnam",37UXGBI0585Y280,2023-08-21 00:00:00,FALSE
+502,Krishna Foods #502,Coke Portfolio,6354883070,krishnafoods5029484@mail.com,"175, Wholesale Market, Visakhapatnam",37TBDEL6651ED7F,2024-04-07 00:00:00,FALSE
+503,Vijaya Wholesale #503,Coke Portfolio,6838083315,vijayawholesale5031692@example.com,"139, Auto Nagar, Visakhapatnam",37YOUHT3205FSN5,2022-11-13 00:00:00,FALSE
+504,Sai Traders #504,Coke Portfolio,6065726349,saitraders5043661@mail.com,"195, Old Town, Visakhapatnam",37OMICM7395DYC2,2025-03-17 00:00:00,FALSE
+505,Shiva Foods #505,Coke Portfolio,7815911224,shivafoods5055161@mail.com,"50, Auto Nagar, Visakhapatnam",37LODCQ2938ZOAC,2024-06-21 00:00:00,FALSE
+506,Rohit Traders #506,Local Portfolio,6723838504,rohittraders50637@demo.in,"185, Auto Nagar, Visakhapatnam",37OGJWQ4167I89I,2023-01-20 00:00:00,FALSE
+507,Annapurna Wholesale #507,Mixed,6892365594,annapurnawholesale5071994@mail.com,"235, Auto Nagar, Visakhapatnam",37YZZDF6170T02C,2020-11-04 00:00:00,FALSE
+508,Balaji Enterprises #508,Coke Portfolio,6759998254,balajienterprises5088390@example.com,"87, Industrial Estate, Visakhapatnam",37GTKAK6265DOCR,2024-11-12 00:00:00,FALSE
+509,Sri Enterprises #509,Mixed,7608542312,srienterprises509372@example.com,"146, Wholesale Market, Visakhapatnam",37PPSUH2020RNKZ,2025-09-18 00:00:00,FALSE
+510,Shiva Wholesale #510,Pepsi Portfolio,7874673516,shivawholesale5101414@demo.in,"300, Auto Nagar, Visakhapatnam",37YMABD7998LZQP,2025-04-23 00:00:00,FALSE
+511,Sri Agencies #511,Mixed,8361150857,sriagencies51147@mail.com,"236, Auto Nagar, Visakhapatnam",37SLSGD6233VGZA,2019-07-26 00:00:00,FALSE
+512,Sai Agencies #512,Local Portfolio,7651554910,saiagencies5125970@example.com,"99, Wholesale Market, Visakhapatnam",37ALFYB3119P7UD,2022-02-28 00:00:00,FALSE
+513,Venkateswara Foods #513,Mixed,9625390852,venkateswarafoods5139078@example.com,"266, Industrial Estate, Visakhapatnam",37JJXJT3683QPVP,2023-12-06 00:00:00,FALSE
+514,Suma Enterprises #514,Pepsi Portfolio,6720013591,sumaenterprises5141546@demo.in,"32, Auto Nagar, Visakhapatnam",37ZVJWR5852LNAX,2022-02-26 00:00:00,FALSE
+515,Sree Beverages #515,Local Portfolio,8351252931,sreebeverages5157391@example.com,"75, Wholesale Market, Visakhapatnam",37FUAHK2355K9HM,2024-12-11 00:00:00,FALSE
+516,Prasad Traders #516,Pepsi Portfolio,6802795863,prasadtraders5165268@demo.in,"232, Auto Nagar, Visakhapatnam",37EVMCF9094R4WP,2019-04-02 00:00:00,FALSE
+517,Prasad Beverages #517,Coke Portfolio,6861566644,prasadbeverages5177256@mail.com,"298, Wholesale Market, Visakhapatnam",37XTNKI2072ZOVU,2021-08-31 00:00:00,FALSE
+518,Krishna Enterprises #518,Local Portfolio,7459555720,krishnaenterprises5182431@example.com,"4, Wholesale Market, Visakhapatnam",37AUPWX0291RP96,2020-09-29 00:00:00,FALSE
+519,Anusha Agencies #519,Coke Portfolio,8451255702,anushaagencies5193689@demo.in,"1, Old Town, Visakhapatnam",37WRJYL5907CT6R,2019-08-04 00:00:00,FALSE
+520,Shiva Foods #520,Coke Portfolio,8568622280,shivafoods5208269@demo.in,"253, Auto Nagar, Visakhapatnam",37MJOOH5979SB3Z,2025-03-13 00:00:00,FALSE
+521,Vinayaka Traders #521,Local Portfolio,6286840760,vinayakatraders5218218@mail.com,"202, Industrial Estate, Visakhapatnam",37KVSTG6688NOTH,2024-08-29 00:00:00,FALSE
+522,Venkateswara Wholesale #522,Coke Portfolio,9569524413,venkateswarawholesale5225372@example.com,"253, Industrial Estate, Visakhapatnam",37PYEGW9496EN45,2024-07-02 00:00:00,FALSE
+523,Vishnu Enterprises #523,Coke Portfolio,9573635582,vishnuenterprises5237092@demo.in,"12, Wholesale Market, Visakhapatnam",37DNLCX9095MFBB,2023-06-11 00:00:00,FALSE
+524,Kiran Wholesale #524,Local Portfolio,6442495674,kiranwholesale5249659@mail.com,"208, Old Town, Visakhapatnam",37TTJYT8179IM5X,2020-05-17 00:00:00,FALSE
+525,Krishna Beverages #525,Coke Portfolio,7230089370,krishnabeverages525813@demo.in,"80, Wholesale Market, Visakhapatnam",37NDJXN1036S7F0,2021-06-29 00:00:00,FALSE
+526,Balaji Distributors #526,Mixed,6308179654,balajidistributors5265324@mail.com,"87, Old Town, Visakhapatnam",37CWUJU7681YCK1,2023-03-04 00:00:00,FALSE
+527,Venkateswara Enterprises #527,Pepsi Portfolio,7839155310,venkateswaraenterprises5279590@example.com,"176, Old Town, Visakhapatnam",37VDQPO0921V27T,2025-10-19 00:00:00,FALSE
+528,Anusha Traders #528,Local Portfolio,7837081260,anushatraders5288338@example.com,"276, Wholesale Market, Visakhapatnam",37RQELM3387MHU6,2020-11-30 00:00:00,FALSE
+529,Harsha Traders #529,Coke Portfolio,8349335211,harshatraders5294838@demo.in,"88, Auto Nagar, Visakhapatnam",37MSLZM8965L3EC,2019-09-22 00:00:00,FALSE
+530,Prasad Agencies #530,Pepsi Portfolio,6252039173,prasadagencies5301858@demo.in,"291, Wholesale Market, Visakhapatnam",37VMCNR9266LP3C,2019-03-12 00:00:00,FALSE
+531,Sree Enterprises #531,Local Portfolio,9900458172,sreeenterprises5318937@example.com,"211, Old Town, Visakhapatnam",37NXNHI8969EAFD,2019-11-03 00:00:00,FALSE
+532,Vinayaka Traders #532,Local Portfolio,7830219124,vinayakatraders5327450@example.com,"74, Auto Nagar, Visakhapatnam",37YCXOO1708IAJ6,2021-05-19 00:00:00,FALSE
+533,Ravi Foods #533,Local Portfolio,7995209657,ravifoods5336893@demo.in,"283, Wholesale Market, Visakhapatnam",37UPEFK5764A6FX,2024-12-28 00:00:00,FALSE
+534,Vijaya Wholesale #534,Mixed,7398999065,vijayawholesale5346394@demo.in,"183, Auto Nagar, Visakhapatnam",37LEQBB2238JJAX,2022-04-25 00:00:00,FALSE
+535,Vijaya Distributors #535,Pepsi Portfolio,9891011571,vijayadistributors5355396@demo.in,"234, Auto Nagar, Visakhapatnam",37EHUYS5662SEUW,2025-05-27 00:00:00,FALSE
+536,Sri Traders #536,Pepsi Portfolio,9270634436,sritraders5364113@mail.com,"299, Old Town, Visakhapatnam",37HBHNI6651YAIC,2022-11-26 00:00:00,FALSE
+537,Krishna Foods #537,Local Portfolio,6919212306,krishnafoods5371377@example.com,"6, Industrial Estate, Visakhapatnam",37RMYJD9054C7EX,2022-12-23 00:00:00,FALSE
+538,Rohit Traders #538,Local Portfolio,8845053368,rohittraders5389590@demo.in,"290, Auto Nagar, Visakhapatnam",37PBXTM8569GI8F,2025-03-10 00:00:00,FALSE
+539,Sai Foods #539,Mixed,7454151812,saifoods5398483@mail.com,"49, Wholesale Market, Visakhapatnam",37QVTGZ2162NHKB,2021-04-11 00:00:00,FALSE
+540,Om Enterprises #540,Pepsi Portfolio,6887544343,omenterprises5408141@example.com,"223, Auto Nagar, Visakhapatnam",37JMGOT6524PK6U,2022-08-16 00:00:00,FALSE
+541,Annapurna Enterprises #541,Pepsi Portfolio,7556201515,annapurnaenterprises5419500@example.com,"86, Wholesale Market, Visakhapatnam",37CCYWG3225CCPH,2022-01-17 00:00:00,FALSE
+542,Krishna Beverages #542,Mixed,9193554433,krishnabeverages5426042@mail.com,"131, Industrial Estate, Visakhapatnam",37BYPEJ6798KSD4,2024-11-04 00:00:00,FALSE
+543,Om Foods #543,Coke Portfolio,8197930073,omfoods5437607@mail.com,"212, Industrial Estate, Visakhapatnam",37GEADA5178AEXF,2019-06-11 00:00:00,FALSE
+544,Anil Beverages #544,Mixed,8498354990,anilbeverages5443692@mail.com,"213, Wholesale Market, Visakhapatnam",37FZJES0552G0PF,2019-05-23 00:00:00,FALSE
+545,Harsha Foods #545,Pepsi Portfolio,8341344210,harshafoods5459086@mail.com,"215, Wholesale Market, Visakhapatnam",37MGVXR1000SUFE,2022-02-23 00:00:00,FALSE
+546,Naveen Traders #546,Mixed,6523027436,naveentraders5467329@example.com,"124, Wholesale Market, Visakhapatnam",37JJXIG3345SKFN,2022-01-21 00:00:00,FALSE
+547,Sri Wholesale #547,Coke Portfolio,9039766068,sriwholesale54711@example.com,"208, Auto Nagar, Visakhapatnam",37SDXTQ4214MARW,2024-05-31 00:00:00,FALSE
+548,Naveen Distributors #548,Pepsi Portfolio,8172232163,naveendistributors548303@demo.in,"149, Industrial Estate, Visakhapatnam",37ZDPBY2982MYEW,2024-07-08 00:00:00,FALSE
+549,Sree Foods #549,Mixed,9995687550,sreefoods5497301@mail.com,"92, Old Town, Visakhapatnam",37ULFMQ6463P4LU,2022-02-08 00:00:00,FALSE
+550,Annapurna Enterprises #550,Pepsi Portfolio,7735483216,annapurnaenterprises5503093@example.com,"143, Auto Nagar, Visakhapatnam",37RQLYR2364GG5U,2021-04-23 00:00:00,FALSE
+551,Suma Distributors #551,Coke Portfolio,6596119315,sumadistributors5519540@example.com,"293, Auto Nagar, Visakhapatnam",37TJTEJ6785FXWY,2024-05-19 00:00:00,FALSE
+552,Harsha Beverages #552,Pepsi Portfolio,7496256699,harshabeverages5521432@demo.in,"240, Old Town, Visakhapatnam",37VKTNM1624E2K7,2024-02-29 00:00:00,FALSE
+553,Gandhi Enterprises #553,Coke Portfolio,7315550038,gandhienterprises5537637@example.com,"79, Old Town, Visakhapatnam",37BWBJQ5748A0J4,2019-01-25 00:00:00,FALSE
+554,Harsha Agencies #554,Coke Portfolio,7453890262,harshaagencies5545816@example.com,"116, Wholesale Market, Visakhapatnam",37ATIBK9316OJWP,2020-09-28 00:00:00,FALSE
+555,Krishna Beverages #555,Pepsi Portfolio,8024022322,krishnabeverages5559946@mail.com,"255, Wholesale Market, Visakhapatnam",37DAIHA2684GBEE,2019-04-29 00:00:00,FALSE
+556,Prasad Beverages #556,Local Portfolio,9326522621,prasadbeverages5568310@mail.com,"272, Wholesale Market, Visakhapatnam",37BUMEU0685CEFP,2020-02-27 00:00:00,FALSE
+557,Naveen Distributors #557,Coke Portfolio,9923369932,naveendistributors5577392@mail.com,"97, Old Town, Visakhapatnam",37HJHPX6151R871,2023-12-10 00:00:00,FALSE
+558,Om Distributors #558,Pepsi Portfolio,9507179207,omdistributors5581452@mail.com,"62, Industrial Estate, Visakhapatnam",37HLJSK3562N6T0,2024-07-14 00:00:00,FALSE
+559,Gandhi Wholesale #559,Local Portfolio,6958841485,gandhiwholesale5593794@mail.com,"251, Old Town, Visakhapatnam",37UHESH9439HMZ1,2025-09-17 00:00:00,FALSE
+560,Suma Enterprises #560,Coke Portfolio,7362793456,sumaenterprises5604320@example.com,"66, Industrial Estate, Visakhapatnam",37HCDFK9260GKVN,2019-07-13 00:00:00,FALSE
+561,Anusha Agencies #561,Coke Portfolio,9727717940,anushaagencies5614282@demo.in,"14, Industrial Estate, Visakhapatnam",37AOMKH6878NA40,2019-12-18 00:00:00,FALSE
+562,Sai Foods #562,Local Portfolio,7555113405,saifoods5627704@mail.com,"103, Wholesale Market, Visakhapatnam",37LFQWZ5103J31F,2020-12-28 00:00:00,FALSE
+563,Teja Distributors #563,Local Portfolio,8502808153,tejadistributors5636030@example.com,"15, Old Town, Visakhapatnam",37KNJRT3822BUVO,2020-05-11 00:00:00,FALSE
+564,Sree Wholesale #564,Pepsi Portfolio,8207045421,sreewholesale5643942@example.com,"164, Wholesale Market, Visakhapatnam",37AJUVF8774OR82,2019-01-04 00:00:00,FALSE
+565,Gandhi Traders #565,Pepsi Portfolio,6487264465,gandhitraders5658651@example.com,"57, Industrial Estate, Visakhapatnam",37JRAUA1274KLR9,2021-05-23 00:00:00,FALSE
+566,Venkateswara Agencies #566,Pepsi Portfolio,6158889913,venkateswaraagencies5661497@example.com,"268, Old Town, Visakhapatnam",37INMRJ0792X0KG,2021-04-19 00:00:00,FALSE
+567,Harsha Foods #567,Mixed,9861209845,harshafoods5674898@example.com,"181, Old Town, Visakhapatnam",37SWMQP6908EYZN,2024-08-31 00:00:00,FALSE
+568,Sai Traders #568,Mixed,9860182502,saitraders5689321@example.com,"192, Wholesale Market, Visakhapatnam",37NSOPY4768WNPU,2019-02-05 00:00:00,FALSE
+569,Krishna Enterprises #569,Local Portfolio,7955450825,krishnaenterprises5699464@mail.com,"44, Industrial Estate, Visakhapatnam",37EKTNQ2722J53H,2021-04-12 00:00:00,FALSE
+570,Surya Enterprises #570,Coke Portfolio,9677437252,suryaenterprises5701136@demo.in,"197, Auto Nagar, Visakhapatnam",37RHWGS0785SGVD,2019-10-12 00:00:00,FALSE
+571,Sree Traders #571,Local Portfolio,9094128883,sreetraders5711789@mail.com,"144, Old Town, Visakhapatnam",37LWVCX2655ARE5,2019-04-09 00:00:00,FALSE
+572,Ravi Beverages #572,Local Portfolio,7937790405,ravibeverages5727913@mail.com,"4, Auto Nagar, Visakhapatnam",37XEKZW2765PRS8,2023-08-29 00:00:00,FALSE
+573,Gandhi Distributors #573,Pepsi Portfolio,8494147185,gandhidistributors5731076@example.com,"28, Industrial Estate, Visakhapatnam",37NKZXS9526CTUZ,2025-02-27 00:00:00,FALSE
+574,Sree Enterprises #574,Local Portfolio,9158536373,sreeenterprises5747590@mail.com,"184, Wholesale Market, Visakhapatnam",37NOWPM9435APXF,2020-07-03 00:00:00,FALSE
+575,Vijaya Beverages #575,Local Portfolio,9049459122,vijayabeverages5753150@demo.in,"143, Industrial Estate, Visakhapatnam",37WIHHP2778CMOF,2025-10-08 00:00:00,FALSE
+576,Harsha Traders #576,Coke Portfolio,6241765326,harshatraders5769939@demo.in,"191, Industrial Estate, Visakhapatnam",37TVXXN6204Y2MM,2022-10-06 00:00:00,FALSE
+577,Sri Agencies #577,Mixed,8216796355,sriagencies5777606@example.com,"122, Auto Nagar, Visakhapatnam",37PLBPA4321W7NA,2021-09-07 00:00:00,FALSE
+578,Sai Beverages #578,Coke Portfolio,8450190830,saibeverages5789414@demo.in,"196, Old Town, Visakhapatnam",37DHSLL5043O17L,2019-06-06 00:00:00,FALSE
+579,Prasad Agencies #579,Pepsi Portfolio,9861745522,prasadagencies5791155@example.com,"177, Industrial Estate, Visakhapatnam",37UNQAK8075D3LI,2025-07-26 00:00:00,FALSE
+580,Sai Traders #580,Pepsi Portfolio,6567609519,saitraders5806814@demo.in,"30, Auto Nagar, Visakhapatnam",37AYOWX3965ICOF,2020-06-02 00:00:00,FALSE
+581,Vinayaka Beverages #581,Pepsi Portfolio,8764228628,vinayakabeverages5817996@demo.in,"139, Wholesale Market, Visakhapatnam",37YMLVD0699YAM9,2021-02-07 00:00:00,FALSE
+582,Shiva Beverages #582,Pepsi Portfolio,8129973127,shivabeverages5821655@example.com,"47, Old Town, Visakhapatnam",37NJEVP2954M3YU,2021-04-14 00:00:00,FALSE
+583,Prasad Agencies #583,Pepsi Portfolio,6453301042,prasadagencies5832441@mail.com,"165, Industrial Estate, Visakhapatnam",37PTLVH7642H7QT,2020-12-09 00:00:00,FALSE
+584,Kiran Traders #584,Local Portfolio,8037849601,kirantraders5846189@mail.com,"240, Industrial Estate, Visakhapatnam",37XWBXB5694Q7MP,2020-05-01 00:00:00,FALSE
+585,Balaji Distributors #585,Local Portfolio,9942517436,balajidistributors5855179@example.com,"194, Industrial Estate, Visakhapatnam",37TIAIF8145GXHE,2021-02-19 00:00:00,FALSE
+586,Gandhi Beverages #586,Pepsi Portfolio,9623643706,gandhibeverages5862618@example.com,"32, Wholesale Market, Visakhapatnam",37FSGFM7262FNFZ,2024-08-15 00:00:00,FALSE
+587,Krishna Distributors #587,Local Portfolio,6419735645,krishnadistributors5874331@demo.in,"52, Old Town, Visakhapatnam",37MZKSI8310OKKF,2019-07-25 00:00:00,FALSE
+588,Balaji Traders #588,Pepsi Portfolio,6214388767,balajitraders5884660@example.com,"278, Industrial Estate, Visakhapatnam",37WZYQU2796JKQH,2023-09-19 00:00:00,FALSE
+589,Balaji Agencies #589,Pepsi Portfolio,6080032411,balajiagencies5894058@example.com,"110, Industrial Estate, Visakhapatnam",37SSAPM3789YCY2,2020-10-12 00:00:00,FALSE
+590,Naveen Foods #590,Mixed,8303947054,naveenfoods5902052@mail.com,"14, Old Town, Visakhapatnam",37YVVQI0551GCVH,2025-03-21 00:00:00,FALSE
+591,Balaji Enterprises #591,Local Portfolio,9876823826,balajienterprises5912929@demo.in,"161, Industrial Estate, Visakhapatnam",37OKKJT6907GWKK,2023-05-19 00:00:00,FALSE
+592,Rohit Enterprises #592,Pepsi Portfolio,8693935190,rohitenterprises5926413@example.com,"28, Industrial Estate, Visakhapatnam",37INSHQ1796OXQ4,2020-03-30 00:00:00,FALSE
+593,Venkateswara Foods #593,Coke Portfolio,8501856580,venkateswarafoods5932135@demo.in,"70, Wholesale Market, Visakhapatnam",37NDGXG6935QJI9,2022-08-05 00:00:00,FALSE
+594,Gandhi Distributors #594,Mixed,6795159633,gandhidistributors5949311@example.com,"38, Wholesale Market, Visakhapatnam",37SDJUY0444YDMU,2024-11-05 00:00:00,FALSE
+595,Teja Traders #595,Coke Portfolio,7363712872,tejatraders5955547@demo.in,"28, Old Town, Visakhapatnam",37FLXKM2827Q0YU,2021-02-02 00:00:00,FALSE
+596,Teja Enterprises #596,Local Portfolio,6337172017,tejaenterprises5967818@example.com,"188, Industrial Estate, Visakhapatnam",37TSUFF5087EA4D,2024-09-06 00:00:00,FALSE
+597,Sai Traders #597,Coke Portfolio,8992179335,saitraders5972915@example.com,"87, Auto Nagar, Visakhapatnam",37TFITO6149L49J,2022-01-09 00:00:00,FALSE
+598,Prasad Beverages #598,Mixed,6561771965,prasadbeverages5981086@example.com,"27, Auto Nagar, Visakhapatnam",37ZZYIX7137QIXW,2024-06-13 00:00:00,FALSE
+599,Vinayaka Wholesale #599,Mixed,9807011143,vinayakawholesale5995949@mail.com,"102, Old Town, Visakhapatnam",37MATTC2167YKS4,2024-08-30 00:00:00,FALSE
+600,Annapurna Traders #600,Pepsi Portfolio,8417631279,annapurnatraders6009863@demo.in,"299, Industrial Estate, Visakhapatnam",37TYDVP8849CB2U,2021-04-30 00:00:00,FALSE
+601,Vinayaka Enterprises #601,Mixed,7686564902,vinayakaenterprises6013038@example.com,"203, Old Town, Visakhapatnam",37BOUFS2239QNIV,2025-01-12 00:00:00,FALSE
+602,Sree Wholesale #602,Mixed,8043593017,sreewholesale6029807@example.com,"187, Industrial Estate, Visakhapatnam",37EGSQR8077PSB5,2024-08-13 00:00:00,FALSE
+603,Annapurna Traders #603,Pepsi Portfolio,8160509453,annapurnatraders603720@example.com,"197, Wholesale Market, Visakhapatnam",37IJTZE5748UFL0,2020-06-24 00:00:00,FALSE
+604,Vinayaka Beverages #604,Coke Portfolio,7939819622,vinayakabeverages6046039@demo.in,"136, Industrial Estate, Visakhapatnam",37HPZVG9549NCEA,2023-05-17 00:00:00,FALSE
+605,Vinayaka Enterprises #605,Mixed,6417511289,vinayakaenterprises6057621@example.com,"100, Old Town, Visakhapatnam",37GILXU5470ADPD,2022-04-21 00:00:00,FALSE
+606,Anusha Traders #606,Coke Portfolio,9303323717,anushatraders6061749@mail.com,"158, Industrial Estate, Visakhapatnam",37ZHRME1086BWRF,2021-07-28 00:00:00,FALSE
+607,Ravi Agencies #607,Mixed,6258117183,raviagencies6073469@demo.in,"248, Old Town, Visakhapatnam",37AUITQ6728OI3M,2022-02-06 00:00:00,FALSE
+608,Anil Distributors #608,Pepsi Portfolio,6117413990,anildistributors6082087@example.com,"279, Wholesale Market, Visakhapatnam",37TMZGL2388Z5FG,2021-07-09 00:00:00,FALSE
+609,Sri Enterprises #609,Local Portfolio,6635107587,srienterprises6099842@mail.com,"114, Wholesale Market, Visakhapatnam",37SSWBN9641MFG7,2020-08-23 00:00:00,FALSE
+610,Shiva Enterprises #610,Mixed,6062854808,shivaenterprises6108620@mail.com,"140, Wholesale Market, Visakhapatnam",37SYWFB6792GEK7,2024-06-30 00:00:00,FALSE
+611,Lakshmi Beverages #611,Coke Portfolio,8633774190,lakshmibeverages6111318@demo.in,"297, Industrial Estate, Visakhapatnam",37BTQKB8569FS2Z,2020-04-14 00:00:00,FALSE
+612,Krishna Beverages #612,Pepsi Portfolio,6454480297,krishnabeverages6127246@demo.in,"188, Auto Nagar, Visakhapatnam",37NBNYV1420QKFV,2020-09-28 00:00:00,FALSE
+613,Rohit Distributors #613,Pepsi Portfolio,9466415438,rohitdistributors6134082@demo.in,"228, Auto Nagar, Visakhapatnam",37ZDUBI3857QWIH,2023-03-28 00:00:00,FALSE
+614,Gandhi Beverages #614,Coke Portfolio,7885005898,gandhibeverages6146540@mail.com,"160, Old Town, Visakhapatnam",37DDKUP3740HPQK,2021-06-08 00:00:00,FALSE
+615,Anil Traders #615,Pepsi Portfolio,8347170413,aniltraders6159265@example.com,"10, Old Town, Visakhapatnam",37FEOQN6968IT1B,2023-03-19 00:00:00,FALSE
+616,Vishnu Agencies #616,Mixed,9251651381,vishnuagencies6162398@demo.in,"158, Auto Nagar, Visakhapatnam",37LDZIA0753BYQL,2023-01-08 00:00:00,FALSE
+617,Rohit Enterprises #617,Pepsi Portfolio,6635619476,rohitenterprises6172033@mail.com,"118, Wholesale Market, Visakhapatnam",37JXSHL3281P80W,2025-07-16 00:00:00,FALSE
+618,Om Distributors #618,Mixed,6999417450,omdistributors6182856@demo.in,"296, Old Town, Visakhapatnam",37RPYXS8919TJVF,2025-09-22 00:00:00,FALSE
+619,Sri Agencies #619,Mixed,6634572211,sriagencies619680@mail.com,"176, Auto Nagar, Visakhapatnam",37BQNDH7576TDRJ,2023-05-07 00:00:00,FALSE
+620,Sri Agencies #620,Mixed,9724503308,sriagencies6204131@demo.in,"198, Old Town, Visakhapatnam",37AFVTK2174LSTB,2020-09-13 00:00:00,FALSE
+621,Prasad Distributors #621,Mixed,8956831552,prasaddistributors6211747@example.com,"73, Old Town, Visakhapatnam",37QKPCB1817TRKU,2020-04-10 00:00:00,FALSE
+622,Surya Foods #622,Local Portfolio,8530763123,suryafoods6223311@example.com,"88, Industrial Estate, Visakhapatnam",37IRTWQ7678GYFR,2020-02-19 00:00:00,FALSE
+623,Balaji Traders #623,Local Portfolio,7722292497,balajitraders6234019@mail.com,"46, Wholesale Market, Visakhapatnam",37APHCB1433V1H6,2023-12-07 00:00:00,FALSE
+624,Vishnu Foods #624,Local Portfolio,9388186768,vishnufoods6249135@demo.in,"131, Wholesale Market, Visakhapatnam",37DUKED0258P0KS,2022-07-12 00:00:00,FALSE
+625,Gandhi Foods #625,Coke Portfolio,8291845736,gandhifoods6256286@demo.in,"157, Old Town, Visakhapatnam",37XRSLB9856BJ3E,2019-01-18 00:00:00,FALSE
+626,Prasad Distributors #626,Mixed,7689186756,prasaddistributors6269146@example.com,"174, Auto Nagar, Visakhapatnam",37TPSWD3560DFZ8,2025-01-10 00:00:00,FALSE
+627,Vinayaka Beverages #627,Pepsi Portfolio,8537858666,vinayakabeverages6278621@demo.in,"58, Old Town, Visakhapatnam",37PEYIR9785WUZG,2020-04-24 00:00:00,FALSE
+628,Vijaya Enterprises #628,Local Portfolio,6077028278,vijayaenterprises62884@example.com,"66, Auto Nagar, Visakhapatnam",37FNETF2349LHSC,2021-01-18 00:00:00,FALSE
+629,Vishnu Wholesale #629,Coke Portfolio,9723678705,vishnuwholesale6294908@mail.com,"286, Wholesale Market, Visakhapatnam",37SANZV8335WXBU,2025-07-18 00:00:00,FALSE
+630,Rohit Enterprises #630,Mixed,6650971459,rohitenterprises6302028@mail.com,"188, Old Town, Visakhapatnam",37OMGAF6532L8D3,2020-07-26 00:00:00,FALSE
+631,Shiva Agencies #631,Mixed,8134610112,shivaagencies6311156@demo.in,"16, Wholesale Market, Visakhapatnam",37WETHI1101CDKE,2025-06-14 00:00:00,FALSE
+632,Anil Traders #632,Mixed,9238215757,aniltraders6321548@example.com,"62, Auto Nagar, Visakhapatnam",37UCZJE5539XBIV,2019-07-27 00:00:00,FALSE
+633,Sree Beverages #633,Mixed,7797151297,sreebeverages6335413@demo.in,"79, Auto Nagar, Visakhapatnam",37ECIUS4723YOFW,2024-02-24 00:00:00,FALSE
+634,Prasad Enterprises #634,Mixed,7618691530,prasadenterprises6342670@demo.in,"200, Industrial Estate, Visakhapatnam",37MLCBE7632Y3L9,2024-05-19 00:00:00,FALSE
+635,Harsha Foods #635,Mixed,7420443846,harshafoods6351643@example.com,"190, Auto Nagar, Visakhapatnam",37BSKEQ5329LDRB,2019-03-30 00:00:00,FALSE
+636,Anusha Distributors #636,Local Portfolio,8526780042,anushadistributors6367644@demo.in,"153, Auto Nagar, Visakhapatnam",37HRXTI8693PR2Z,2024-12-06 00:00:00,FALSE
+637,Anusha Distributors #637,Coke Portfolio,6827358435,anushadistributors6376239@mail.com,"277, Auto Nagar, Visakhapatnam",37PLGAL7927I6A1,2019-04-27 00:00:00,FALSE
+638,Rohit Distributors #638,Coke Portfolio,9189130811,rohitdistributors6384919@demo.in,"162, Old Town, Visakhapatnam",37EHARR7622B53N,2023-01-13 00:00:00,FALSE
+639,Vinayaka Agencies #639,Coke Portfolio,7740962397,vinayakaagencies6398107@demo.in,"123, Wholesale Market, Visakhapatnam",37MXBVS9620QO3D,2020-02-26 00:00:00,FALSE
+640,Balaji Beverages #640,Coke Portfolio,8236882925,balajibeverages6404437@mail.com,"223, Industrial Estate, Visakhapatnam",37AFAEG4859FL3G,2025-04-10 00:00:00,FALSE
+641,Sri Wholesale #641,Local Portfolio,8774490141,sriwholesale6412754@demo.in,"54, Old Town, Visakhapatnam",37YMGWO0473AFHV,2022-12-18 00:00:00,FALSE
+642,Shiva Agencies #642,Coke Portfolio,7498837577,shivaagencies642642@mail.com,"286, Wholesale Market, Visakhapatnam",37AIRJV6541DTQA,2021-07-22 00:00:00,FALSE
+643,Venkateswara Agencies #643,Mixed,9987553982,venkateswaraagencies6436415@example.com,"64, Wholesale Market, Visakhapatnam",37YBVCT8534NETX,2022-12-10 00:00:00,FALSE
+644,Teja Distributors #644,Mixed,8373561260,tejadistributors6442718@demo.in,"27, Industrial Estate, Visakhapatnam",37UHYGL5227ZVME,2020-03-30 00:00:00,FALSE
+645,Venkateswara Beverages #645,Mixed,9086203498,venkateswarabeverages6453686@mail.com,"185, Wholesale Market, Visakhapatnam",37YVDJG7952MYTQ,2021-09-11 00:00:00,FALSE
+646,Ravi Beverages #646,Local Portfolio,8368842165,ravibeverages6468340@demo.in,"233, Old Town, Visakhapatnam",37IINQI0956K5L0,2019-06-18 00:00:00,FALSE
+647,Shiva Agencies #647,Mixed,6495175141,shivaagencies6478917@demo.in,"154, Wholesale Market, Visakhapatnam",37WJLYL1769NTVU,2020-08-28 00:00:00,FALSE
+648,Gandhi Distributors #648,Local Portfolio,6940111309,gandhidistributors6489392@example.com,"171, Wholesale Market, Visakhapatnam",37IOXOE1470MEWD,2020-01-26 00:00:00,FALSE
+649,Anil Foods #649,Coke Portfolio,9744777319,anilfoods6497236@example.com,"171, Old Town, Visakhapatnam",37SWKYG3418D37H,2025-01-19 00:00:00,FALSE
+650,Teja Foods #650,Mixed,6991902447,tejafoods6502651@example.com,"237, Wholesale Market, Visakhapatnam",37KFXBA1310J6R3,2023-12-17 00:00:00,FALSE
+651,Harsha Distributors #651,Pepsi Portfolio,8447737352,harshadistributors6517097@example.com,"231, Old Town, Visakhapatnam",37ZDTOB2218MKI5,2019-04-03 00:00:00,FALSE
+652,Sree Foods #652,Local Portfolio,8243464631,sreefoods6528831@mail.com,"287, Wholesale Market, Visakhapatnam",37KGVIF9876TM5V,2023-08-17 00:00:00,FALSE
+653,Sai Distributors #653,Mixed,7019876271,saidistributors6533845@example.com,"212, Auto Nagar, Visakhapatnam",37KPVVD9600UW1P,2020-07-24 00:00:00,FALSE
+654,Vijaya Beverages #654,Mixed,7800684891,vijayabeverages6542215@mail.com,"96, Wholesale Market, Visakhapatnam",37IRKYO8168RXE7,2024-12-15 00:00:00,FALSE
+655,Rohit Foods #655,Coke Portfolio,6584357321,rohitfoods6552566@mail.com,"120, Industrial Estate, Visakhapatnam",37GJXTV2243KQXN,2023-07-20 00:00:00,FALSE
+656,Anusha Foods #656,Local Portfolio,6388493601,anushafoods6565028@demo.in,"57, Wholesale Market, Visakhapatnam",37BLHMW1697EPYH,2024-12-23 00:00:00,FALSE
+657,Venkateswara Traders #657,Mixed,7923142348,venkateswaratraders6571250@example.com,"183, Old Town, Visakhapatnam",37RLKAY0559VUSD,2020-10-30 00:00:00,FALSE
+658,Vijaya Enterprises #658,Coke Portfolio,7325585225,vijayaenterprises6589892@demo.in,"151, Industrial Estate, Visakhapatnam",37IPDZA9816ZPQ7,2022-03-06 00:00:00,FALSE
+659,Vijaya Enterprises #659,Pepsi Portfolio,6975393488,vijayaenterprises6593305@mail.com,"223, Old Town, Visakhapatnam",37QLAOJ7146R6V9,2021-06-13 00:00:00,FALSE
+660,Sree Foods #660,Mixed,7169569907,sreefoods6601936@mail.com,"79, Industrial Estate, Visakhapatnam",37WGHMU2787NYO0,2024-11-11 00:00:00,FALSE
+661,Anil Agencies #661,Pepsi Portfolio,6535222455,anilagencies6614100@example.com,"157, Industrial Estate, Visakhapatnam",37PDNSX3849XIO7,2024-11-16 00:00:00,FALSE
+662,Ravi Foods #662,Mixed,6068570283,ravifoods6623169@example.com,"155, Old Town, Visakhapatnam",37YCSKZ3945K1A5,2019-03-01 00:00:00,FALSE
+663,Annapurna Wholesale #663,Coke Portfolio,8739808012,annapurnawholesale6637147@demo.in,"62, Old Town, Visakhapatnam",37NLYOY3959Q3PN,2023-01-13 00:00:00,FALSE
+664,Sai Agencies #664,Local Portfolio,6319552052,saiagencies6649210@example.com,"121, Industrial Estate, Visakhapatnam",37XNMDZ9972LD5T,2020-01-28 00:00:00,FALSE
+665,Shiva Traders #665,Mixed,8176578232,shivatraders6657670@example.com,"1, Auto Nagar, Visakhapatnam",37AGBSQ7532LBZQ,2025-05-11 00:00:00,FALSE
+666,Vishnu Foods #666,Pepsi Portfolio,9397627527,vishnufoods6661024@mail.com,"236, Auto Nagar, Visakhapatnam",37OYOTW9622K4QP,2021-10-11 00:00:00,FALSE
+667,Teja Distributors #667,Mixed,7029496946,tejadistributors6672615@mail.com,"137, Industrial Estate, Visakhapatnam",37GXXSN4985SJ37,2021-05-09 00:00:00,FALSE
+668,Krishna Enterprises #668,Local Portfolio,7809303664,krishnaenterprises6682974@demo.in,"8, Industrial Estate, Visakhapatnam",37EOZFF9836YYGC,2022-01-21 00:00:00,FALSE
+669,Anusha Foods #669,Coke Portfolio,6891708024,anushafoods6695571@mail.com,"283, Wholesale Market, Visakhapatnam",37QXXXV8086QES9,2020-06-27 00:00:00,FALSE
+670,Lakshmi Enterprises #670,Mixed,7742598448,lakshmienterprises6708275@example.com,"295, Wholesale Market, Visakhapatnam",37YAPSM1447N2UY,2022-05-10 00:00:00,FALSE
+671,Prasad Distributors #671,Local Portfolio,7183467552,prasaddistributors6715989@demo.in,"113, Auto Nagar, Visakhapatnam",37IOMZS4696G781,2019-06-13 00:00:00,FALSE
+672,Harsha Distributors #672,Pepsi Portfolio,6805693753,harshadistributors6723731@example.com,"264, Auto Nagar, Visakhapatnam",37LCJWP5830JPLC,2021-05-17 00:00:00,FALSE
+673,Vijaya Wholesale #673,Mixed,9973070312,vijayawholesale6731806@mail.com,"65, Industrial Estate, Visakhapatnam",37KHSDW2916WKRM,2022-07-04 00:00:00,FALSE
+674,Surya Agencies #674,Pepsi Portfolio,8029156635,suryaagencies6745803@example.com,"18, Old Town, Visakhapatnam",37NRAVI3251UXLU,2020-12-08 00:00:00,FALSE
+675,Lakshmi Traders #675,Coke Portfolio,6760349916,lakshmitraders6756642@mail.com,"172, Industrial Estate, Visakhapatnam",37IIHVI8930NJES,2021-04-12 00:00:00,FALSE
+676,Om Distributors #676,Pepsi Portfolio,9918990089,omdistributors6763415@demo.in,"231, Old Town, Visakhapatnam",37GAYYJ0065QEZ0,2025-07-12 00:00:00,FALSE
+677,Venkateswara Wholesale #677,Pepsi Portfolio,8092870119,venkateswarawholesale6772602@example.com,"295, Wholesale Market, Visakhapatnam",37IYDMF0881RFG5,2024-07-16 00:00:00,FALSE
+678,Sri Enterprises #678,Pepsi Portfolio,7440766907,srienterprises6782574@mail.com,"39, Wholesale Market, Visakhapatnam",37UIZXV0265VTVJ,2019-02-22 00:00:00,FALSE
+679,Om Traders #679,Pepsi Portfolio,8351323262,omtraders6793846@mail.com,"141, Auto Nagar, Visakhapatnam",37GSITV5045SHG8,2021-12-21 00:00:00,FALSE
+680,Vijaya Beverages #680,Pepsi Portfolio,6387670386,vijayabeverages6807642@demo.in,"114, Auto Nagar, Visakhapatnam",37FRXEU6263L2GJ,2021-06-17 00:00:00,FALSE
+681,Rohit Enterprises #681,Local Portfolio,6264724936,rohitenterprises6815160@demo.in,"77, Auto Nagar, Visakhapatnam",37EHHUH2618XDOB,2019-05-23 00:00:00,FALSE
+682,Sai Enterprises #682,Mixed,6467491541,saienterprises6829635@example.com,"14, Industrial Estate, Visakhapatnam",37IOENS6652MOQ0,2019-07-08 00:00:00,FALSE
+683,Prasad Traders #683,Local Portfolio,7786812801,prasadtraders6831180@demo.in,"271, Auto Nagar, Visakhapatnam",37WZWXY1841SGXX,2020-01-12 00:00:00,FALSE
+684,Teja Beverages #684,Local Portfolio,9472780838,tejabeverages6848121@demo.in,"18, Auto Nagar, Visakhapatnam",37VNRPY6649KDXV,2025-07-28 00:00:00,FALSE
+685,Sai Beverages #685,Pepsi Portfolio,6809486430,saibeverages6851864@example.com,"212, Wholesale Market, Visakhapatnam",37FYFAJ3427GPCI,2021-07-14 00:00:00,FALSE
+686,Surya Foods #686,Coke Portfolio,6701556324,suryafoods6866292@mail.com,"85, Auto Nagar, Visakhapatnam",37XPQQK3121HB9X,2025-07-18 00:00:00,FALSE
+687,Naveen Beverages #687,Pepsi Portfolio,9649831454,naveenbeverages6876971@demo.in,"6, Auto Nagar, Visakhapatnam",37XGVPR2400CWJU,2024-12-26 00:00:00,FALSE
+688,Naveen Distributors #688,Pepsi Portfolio,8981620444,naveendistributors6884867@example.com,"129, Auto Nagar, Visakhapatnam",37DQZOH1798UJ2W,2023-06-29 00:00:00,FALSE
+689,Naveen Foods #689,Local Portfolio,7639457623,naveenfoods6892663@demo.in,"173, Old Town, Visakhapatnam",37YVVHR3882PCET,2025-09-18 00:00:00,FALSE
+690,Gandhi Agencies #690,Pepsi Portfolio,9796099153,gandhiagencies6901460@demo.in,"255, Industrial Estate, Visakhapatnam",37CNFDB9537H7GL,2025-01-16 00:00:00,FALSE
+691,Venkateswara Wholesale #691,Pepsi Portfolio,8591869327,venkateswarawholesale6912236@demo.in,"140, Auto Nagar, Visakhapatnam",37GCIGH1704YL67,2019-11-04 00:00:00,FALSE
+692,Venkateswara Agencies #692,Mixed,9498091780,venkateswaraagencies6922802@example.com,"206, Industrial Estate, Visakhapatnam",37FTUNA4695UB5N,2021-02-02 00:00:00,FALSE
+693,Venkateswara Beverages #693,Coke Portfolio,8604273288,venkateswarabeverages6934575@demo.in,"228, Old Town, Visakhapatnam",37UZSSE5044YIFF,2021-04-13 00:00:00,FALSE
+694,Venkateswara Enterprises #694,Pepsi Portfolio,9605568909,venkateswaraenterprises6942919@example.com,"48, Industrial Estate, Visakhapatnam",37LVBOK3992U0H4,2023-01-29 00:00:00,FALSE
+695,Rohit Enterprises #695,Pepsi Portfolio,6227330708,rohitenterprises6953903@demo.in,"288, Industrial Estate, Visakhapatnam",37JRDSH5993NLZK,2024-05-24 00:00:00,FALSE
+696,Lakshmi Enterprises #696,Mixed,9461488922,lakshmienterprises6965406@example.com,"79, Old Town, Visakhapatnam",37FZPVP6827KSB2,2020-03-16 00:00:00,FALSE
+697,Sai Enterprises #697,Local Portfolio,6260378000,saienterprises6974975@mail.com,"299, Industrial Estate, Visakhapatnam",37WQSLE2851HW4G,2023-04-08 00:00:00,FALSE
+698,Gandhi Wholesale #698,Pepsi Portfolio,8644273761,gandhiwholesale6987773@mail.com,"279, Industrial Estate, Visakhapatnam",37RMVAF1804NQPZ,2025-07-14 00:00:00,FALSE
+699,Balaji Agencies #699,Mixed,8908665689,balajiagencies6994354@example.com,"71, Industrial Estate, Visakhapatnam",37JKDUE9931YV70,2021-06-22 00:00:00,FALSE
+700,Sri Traders #700,Coke Portfolio,7910691418,sritraders7001529@demo.in,"1, Old Town, Visakhapatnam",37LKPUS4065XT2Q,2020-09-11 00:00:00,FALSE
+701,Venkateswara Enterprises #701,Local Portfolio,7780840656,venkateswaraenterprises7018384@example.com,"84, Old Town, Visakhapatnam",37CUJRB2109H40N,2021-04-20 00:00:00,FALSE
+702,Krishna Wholesale #702,Local Portfolio,6978849043,krishnawholesale7021876@mail.com,"221, Industrial Estate, Visakhapatnam",37LWHBB9857JV75,2022-10-19 00:00:00,FALSE
+703,Sai Beverages #703,Local Portfolio,9876443315,saibeverages7038625@demo.in,"138, Auto Nagar, Visakhapatnam",37XAVTF6669NFZC,2021-09-18 00:00:00,FALSE
+704,Om Beverages #704,Pepsi Portfolio,8844272168,ombeverages7048038@example.com,"165, Auto Nagar, Visakhapatnam",37SAHUL0084TS79,2019-09-28 00:00:00,FALSE
+705,Rohit Distributors #705,Local Portfolio,7449900162,rohitdistributors7051791@demo.in,"191, Industrial Estate, Visakhapatnam",37REOBA1205WJHB,2019-09-12 00:00:00,FALSE
+706,Om Distributors #706,Pepsi Portfolio,9706277539,omdistributors7066816@demo.in,"269, Wholesale Market, Visakhapatnam",37MHHES6919T8ZT,2020-08-12 00:00:00,FALSE
+707,Vijaya Foods #707,Coke Portfolio,6715850951,vijayafoods7078149@demo.in,"171, Industrial Estate, Visakhapatnam",37SVHFS7310A3QQ,2021-10-19 00:00:00,FALSE
+708,Sai Foods #708,Mixed,6695909988,saifoods7084724@mail.com,"226, Industrial Estate, Visakhapatnam",37CCPNA7261A74T,2023-12-12 00:00:00,FALSE
+709,Rohit Agencies #709,Pepsi Portfolio,9099615274,rohitagencies7094578@demo.in,"29, Wholesale Market, Visakhapatnam",37XZZKS0492T9ZB,2021-12-18 00:00:00,FALSE
+710,Vinayaka Agencies #710,Local Portfolio,9394399371,vinayakaagencies7103231@demo.in,"202, Auto Nagar, Visakhapatnam",37IYXTA7924KZVU,2021-06-01 00:00:00,FALSE
+711,Sai Distributors #711,Pepsi Portfolio,9705675579,saidistributors7119816@mail.com,"280, Industrial Estate, Visakhapatnam",37CONXF7895J4V2,2024-07-17 00:00:00,FALSE
+712,Vinayaka Enterprises #712,Local Portfolio,9148830399,vinayakaenterprises712971@mail.com,"161, Industrial Estate, Visakhapatnam",37TTKAU0347O9H5,2024-08-01 00:00:00,FALSE
+713,Teja Foods #713,Mixed,7744277751,tejafoods7136394@mail.com,"294, Auto Nagar, Visakhapatnam",37GIHCR3957ZTYQ,2024-12-03 00:00:00,FALSE
+714,Suma Enterprises #714,Mixed,6527723882,sumaenterprises7145739@demo.in,"59, Wholesale Market, Visakhapatnam",37MECYU7515A7UL,2019-03-16 00:00:00,FALSE
+715,Sri Agencies #715,Coke Portfolio,7267084636,sriagencies7152020@demo.in,"61, Industrial Estate, Visakhapatnam",37XFYQH1198RFJQ,2023-06-24 00:00:00,FALSE
+716,Krishna Foods #716,Pepsi Portfolio,8512530845,krishnafoods716265@example.com,"45, Wholesale Market, Visakhapatnam",37QHGXT7136EL8Z,2021-11-28 00:00:00,FALSE
+717,Lakshmi Traders #717,Coke Portfolio,8372333858,lakshmitraders7172784@mail.com,"141, Industrial Estate, Visakhapatnam",37XDYTJ4075RI76,2023-09-03 00:00:00,FALSE
+718,Teja Agencies #718,Mixed,6375752288,tejaagencies7189131@example.com,"188, Auto Nagar, Visakhapatnam",37WLANA5939PGDC,2023-03-04 00:00:00,FALSE
+719,Naveen Foods #719,Coke Portfolio,9788668145,naveenfoods7197717@mail.com,"129, Auto Nagar, Visakhapatnam",37RYXWZ8051W75K,2020-12-20 00:00:00,FALSE
+720,Kiran Distributors #720,Mixed,6746400897,kirandistributors7204752@mail.com,"253, Auto Nagar, Visakhapatnam",37CAIGM6687ZG9A,2025-06-21 00:00:00,FALSE
+721,Om Beverages #721,Coke Portfolio,7047928135,ombeverages7212030@example.com,"200, Auto Nagar, Visakhapatnam",37VZHRC6893TC5O,2024-05-12 00:00:00,FALSE
+722,Teja Beverages #722,Local Portfolio,7418912502,tejabeverages7225127@example.com,"293, Industrial Estate, Visakhapatnam",37SYJON6916HYYM,2021-09-19 00:00:00,FALSE
+723,Teja Agencies #723,Pepsi Portfolio,7696280668,tejaagencies7232357@example.com,"94, Wholesale Market, Visakhapatnam",37DBMUL0521BBDR,2023-09-01 00:00:00,FALSE
+724,Balaji Distributors #724,Coke Portfolio,7960171810,balajidistributors7243058@demo.in,"177, Industrial Estate, Visakhapatnam",37IDIWO2651PFA3,2025-07-03 00:00:00,FALSE
+725,Vishnu Agencies #725,Coke Portfolio,8439433404,vishnuagencies7253714@mail.com,"86, Industrial Estate, Visakhapatnam",37IOQFP5195M8PQ,2021-08-19 00:00:00,FALSE
+726,Annapurna Distributors #726,Coke Portfolio,8509825858,annapurnadistributors7263740@demo.in,"142, Old Town, Visakhapatnam",37JOOZG2425RVU6,2022-02-17 00:00:00,FALSE
+727,Balaji Agencies #727,Mixed,8171323589,balajiagencies7271581@mail.com,"221, Industrial Estate, Visakhapatnam",37RUNUA2013M8MP,2021-03-19 00:00:00,FALSE
+728,Vinayaka Wholesale #728,Local Portfolio,6105289662,vinayakawholesale7289910@demo.in,"87, Old Town, Visakhapatnam",37KICDY0322TBZ7,2021-03-18 00:00:00,FALSE
+729,Anil Beverages #729,Pepsi Portfolio,6323451390,anilbeverages7294730@example.com,"77, Auto Nagar, Visakhapatnam",37NQFGC5417SWOI,2024-01-04 00:00:00,FALSE
+730,Balaji Foods #730,Pepsi Portfolio,7476445961,balajifoods7308204@mail.com,"128, Industrial Estate, Visakhapatnam",37VMWMO8410MGLT,2020-06-13 00:00:00,FALSE
+731,Sree Foods #731,Mixed,8379653520,sreefoods7318997@mail.com,"125, Auto Nagar, Visakhapatnam",37GTTHT4399S1OG,2019-03-04 00:00:00,FALSE
+732,Shiva Traders #732,Pepsi Portfolio,6080995224,shivatraders7321943@demo.in,"125, Industrial Estate, Visakhapatnam",37ETORB2302CFW1,2019-11-24 00:00:00,FALSE
+733,Kiran Agencies #733,Pepsi Portfolio,7515381466,kiranagencies7338696@mail.com,"207, Auto Nagar, Visakhapatnam",37BMUJS8102KUGI,2025-09-17 00:00:00,FALSE
+734,Lakshmi Wholesale #734,Coke Portfolio,9571976989,lakshmiwholesale7342009@demo.in,"254, Auto Nagar, Visakhapatnam",37WAGNV0603ZV93,2020-06-03 00:00:00,FALSE
+735,Gandhi Distributors #735,Local Portfolio,7625818897,gandhidistributors7354671@mail.com,"178, Old Town, Visakhapatnam",37AVEJJ3256TZY7,2025-09-24 00:00:00,FALSE
+736,Balaji Distributors #736,Mixed,8474517784,balajidistributors736130@demo.in,"119, Industrial Estate, Visakhapatnam",37UCECL6887CBJ1,2019-05-30 00:00:00,FALSE
+737,Vijaya Wholesale #737,Mixed,8262874742,vijayawholesale7371486@demo.in,"202, Old Town, Visakhapatnam",37OGWPM2869R3K9,2022-03-08 00:00:00,FALSE
+738,Vijaya Distributors #738,Local Portfolio,9090319505,vijayadistributors7382636@demo.in,"238, Auto Nagar, Visakhapatnam",37BNNOS0828HHS3,2022-10-10 00:00:00,FALSE
+739,Prasad Distributors #739,Local Portfolio,6525177820,prasaddistributors7393558@mail.com,"81, Auto Nagar, Visakhapatnam",37JJUWW6528BJAT,2020-08-13 00:00:00,FALSE
+740,Anusha Beverages #740,Coke Portfolio,9875503768,anushabeverages7405951@demo.in,"103, Wholesale Market, Visakhapatnam",37OPUQQ5763CDZ7,2019-01-24 00:00:00,FALSE
+741,Surya Enterprises #741,Coke Portfolio,9268144959,suryaenterprises7414063@demo.in,"97, Auto Nagar, Visakhapatnam",37TFGUN2989VTZW,2020-03-09 00:00:00,FALSE
+742,Harsha Wholesale #742,Coke Portfolio,9521445384,harshawholesale742225@example.com,"281, Old Town, Visakhapatnam",37QDGSJ8522WO3D,2020-11-26 00:00:00,FALSE
+743,Sri Beverages #743,Local Portfolio,8661276827,sribeverages7434734@demo.in,"147, Auto Nagar, Visakhapatnam",37FXTAL8245XJ74,2024-09-15 00:00:00,FALSE
+744,Lakshmi Traders #744,Mixed,6170821018,lakshmitraders7447096@example.com,"287, Industrial Estate, Visakhapatnam",37HUQUK6263EQWT,2019-10-24 00:00:00,FALSE
+745,Ravi Agencies #745,Pepsi Portfolio,6459821673,raviagencies7459866@mail.com,"207, Industrial Estate, Visakhapatnam",37HJTFG4648JMIJ,2024-02-14 00:00:00,FALSE
+746,Prasad Agencies #746,Coke Portfolio,7055297011,prasadagencies7463888@mail.com,"187, Industrial Estate, Visakhapatnam",37HBZJH4089JOMF,2023-08-07 00:00:00,FALSE
+747,Kiran Agencies #747,Coke Portfolio,8281410635,kiranagencies7479083@demo.in,"212, Industrial Estate, Visakhapatnam",37MULTJ6121TKT9,2024-02-19 00:00:00,FALSE
+748,Prasad Distributors #748,Pepsi Portfolio,7344974588,prasaddistributors7487788@demo.in,"38, Old Town, Visakhapatnam",37ZLXJB3160NRJ9,2021-08-21 00:00:00,FALSE
+749,Gandhi Beverages #749,Local Portfolio,8373314157,gandhibeverages7492923@demo.in,"163, Industrial Estate, Visakhapatnam",37MDUZV5438RNEL,2022-05-14 00:00:00,FALSE
+750,Suma Agencies #750,Pepsi Portfolio,6896526948,sumaagencies7508450@mail.com,"213, Industrial Estate, Visakhapatnam",37MTRVP0319D9OJ,2025-02-18 00:00:00,FALSE
+751,Prasad Traders #751,Mixed,9475888286,prasadtraders7513197@example.com,"53, Wholesale Market, Visakhapatnam",37XNOMA8764ZR4D,2019-11-26 00:00:00,FALSE
+752,Sree Foods #752,Pepsi Portfolio,6678622426,sreefoods752917@mail.com,"78, Industrial Estate, Visakhapatnam",37KGLTX4305JF8I,2025-09-07 00:00:00,FALSE
+753,Naveen Foods #753,Mixed,9043057542,naveenfoods7535124@mail.com,"138, Wholesale Market, Visakhapatnam",37QDDWS6949RH2G,2020-01-07 00:00:00,FALSE
+754,Vishnu Beverages #754,Pepsi Portfolio,7510682549,vishnubeverages7549719@demo.in,"239, Industrial Estate, Visakhapatnam",37WGYNQ1337VYUD,2023-10-26 00:00:00,FALSE
+755,Balaji Traders #755,Mixed,9690608565,balajitraders7556892@example.com,"173, Auto Nagar, Visakhapatnam",37KJVRF3648OB0D,2020-03-25 00:00:00,FALSE
+756,Anil Traders #756,Coke Portfolio,9017128408,aniltraders7563040@demo.in,"262, Industrial Estate, Visakhapatnam",37VVOIH0878ZXKE,2021-04-17 00:00:00,FALSE
+757,Balaji Distributors #757,Local Portfolio,9087130277,balajidistributors7572837@mail.com,"196, Auto Nagar, Visakhapatnam",37TPBYG8294SZV4,2022-06-16 00:00:00,FALSE
+758,Prasad Enterprises #758,Pepsi Portfolio,7061438123,prasadenterprises7581171@demo.in,"62, Wholesale Market, Visakhapatnam",37JSHTN8428TMGU,2019-05-03 00:00:00,FALSE
+759,Prasad Distributors #759,Pepsi Portfolio,7800995028,prasaddistributors7597780@example.com,"175, Auto Nagar, Visakhapatnam",37TIPDO9955HJBP,2021-01-07 00:00:00,FALSE
+760,Sri Traders #760,Pepsi Portfolio,9092584103,sritraders7601925@demo.in,"43, Wholesale Market, Visakhapatnam",37WFNDM1620LF30,2022-07-10 00:00:00,FALSE
+761,Suma Agencies #761,Pepsi Portfolio,8097130141,sumaagencies7616848@demo.in,"26, Old Town, Visakhapatnam",37PQMNG2519QRMX,2023-09-18 00:00:00,FALSE
+762,Rohit Foods #762,Coke Portfolio,8462366754,rohitfoods762612@mail.com,"167, Industrial Estate, Visakhapatnam",37BAFLK3175VZLT,2024-07-08 00:00:00,FALSE
+763,Lakshmi Enterprises #763,Local Portfolio,9854365601,lakshmienterprises7635675@mail.com,"247, Industrial Estate, Visakhapatnam",37XLXVU0263TXIL,2025-04-25 00:00:00,FALSE
+764,Sree Distributors #764,Pepsi Portfolio,9242011499,sreedistributors7647446@example.com,"4, Wholesale Market, Visakhapatnam",37BRJEQ4877U2DI,2022-08-01 00:00:00,FALSE
+765,Surya Enterprises #765,Pepsi Portfolio,7558345771,suryaenterprises7653824@example.com,"70, Industrial Estate, Visakhapatnam",37ELILK0758GW08,2023-04-22 00:00:00,FALSE
+766,Harsha Foods #766,Pepsi Portfolio,7095969255,harshafoods7663929@demo.in,"172, Wholesale Market, Visakhapatnam",37UKHQV6224L4M7,2025-02-05 00:00:00,FALSE
+767,Anusha Distributors #767,Coke Portfolio,6279258025,anushadistributors7673448@demo.in,"67, Wholesale Market, Visakhapatnam",37QUTNV4548MLVN,2020-10-07 00:00:00,FALSE
+768,Suma Wholesale #768,Pepsi Portfolio,9446638782,sumawholesale7687093@example.com,"287, Wholesale Market, Visakhapatnam",37XCQQS9694WE7C,2021-05-19 00:00:00,FALSE
+769,Vishnu Beverages #769,Coke Portfolio,8381714872,vishnubeverages7695869@demo.in,"146, Wholesale Market, Visakhapatnam",37AGCFR9665LQLC,2023-11-21 00:00:00,FALSE
+770,Krishna Enterprises #770,Local Portfolio,9617817741,krishnaenterprises77058@mail.com,"258, Auto Nagar, Visakhapatnam",37BFNZP1525MLV7,2019-10-24 00:00:00,FALSE
+771,Annapurna Agencies #771,Local Portfolio,6704816078,annapurnaagencies7714354@demo.in,"275, Auto Nagar, Visakhapatnam",37UOUAW9052CVKO,2021-05-28 00:00:00,FALSE
+772,Gandhi Enterprises #772,Local Portfolio,8843763569,gandhienterprises7724831@demo.in,"236, Old Town, Visakhapatnam",37SBWGT6755OILA,2023-06-02 00:00:00,FALSE
+773,Krishna Enterprises #773,Mixed,9350487092,krishnaenterprises7733474@mail.com,"284, Wholesale Market, Visakhapatnam",37DJIHA1934AC6J,2025-03-08 00:00:00,FALSE
+774,Sri Distributors #774,Local Portfolio,9799415532,sridistributors7743083@demo.in,"229, Wholesale Market, Visakhapatnam",37MIRLI5344GS73,2025-10-12 00:00:00,FALSE
+775,Anusha Traders #775,Mixed,8986008262,anushatraders7757325@demo.in,"122, Wholesale Market, Visakhapatnam",37EJIRM2455TKPY,2021-03-17 00:00:00,FALSE
+776,Naveen Foods #776,Local Portfolio,8488774277,naveenfoods7768092@demo.in,"230, Old Town, Visakhapatnam",37VFSET8445EEL7,2019-04-08 00:00:00,FALSE
+777,Balaji Agencies #777,Mixed,8852080348,balajiagencies77774@example.com,"237, Auto Nagar, Visakhapatnam",37TXCTT1686Z7SN,2023-02-07 00:00:00,FALSE
+778,Annapurna Foods #778,Pepsi Portfolio,7946219207,annapurnafoods7782044@mail.com,"217, Auto Nagar, Visakhapatnam",37LTNET3872XSWG,2019-09-05 00:00:00,FALSE
+779,Vinayaka Traders #779,Local Portfolio,8988781485,vinayakatraders7799265@example.com,"55, Old Town, Visakhapatnam",37FZPNL6407RRH1,2020-07-31 00:00:00,FALSE
+780,Shiva Distributors #780,Local Portfolio,9224274561,shivadistributors7805217@demo.in,"212, Old Town, Visakhapatnam",37SWCPL5297BABQ,2025-01-17 00:00:00,FALSE
+781,Teja Beverages #781,Coke Portfolio,7455864220,tejabeverages7818746@example.com,"166, Industrial Estate, Visakhapatnam",37GIHIQ3597BKC8,2020-03-04 00:00:00,FALSE
+782,Anusha Distributors #782,Mixed,8627104635,anushadistributors7825832@mail.com,"204, Wholesale Market, Visakhapatnam",37AKEXB7421I88X,2020-03-30 00:00:00,FALSE
+783,Ravi Wholesale #783,Coke Portfolio,6687695825,raviwholesale7831673@mail.com,"251, Wholesale Market, Visakhapatnam",37YVGRY6125J0CA,2024-11-05 00:00:00,FALSE
+784,Ravi Foods #784,Coke Portfolio,6991219220,ravifoods7843664@demo.in,"60, Auto Nagar, Visakhapatnam",37PQBUM1591W38N,2024-07-02 00:00:00,FALSE
+785,Lakshmi Beverages #785,Mixed,8584146226,lakshmibeverages7853921@example.com,"74, Wholesale Market, Visakhapatnam",37UOAHA9335Y3I6,2022-05-05 00:00:00,FALSE
+786,Sai Wholesale #786,Pepsi Portfolio,8792547577,saiwholesale78632@demo.in,"122, Wholesale Market, Visakhapatnam",37TYUMU8726P6G6,2019-01-01 00:00:00,FALSE
+787,Anusha Wholesale #787,Coke Portfolio,8484603886,anushawholesale787535@mail.com,"136, Industrial Estate, Visakhapatnam",37EMVVK2741TU2C,2021-11-09 00:00:00,FALSE
+788,Balaji Foods #788,Coke Portfolio,8067923643,balajifoods7885633@example.com,"169, Industrial Estate, Visakhapatnam",37PGCMU2471NUYY,2024-01-29 00:00:00,FALSE
+789,Vijaya Enterprises #789,Local Portfolio,9070839742,vijayaenterprises7894918@mail.com,"124, Industrial Estate, Visakhapatnam",37LCSQC2383WFIT,2025-09-23 00:00:00,FALSE
+790,Suma Enterprises #790,Coke Portfolio,7886755030,sumaenterprises7902556@example.com,"201, Old Town, Visakhapatnam",37KSLWP2013SMUT,2021-06-07 00:00:00,FALSE
+791,Vinayaka Traders #791,Local Portfolio,7013957673,vinayakatraders7914111@example.com,"219, Auto Nagar, Visakhapatnam",37VXRKE0396GA1J,2024-11-11 00:00:00,FALSE
+792,Krishna Enterprises #792,Pepsi Portfolio,9631302721,krishnaenterprises7921207@example.com,"297, Old Town, Visakhapatnam",37FOHRY5543QHNR,2022-11-16 00:00:00,FALSE
+793,Anusha Agencies #793,Pepsi Portfolio,8466933025,anushaagencies793370@demo.in,"103, Industrial Estate, Visakhapatnam",37MEVQM1638XDMI,2020-04-14 00:00:00,FALSE
+794,Om Enterprises #794,Coke Portfolio,8533094691,omenterprises794273@example.com,"209, Old Town, Visakhapatnam",37SWOHA8476PX26,2022-07-05 00:00:00,FALSE
+795,Sai Beverages #795,Mixed,9751401520,saibeverages7954672@mail.com,"180, Old Town, Visakhapatnam",37PMEJE1595U5D7,2025-05-09 00:00:00,FALSE
+796,Balaji Distributors #796,Pepsi Portfolio,9733757114,balajidistributors7969479@mail.com,"79, Old Town, Visakhapatnam",37IJYFF3764WFFT,2019-09-13 00:00:00,FALSE
+797,Surya Foods #797,Local Portfolio,8064009841,suryafoods7972928@mail.com,"47, Old Town, Visakhapatnam",37RUHNY5553IPET,2021-05-18 00:00:00,FALSE
+798,Naveen Beverages #798,Coke Portfolio,9486584752,naveenbeverages7989801@example.com,"37, Auto Nagar, Visakhapatnam",37SMFZX1217DL2N,2020-09-05 00:00:00,FALSE
+799,Vinayaka Beverages #799,Pepsi Portfolio,6867242656,vinayakabeverages7993340@mail.com,"283, Auto Nagar, Visakhapatnam",37KVHED9319MW7D,2021-12-21 00:00:00,FALSE
+800,Shiva Distributors #800,Local Portfolio,7151282553,shivadistributors8006514@demo.in,"290, Industrial Estate, Visakhapatnam",37ZHCZO3919IY9W,2020-08-15 00:00:00,FALSE
+801,Anusha Wholesale #801,Coke Portfolio,8976473426,anushawholesale8015989@demo.in,"226, Old Town, Visakhapatnam",37CPWUO3911L92P,2022-06-17 00:00:00,FALSE
+802,Rohit Wholesale #802,Local Portfolio,6002565598,rohitwholesale8023037@mail.com,"116, Industrial Estate, Visakhapatnam",37PTYCA1217IZN1,2022-01-27 00:00:00,FALSE
+803,Harsha Foods #803,Mixed,9965424069,harshafoods8039639@demo.in,"111, Industrial Estate, Visakhapatnam",37VEFCJ6813EAGK,2020-10-24 00:00:00,FALSE
+804,Gandhi Beverages #804,Mixed,7044636678,gandhibeverages8041342@demo.in,"13, Old Town, Visakhapatnam",37ETAIU2803IGWV,2020-05-25 00:00:00,FALSE
+805,Prasad Agencies #805,Local Portfolio,6798470910,prasadagencies8051612@demo.in,"150, Wholesale Market, Visakhapatnam",37LHIMY7123DLMG,2023-12-21 00:00:00,FALSE
+806,Suma Enterprises #806,Mixed,9754512531,sumaenterprises8065884@demo.in,"175, Wholesale Market, Visakhapatnam",37JWMCO2580ZU1S,2021-02-09 00:00:00,FALSE
+807,Prasad Traders #807,Mixed,8965831227,prasadtraders8071191@mail.com,"263, Old Town, Visakhapatnam",37KRMZY5790DK6L,2023-12-07 00:00:00,FALSE
+808,Kiran Agencies #808,Local Portfolio,9371681142,kiranagencies8081714@example.com,"31, Wholesale Market, Visakhapatnam",37WQZLV5417DHCM,2022-09-16 00:00:00,FALSE
+809,Rohit Wholesale #809,Mixed,9371199346,rohitwholesale8098277@demo.in,"160, Old Town, Visakhapatnam",37JLLUZ0106UA8H,2022-03-21 00:00:00,FALSE
+810,Rohit Enterprises #810,Mixed,7792937718,rohitenterprises8103340@mail.com,"238, Industrial Estate, Visakhapatnam",37MLBZX8978AI2M,2025-10-03 00:00:00,FALSE
+811,Sree Distributors #811,Pepsi Portfolio,7916978850,sreedistributors811442@mail.com,"166, Wholesale Market, Visakhapatnam",37ZKKDV9421W077,2024-09-12 00:00:00,FALSE
+812,Teja Traders #812,Local Portfolio,9671882364,tejatraders8127602@mail.com,"266, Auto Nagar, Visakhapatnam",37IRQZV5055KHYJ,2022-06-08 00:00:00,FALSE
+813,Rohit Enterprises #813,Coke Portfolio,9514758329,rohitenterprises8132867@mail.com,"31, Industrial Estate, Visakhapatnam",37YPLJE0390W16Z,2019-05-16 00:00:00,FALSE
+814,Rohit Foods #814,Mixed,7838794184,rohitfoods8142600@demo.in,"102, Auto Nagar, Visakhapatnam",37ITLIM0672B17F,2019-09-02 00:00:00,FALSE
+815,Teja Foods #815,Coke Portfolio,9319187739,tejafoods8154578@mail.com,"94, Auto Nagar, Visakhapatnam",37EMESH8724WT9E,2021-12-02 00:00:00,FALSE
+816,Rohit Foods #816,Mixed,6907304800,rohitfoods8168445@mail.com,"2, Wholesale Market, Visakhapatnam",37FBIUI5645XFEZ,2024-11-14 00:00:00,FALSE
+817,Lakshmi Foods #817,Pepsi Portfolio,8987908485,lakshmifoods8176762@mail.com,"262, Wholesale Market, Visakhapatnam",37GZEPY3412RRRU,2025-06-21 00:00:00,FALSE
+818,Vijaya Traders #818,Coke Portfolio,7099879523,vijayatraders8187537@mail.com,"172, Old Town, Visakhapatnam",37NIYTP0232BKA7,2023-01-10 00:00:00,FALSE
+819,Om Distributors #819,Mixed,9530423704,omdistributors8195243@example.com,"297, Auto Nagar, Visakhapatnam",37WLVPI9471OQ0X,2024-03-26 00:00:00,FALSE
+820,Annapurna Agencies #820,Coke Portfolio,9958926811,annapurnaagencies8205677@example.com,"101, Auto Nagar, Visakhapatnam",37THWXU1094DM4V,2024-09-21 00:00:00,FALSE
+821,Prasad Agencies #821,Pepsi Portfolio,9372620571,prasadagencies8216787@mail.com,"118, Old Town, Visakhapatnam",37HJNFW5357WPSM,2021-02-27 00:00:00,FALSE
+822,Sri Foods #822,Pepsi Portfolio,6503580828,srifoods8229021@demo.in,"45, Industrial Estate, Visakhapatnam",37HKBUD5475Y1DK,2022-09-10 00:00:00,FALSE
+823,Rohit Wholesale #823,Local Portfolio,6622971641,rohitwholesale8234512@example.com,"240, Old Town, Visakhapatnam",37YFCUN9891TBNI,2025-04-03 00:00:00,FALSE
+824,Krishna Beverages #824,Mixed,6792864124,krishnabeverages8245411@mail.com,"154, Auto Nagar, Visakhapatnam",37MIVQO0564H9EA,2020-01-30 00:00:00,FALSE
+825,Vinayaka Distributors #825,Coke Portfolio,6783298250,vinayakadistributors8255321@example.com,"47, Wholesale Market, Visakhapatnam",37VOKSW9041K9GO,2021-03-27 00:00:00,FALSE
+826,Harsha Enterprises #826,Local Portfolio,9868557117,harshaenterprises826798@mail.com,"46, Old Town, Visakhapatnam",37XROAV2139V3BO,2021-06-04 00:00:00,FALSE
+827,Sri Beverages #827,Mixed,6723449459,sribeverages8278448@demo.in,"213, Auto Nagar, Visakhapatnam",37TTUNN5241AAQ2,2025-05-23 00:00:00,FALSE
+828,Shiva Foods #828,Mixed,8044327073,shivafoods8285921@demo.in,"288, Wholesale Market, Visakhapatnam",37NBHLR0500VM3N,2020-10-23 00:00:00,FALSE
+829,Anil Wholesale #829,Mixed,7724935536,anilwholesale8295483@mail.com,"8, Auto Nagar, Visakhapatnam",37VQFGI1072JTGD,2025-05-21 00:00:00,FALSE
+830,Sri Distributors #830,Coke Portfolio,6657728622,sridistributors8305471@mail.com,"288, Old Town, Visakhapatnam",37XDUGG7598KTTF,2025-05-28 00:00:00,FALSE
+831,Naveen Wholesale #831,Local Portfolio,7216849868,naveenwholesale8317542@demo.in,"184, Wholesale Market, Visakhapatnam",37PXQFG9787OBBZ,2024-10-08 00:00:00,FALSE
+832,Anusha Beverages #832,Mixed,7757288014,anushabeverages8321358@mail.com,"5, Wholesale Market, Visakhapatnam",37TYTOG9725LVVO,2024-06-26 00:00:00,FALSE
+833,Annapurna Distributors #833,Mixed,7990343952,annapurnadistributors8333754@demo.in,"94, Wholesale Market, Visakhapatnam",37XXPCC0509SPW0,2023-01-08 00:00:00,FALSE
+834,Sri Wholesale #834,Pepsi Portfolio,6714665090,sriwholesale8348917@mail.com,"249, Wholesale Market, Visakhapatnam",37YYIIU5512U18I,2025-05-27 00:00:00,FALSE
+835,Anil Beverages #835,Mixed,7685230701,anilbeverages8353046@example.com,"63, Old Town, Visakhapatnam",37AYTLU0923AXL1,2020-05-13 00:00:00,FALSE
+836,Om Enterprises #836,Local Portfolio,6565621220,omenterprises8365145@demo.in,"245, Auto Nagar, Visakhapatnam",37RKDTO1213PZP3,2020-02-13 00:00:00,FALSE
+837,Annapurna Traders #837,Pepsi Portfolio,9557759762,annapurnatraders8375067@example.com,"269, Industrial Estate, Visakhapatnam",37TLAKE0101DGCH,2019-08-08 00:00:00,FALSE
+838,Gandhi Foods #838,Coke Portfolio,9161350556,gandhifoods8388986@demo.in,"226, Old Town, Visakhapatnam",37JENGH9476ITE4,2024-03-05 00:00:00,FALSE
+839,Lakshmi Beverages #839,Coke Portfolio,7529592453,lakshmibeverages839713@demo.in,"244, Industrial Estate, Visakhapatnam",37MKAUU4970CPFT,2022-02-09 00:00:00,FALSE
+840,Anil Enterprises #840,Local Portfolio,6012708969,anilenterprises8403435@mail.com,"276, Old Town, Visakhapatnam",37URQHX1230YGM7,2021-03-16 00:00:00,FALSE
+841,Sri Foods #841,Local Portfolio,6461660794,srifoods8418122@example.com,"79, Auto Nagar, Visakhapatnam",37SWTPN7899IAMD,2023-12-18 00:00:00,FALSE
+842,Vishnu Wholesale #842,Mixed,6592966519,vishnuwholesale8427573@demo.in,"95, Wholesale Market, Visakhapatnam",37ICBXV9744I4C4,2025-03-16 00:00:00,FALSE
+843,Naveen Agencies #843,Pepsi Portfolio,6862865113,naveenagencies843103@mail.com,"122, Industrial Estate, Visakhapatnam",37GABHG3656XRN2,2020-06-09 00:00:00,FALSE
+844,Lakshmi Agencies #844,Coke Portfolio,8635193613,lakshmiagencies8449085@mail.com,"87, Old Town, Visakhapatnam",37AOKBT4084VPZT,2022-08-16 00:00:00,FALSE
+845,Teja Agencies #845,Coke Portfolio,8465034176,tejaagencies84594@mail.com,"258, Auto Nagar, Visakhapatnam",37EWBPI5996OYD3,2020-04-12 00:00:00,FALSE
+846,Rohit Enterprises #846,Coke Portfolio,9679473675,rohitenterprises8464499@example.com,"50, Wholesale Market, Visakhapatnam",37CGEST8322QWJH,2023-06-21 00:00:00,FALSE
+847,Venkateswara Wholesale #847,Pepsi Portfolio,9189442162,venkateswarawholesale847610@demo.in,"78, Wholesale Market, Visakhapatnam",37BUUSJ0144QTMC,2020-10-24 00:00:00,FALSE
+848,Vijaya Enterprises #848,Local Portfolio,9304273502,vijayaenterprises848193@mail.com,"209, Auto Nagar, Visakhapatnam",37WGCNA1451AP7A,2020-08-26 00:00:00,FALSE
+849,Suma Agencies #849,Coke Portfolio,7260070487,sumaagencies8496023@mail.com,"99, Auto Nagar, Visakhapatnam",37KOEJI2916V6K4,2023-12-13 00:00:00,FALSE
+850,Teja Wholesale #850,Mixed,6167464759,tejawholesale8503040@example.com,"269, Industrial Estate, Visakhapatnam",37LMYGH8089K0W1,2024-07-16 00:00:00,FALSE
+851,Sai Agencies #851,Pepsi Portfolio,9959109590,saiagencies8516837@example.com,"80, Industrial Estate, Visakhapatnam",37QUUIV6807PEPE,2021-03-08 00:00:00,FALSE
+852,Vishnu Distributors #852,Mixed,8235324696,vishnudistributors8526072@demo.in,"125, Old Town, Visakhapatnam",37GRUNN1341O85C,2019-05-25 00:00:00,FALSE
+853,Balaji Enterprises #853,Pepsi Portfolio,9980138038,balajienterprises8533710@mail.com,"272, Industrial Estate, Visakhapatnam",37KHIIG3446RMI6,2024-07-27 00:00:00,FALSE
+854,Anusha Enterprises #854,Mixed,8605869334,anushaenterprises8547762@mail.com,"19, Auto Nagar, Visakhapatnam",37ZJHUP3091YFAZ,2022-05-24 00:00:00,FALSE
+855,Harsha Agencies #855,Coke Portfolio,9068500232,harshaagencies8556990@demo.in,"27, Wholesale Market, Visakhapatnam",37CODTT7927C9JX,2022-01-01 00:00:00,FALSE
+856,Kiran Agencies #856,Mixed,8227774259,kiranagencies8561154@mail.com,"168, Old Town, Visakhapatnam",37STVWP5161HDOK,2019-10-24 00:00:00,FALSE
+857,Anusha Enterprises #857,Mixed,8296030421,anushaenterprises857556@example.com,"264, Old Town, Visakhapatnam",37SFMUA7606AYTI,2024-05-04 00:00:00,FALSE
+858,Venkateswara Distributors #858,Local Portfolio,9464507992,venkateswaradistributors8582249@example.com,"69, Wholesale Market, Visakhapatnam",37CQVOZ1335L9YP,2021-08-10 00:00:00,FALSE
+859,Naveen Wholesale #859,Coke Portfolio,9191477385,naveenwholesale8594566@mail.com,"269, Wholesale Market, Visakhapatnam",37BYNVD6846FMQ8,2025-02-11 00:00:00,FALSE
+860,Vinayaka Beverages #860,Pepsi Portfolio,8619542028,vinayakabeverages8607479@demo.in,"45, Old Town, Visakhapatnam",37VTDHC6917FXZ9,2021-01-23 00:00:00,FALSE
+861,Vishnu Foods #861,Coke Portfolio,9592942094,vishnufoods8611197@example.com,"136, Wholesale Market, Visakhapatnam",37RPWCH2159CMP2,2021-10-16 00:00:00,FALSE
+862,Rohit Wholesale #862,Local Portfolio,7635412407,rohitwholesale8625561@mail.com,"142, Wholesale Market, Visakhapatnam",37LCVJK3021ZA6B,2024-10-17 00:00:00,FALSE
+863,Krishna Wholesale #863,Local Portfolio,8466916251,krishnawholesale8632622@example.com,"49, Auto Nagar, Visakhapatnam",37NFATS1236AGF8,2019-11-01 00:00:00,FALSE
+864,Ravi Distributors #864,Mixed,7887637262,ravidistributors8646791@example.com,"254, Wholesale Market, Visakhapatnam",37KOWCC1751ZSM6,2022-09-01 00:00:00,FALSE
+865,Venkateswara Wholesale #865,Coke Portfolio,9741329859,venkateswarawholesale8659546@demo.in,"227, Auto Nagar, Visakhapatnam",37AXPPI7931TJ4H,2024-04-05 00:00:00,FALSE
+866,Harsha Foods #866,Coke Portfolio,8255538178,harshafoods8665813@demo.in,"250, Wholesale Market, Visakhapatnam",37WDPZN9731IRGP,2024-06-28 00:00:00,FALSE
+867,Anusha Beverages #867,Local Portfolio,7703093350,anushabeverages8676046@mail.com,"157, Wholesale Market, Visakhapatnam",37QMLXX7617DCF0,2022-06-14 00:00:00,FALSE
+868,Vishnu Agencies #868,Pepsi Portfolio,7279552702,vishnuagencies8688009@mail.com,"85, Wholesale Market, Visakhapatnam",37OHXCK1686PN76,2025-10-07 00:00:00,FALSE
+869,Anusha Agencies #869,Mixed,8125308659,anushaagencies8695757@mail.com,"299, Old Town, Visakhapatnam",37YDGUE3893KLW2,2023-11-01 00:00:00,FALSE
+870,Suma Enterprises #870,Coke Portfolio,7239381521,sumaenterprises8703162@example.com,"209, Industrial Estate, Visakhapatnam",37TTVKI4796EH40,2024-12-20 00:00:00,FALSE
+871,Vishnu Agencies #871,Coke Portfolio,8074373182,vishnuagencies8716415@demo.in,"196, Old Town, Visakhapatnam",37ENUVV8628EPCJ,2024-02-18 00:00:00,FALSE
+872,Naveen Distributors #872,Coke Portfolio,7179099829,naveendistributors8727026@example.com,"144, Auto Nagar, Visakhapatnam",37SYXZC0549US1Q,2020-11-20 00:00:00,FALSE
+873,Rohit Enterprises #873,Pepsi Portfolio,6742773661,rohitenterprises8733054@example.com,"99, Old Town, Visakhapatnam",37TFHAS6259PEZG,2024-12-20 00:00:00,FALSE
+874,Lakshmi Wholesale #874,Pepsi Portfolio,9422290820,lakshmiwholesale8744093@demo.in,"118, Auto Nagar, Visakhapatnam",37EDGQU2024SGMT,2021-04-30 00:00:00,FALSE
+875,Anil Distributors #875,Local Portfolio,6962570783,anildistributors8751948@demo.in,"172, Auto Nagar, Visakhapatnam",37CLSYC8090WYWD,2025-08-25 00:00:00,FALSE
+876,Gandhi Foods #876,Coke Portfolio,6154583684,gandhifoods8768001@demo.in,"3, Industrial Estate, Visakhapatnam",37VMFVT6438I8KS,2023-08-14 00:00:00,FALSE
+877,Krishna Agencies #877,Pepsi Portfolio,8306157726,krishnaagencies877359@example.com,"63, Auto Nagar, Visakhapatnam",37FPISU8572NCSL,2019-01-30 00:00:00,FALSE
+878,Gandhi Beverages #878,Mixed,6794120721,gandhibeverages8785312@mail.com,"140, Wholesale Market, Visakhapatnam",37EZTRC1758MD3N,2022-03-26 00:00:00,FALSE
+879,Suma Beverages #879,Pepsi Portfolio,7932835696,sumabeverages8794762@example.com,"31, Old Town, Visakhapatnam",37DIRDS1455OM3Q,2019-02-17 00:00:00,FALSE
+880,Shiva Beverages #880,Pepsi Portfolio,9704438886,shivabeverages8802087@mail.com,"49, Industrial Estate, Visakhapatnam",37AHXYG3136M2UH,2020-08-09 00:00:00,FALSE
+881,Sree Beverages #881,Pepsi Portfolio,8576606511,sreebeverages8819152@example.com,"66, Auto Nagar, Visakhapatnam",37QWABO5733IVRK,2019-03-25 00:00:00,FALSE
+882,Vinayaka Enterprises #882,Coke Portfolio,7561428017,vinayakaenterprises8828232@example.com,"167, Old Town, Visakhapatnam",37UALDR6485A6FC,2022-10-06 00:00:00,FALSE
+883,Annapurna Agencies #883,Mixed,7855717980,annapurnaagencies8835280@mail.com,"216, Industrial Estate, Visakhapatnam",37XOQNC9267JGJP,2019-03-12 00:00:00,FALSE
+884,Teja Beverages #884,Coke Portfolio,9500425367,tejabeverages8845862@example.com,"52, Auto Nagar, Visakhapatnam",37NBIIP0035UBY6,2023-09-07 00:00:00,FALSE
+885,Prasad Traders #885,Coke Portfolio,9238382320,prasadtraders885929@mail.com,"140, Wholesale Market, Visakhapatnam",37BEWYR7425MT2Y,2020-10-31 00:00:00,FALSE
+886,Krishna Agencies #886,Pepsi Portfolio,8649400048,krishnaagencies886420@demo.in,"185, Wholesale Market, Visakhapatnam",37HINFU5285OQ46,2022-10-17 00:00:00,FALSE
+887,Vinayaka Enterprises #887,Local Portfolio,8804126592,vinayakaenterprises8877091@mail.com,"202, Wholesale Market, Visakhapatnam",37PEIXZ8767EJR8,2019-04-23 00:00:00,FALSE
+888,Vijaya Enterprises #888,Mixed,6502191880,vijayaenterprises8885163@mail.com,"247, Auto Nagar, Visakhapatnam",37LQUWU4550R23Y,2025-04-19 00:00:00,FALSE
+889,Teja Beverages #889,Pepsi Portfolio,9180179747,tejabeverages8898752@demo.in,"192, Old Town, Visakhapatnam",37YKUUT8869PLB0,2023-10-06 00:00:00,FALSE
+890,Vinayaka Distributors #890,Local Portfolio,7297187682,vinayakadistributors8905978@mail.com,"202, Auto Nagar, Visakhapatnam",37APFSR1648ZZ1B,2020-01-30 00:00:00,FALSE
+891,Vinayaka Distributors #891,Local Portfolio,6089007851,vinayakadistributors8915508@mail.com,"221, Industrial Estate, Visakhapatnam",37DSEVG5168TJP1,2022-01-02 00:00:00,FALSE
+892,Suma Agencies #892,Local Portfolio,7524785787,sumaagencies8925706@demo.in,"150, Auto Nagar, Visakhapatnam",37YUOLN9434OQ64,2020-05-03 00:00:00,FALSE
+893,Gandhi Distributors #893,Coke Portfolio,9270916854,gandhidistributors8936146@demo.in,"45, Industrial Estate, Visakhapatnam",37KLDSH1231MXH4,2023-10-26 00:00:00,FALSE
+894,Krishna Agencies #894,Coke Portfolio,6859866575,krishnaagencies894169@mail.com,"104, Industrial Estate, Visakhapatnam",37JSJKJ2972SXLE,2024-10-04 00:00:00,FALSE
+895,Surya Enterprises #895,Coke Portfolio,9439509540,suryaenterprises8956950@mail.com,"130, Wholesale Market, Visakhapatnam",37XZKVN0091Z5TJ,2021-03-07 00:00:00,FALSE
+896,Prasad Wholesale #896,Mixed,6227901020,prasadwholesale896332@example.com,"120, Wholesale Market, Visakhapatnam",37VVULM5990FARY,2024-04-02 00:00:00,FALSE
+897,Gandhi Wholesale #897,Pepsi Portfolio,6058330681,gandhiwholesale8974589@demo.in,"56, Wholesale Market, Visakhapatnam",37OPIJW7648E0CQ,2020-09-20 00:00:00,FALSE
+898,Annapurna Enterprises #898,Mixed,7582461776,annapurnaenterprises8988270@example.com,"130, Auto Nagar, Visakhapatnam",37LFMJZ4887NAGX,2023-09-24 00:00:00,FALSE
+899,Vishnu Wholesale #899,Local Portfolio,6180205689,vishnuwholesale8993130@mail.com,"94, Wholesale Market, Visakhapatnam",37VPBNX9476E4TK,2019-03-09 00:00:00,FALSE
+900,Vijaya Enterprises #900,Local Portfolio,9761853851,vijayaenterprises9002128@mail.com,"144, Auto Nagar, Visakhapatnam",37DQWDV1080NS2G,2023-12-26 00:00:00,FALSE
+901,Annapurna Distributors #901,Coke Portfolio,7156199974,annapurnadistributors9019004@mail.com,"66, Auto Nagar, Visakhapatnam",37GVRXG7762VN5I,2022-06-23 00:00:00,FALSE
+902,Sai Beverages #902,Local Portfolio,8901253903,saibeverages9027588@example.com,"89, Industrial Estate, Visakhapatnam",37JYTZG8660RASN,2020-02-21 00:00:00,FALSE
+903,Annapurna Traders #903,Pepsi Portfolio,7563461772,annapurnatraders9036674@example.com,"79, Old Town, Visakhapatnam",37LGWCR5464M8D3,2021-10-24 00:00:00,FALSE
+904,Om Distributors #904,Mixed,8347445539,omdistributors904317@example.com,"184, Industrial Estate, Visakhapatnam",37MBJIV1300GVC1,2021-10-20 00:00:00,FALSE
+905,Harsha Enterprises #905,Pepsi Portfolio,6241561383,harshaenterprises9051183@demo.in,"39, Old Town, Visakhapatnam",37JQYQZ2348PH8K,2023-07-09 00:00:00,FALSE
+906,Kiran Foods #906,Coke Portfolio,7456285075,kiranfoods90623@example.com,"284, Old Town, Visakhapatnam",37HTMHS0178XZE2,2023-07-15 00:00:00,FALSE
+907,Venkateswara Traders #907,Pepsi Portfolio,8292611424,venkateswaratraders9073265@demo.in,"221, Auto Nagar, Visakhapatnam",37DAKXB6591ZH3U,2021-02-26 00:00:00,FALSE
+908,Venkateswara Distributors #908,Pepsi Portfolio,6598643235,venkateswaradistributors9082941@mail.com,"6, Auto Nagar, Visakhapatnam",37APZCQ3654PRMC,2021-03-10 00:00:00,FALSE
+909,Vinayaka Beverages #909,Mixed,8530228075,vinayakabeverages9098489@example.com,"160, Industrial Estate, Visakhapatnam",37BPXDP4948Y8CP,2021-11-05 00:00:00,FALSE
+910,Surya Agencies #910,Mixed,7695886161,suryaagencies9106936@example.com,"46, Industrial Estate, Visakhapatnam",37QEZTN3987GNBD,2025-03-08 00:00:00,FALSE
+911,Teja Beverages #911,Coke Portfolio,6640673613,tejabeverages9117324@mail.com,"145, Wholesale Market, Visakhapatnam",37GGVNP3851GTEI,2020-05-15 00:00:00,FALSE
+912,Suma Traders #912,Local Portfolio,6619714464,sumatraders9126772@mail.com,"112, Auto Nagar, Visakhapatnam",37FAKVH0640OUXQ,2024-12-04 00:00:00,FALSE
+913,Teja Wholesale #913,Coke Portfolio,6341560320,tejawholesale9136879@mail.com,"87, Old Town, Visakhapatnam",37JKUPH9315WNL4,2020-04-07 00:00:00,FALSE
+914,Anil Traders #914,Coke Portfolio,6333449902,aniltraders9141374@demo.in,"206, Wholesale Market, Visakhapatnam",37AUVNY6709MY4C,2021-05-05 00:00:00,FALSE
+915,Sai Enterprises #915,Pepsi Portfolio,7841871022,saienterprises915206@mail.com,"252, Industrial Estate, Visakhapatnam",37TWJHD8473CGI1,2020-07-10 00:00:00,FALSE
+916,Sree Distributors #916,Coke Portfolio,9868339293,sreedistributors9169638@demo.in,"64, Industrial Estate, Visakhapatnam",37CLHPU1409JJ21,2019-09-04 00:00:00,FALSE
+917,Vinayaka Wholesale #917,Coke Portfolio,6576122085,vinayakawholesale9177574@demo.in,"142, Wholesale Market, Visakhapatnam",37RQDPX2144RB2L,2025-06-09 00:00:00,FALSE
+918,Sree Traders #918,Pepsi Portfolio,8673787715,sreetraders9189005@mail.com,"62, Old Town, Visakhapatnam",37ICNSH7508W9NU,2021-11-17 00:00:00,FALSE
+919,Lakshmi Enterprises #919,Pepsi Portfolio,8525606117,lakshmienterprises9193058@example.com,"181, Industrial Estate, Visakhapatnam",37LWGCJ3628KI29,2019-06-25 00:00:00,FALSE
+920,Lakshmi Distributors #920,Local Portfolio,7153752398,lakshmidistributors9207740@demo.in,"222, Wholesale Market, Visakhapatnam",37VLVOP5622WZIH,2019-07-29 00:00:00,FALSE
+921,Naveen Distributors #921,Pepsi Portfolio,9451608689,naveendistributors9212700@example.com,"147, Industrial Estate, Visakhapatnam",37KPLZW4771IW33,2021-05-16 00:00:00,FALSE
+922,Sree Wholesale #922,Local Portfolio,8399833777,sreewholesale9229404@demo.in,"252, Industrial Estate, Visakhapatnam",37YNECK0908Y8XS,2024-10-22 00:00:00,FALSE
+923,Surya Beverages #923,Pepsi Portfolio,7602835334,suryabeverages9236509@mail.com,"71, Old Town, Visakhapatnam",37ZVLVQ5225QF3R,2021-03-09 00:00:00,FALSE
+924,Balaji Enterprises #924,Coke Portfolio,6916980536,balajienterprises9241112@demo.in,"120, Wholesale Market, Visakhapatnam",37JCWGR5567I5YH,2025-10-05 00:00:00,FALSE
+925,Prasad Enterprises #925,Pepsi Portfolio,8903249962,prasadenterprises9255893@demo.in,"129, Auto Nagar, Visakhapatnam",37KDFQJ0143Y7FC,2020-03-19 00:00:00,FALSE
+926,Krishna Wholesale #926,Pepsi Portfolio,7295644237,krishnawholesale9266943@example.com,"245, Auto Nagar, Visakhapatnam",37SGTJY9537JLAD,2023-03-10 00:00:00,FALSE
+927,Harsha Wholesale #927,Pepsi Portfolio,7126867349,harshawholesale9279546@mail.com,"201, Industrial Estate, Visakhapatnam",37HSLWB4378QIM1,2019-12-16 00:00:00,FALSE
+928,Harsha Beverages #928,Coke Portfolio,6611146252,harshabeverages9283086@example.com,"295, Auto Nagar, Visakhapatnam",37KHHTS4081ICQL,2023-07-28 00:00:00,FALSE
+929,Prasad Foods #929,Local Portfolio,6021542170,prasadfoods929500@demo.in,"24, Wholesale Market, Visakhapatnam",37BONOO3777PPC0,2022-03-12 00:00:00,FALSE
+930,Teja Enterprises #930,Pepsi Portfolio,9231301160,tejaenterprises9306769@example.com,"82, Auto Nagar, Visakhapatnam",37UMWGL4407FW0B,2021-12-04 00:00:00,FALSE
+931,Krishna Agencies #931,Mixed,6885523864,krishnaagencies9315472@mail.com,"159, Auto Nagar, Visakhapatnam",37VVPGY9457PVKY,2023-05-11 00:00:00,FALSE
+932,Sri Agencies #932,Coke Portfolio,6282779500,sriagencies9324525@example.com,"36, Old Town, Visakhapatnam",37LOSGK6924CKAG,2020-03-10 00:00:00,FALSE
+933,Harsha Distributors #933,Local Portfolio,8505107592,harshadistributors9338274@demo.in,"174, Old Town, Visakhapatnam",37LEOSN5500F3VY,2022-02-19 00:00:00,FALSE
+934,Anil Foods #934,Mixed,7192071994,anilfoods9342237@mail.com,"51, Auto Nagar, Visakhapatnam",37CTKXX2710YUV1,2024-10-30 00:00:00,FALSE
+935,Vijaya Beverages #935,Coke Portfolio,7561431398,vijayabeverages9353019@demo.in,"113, Wholesale Market, Visakhapatnam",37CYIVM3405PQGB,2024-12-17 00:00:00,FALSE
+936,Surya Distributors #936,Pepsi Portfolio,8772014415,suryadistributors9361633@mail.com,"119, Auto Nagar, Visakhapatnam",37XSGLB0386OAFS,2025-03-01 00:00:00,FALSE
+937,Anusha Foods #937,Mixed,6626344306,anushafoods9378999@example.com,"296, Auto Nagar, Visakhapatnam",37OEHSZ8465RKW8,2025-06-25 00:00:00,FALSE
+938,Prasad Beverages #938,Coke Portfolio,8804748183,prasadbeverages9389215@mail.com,"96, Auto Nagar, Visakhapatnam",37KMJYB6264DP8H,2021-02-05 00:00:00,FALSE
+939,Rohit Distributors #939,Local Portfolio,6901908827,rohitdistributors9399819@demo.in,"187, Wholesale Market, Visakhapatnam",37JMZPH5750XQ5B,2019-09-04 00:00:00,FALSE
+940,Anil Beverages #940,Coke Portfolio,7461665221,anilbeverages9406648@example.com,"35, Old Town, Visakhapatnam",37HZTLE6682MYUN,2021-07-14 00:00:00,FALSE
+941,Rohit Enterprises #941,Coke Portfolio,9557716523,rohitenterprises9418073@demo.in,"272, Wholesale Market, Visakhapatnam",37AVYEC3946QY60,2022-10-01 00:00:00,FALSE
+942,Sai Distributors #942,Coke Portfolio,8890561324,saidistributors9422204@example.com,"5, Wholesale Market, Visakhapatnam",37IEZBD3364UYMN,2019-07-13 00:00:00,FALSE
+943,Venkateswara Enterprises #943,Pepsi Portfolio,7413234393,venkateswaraenterprises9437011@example.com,"181, Wholesale Market, Visakhapatnam",37XBBVL8526MYF5,2022-03-21 00:00:00,FALSE
+944,Harsha Distributors #944,Local Portfolio,7407521710,harshadistributors9441863@mail.com,"263, Wholesale Market, Visakhapatnam",37QKWEN9849DP1N,2023-11-09 00:00:00,FALSE
+945,Om Agencies #945,Coke Portfolio,8726211096,omagencies9456060@example.com,"224, Industrial Estate, Visakhapatnam",37FMXRI8046S5OE,2022-03-24 00:00:00,FALSE
+946,Anil Beverages #946,Mixed,7344245872,anilbeverages9465168@demo.in,"13, Industrial Estate, Visakhapatnam",37TRICD3161W8S5,2019-07-05 00:00:00,FALSE
+947,Venkateswara Beverages #947,Mixed,6301777619,venkateswarabeverages947373@example.com,"246, Industrial Estate, Visakhapatnam",37VFVQC7234UDCH,2021-08-08 00:00:00,FALSE
+948,Vinayaka Agencies #948,Coke Portfolio,8140379884,vinayakaagencies9485925@example.com,"230, Wholesale Market, Visakhapatnam",37DIPBE4740MVVC,2024-09-24 00:00:00,FALSE
+949,Harsha Wholesale #949,Coke Portfolio,8164857523,harshawholesale9498238@example.com,"163, Auto Nagar, Visakhapatnam",37DNPLN9841NTF6,2020-06-21 00:00:00,FALSE
+950,Kiran Traders #950,Local Portfolio,8452213262,kirantraders9505680@example.com,"288, Wholesale Market, Visakhapatnam",37KOWUB3811LDXA,2023-09-07 00:00:00,FALSE
+951,Kiran Foods #951,Coke Portfolio,7072647632,kiranfoods9511987@example.com,"36, Industrial Estate, Visakhapatnam",37LDNSK2124KCT3,2025-05-06 00:00:00,FALSE
+952,Krishna Agencies #952,Pepsi Portfolio,9627547434,krishnaagencies9523631@example.com,"252, Wholesale Market, Visakhapatnam",37XWNBP2891Q3CC,2019-06-06 00:00:00,FALSE
+953,Gandhi Beverages #953,Mixed,9265379335,gandhibeverages9533736@mail.com,"178, Auto Nagar, Visakhapatnam",37ELKWY2880KZG7,2019-12-20 00:00:00,FALSE
+954,Balaji Distributors #954,Coke Portfolio,8850192363,balajidistributors954106@demo.in,"171, Industrial Estate, Visakhapatnam",37VFMRX1968LIWI,2022-01-24 00:00:00,FALSE
+955,Krishna Distributors #955,Coke Portfolio,6876006908,krishnadistributors9559220@example.com,"198, Wholesale Market, Visakhapatnam",37QAEEG6956E9JC,2024-07-07 00:00:00,FALSE
+956,Lakshmi Agencies #956,Mixed,8769176887,lakshmiagencies9566834@example.com,"67, Industrial Estate, Visakhapatnam",37LFOFM4552IN7D,2022-07-04 00:00:00,FALSE
+957,Sai Foods #957,Mixed,9679641180,saifoods957349@mail.com,"263, Old Town, Visakhapatnam",37CRGUM2972PLCO,2022-10-18 00:00:00,FALSE
+958,Anil Enterprises #958,Local Portfolio,9740143455,anilenterprises958644@demo.in,"209, Industrial Estate, Visakhapatnam",37JIBFM0501NV9M,2024-05-03 00:00:00,FALSE
+959,Lakshmi Beverages #959,Pepsi Portfolio,8268836457,lakshmibeverages9594364@example.com,"12, Auto Nagar, Visakhapatnam",37YFXZO4775R2NR,2022-03-10 00:00:00,FALSE
+960,Shiva Enterprises #960,Coke Portfolio,7534283261,shivaenterprises9608645@demo.in,"258, Auto Nagar, Visakhapatnam",37DDYDQ1916CKQX,2022-10-28 00:00:00,FALSE
+961,Anusha Agencies #961,Coke Portfolio,6786340945,anushaagencies9615750@example.com,"288, Wholesale Market, Visakhapatnam",37SWEBE2639XN5O,2019-10-23 00:00:00,FALSE
+962,Teja Enterprises #962,Pepsi Portfolio,8710120052,tejaenterprises962136@mail.com,"171, Industrial Estate, Visakhapatnam",37HYCHW8644M3RO,2024-11-07 00:00:00,FALSE
+963,Anusha Foods #963,Coke Portfolio,9412101147,anushafoods9632570@mail.com,"153, Industrial Estate, Visakhapatnam",37GTKIR9367E54W,2020-03-30 00:00:00,FALSE
+964,Harsha Beverages #964,Mixed,7760715654,harshabeverages964973@example.com,"221, Industrial Estate, Visakhapatnam",37ZVCHP8708I50X,2024-07-01 00:00:00,FALSE
+965,Kiran Foods #965,Pepsi Portfolio,8937432953,kiranfoods9656435@demo.in,"242, Industrial Estate, Visakhapatnam",37OAFVM2138CV5D,2022-07-11 00:00:00,FALSE
+966,Surya Traders #966,Local Portfolio,8252125083,suryatraders9663736@example.com,"263, Auto Nagar, Visakhapatnam",37SHSIX9083BNG4,2023-10-29 00:00:00,FALSE
+967,Vijaya Foods #967,Pepsi Portfolio,9092080007,vijayafoods9676352@example.com,"245, Industrial Estate, Visakhapatnam",37EAZPM2308NJ2U,2022-08-28 00:00:00,FALSE
+968,Krishna Beverages #968,Coke Portfolio,6428974688,krishnabeverages9681774@example.com,"92, Industrial Estate, Visakhapatnam",37AXBFE5427I3BO,2023-12-10 00:00:00,FALSE
+969,Sree Foods #969,Pepsi Portfolio,7335737286,sreefoods9698729@demo.in,"23, Auto Nagar, Visakhapatnam",37AJAJQ6714JK77,2025-09-28 00:00:00,FALSE
+970,Sree Traders #970,Mixed,6399076361,sreetraders9707556@demo.in,"101, Industrial Estate, Visakhapatnam",37EKFPA7032XC80,2023-12-17 00:00:00,FALSE
+971,Anil Enterprises #971,Local Portfolio,7696494298,anilenterprises9715772@example.com,"118, Wholesale Market, Visakhapatnam",37YQJCL2372GO52,2022-06-16 00:00:00,FALSE
+972,Suma Agencies #972,Mixed,6439621788,sumaagencies9723740@demo.in,"9, Auto Nagar, Visakhapatnam",37VBILG0927OVPI,2020-12-19 00:00:00,FALSE
+973,Balaji Traders #973,Coke Portfolio,8379541820,balajitraders9735447@demo.in,"6, Industrial Estate, Visakhapatnam",37ZVHHC1451KACJ,2025-07-06 00:00:00,FALSE
+974,Teja Wholesale #974,Pepsi Portfolio,8912043131,tejawholesale9742066@mail.com,"266, Industrial Estate, Visakhapatnam",37OCZJX1923C1VA,2022-05-22 00:00:00,FALSE
+975,Sri Wholesale #975,Mixed,9886980115,sriwholesale9758031@demo.in,"85, Old Town, Visakhapatnam",37VPMJP8567UXQ1,2021-08-05 00:00:00,FALSE
+976,Lakshmi Enterprises #976,Pepsi Portfolio,6892930693,lakshmienterprises9761277@demo.in,"296, Wholesale Market, Visakhapatnam",37BGZUF8449DMUC,2025-10-15 00:00:00,FALSE
+977,Vinayaka Distributors #977,Coke Portfolio,9921030275,vinayakadistributors9774312@example.com,"74, Old Town, Visakhapatnam",37CWFRS2491JMAP,2024-07-11 00:00:00,FALSE
+978,Om Distributors #978,Mixed,8714758474,omdistributors978237@example.com,"27, Wholesale Market, Visakhapatnam",37OXCOG1675LD4G,2024-07-13 00:00:00,FALSE
+979,Teja Enterprises #979,Local Portfolio,8817213921,tejaenterprises9792950@mail.com,"169, Wholesale Market, Visakhapatnam",37GTLBH5750QYD0,2024-07-26 00:00:00,FALSE
+980,Vishnu Enterprises #980,Mixed,8601354236,vishnuenterprises980167@example.com,"249, Industrial Estate, Visakhapatnam",37SKWXL9183DMJ4,2023-11-13 00:00:00,FALSE
+981,Ravi Distributors #981,Pepsi Portfolio,9828841389,ravidistributors9819145@example.com,"263, Old Town, Visakhapatnam",37EGRYA9131HRF4,2023-05-07 00:00:00,FALSE
+982,Sree Distributors #982,Mixed,6074481166,sreedistributors9826499@example.com,"147, Auto Nagar, Visakhapatnam",37LOFIW1625XMGD,2023-04-22 00:00:00,FALSE
+983,Annapurna Beverages #983,Coke Portfolio,8573611141,annapurnabeverages9835704@demo.in,"74, Wholesale Market, Visakhapatnam",37ZBBUE9624KQ6S,2021-05-07 00:00:00,FALSE
+984,Harsha Beverages #984,Local Portfolio,8981942720,harshabeverages9847372@example.com,"277, Industrial Estate, Visakhapatnam",37OCTVT0307CXOG,2024-08-06 00:00:00,FALSE
+985,Vinayaka Beverages #985,Mixed,9972876924,vinayakabeverages9855127@example.com,"33, Industrial Estate, Visakhapatnam",37JGIXV6606JNG8,2024-08-10 00:00:00,FALSE
+986,Sri Beverages #986,Local Portfolio,8171572709,sribeverages9863885@example.com,"81, Old Town, Visakhapatnam",37AROYF5460PGSL,2021-05-05 00:00:00,FALSE
+987,Vinayaka Distributors #987,Pepsi Portfolio,6380399374,vinayakadistributors9877738@mail.com,"150, Wholesale Market, Visakhapatnam",37ZRMRW3399KIHM,2023-02-06 00:00:00,FALSE
+988,Suma Foods #988,Local Portfolio,6902653499,sumafoods9888709@demo.in,"149, Old Town, Visakhapatnam",37GNSEY5340RW7D,2025-03-30 00:00:00,FALSE
+989,Vishnu Enterprises #989,Pepsi Portfolio,7232173384,vishnuenterprises989103@demo.in,"251, Industrial Estate, Visakhapatnam",37TCPWY9944M9IQ,2020-07-26 00:00:00,FALSE
+990,Surya Beverages #990,Mixed,6296775562,suryabeverages990122@demo.in,"258, Wholesale Market, Visakhapatnam",37KDXTE5004JPAG,2022-09-28 00:00:00,FALSE
+991,Sri Foods #991,Local Portfolio,8254145991,srifoods9915112@mail.com,"47, Auto Nagar, Visakhapatnam",37ZHYHW9410H3WV,2021-08-09 00:00:00,FALSE
+992,Naveen Beverages #992,Local Portfolio,8660136687,naveenbeverages992748@mail.com,"263, Industrial Estate, Visakhapatnam",37MDPIJ4850K4A9,2021-07-26 00:00:00,FALSE
+993,Anusha Distributors #993,Pepsi Portfolio,9810382780,anushadistributors99344@mail.com,"95, Wholesale Market, Visakhapatnam",37QKZEO2792VWI7,2020-01-29 00:00:00,FALSE
+994,Sai Enterprises #994,Pepsi Portfolio,8741688196,saienterprises9942029@example.com,"46, Industrial Estate, Visakhapatnam",37DQPMH3261D29Z,2022-06-13 00:00:00,FALSE
+995,Balaji Distributors #995,Coke Portfolio,9891258109,balajidistributors9954466@demo.in,"11, Auto Nagar, Visakhapatnam",37JVFRP4769GNR9,2021-08-28 00:00:00,FALSE
+996,Vinayaka Distributors #996,Pepsi Portfolio,6879082134,vinayakadistributors9963169@demo.in,"20, Auto Nagar, Visakhapatnam",37NMCSS7895TAXD,2020-04-18 00:00:00,FALSE
+997,Naveen Beverages #997,Local Portfolio,6814825418,naveenbeverages9976902@example.com,"123, Wholesale Market, Visakhapatnam",37FYLSC5965HOYD,2019-09-30 00:00:00,FALSE
+998,Sri Foods #998,Local Portfolio,7863444358,srifoods9984582@example.com,"100, Auto Nagar, Visakhapatnam",37JOJWG5892SRHJ,2020-06-19 00:00:00,FALSE
+999,Naveen Beverages #999,Local Portfolio,9519538997,naveenbeverages9997527@demo.in,"285, Old Town, Visakhapatnam",37EHHMW4537MQWL,2019-06-15 00:00:00,FALSE
+1000,Harsha Agencies #1000,Pepsi Portfolio,7168331615,harshaagencies10007681@mail.com,"134, Old Town, Visakhapatnam",37BMLIP2499ZEID,2019-08-18 00:00:00,FALSE

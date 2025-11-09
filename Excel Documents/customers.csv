@@ -1,0 +1,1001 @@
+CustomerID,CustomerName,ShopName,Channel,Phone,Email,AddressLine,Area,City,Pincode,GSTIN,RegistrationDate,Status
+1,Rohit Sharma,Annapurna Cool Drinks,HoReCa,7374437949,rohitsharma4107@example.com,"135, Nagar Siripuram",Siripuram,Visakhapatnam,53088,37FZVDX9855EGMY,2022-12-22 00:00:00,Inactive
+2,Mahesh Reddy,Balaji General Stores,Retail,8532223776,maheshreddy9271@demo.in,"169, Street Siripuram",Siripuram,Visakhapatnam,53074,37BEGNV5429Y3Q4,2023-06-04 00:00:00,Active
+3,Pooja Das,Venkateswara Beverages,HoReCa,6798673262,poojadas711@example.com,"157, Lane Marripalem",Marripalem,Visakhapatnam,53045,37ORIGQ8952S5DG,2022-09-17 00:00:00,Inactive
+4,Ramesh Yadav,Sai Café,Wholesale,6306800138,rameshyadav1777@demo.in,"176, Rd Anakapalle",Anakapalle,Visakhapatnam,53053,37QOHEL4131KTO2,2020-12-25 00:00:00,Active
+5,Pavan Joshi,Annapurna Beverages,Retail,6561380019,pavanjoshi6906@mail.com,"82, Street PM Palem",PM Palem,Visakhapatnam,53019,37THDJQ9460JLS0,2020-08-15 00:00:00,Inactive
+6,Prasad Babu,Venkateswara Beverages,HoReCa,9288301908,prasadbabu8666@mail.com,"142, Rd Marripalem",Marripalem,Visakhapatnam,53053,37XODGR9468A7BA,2022-08-28 00:00:00,Inactive
+7,Keerthi Joshi,Om Cool Drinks,Institutional,9808235790,keerthijoshi7147@example.com,"176, Lane Kancharapalem",Kancharapalem,Visakhapatnam,53017,37OUNYA8748EAR3,2024-06-17 00:00:00,Active
+8,Sridhar Nair,Sri General Stores,Retail,6532409854,sridharnair5053@demo.in,"155, Nagar Gopalapatnam",Gopalapatnam,Visakhapatnam,53063,37ZYSVB1314V48H,2022-06-27 00:00:00,Active
+9,Pooja Verma,Balaji General Stores,Institutional,8973775614,poojaverma4686@mail.com,"11, Street Gajuwaka",Gajuwaka,Visakhapatnam,53060,37YIQNA7982L09E,2020-01-26 00:00:00,Active
+10,Manikanta Gupta,Sai Café,HoReCa,8933195805,manikantagupta5142@example.com,"129, Street Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53001,37JZNYG0925LCUZ,2024-04-15 00:00:00,Active
+11,Manikanta Babu,Sri Super Mart,Retail,8235276090,manikantababu4175@mail.com,"26, Rd Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53010,37TUWLG1789K90Y,2022-10-24 00:00:00,Active
+12,Deepak Babu,Sri Café,Retail,7783482168,deepakbabu8926@example.com,"33, Nagar Marripalem",Marripalem,Visakhapatnam,53057,37UWWEA7530NJID,2025-01-21 00:00:00,Active
+13,Sridhar Iyer,Lakshmi General Stores,Wholesale,6493341473,sridhariyer7340@example.com,"138, Street Akkayyapalem",Akkayyapalem,Visakhapatnam,53087,37QLXCT6316YO9N,2021-07-14 00:00:00,Inactive
+14,Anusha Naidu,Annapurna Super Mart,Retail,7326726939,anushanaidu7154@demo.in,"167, Rd Marripalem",Marripalem,Visakhapatnam,53027,37FVIBD1498OACB,2024-11-03 00:00:00,Active
+15,Suma Das,Om Cool Drinks,Institutional,8936527023,sumadas8202@example.com,"10, Nagar Malkapuram",Malkapuram,Visakhapatnam,53002,37PVCUK5449A70Z,2021-08-02 00:00:00,Active
+16,Mahesh Babu,Annapurna Super Mart,HoReCa,9033099804,maheshbabu1829@demo.in,"123, Street Maharanipeta",Maharanipeta,Visakhapatnam,53016,37GKWNQ9326TA9O,2021-11-08 00:00:00,Active
+17,Deepak Naidu,Lakshmi Cool Drinks,HoReCa,8383658130,deepaknaidu3318@mail.com,"106, Rd Seethammadhara",Seethammadhara,Visakhapatnam,53096,37LYGBI3293CDLE,2020-07-18 00:00:00,Active
+18,Vikram Kumar,Om Beverages,Wholesale,9321869125,vikramkumar969@mail.com,"56, Rd Old Town",Old Town,Visakhapatnam,53062,37HXRPU5675XEEI,2021-06-20 00:00:00,Active
+19,Anusha Naidu,Sri Café,HoReCa,9848681231,anushanaidu8278@mail.com,"189, Lane Kurmannapalem",Kurmannapalem,Visakhapatnam,53085,37AGXLF8815R9AG,2022-02-16 00:00:00,Inactive
+20,Suma Reddy,Sri Cool Drinks,HoReCa,6814159992,sumareddy3233@mail.com,"104, Street Maharanipeta",Maharanipeta,Visakhapatnam,53087,37KGKLN1816ES41,2022-05-09 00:00:00,Active
+21,Vikram Sharma,Om Cool Drinks,Retail,9386025500,vikramsharma9273@demo.in,"194, Street Yendada",Yendada,Visakhapatnam,53014,37UGPNI9345W91T,2020-07-02 00:00:00,Active
+22,Vikram Naidu,Sai Hotel,Institutional,9274477997,vikramnaidu4324@demo.in,"172, Lane Akkayyapalem",Akkayyapalem,Visakhapatnam,53090,37YLJAM5314C5P8,2025-05-12 00:00:00,Active
+23,Suma Gupta,Sai Café,Institutional,6603173468,sumagupta2444@example.com,"53, Nagar MVP Colony",MVP Colony,Visakhapatnam,53029,37KKZLO9658KYZF,2020-09-29 00:00:00,Active
+24,Neha Das,Annapurna Super Mart,HoReCa,7282249127,nehadas1232@mail.com,"130, Nagar Yendada",Yendada,Visakhapatnam,53010,37DXJVM8421PE3Z,2022-04-05 00:00:00,Inactive
+25,Sai Chowdary,Om Cool Drinks,HoReCa,9037728212,saichowdary825@mail.com,"163, Rd Gopalapatnam",Gopalapatnam,Visakhapatnam,53031,37QQXYD0273J477,2025-03-14 00:00:00,Active
+26,Pooja Verma,Annapurna Cool Drinks,Retail,7292813331,poojaverma2511@mail.com,"104, Street Kurmannapalem",Kurmannapalem,Visakhapatnam,53099,37PCTLY2820CX18,2023-12-24 00:00:00,Active
+27,Vamsi Yadav,Om Café,Retail,9543861102,vamsiyadav9111@example.com,"86, Nagar Kancharapalem",Kancharapalem,Visakhapatnam,53016,37QUVYG4260EW4A,2020-02-10 00:00:00,Active
+28,Ravi Chowdary,Balaji Cool Drinks,Retail,8856066751,ravichowdary3648@example.com,"168, Street Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53011,37THTJK4090O4NP,2024-04-09 00:00:00,Inactive
+29,Mahesh Kumar,Venkateswara Café,Retail,7053584622,maheshkumar8357@example.com,"137, Rd Gopalapatnam",Gopalapatnam,Visakhapatnam,53050,37TMJGV9920UWA5,2023-05-13 00:00:00,Inactive
+30,Ravi Das,Balaji Cool Drinks,HoReCa,7765122065,ravidas7944@demo.in,"180, Lane Yendada",Yendada,Visakhapatnam,53061,37AJABY3390ASR7,2021-10-18 00:00:00,Inactive
+31,Arun Gupta,Sai Café,Retail,6350136071,arungupta1435@mail.com,"119, Lane Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53044,37REPJD9874DVL1,2021-09-03 00:00:00,Active
+32,Madhu Das,Lakshmi Cool Drinks,Retail,9940719594,madhudas5349@mail.com,"170, Nagar Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53091,37FOXHO1233YJ8J,2023-06-05 00:00:00,Active
+33,Suresh Nair,Om Beverages,Retail,9465161385,sureshnair8375@demo.in,"120, Lane Auto Nagar",Auto Nagar,Visakhapatnam,53017,37JOAJB9961HK2X,2022-12-31 00:00:00,Active
+34,Ravi Kumar,Sai Super Mart,Retail,8458036542,ravikumar3654@demo.in,"16, Nagar Malkapuram",Malkapuram,Visakhapatnam,53003,37YXZHN1305O1NJ,2020-08-03 00:00:00,Active
+35,Deepak Das,Lakshmi Hotel,HoReCa,8588307660,deepakdas1243@example.com,"185, Nagar Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53065,37MZFQB5717L328,2022-02-08 00:00:00,Inactive
+36,Vamsi Babu,Om Beverages,Retail,8471450475,vamsibabu2872@mail.com,"100, Nagar Auto Nagar",Auto Nagar,Visakhapatnam,53009,37NQLLY2541ETDO,2020-06-25 00:00:00,Inactive
+37,Manikanta Joshi,Om Beverages,Retail,7851473880,manikantajoshi8415@example.com,"181, Rd Dabagardens",Dabagardens,Visakhapatnam,53071,37XFJJV1992RTKY,2024-08-13 00:00:00,Active
+38,Naveen Sharma,Annapurna Café,HoReCa,9424368728,naveensharma4027@example.com,"119, Rd Marripalem",Marripalem,Visakhapatnam,53090,37RPGVR4664C4R7,2021-04-24 00:00:00,Active
+39,Deepak Patel,Sree Beverages,HoReCa,8990808239,deepakpatel7469@example.com,"111, Street Malkapuram",Malkapuram,Visakhapatnam,53017,37EJHGI1564GE5U,2023-04-19 00:00:00,Active
+40,Karthik Babu,Sree Cool Drinks,Wholesale,8019763510,karthikbabu3555@demo.in,"36, Street Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53066,37CSMCM9354QTNZ,2023-11-22 00:00:00,Active
+41,Mahesh Shetty,Sai Café,Wholesale,6189538291,maheshshetty9185@demo.in,"112, Rd Maddilapalem",Maddilapalem,Visakhapatnam,53002,37KUWZF9017SUHZ,2021-12-12 00:00:00,Inactive
+42,Pavan Reddy,Sai Café,Institutional,6388752999,pavanreddy5542@demo.in,"4, Lane Pendurthi",Pendurthi,Visakhapatnam,53080,37ULKUR5800OVTE,2020-05-31 00:00:00,Active
+43,Deepak Naidu,Venkateswara Beverages,Institutional,6595544616,deepaknaidu1535@demo.in,"124, Nagar Venkojipalem",Venkojipalem,Visakhapatnam,53048,37CCOWW1784PGMS,2022-09-16 00:00:00,Inactive
+44,Naveen Babu,Annapurna Hotel,Institutional,9247364092,naveenbabu8942@mail.com,"43, Rd Gajuwaka",Gajuwaka,Visakhapatnam,53009,37CJYCD6936G6QI,2021-03-28 00:00:00,Active
+45,Sridhar Chowdary,Sree Beverages,Institutional,8581754071,sridharchowdary8680@mail.com,"10, Nagar Marripalem",Marripalem,Visakhapatnam,53060,37TNXAN0820WYG4,2021-10-21 00:00:00,Active
+46,Sirisha Babu,Venkateswara Café,Wholesale,7060126235,sirishababu2128@mail.com,"114, Street Maddilapalem",Maddilapalem,Visakhapatnam,53064,37UNBMB2612DHHW,2023-08-21 00:00:00,Active
+47,Rohit Joshi,Venkateswara General Stores,HoReCa,8626475137,rohitjoshi262@example.com,"162, Nagar Malkapuram",Malkapuram,Visakhapatnam,53092,37CANOU9196PHI6,2024-01-29 00:00:00,Active
+48,Ravi Yadav,Sri Refreshments,Retail,9475541412,raviyadav1821@mail.com,"6, Street Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53033,37GURMX8995XS8W,2025-10-21 00:00:00,Active
+49,Ravi Nair,Om Beverages,HoReCa,6556049240,ravinair4178@mail.com,"39, Street Auto Nagar",Auto Nagar,Visakhapatnam,53039,37UUWGY3495VAD0,2024-08-20 00:00:00,Active
+50,Vamsi Shetty,Lakshmi Café,Wholesale,8897002828,vamsishetty7185@demo.in,"46, Rd Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53012,37GMABL1817Z41U,2020-08-01 00:00:00,Inactive
+51,Suma Chowdary,Balaji Super Mart,Institutional,8987169598,sumachowdary4725@demo.in,"95, Nagar Pendurthi",Pendurthi,Visakhapatnam,53087,37UCWOY3186OKJG,2021-04-05 00:00:00,Active
+52,Manikanta Sharma,Om Refreshments,Retail,8930250246,manikantasharma2533@example.com,"131, Nagar Malkapuram",Malkapuram,Visakhapatnam,53012,37DSWXP5426D3CB,2024-02-02 00:00:00,Active
+53,Manikanta Shetty,Sri Café,Institutional,7724393968,manikantashetty2824@example.com,"87, Rd Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53076,37PTOGF8436XFTZ,2020-09-08 00:00:00,Inactive
+54,Madhu Kumar,Sri Beverages,Institutional,6742294235,madhukumar8201@mail.com,"41, Nagar Maddilapalem",Maddilapalem,Visakhapatnam,53049,37NCWSM6437N661,2021-12-21 00:00:00,Active
+55,Arun Kumar,Lakshmi Super Mart,Wholesale,9476230282,arunkumar4815@mail.com,"64, Lane Auto Nagar",Auto Nagar,Visakhapatnam,53019,37AXAFC8676UC80,2021-10-07 00:00:00,Active
+56,Anil Reddy,Sri Beverages,Retail,7119729113,anilreddy4946@example.com,"1, Nagar Marripalem",Marripalem,Visakhapatnam,53044,37TAODT9368WZF0,2020-06-07 00:00:00,Inactive
+57,Sirisha Verma,Om Beverages,Retail,7243417581,sirishaverma6836@demo.in,"191, Lane Marripalem",Marripalem,Visakhapatnam,53099,37ZZEMF8087G5Q4,2021-05-29 00:00:00,Active
+58,Sirisha Reddy,Sai Hotel,Institutional,6315486757,sirishareddy2195@example.com,"149, Rd Seethammadhara",Seethammadhara,Visakhapatnam,53025,37YGUUP9934CKB8,2023-07-22 00:00:00,Active
+59,Naveen Patel,Sree Beverages,Retail,8581813913,naveenpatel3@example.com,"108, Street NAD",NAD,Visakhapatnam,53003,37DYEZO3251GODR,2024-03-05 00:00:00,Active
+60,Deepak Reddy,Sri Beverages,Retail,7539762453,deepakreddy9244@mail.com,"24, Lane Yendada",Yendada,Visakhapatnam,53017,37ZKNTV7371TIU8,2023-06-20 00:00:00,Active
+61,Arun Joshi,Sree General Stores,Retail,9801633003,arunjoshi8590@demo.in,"108, Rd Malkapuram",Malkapuram,Visakhapatnam,53073,37JFEIT9996HCKG,2025-05-11 00:00:00,Inactive
+62,Rohit Iyer,Annapurna Hotel,Retail,8284927185,rohitiyer6873@demo.in,"38, Nagar Akkayyapalem",Akkayyapalem,Visakhapatnam,53026,37YUITK3025VCG9,2024-04-06 00:00:00,Inactive
+63,Teja Kumar,Balaji Cool Drinks,Wholesale,7690754403,tejakumar8575@mail.com,"86, Rd Maharanipeta",Maharanipeta,Visakhapatnam,53044,37REFIJ9848VRQ8,2024-07-20 00:00:00,Inactive
+64,Deepak Reddy,Venkateswara Café,Wholesale,6423177353,deepakreddy3899@example.com,"80, Nagar Old Town",Old Town,Visakhapatnam,53014,37FOTGU7414N0UE,2023-03-16 00:00:00,Active
+65,Sirisha Joshi,Annapurna General Stores,Institutional,7693498109,sirishajoshi77@example.com,"125, Street MVP Colony",MVP Colony,Visakhapatnam,53018,37QEABG1949KMJM,2020-09-04 00:00:00,Active
+66,Sirisha Kumar,Venkateswara Cool Drinks,Retail,8415228678,sirishakumar7155@mail.com,"116, Lane MVP Colony",MVP Colony,Visakhapatnam,53030,37JUWHS2067KQCZ,2021-07-28 00:00:00,Active
+67,Neha Verma,Sai Refreshments,Wholesale,8175908419,nehaverma4095@demo.in,"70, Rd Kancharapalem",Kancharapalem,Visakhapatnam,53030,37ZMMMP7353H4X7,2024-11-07 00:00:00,Active
+68,Vamsi Reddy,Venkateswara Super Mart,Institutional,6570557367,vamsireddy6253@mail.com,"175, Street Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53048,37EQJUT3643HS0O,2020-04-21 00:00:00,Inactive
+69,Sridhar Chowdary,Sree Super Mart,Institutional,8023614256,sridharchowdary8485@example.com,"193, Nagar Siripuram",Siripuram,Visakhapatnam,53080,37RKSNI3604TA3Q,2025-02-05 00:00:00,Active
+70,Suresh Sharma,Annapurna Refreshments,HoReCa,6236400513,sureshsharma5989@example.com,"97, Rd Siripuram",Siripuram,Visakhapatnam,53065,37LHRXB0131NIQZ,2020-10-16 00:00:00,Active
+71,Anusha Chowdary,Om General Stores,Wholesale,7190872139,anushachowdary5193@example.com,"75, Street Pendurthi",Pendurthi,Visakhapatnam,53090,37QJIVZ3294OQ3F,2025-04-05 00:00:00,Active
+72,Pooja Verma,Sai Refreshments,HoReCa,7995305309,poojaverma5038@mail.com,"75, Street Malkapuram",Malkapuram,Visakhapatnam,53091,37JURRM0874RFPL,2025-06-07 00:00:00,Active
+73,Rohit Shetty,Lakshmi Hotel,Institutional,6897334605,rohitshetty8486@example.com,"147, Rd Venkojipalem",Venkojipalem,Visakhapatnam,53047,37SSTKD8872PQ92,2025-02-17 00:00:00,Inactive
+74,Sridhar Sharma,Om Cool Drinks,Institutional,8363746920,sridharsharma350@demo.in,"20, Rd Maddilapalem",Maddilapalem,Visakhapatnam,53099,37XKZKS8343KFHY,2022-01-18 00:00:00,Active
+75,Akhil Naidu,Sai Hotel,HoReCa,6864610351,akhilnaidu8877@example.com,"84, Nagar Akkayyapalem",Akkayyapalem,Visakhapatnam,53078,37TJTTJ0855V1YP,2024-09-14 00:00:00,Inactive
+76,Teja Joshi,Lakshmi Hotel,Wholesale,6819784211,tejajoshi1747@mail.com,"69, Nagar Old Town",Old Town,Visakhapatnam,53068,37WRLBB3752NU0E,2020-07-15 00:00:00,Active
+77,Deepak Verma,Om Refreshments,Wholesale,9400389765,deepakverma8371@demo.in,"168, Lane Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53051,37YUXON3389CM2G,2025-05-09 00:00:00,Active
+78,Suresh Chowdary,Lakshmi General Stores,Institutional,7268459989,sureshchowdary4579@mail.com,"118, Rd Old Town",Old Town,Visakhapatnam,53094,37LYCKF8340WWO9,2025-08-05 00:00:00,Inactive
+79,Ravi Verma,Sri Refreshments,Institutional,8998059974,raviverma1668@demo.in,"83, Rd Akkayyapalem",Akkayyapalem,Visakhapatnam,53069,37WCWYC6406AIG3,2021-01-04 00:00:00,Active
+80,Sirisha Sharma,Sri General Stores,Wholesale,9201154405,sirishasharma4154@mail.com,"24, Street Auto Nagar",Auto Nagar,Visakhapatnam,53001,37DKEME7830CF4Y,2021-08-26 00:00:00,Active
+81,Madhu Gupta,Sai General Stores,Institutional,7320219339,madhugupta1381@mail.com,"133, Street Kancharapalem",Kancharapalem,Visakhapatnam,53096,37JHYKZ2080ZEBN,2024-10-23 00:00:00,Active
+82,Keerthi Verma,Sree Hotel,Retail,9606710051,keerthiverma6247@mail.com,"55, Lane Marripalem",Marripalem,Visakhapatnam,53003,37ELPWX3066UX8F,2023-02-12 00:00:00,Active
+83,Harsha Naidu,Sree Super Mart,HoReCa,9459387598,harshanaidu8927@demo.in,"12, Rd Old Town",Old Town,Visakhapatnam,53005,37QDQJK8874REY9,2020-11-19 00:00:00,Active
+84,Sirisha Reddy,Venkateswara Cool Drinks,Retail,7196782654,sirishareddy1371@demo.in,"96, Lane Anakapalle",Anakapalle,Visakhapatnam,53091,37DCRYO5304XDWX,2022-03-25 00:00:00,Inactive
+85,Pavan Shetty,Om Café,Institutional,7838559996,pavanshetty7456@demo.in,"75, Lane Gopalapatnam",Gopalapatnam,Visakhapatnam,53058,37MKXKI7123YSHL,2020-06-26 00:00:00,Active
+86,Lakshmi Das,Annapurna Cool Drinks,Retail,6721530043,lakshmidas5445@demo.in,"25, Rd Yendada",Yendada,Visakhapatnam,53060,37UGDZX7351D5PP,2025-03-17 00:00:00,Active
+87,Akhil Shetty,Om Refreshments,Retail,7718776807,akhilshetty6072@mail.com,"118, Nagar Old Town",Old Town,Visakhapatnam,53076,37GXDEK8910ZUWO,2020-12-15 00:00:00,Active
+88,Arun Shetty,Om Café,Wholesale,6536889939,arunshetty6201@mail.com,"198, Nagar Malkapuram",Malkapuram,Visakhapatnam,53068,37NIGPC0669OPZ5,2020-12-22 00:00:00,Active
+89,Naveen Sharma,Om Beverages,Institutional,6204500287,naveensharma4203@mail.com,"104, Rd NAD",NAD,Visakhapatnam,53054,37PEQLS7271FMUI,2024-05-06 00:00:00,Active
+90,Teja Reddy,Om Refreshments,Retail,8905546830,tejareddy3275@example.com,"154, Nagar MVP Colony",MVP Colony,Visakhapatnam,53050,37MOSGH3676Q2DX,2023-09-10 00:00:00,Active
+91,Naveen Nair,Om Hotel,Institutional,9940827440,naveennair3717@example.com,"192, Lane Kurmannapalem",Kurmannapalem,Visakhapatnam,53059,37IZWNO3540EFUJ,2024-04-12 00:00:00,Active
+92,Divya Naidu,Annapurna Refreshments,Retail,6912234915,divyanaidu4220@demo.in,"91, Street Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53057,37JTCGF2277DBXY,2021-04-06 00:00:00,Inactive
+93,Prasad Babu,Venkateswara Super Mart,HoReCa,8643268415,prasadbabu8567@demo.in,"95, Rd Maddilapalem",Maddilapalem,Visakhapatnam,53055,37OHXJY5359WIIO,2021-06-30 00:00:00,Active
+94,Vamsi Das,Sri Super Mart,Wholesale,8359170304,vamsidas7125@demo.in,"129, Nagar Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53006,37JFJQL1494TMV6,2024-08-09 00:00:00,Active
+95,Ramesh Kumar,Annapurna Beverages,Institutional,9297474705,rameshkumar4886@demo.in,"61, Lane Gopalapatnam",Gopalapatnam,Visakhapatnam,53012,37ZTLGV6294F2AV,2025-03-13 00:00:00,Inactive
+96,Suresh Babu,Sree Café,HoReCa,8441686047,sureshbabu2148@demo.in,"119, Lane NAD",NAD,Visakhapatnam,53043,37DWEWB2650K5GZ,2024-03-30 00:00:00,Active
+97,Lakshmi Sharma,Sai Beverages,Retail,9187372274,lakshmisharma3121@mail.com,"29, Rd Anakapalle",Anakapalle,Visakhapatnam,53090,37STRDB5075B3X3,2025-09-09 00:00:00,Active
+98,Rohit Kumar,Annapurna Refreshments,Retail,9390797355,rohitkumar8074@example.com,"126, Lane Venkojipalem",Venkojipalem,Visakhapatnam,53037,37GZFHV2724P8LY,2024-03-02 00:00:00,Active
+99,Divya Kumar,Annapurna Café,Wholesale,8529439949,divyakumar1803@demo.in,"111, Nagar PM Palem",PM Palem,Visakhapatnam,53030,37ENNTD9915BXMW,2024-09-22 00:00:00,Inactive
+100,Sirisha Iyer,Sai Cool Drinks,HoReCa,8474491055,sirishaiyer8762@example.com,"188, Lane MVP Colony",MVP Colony,Visakhapatnam,53066,37LIEKN3265A0S0,2025-07-16 00:00:00,Active
+101,Neha Nair,Sree Refreshments,Wholesale,7272570852,nehanair5035@demo.in,"47, Rd Maharanipeta",Maharanipeta,Visakhapatnam,53053,37BGQKT7351TIK1,2022-09-07 00:00:00,Active
+102,Keerthi Yadav,Om Café,Institutional,7228185677,keerthiyadav5291@mail.com,"28, Rd Venkojipalem",Venkojipalem,Visakhapatnam,53067,37IEGMD2706N9OO,2025-05-31 00:00:00,Active
+103,Arun Reddy,Venkateswara Super Mart,Institutional,8320862491,arunreddy3701@example.com,"103, Nagar Pendurthi",Pendurthi,Visakhapatnam,53030,37SFPKD7187N7CV,2023-08-04 00:00:00,Active
+104,Arun Chowdary,Sri Super Mart,Institutional,7146083284,arunchowdary2060@example.com,"48, Lane Kurmannapalem",Kurmannapalem,Visakhapatnam,53054,37TIEQF2066NG1J,2025-08-10 00:00:00,Active
+105,Vikram Patel,Balaji Beverages,HoReCa,7043747606,vikrampatel6489@mail.com,"119, Rd Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53083,37SXJPF4536RZ9N,2021-08-28 00:00:00,Inactive
+106,Rohit Joshi,Balaji Super Mart,Institutional,6156323761,rohitjoshi6872@demo.in,"133, Nagar Old Town",Old Town,Visakhapatnam,53048,37ROQKV5466FUES,2022-07-05 00:00:00,Active
+107,Neha Naidu,Lakshmi Café,Institutional,7920533382,nehanaidu9641@demo.in,"93, Nagar Venkojipalem",Venkojipalem,Visakhapatnam,53063,37GHFSS3153RB0E,2023-10-08 00:00:00,Active
+108,Lakshmi Sharma,Sai Hotel,HoReCa,9090697939,lakshmisharma1908@mail.com,"35, Rd NAD",NAD,Visakhapatnam,53051,37LUIZI2352F62U,2023-05-21 00:00:00,Active
+109,Keerthi Reddy,Annapurna Super Mart,HoReCa,9562727317,keerthireddy9354@mail.com,"81, Rd Gajuwaka",Gajuwaka,Visakhapatnam,53048,37OUPXE4130PH49,2020-06-19 00:00:00,Active
+110,Deepak Yadav,Lakshmi Hotel,Wholesale,7391839767,deepakyadav3478@demo.in,"69, Nagar NAD",NAD,Visakhapatnam,53069,37PYZOI6766MCPN,2025-10-17 00:00:00,Active
+111,Keerthi Kumar,Om Super Mart,HoReCa,8057495046,keerthikumar8395@demo.in,"90, Street Pendurthi",Pendurthi,Visakhapatnam,53024,37SDBAO0925JWP2,2021-05-10 00:00:00,Active
+112,Ramesh Iyer,Sai Super Mart,HoReCa,6647638336,rameshiyer4089@mail.com,"82, Street Akkayyapalem",Akkayyapalem,Visakhapatnam,53029,37FAGQX0285MUF0,2020-08-25 00:00:00,Active
+113,Naveen Verma,Sri Hotel,HoReCa,9436495564,naveenverma8065@demo.in,"154, Rd Maharanipeta",Maharanipeta,Visakhapatnam,53040,37JQVGY2691EJRU,2021-02-22 00:00:00,Active
+114,Akhil Sharma,Sri General Stores,Institutional,6645600597,akhilsharma7303@demo.in,"67, Nagar Seethammadhara",Seethammadhara,Visakhapatnam,53017,37NRPII2402IOAH,2022-07-26 00:00:00,Inactive
+115,Naveen Babu,Sai Hotel,Retail,6952059788,naveenbabu936@example.com,"80, Rd Auto Nagar",Auto Nagar,Visakhapatnam,53075,37SQJEI6269AWI6,2021-04-07 00:00:00,Inactive
+116,Sai Yadav,Lakshmi Super Mart,HoReCa,9999469497,saiyadav4654@demo.in,"93, Rd Yendada",Yendada,Visakhapatnam,53028,37GFCXZ8576ORSN,2023-11-09 00:00:00,Active
+117,Madhu Das,Balaji Cool Drinks,Wholesale,9879714882,madhudas7905@demo.in,"151, Street Seethammadhara",Seethammadhara,Visakhapatnam,53066,37GTRLO5307YKSE,2025-05-01 00:00:00,Active
+118,Madhu Kumar,Lakshmi Beverages,Retail,6732476348,madhukumar8728@demo.in,"30, Nagar Anakapalle",Anakapalle,Visakhapatnam,53079,37HLNLZ8175C8YS,2024-06-05 00:00:00,Active
+119,Arun Iyer,Balaji Hotel,HoReCa,6930159003,aruniyer6152@demo.in,"42, Rd Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53017,37RPZNJ9636ED46,2022-05-29 00:00:00,Inactive
+120,Sai Sharma,Sai Café,Institutional,7421266236,saisharma7136@demo.in,"87, Lane Yendada",Yendada,Visakhapatnam,53051,37FRMFN9155IX2O,2024-04-16 00:00:00,Active
+121,Divya Sharma,Venkateswara Beverages,Wholesale,9935633744,divyasharma9221@mail.com,"30, Street Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53061,37KOCRN9467GIZ8,2024-04-15 00:00:00,Inactive
+122,Divya Gupta,Lakshmi Cool Drinks,HoReCa,6254175999,divyagupta4290@mail.com,"29, Nagar NAD",NAD,Visakhapatnam,53012,37CRESB0854Z2IZ,2024-04-27 00:00:00,Inactive
+123,Suma Gupta,Lakshmi Super Mart,HoReCa,8932609695,sumagupta7274@mail.com,"157, Rd Pendurthi",Pendurthi,Visakhapatnam,53083,37SAQDR8003K6A2,2020-12-25 00:00:00,Inactive
+124,Divya Das,Sree Refreshments,Institutional,7059472912,divyadas9928@demo.in,"116, Lane Anakapalle",Anakapalle,Visakhapatnam,53039,37RABJQ1081BGI5,2023-01-17 00:00:00,Active
+125,Naveen Babu,Venkateswara Super Mart,Institutional,6898832509,naveenbabu3776@example.com,"147, Street Siripuram",Siripuram,Visakhapatnam,53059,37VLNWK9531OJZR,2023-06-24 00:00:00,Inactive
+126,Sridhar Kumar,Sree General Stores,Retail,9905738641,sridharkumar8294@demo.in,"82, Rd Akkayyapalem",Akkayyapalem,Visakhapatnam,53023,37KNBTC5219T6ZZ,2023-01-25 00:00:00,Active
+127,Pooja Reddy,Lakshmi Hotel,Institutional,7615770742,poojareddy4164@mail.com,"19, Street Old Town",Old Town,Visakhapatnam,53018,37WAEXV2852W7IP,2022-09-25 00:00:00,Inactive
+128,Mahesh Das,Venkateswara Super Mart,HoReCa,7024990612,maheshdas2223@demo.in,"128, Rd Siripuram",Siripuram,Visakhapatnam,53002,37JXRBX2918QY8K,2025-06-14 00:00:00,Active
+129,Madhu Nair,Om Cool Drinks,Institutional,6348238640,madhunair6799@mail.com,"61, Lane PM Palem",PM Palem,Visakhapatnam,53050,37FAGLZ8727KWNP,2025-05-13 00:00:00,Active
+130,Sai Sharma,Sai Hotel,Retail,7351350585,saisharma2117@demo.in,"162, Lane Seethammadhara",Seethammadhara,Visakhapatnam,53011,37CXIKJ6912F3QU,2023-09-26 00:00:00,Active
+131,Prasad Iyer,Sree General Stores,Wholesale,9375680092,prasadiyer6418@example.com,"164, Rd Dabagardens",Dabagardens,Visakhapatnam,53015,37TUDGS5873FATT,2025-09-05 00:00:00,Inactive
+132,Akhil Das,Om Café,Retail,6796687600,akhildas9025@mail.com,"11, Rd Seethammadhara",Seethammadhara,Visakhapatnam,53057,37GJGCQ4481LGOF,2020-04-04 00:00:00,Inactive
+133,Suresh Patel,Annapurna General Stores,HoReCa,9082517808,sureshpatel9850@example.com,"186, Rd Akkayyapalem",Akkayyapalem,Visakhapatnam,53097,37WFTMN3913R7KX,2023-08-30 00:00:00,Active
+134,Vamsi Joshi,Lakshmi Beverages,HoReCa,8903281713,vamsijoshi5508@example.com,"192, Nagar Kancharapalem",Kancharapalem,Visakhapatnam,53030,37TBRGY3609UK5X,2025-10-11 00:00:00,Inactive
+135,Lakshmi Sharma,Sri Refreshments,HoReCa,7060201729,lakshmisharma4575@mail.com,"170, Rd Gajuwaka",Gajuwaka,Visakhapatnam,53083,37MJWNO5227BLKS,2020-05-21 00:00:00,Active
+136,Divya Kumar,Sai Hotel,Institutional,7408095399,divyakumar655@example.com,"183, Rd Dabagardens",Dabagardens,Visakhapatnam,53053,37UAFBP1747R8GN,2021-09-20 00:00:00,Active
+137,Harsha Iyer,Om Super Mart,Wholesale,8761879555,harshaiyer1509@example.com,"128, Street Gajuwaka",Gajuwaka,Visakhapatnam,53094,37JPGUF4626M22F,2021-04-26 00:00:00,Active
+138,Prasad Shetty,Balaji Beverages,Wholesale,8201325828,prasadshetty4584@example.com,"151, Street Maharanipeta",Maharanipeta,Visakhapatnam,53026,37MHVQM5376BA4N,2023-11-15 00:00:00,Active
+139,Suma Reddy,Venkateswara General Stores,HoReCa,6929163034,sumareddy1920@demo.in,"108, Rd MVP Colony",MVP Colony,Visakhapatnam,53018,37ONXTB2529QQ4W,2025-10-09 00:00:00,Active
+140,Divya Naidu,Annapurna Cool Drinks,Retail,9574528447,divyanaidu477@mail.com,"109, Lane Akkayyapalem",Akkayyapalem,Visakhapatnam,53026,37HBYFP2719F1ZV,2021-12-14 00:00:00,Active
+141,Vamsi Gupta,Om Hotel,Wholesale,6218722036,vamsigupta6646@mail.com,"25, Street Maddilapalem",Maddilapalem,Visakhapatnam,53002,37YOMBX2722ELJV,2022-11-26 00:00:00,Inactive
+142,Ramesh Naidu,Sai Hotel,Wholesale,6908651199,rameshnaidu7066@mail.com,"43, Lane Malkapuram",Malkapuram,Visakhapatnam,53072,37KUDPH2336ND5A,2024-11-23 00:00:00,Inactive
+143,Lakshmi Verma,Om Refreshments,Retail,9979328884,lakshmiverma6777@example.com,"37, Rd Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53032,37EHKJL0350PYP7,2025-05-19 00:00:00,Active
+144,Karthik Das,Venkateswara Beverages,HoReCa,7462761605,karthikdas7997@mail.com,"107, Nagar Auto Nagar",Auto Nagar,Visakhapatnam,53035,37LBMDA0340E79L,2020-04-21 00:00:00,Inactive
+145,Chaitanya Kumar,Sree Cool Drinks,HoReCa,7169295217,chaitanyakumar3331@example.com,"140, Rd Kancharapalem",Kancharapalem,Visakhapatnam,53082,37FFKGR2241BLRH,2022-11-20 00:00:00,Active
+146,Anusha Sharma,Balaji Beverages,Institutional,8531543910,anushasharma7882@demo.in,"193, Lane Yendada",Yendada,Visakhapatnam,53087,37TULFB6320FVJI,2020-06-22 00:00:00,Active
+147,Mahesh Sharma,Om Beverages,Retail,9204962632,maheshsharma8798@demo.in,"157, Rd Akkayyapalem",Akkayyapalem,Visakhapatnam,53031,37RKUPG7984F26N,2022-08-09 00:00:00,Active
+148,Pavan Nair,Lakshmi Refreshments,Wholesale,7578466458,pavannair6195@mail.com,"95, Rd Kancharapalem",Kancharapalem,Visakhapatnam,53050,37MGUSA1157LHNO,2020-10-25 00:00:00,Inactive
+149,Ravi Joshi,Venkateswara Super Mart,Institutional,9752268912,ravijoshi1625@example.com,"49, Street Akkayyapalem",Akkayyapalem,Visakhapatnam,53050,37YYMOZ8907FYY4,2024-03-30 00:00:00,Active
+150,Suresh Shetty,Venkateswara General Stores,HoReCa,7007146626,sureshshetty7673@demo.in,"102, Rd Kurmannapalem",Kurmannapalem,Visakhapatnam,53080,37YGRFD3923F91M,2020-09-25 00:00:00,Active
+151,Naveen Reddy,Venkateswara Super Mart,Institutional,9512008659,naveenreddy3190@example.com,"45, Street Akkayyapalem",Akkayyapalem,Visakhapatnam,53027,37YOGOW3921E2CG,2025-05-04 00:00:00,Inactive
+152,Suma Naidu,Venkateswara General Stores,Institutional,9580305139,sumanaidu9924@demo.in,"52, Nagar Seethammadhara",Seethammadhara,Visakhapatnam,53012,37TCSAJ5518KS9A,2024-10-18 00:00:00,Active
+153,Naveen Naidu,Sree Café,HoReCa,7689319681,naveennaidu1656@example.com,"34, Street Gopalapatnam",Gopalapatnam,Visakhapatnam,53016,37GIMFU1288HAJ0,2020-12-10 00:00:00,Active
+154,Neha Iyer,Lakshmi Refreshments,Institutional,9542448824,nehaiyer3639@demo.in,"35, Lane Akkayyapalem",Akkayyapalem,Visakhapatnam,53062,37ONQWF1760KD5E,2021-06-04 00:00:00,Active
+155,Keerthi Verma,Sree General Stores,HoReCa,9686287490,keerthiverma3486@mail.com,"174, Rd Gopalapatnam",Gopalapatnam,Visakhapatnam,53064,37BQCPL5887JJQI,2024-05-12 00:00:00,Active
+156,Suma Iyer,Sri Café,Wholesale,9982945668,sumaiyer5176@mail.com,"81, Nagar Seethammadhara",Seethammadhara,Visakhapatnam,53088,37MUQYU9552U0NM,2020-03-27 00:00:00,Inactive
+157,Sridhar Naidu,Om Beverages,Institutional,6213024371,sridharnaidu3380@demo.in,"173, Nagar Kurmannapalem",Kurmannapalem,Visakhapatnam,53033,37FDJJU2372B1O1,2023-03-06 00:00:00,Inactive
+158,Pavan Sharma,Annapurna Beverages,Institutional,7891619747,pavansharma4804@example.com,"67, Street Dabagardens",Dabagardens,Visakhapatnam,53001,37LWPGF5591OC0U,2020-02-21 00:00:00,Active
+159,Keerthi Babu,Lakshmi Cool Drinks,Wholesale,7430531463,keerthibabu9801@demo.in,"17, Street Auto Nagar",Auto Nagar,Visakhapatnam,53068,37LILNE6445PRA1,2022-05-04 00:00:00,Active
+160,Divya Yadav,Balaji General Stores,Retail,9435133153,divyayadav7051@example.com,"162, Nagar Dabagardens",Dabagardens,Visakhapatnam,53037,37OTIQP9765HVYL,2021-03-15 00:00:00,Inactive
+161,Anil Yadav,Lakshmi Hotel,HoReCa,7632590151,anilyadav4652@mail.com,"32, Lane Auto Nagar",Auto Nagar,Visakhapatnam,53009,37VRGVA2095TD6A,2025-09-12 00:00:00,Active
+162,Anusha Iyer,Balaji Hotel,Retail,9551503615,anushaiyer2192@example.com,"9, Rd Seethammadhara",Seethammadhara,Visakhapatnam,53017,37YXZHR0960EOW9,2025-04-13 00:00:00,Active
+163,Arun Shetty,Om General Stores,Institutional,6088694272,arunshetty7532@demo.in,"92, Street Dabagardens",Dabagardens,Visakhapatnam,53090,37FECBT9682WN4I,2023-05-09 00:00:00,Active
+164,Suma Verma,Sri Refreshments,HoReCa,6455959440,sumaverma5311@example.com,"124, Street Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53085,37LDGWX1540J1F7,2023-04-03 00:00:00,Inactive
+165,Pavan Babu,Lakshmi Hotel,Institutional,6657473575,pavanbabu9878@mail.com,"90, Rd Maharanipeta",Maharanipeta,Visakhapatnam,53084,37BPXHY2813LWXO,2020-02-12 00:00:00,Active
+166,Sridhar Sharma,Lakshmi Refreshments,Retail,7520425974,sridharsharma5559@example.com,"60, Rd Malkapuram",Malkapuram,Visakhapatnam,53063,37NHJFG1973DSAK,2024-02-16 00:00:00,Active
+167,Ravi Nair,Sai Hotel,Wholesale,7291677136,ravinair1691@example.com,"77, Street Gajuwaka",Gajuwaka,Visakhapatnam,53041,37VSGUU3640Z5LD,2021-09-07 00:00:00,Active
+168,Lakshmi Gupta,Venkateswara Refreshments,Retail,6417458464,lakshmigupta6937@mail.com,"162, Rd Yendada",Yendada,Visakhapatnam,53076,37IIGUC3709T7Y8,2023-08-05 00:00:00,Active
+169,Arun Nair,Sri Cool Drinks,Wholesale,6268638953,arunnair6194@example.com,"43, Street NAD",NAD,Visakhapatnam,53030,37NHXXS5634R88J,2023-06-03 00:00:00,Active
+170,Teja Sharma,Annapurna Refreshments,Institutional,8541748576,tejasharma5202@mail.com,"80, Street NAD",NAD,Visakhapatnam,53007,37DUOID5818HGTR,2023-10-06 00:00:00,Active
+171,Ravi Kumar,Balaji Hotel,Institutional,6743409659,ravikumar2533@example.com,"63, Lane Dabagardens",Dabagardens,Visakhapatnam,53007,37KEKBS9535E28Y,2024-03-27 00:00:00,Active
+172,Sai Iyer,Venkateswara General Stores,Institutional,6746598480,saiiyer2744@mail.com,"119, Street Pendurthi",Pendurthi,Visakhapatnam,53023,37SOWMG8162BRE1,2024-09-25 00:00:00,Active
+173,Arun Joshi,Annapurna General Stores,Wholesale,9958297428,arunjoshi9179@mail.com,"81, Rd Malkapuram",Malkapuram,Visakhapatnam,53096,37DWCFX5033W1ZN,2021-09-12 00:00:00,Active
+174,Mahesh Nair,Balaji Café,Wholesale,8734819388,maheshnair3831@demo.in,"101, Street PM Palem",PM Palem,Visakhapatnam,53055,37SJDMV2133QJKT,2025-03-05 00:00:00,Active
+175,Karthik Yadav,Sai Café,Institutional,8423925408,karthikyadav1800@example.com,"88, Street Siripuram",Siripuram,Visakhapatnam,53027,37XYYZT5559LPHT,2024-09-29 00:00:00,Active
+176,Manikanta Kumar,Sree Cool Drinks,HoReCa,7927214652,manikantakumar5711@demo.in,"125, Lane Marripalem",Marripalem,Visakhapatnam,53005,37KJHDQ5475F8EW,2025-01-31 00:00:00,Active
+177,Anusha Shetty,Sai Café,Wholesale,7898852282,anushashetty7933@demo.in,"141, Street Kurmannapalem",Kurmannapalem,Visakhapatnam,53003,37TCGPT3462UV50,2021-02-02 00:00:00,Active
+178,Lakshmi Chowdary,Balaji Hotel,HoReCa,8508505147,lakshmichowdary6016@example.com,"187, Nagar Kancharapalem",Kancharapalem,Visakhapatnam,53005,37ZQEPG0611VY90,2021-03-17 00:00:00,Active
+179,Sridhar Kumar,Sri Café,Retail,6408091603,sridharkumar910@example.com,"196, Rd PM Palem",PM Palem,Visakhapatnam,53092,37ZGLRZ5166S9O6,2023-05-02 00:00:00,Active
+180,Manikanta Iyer,Lakshmi General Stores,Institutional,9164497601,manikantaiyer1148@mail.com,"197, Nagar Yendada",Yendada,Visakhapatnam,53014,37RUFFK5852XIVP,2021-03-01 00:00:00,Inactive
+181,Rohit Babu,Annapurna Café,Wholesale,6544947040,rohitbabu3252@mail.com,"49, Lane Siripuram",Siripuram,Visakhapatnam,53057,37EYHHB3758TH41,2020-06-27 00:00:00,Active
+182,Rohit Sharma,Sai Beverages,Retail,8166464504,rohitsharma6256@demo.in,"111, Nagar Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53060,37QZMKV8262L57S,2024-06-23 00:00:00,Active
+183,Sai Shetty,Om Cool Drinks,Wholesale,6484269208,saishetty9424@mail.com,"135, Nagar Yendada",Yendada,Visakhapatnam,53094,37BAVLY0425TIY9,2021-04-10 00:00:00,Active
+184,Ravi Naidu,Annapurna Super Mart,Institutional,7221024629,ravinaidu2594@demo.in,"87, Lane Dabagardens",Dabagardens,Visakhapatnam,53040,37GRWRR9258U5WS,2022-04-09 00:00:00,Active
+185,Ravi Nair,Sri Hotel,Wholesale,9248114151,ravinair2719@demo.in,"91, Lane Malkapuram",Malkapuram,Visakhapatnam,53077,37DUEOH6148A1DL,2020-04-19 00:00:00,Active
+186,Madhu Naidu,Annapurna Refreshments,HoReCa,6763427278,madhunaidu1402@demo.in,"172, Lane Siripuram",Siripuram,Visakhapatnam,53092,37JSASL9747S112,2022-11-20 00:00:00,Inactive
+187,Manikanta Das,Sri Refreshments,Retail,8015236648,manikantadas8877@example.com,"50, Street MVP Colony",MVP Colony,Visakhapatnam,53057,37TJYHA6386O5PR,2022-03-09 00:00:00,Inactive
+188,Karthik Chowdary,Om Cool Drinks,Retail,9307592819,karthikchowdary3620@mail.com,"147, Rd Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53030,37EGNVU0762AW96,2025-05-02 00:00:00,Active
+189,Chaitanya Sharma,Sai Beverages,Institutional,6490419793,chaitanyasharma8337@example.com,"169, Street NAD",NAD,Visakhapatnam,53077,37SOAXU1956GKL9,2022-01-12 00:00:00,Inactive
+190,Rohit Iyer,Balaji General Stores,Wholesale,9516759460,rohitiyer4932@example.com,"77, Lane Malkapuram",Malkapuram,Visakhapatnam,53095,37NCRBG5038X5Z8,2021-01-14 00:00:00,Active
+191,Karthik Patel,Venkateswara Café,Wholesale,7017448143,karthikpatel1506@demo.in,"158, Nagar Marripalem",Marripalem,Visakhapatnam,53098,37NZQTI9464QZX3,2025-08-11 00:00:00,Active
+192,Prasad Das,Annapurna General Stores,Retail,9487353002,prasaddas3146@demo.in,"74, Lane MVP Colony",MVP Colony,Visakhapatnam,53090,37CCWLL2366TFLD,2022-02-18 00:00:00,Active
+193,Harsha Kumar,Sree Café,Retail,7420246239,harshakumar1714@mail.com,"83, Rd PM Palem",PM Palem,Visakhapatnam,53046,37UYGWJ4022G7W3,2021-05-15 00:00:00,Active
+194,Rohit Iyer,Lakshmi Hotel,HoReCa,8547452129,rohitiyer9675@demo.in,"5, Rd Kancharapalem",Kancharapalem,Visakhapatnam,53009,37PNZXB8979MFUY,2022-12-26 00:00:00,Active
+195,Akhil Shetty,Venkateswara Beverages,Institutional,9113606112,akhilshetty8987@example.com,"184, Rd Old Town",Old Town,Visakhapatnam,53051,37CWPXS1324JFRJ,2025-09-15 00:00:00,Active
+196,Pooja Gupta,Om General Stores,HoReCa,8600380406,poojagupta9115@mail.com,"158, Nagar PM Palem",PM Palem,Visakhapatnam,53037,37GWVXQ6375APVE,2023-05-06 00:00:00,Active
+197,Anusha Chowdary,Lakshmi General Stores,Institutional,7183222770,anushachowdary591@example.com,"153, Lane Maharanipeta",Maharanipeta,Visakhapatnam,53002,37VISIM9643ESV1,2020-02-14 00:00:00,Active
+198,Rohit Naidu,Sai Super Mart,HoReCa,7609239114,rohitnaidu5133@mail.com,"36, Nagar Gajuwaka",Gajuwaka,Visakhapatnam,53054,37YDINC5015FYZB,2021-08-19 00:00:00,Active
+199,Mahesh Das,Sree Refreshments,HoReCa,7873023671,maheshdas5597@demo.in,"89, Rd Venkojipalem",Venkojipalem,Visakhapatnam,53077,37LCCRL2925PT4T,2024-03-13 00:00:00,Inactive
+200,Manikanta Naidu,Balaji Café,HoReCa,7139629301,manikantanaidu7624@mail.com,"76, Rd Seethammadhara",Seethammadhara,Visakhapatnam,53052,37EOGYQ7408T909,2025-01-16 00:00:00,Active
+201,Prasad Shetty,Sree Beverages,Retail,6144652847,prasadshetty6565@demo.in,"28, Rd Malkapuram",Malkapuram,Visakhapatnam,53099,37DWBBH3803H7U5,2020-08-20 00:00:00,Active
+202,Neha Yadav,Lakshmi Hotel,Retail,6808275232,nehayadav8734@mail.com,"72, Nagar Kurmannapalem",Kurmannapalem,Visakhapatnam,53043,37DSGYK2793XPD8,2021-02-10 00:00:00,Active
+203,Sirisha Yadav,Sri Café,HoReCa,9090664656,sirishayadav3458@example.com,"103, Nagar Akkayyapalem",Akkayyapalem,Visakhapatnam,53052,37KPFIF2710ZLON,2023-02-22 00:00:00,Active
+204,Deepak Kumar,Annapurna Hotel,HoReCa,8948087559,deepakkumar5561@example.com,"116, Nagar Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53003,37AEKZN4960CZBH,2024-11-14 00:00:00,Active
+205,Lakshmi Kumar,Om Refreshments,Retail,7299933935,lakshmikumar5502@demo.in,"81, Nagar Malkapuram",Malkapuram,Visakhapatnam,53011,37NNFUD1202GSJ6,2020-02-04 00:00:00,Active
+206,Madhu Iyer,Balaji Super Mart,HoReCa,7189181128,madhuiyer7891@mail.com,"172, Rd Maddilapalem",Maddilapalem,Visakhapatnam,53051,37ABUSD3394W077,2025-01-04 00:00:00,Active
+207,Prasad Joshi,Om Refreshments,Retail,6316500464,prasadjoshi7730@mail.com,"163, Rd Akkayyapalem",Akkayyapalem,Visakhapatnam,53054,37OVMLL0749SGMF,2023-01-11 00:00:00,Inactive
+208,Rohit Reddy,Lakshmi Beverages,Retail,7400803079,rohitreddy537@mail.com,"94, Lane Maddilapalem",Maddilapalem,Visakhapatnam,53049,37GIZXK6730LJWS,2024-08-09 00:00:00,Inactive
+209,Karthik Chowdary,Sri General Stores,Wholesale,6929005487,karthikchowdary6286@mail.com,"116, Rd Dabagardens",Dabagardens,Visakhapatnam,53058,37XTHFH3679CM6V,2022-05-26 00:00:00,Inactive
+210,Sirisha Iyer,Balaji Hotel,Institutional,6769294865,sirishaiyer2890@example.com,"72, Lane Marripalem",Marripalem,Visakhapatnam,53063,37AYPLV4668KYNS,2024-05-12 00:00:00,Active
+211,Mahesh Nair,Lakshmi Cool Drinks,HoReCa,7059811033,maheshnair4083@example.com,"177, Lane Kurmannapalem",Kurmannapalem,Visakhapatnam,53020,37PSORG9636GEWO,2025-04-10 00:00:00,Active
+212,Sirisha Iyer,Sri General Stores,Retail,8278580287,sirishaiyer3658@demo.in,"113, Lane Kurmannapalem",Kurmannapalem,Visakhapatnam,53072,37ITSJS2513NH9Q,2025-03-22 00:00:00,Active
+213,Madhu Gupta,Lakshmi Super Mart,Wholesale,9087794103,madhugupta1371@example.com,"166, Lane Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53048,37CFOQY3201BNBA,2023-08-20 00:00:00,Inactive
+214,Anusha Kumar,Sree Super Mart,HoReCa,7477349466,anushakumar3016@mail.com,"25, Rd MVP Colony",MVP Colony,Visakhapatnam,53070,37CAIUN2451OVTX,2023-05-29 00:00:00,Active
+215,Akhil Joshi,Annapurna Café,Wholesale,8414955666,akhiljoshi4672@mail.com,"55, Rd Siripuram",Siripuram,Visakhapatnam,53044,37WMHPB4790GNQL,2021-03-15 00:00:00,Active
+216,Vamsi Nair,Sri General Stores,Wholesale,9226491740,vamsinair9847@example.com,"20, Nagar Yendada",Yendada,Visakhapatnam,53035,37LNGYH3088B6MM,2025-01-18 00:00:00,Active
+217,Teja Gupta,Balaji Refreshments,Institutional,6377656380,tejagupta1154@demo.in,"129, Lane Old Town",Old Town,Visakhapatnam,53039,37AGZGZ5234LA3K,2022-07-05 00:00:00,Active
+218,Ramesh Gupta,Venkateswara Cool Drinks,HoReCa,9005999707,rameshgupta6136@mail.com,"140, Street Venkojipalem",Venkojipalem,Visakhapatnam,53071,37GDTYG5834NO4U,2021-05-28 00:00:00,Active
+219,Prasad Verma,Sai Beverages,Retail,8524463887,prasadverma4913@demo.in,"24, Street Anakapalle",Anakapalle,Visakhapatnam,53083,37BHRJN2431Z2PK,2022-10-26 00:00:00,Active
+220,Lakshmi Yadav,Sai Cool Drinks,Institutional,9877031819,lakshmiyadav5618@example.com,"39, Rd Dabagardens",Dabagardens,Visakhapatnam,53062,37JLQNR7964PT3B,2020-04-05 00:00:00,Inactive
+221,Divya Shetty,Sai Hotel,HoReCa,8098965425,divyashetty2709@demo.in,"136, Street Gopalapatnam",Gopalapatnam,Visakhapatnam,53092,37NWDNO4166LL1Y,2021-01-24 00:00:00,Active
+222,Sridhar Sharma,Balaji Cool Drinks,Retail,6557790885,sridharsharma7717@mail.com,"73, Nagar Gopalapatnam",Gopalapatnam,Visakhapatnam,53040,37OHZOJ5415BAV1,2025-09-08 00:00:00,Active
+223,Sirisha Chowdary,Om Hotel,Wholesale,6873756276,sirishachowdary8557@mail.com,"173, Lane Gopalapatnam",Gopalapatnam,Visakhapatnam,53031,37UGTWE7223YILH,2024-07-13 00:00:00,Active
+224,Sai Kumar,Venkateswara Refreshments,Wholesale,9072350469,saikumar4625@demo.in,"22, Lane Siripuram",Siripuram,Visakhapatnam,53002,37DLELD9246V3NX,2022-09-03 00:00:00,Inactive
+225,Sirisha Chowdary,Sri Super Mart,HoReCa,9898045315,sirishachowdary1953@example.com,"43, Rd Dabagardens",Dabagardens,Visakhapatnam,53054,37HABVW7191Q25A,2021-05-20 00:00:00,Active
+226,Sridhar Patel,Sree Super Mart,Institutional,8182935473,sridharpatel8412@example.com,"87, Nagar Pendurthi",Pendurthi,Visakhapatnam,53046,37CGHRD1960T1V8,2024-03-03 00:00:00,Active
+227,Deepak Iyer,Annapurna Cool Drinks,Wholesale,7000397051,deepakiyer3686@example.com,"83, Rd Marripalem",Marripalem,Visakhapatnam,53038,37HULZO3396QHO8,2020-06-28 00:00:00,Active
+228,Lakshmi Verma,Sai Beverages,Retail,6013538060,lakshmiverma2567@example.com,"127, Nagar PM Palem",PM Palem,Visakhapatnam,53086,37BOCGU2586L7IG,2022-12-07 00:00:00,Active
+229,Manikanta Verma,Sree Beverages,Institutional,6083273179,manikantaverma2376@demo.in,"140, Rd Akkayyapalem",Akkayyapalem,Visakhapatnam,53066,37ULGUT8400RR27,2024-12-09 00:00:00,Active
+230,Lakshmi Nair,Lakshmi Cool Drinks,Institutional,8829202350,lakshminair3337@example.com,"14, Lane MVP Colony",MVP Colony,Visakhapatnam,53088,37IHIYE3971M0MJ,2020-12-13 00:00:00,Inactive
+231,Harsha Sharma,Venkateswara Café,Retail,6512397289,harshasharma5410@example.com,"162, Nagar Auto Nagar",Auto Nagar,Visakhapatnam,53082,37RQYLC0748YJHU,2020-03-28 00:00:00,Active
+232,Deepak Das,Balaji Beverages,Wholesale,8678577735,deepakdas2251@example.com,"17, Nagar Anakapalle",Anakapalle,Visakhapatnam,53079,37APCLE1839XORQ,2021-11-20 00:00:00,Active
+233,Neha Yadav,Venkateswara Super Mart,Wholesale,7070424657,nehayadav4141@mail.com,"104, Rd Pendurthi",Pendurthi,Visakhapatnam,53088,37JLBHO6205EPLN,2020-10-30 00:00:00,Active
+234,Akhil Shetty,Sri Refreshments,Retail,8600595674,akhilshetty2418@example.com,"185, Rd Akkayyapalem",Akkayyapalem,Visakhapatnam,53054,37NPBOU2675LRAX,2023-09-15 00:00:00,Inactive
+235,Akhil Patel,Lakshmi Cool Drinks,Wholesale,8387298945,akhilpatel9156@demo.in,"53, Street Gopalapatnam",Gopalapatnam,Visakhapatnam,53051,37LQPPH0880NGWO,2020-08-19 00:00:00,Active
+236,Chaitanya Reddy,Sai Beverages,Retail,8352193649,chaitanyareddy3721@mail.com,"9, Rd Venkojipalem",Venkojipalem,Visakhapatnam,53015,37OKMFT9089EDZX,2023-11-12 00:00:00,Active
+237,Teja Patel,Sri Beverages,Wholesale,9343695602,tejapatel4213@mail.com,"77, Street Maddilapalem",Maddilapalem,Visakhapatnam,53031,37GWKGY1655NPS1,2021-12-01 00:00:00,Active
+238,Vamsi Nair,Om General Stores,Institutional,7533267823,vamsinair5094@demo.in,"74, Nagar Akkayyapalem",Akkayyapalem,Visakhapatnam,53002,37ANJLV4578STFQ,2024-12-26 00:00:00,Active
+239,Akhil Kumar,Om Refreshments,Institutional,9680870204,akhilkumar5920@demo.in,"67, Nagar Maharanipeta",Maharanipeta,Visakhapatnam,53052,37BGXRC1994EK7D,2020-10-25 00:00:00,Active
+240,Mahesh Sharma,Sai Hotel,Retail,8791618987,maheshsharma692@mail.com,"39, Lane Gopalapatnam",Gopalapatnam,Visakhapatnam,53030,37WIGJV7189KNML,2022-08-07 00:00:00,Active
+241,Sirisha Babu,Venkateswara Café,HoReCa,8390185930,sirishababu2455@mail.com,"178, Lane PM Palem",PM Palem,Visakhapatnam,53039,37QAYHF4447FFEB,2024-05-30 00:00:00,Active
+242,Chaitanya Kumar,Sai Hotel,HoReCa,7627559573,chaitanyakumar5128@demo.in,"55, Rd Malkapuram",Malkapuram,Visakhapatnam,53073,37WCMTZ6558VLSQ,2025-10-03 00:00:00,Active
+243,Suma Chowdary,Sree Hotel,Wholesale,6884305453,sumachowdary9135@demo.in,"137, Nagar Anakapalle",Anakapalle,Visakhapatnam,53014,37UZVCP1156ILXZ,2025-02-27 00:00:00,Active
+244,Karthik Iyer,Venkateswara Cool Drinks,Wholesale,9241913633,karthikiyer5086@demo.in,"128, Nagar Old Town",Old Town,Visakhapatnam,53045,37VQHXS9163EF25,2023-11-26 00:00:00,Active
+245,Vamsi Joshi,Annapurna Cool Drinks,Institutional,8649322428,vamsijoshi3478@mail.com,"126, Lane Yendada",Yendada,Visakhapatnam,53077,37PJYFM6731WWE0,2021-06-03 00:00:00,Active
+246,Suma Verma,Om Beverages,HoReCa,6238469437,sumaverma1232@mail.com,"3, Nagar Anakapalle",Anakapalle,Visakhapatnam,53053,37KBNIU5190T3UW,2022-06-29 00:00:00,Active
+247,Anil Joshi,Sai Hotel,Wholesale,7243357382,aniljoshi8486@mail.com,"107, Nagar Dabagardens",Dabagardens,Visakhapatnam,53055,37LVXPV9060Q562,2025-08-05 00:00:00,Active
+248,Harsha Yadav,Lakshmi Refreshments,Retail,6765592358,harshayadav710@example.com,"71, Rd Gajuwaka",Gajuwaka,Visakhapatnam,53072,37JSIMO1401ZCTP,2024-09-03 00:00:00,Active
+249,Anil Yadav,Om General Stores,Wholesale,7919100882,anilyadav5656@mail.com,"163, Rd Dabagardens",Dabagardens,Visakhapatnam,53039,37NXOYJ3831TVY9,2022-04-11 00:00:00,Inactive
+250,Ramesh Gupta,Om Refreshments,HoReCa,7567275605,rameshgupta1516@demo.in,"61, Lane Auto Nagar",Auto Nagar,Visakhapatnam,53063,37LQOZV6306HVMI,2021-06-03 00:00:00,Inactive
+251,Naveen Gupta,Venkateswara Cool Drinks,Wholesale,9089626311,naveengupta435@demo.in,"100, Street Kurmannapalem",Kurmannapalem,Visakhapatnam,53021,37TXLJQ3296PZOP,2021-02-14 00:00:00,Active
+252,Sai Patel,Sri General Stores,Institutional,6163322284,saipatel8952@mail.com,"82, Lane NAD",NAD,Visakhapatnam,53077,37NOITA3831L2UH,2022-01-20 00:00:00,Active
+253,Deepak Kumar,Sri Café,Retail,7837748021,deepakkumar536@demo.in,"80, Rd Auto Nagar",Auto Nagar,Visakhapatnam,53085,37JNFON6348W3IV,2024-05-16 00:00:00,Active
+254,Arun Reddy,Sri Cool Drinks,Wholesale,8013179547,arunreddy1021@mail.com,"160, Lane PM Palem",PM Palem,Visakhapatnam,53005,37DMXJR4858JOJQ,2023-02-12 00:00:00,Inactive
+255,Suma Naidu,Sri Refreshments,Wholesale,7957786873,sumanaidu6044@mail.com,"4, Rd Marripalem",Marripalem,Visakhapatnam,53049,37XBCTF3922MF3G,2021-12-01 00:00:00,Active
+256,Arun Patel,Sree Cool Drinks,Institutional,9801163857,arunpatel2405@demo.in,"111, Nagar Malkapuram",Malkapuram,Visakhapatnam,53003,37LCMZS4324J9XS,2022-12-19 00:00:00,Inactive
+257,Neha Nair,Sri Hotel,Wholesale,9731317962,nehanair2144@demo.in,"198, Street Venkojipalem",Venkojipalem,Visakhapatnam,53074,37UEAYU5216QMTW,2021-09-12 00:00:00,Active
+258,Mahesh Shetty,Annapurna General Stores,Institutional,7157277232,maheshshetty8373@mail.com,"33, Street Venkojipalem",Venkojipalem,Visakhapatnam,53085,37CYYXY1179OAGI,2024-11-12 00:00:00,Active
+259,Anil Joshi,Sai Beverages,Retail,8377045364,aniljoshi7014@mail.com,"112, Nagar Auto Nagar",Auto Nagar,Visakhapatnam,53017,37AEEGJ2013JVNS,2023-07-17 00:00:00,Active
+260,Anusha Yadav,Sri Beverages,Retail,6940071141,anushayadav7940@demo.in,"102, Rd Pendurthi",Pendurthi,Visakhapatnam,53047,37NICUL8131RQVB,2024-12-08 00:00:00,Inactive
+261,Neha Iyer,Om Cool Drinks,HoReCa,9210546171,nehaiyer3855@example.com,"158, Nagar MVP Colony",MVP Colony,Visakhapatnam,53022,37HIVOZ3077L8N1,2024-04-16 00:00:00,Inactive
+262,Madhu Patel,Annapurna Hotel,HoReCa,8606512565,madhupatel7115@demo.in,"77, Lane Old Town",Old Town,Visakhapatnam,53042,37QJYGC7873VATW,2020-05-25 00:00:00,Active
+263,Lakshmi Yadav,Venkateswara General Stores,Institutional,8914998827,lakshmiyadav1728@mail.com,"118, Street Yendada",Yendada,Visakhapatnam,53069,37LFKRR8933NTDL,2020-10-06 00:00:00,Active
+264,Suma Verma,Annapurna Beverages,Retail,6912791951,sumaverma8948@mail.com,"60, Nagar Marripalem",Marripalem,Visakhapatnam,53083,37YSYRA2611B78H,2022-05-16 00:00:00,Inactive
+265,Neha Joshi,Annapurna Refreshments,Wholesale,9513095480,nehajoshi3758@mail.com,"43, Rd Siripuram",Siripuram,Visakhapatnam,53026,37ETPTU5536H7N6,2023-04-13 00:00:00,Active
+266,Rohit Das,Annapurna General Stores,Wholesale,8938195297,rohitdas7014@mail.com,"60, Lane Auto Nagar",Auto Nagar,Visakhapatnam,53082,37WGAZQ4007AOVD,2023-03-13 00:00:00,Active
+267,Anil Sharma,Sri Hotel,Wholesale,6968879163,anilsharma2741@example.com,"71, Nagar Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53083,37LHQZT8756KFUP,2022-06-21 00:00:00,Inactive
+268,Akhil Shetty,Sree Hotel,Institutional,8739650434,akhilshetty5651@mail.com,"25, Rd Gajuwaka",Gajuwaka,Visakhapatnam,53033,37AYRUA2883B5ZL,2021-09-10 00:00:00,Active
+269,Arun Nair,Balaji Hotel,Institutional,6453247142,arunnair5299@example.com,"90, Nagar Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53063,37SGTNC1024CTYW,2024-02-26 00:00:00,Active
+270,Mahesh Sharma,Balaji Hotel,Retail,8665685079,maheshsharma3582@example.com,"108, Lane Pendurthi",Pendurthi,Visakhapatnam,53025,37HVTEZ2154QB6Z,2023-07-24 00:00:00,Active
+271,Rohit Iyer,Sri Cool Drinks,HoReCa,6727748119,rohitiyer3989@mail.com,"154, Nagar Pendurthi",Pendurthi,Visakhapatnam,53099,37CQBWZ8250OT3U,2023-12-24 00:00:00,Active
+272,Suresh Gupta,Annapurna Super Mart,Retail,7646397538,sureshgupta7143@mail.com,"72, Street Maddilapalem",Maddilapalem,Visakhapatnam,53087,37MCXUD2654N15R,2020-09-30 00:00:00,Active
+273,Lakshmi Sharma,Lakshmi Hotel,Wholesale,9785760316,lakshmisharma5962@mail.com,"112, Rd Malkapuram",Malkapuram,Visakhapatnam,53030,37HDJIE6409DNTM,2022-11-23 00:00:00,Active
+274,Anil Sharma,Annapurna Beverages,HoReCa,6128658459,anilsharma2470@example.com,"184, Rd Akkayyapalem",Akkayyapalem,Visakhapatnam,53018,37LPRUI7375SBRB,2023-11-19 00:00:00,Inactive
+275,Akhil Sharma,Om Cool Drinks,Wholesale,9734340293,akhilsharma7623@example.com,"159, Rd Seethammadhara",Seethammadhara,Visakhapatnam,53090,37JHEYM6494O6GU,2023-03-13 00:00:00,Active
+276,Neha Naidu,Lakshmi Hotel,Retail,6342771900,nehanaidu4569@mail.com,"5, Nagar PM Palem",PM Palem,Visakhapatnam,53065,37OLYZU5885GPDQ,2025-04-09 00:00:00,Active
+277,Suresh Yadav,Sai Beverages,Institutional,8948606002,sureshyadav7241@demo.in,"3, Nagar Gopalapatnam",Gopalapatnam,Visakhapatnam,53063,37TRCMM1133EL6A,2025-03-29 00:00:00,Active
+278,Arun Kumar,Balaji Refreshments,Institutional,8955466718,arunkumar3586@example.com,"131, Lane Kurmannapalem",Kurmannapalem,Visakhapatnam,53067,37SYFAY8048TWXU,2024-03-03 00:00:00,Active
+279,Deepak Nair,Balaji Super Mart,Wholesale,8278823158,deepaknair4866@demo.in,"187, Nagar Gopalapatnam",Gopalapatnam,Visakhapatnam,53069,37MRVYJ3777ID4T,2023-03-23 00:00:00,Inactive
+280,Sirisha Babu,Sree Cool Drinks,Retail,9083318559,sirishababu8654@mail.com,"46, Street PM Palem",PM Palem,Visakhapatnam,53036,37JKAUR7308UZUL,2024-06-09 00:00:00,Inactive
+281,Teja Das,Sree Beverages,Institutional,8858384287,tejadas7711@demo.in,"68, Street PM Palem",PM Palem,Visakhapatnam,53025,37RRVAU8108ID3L,2024-04-30 00:00:00,Active
+282,Karthik Reddy,Sai Super Mart,Wholesale,6026846452,karthikreddy3293@example.com,"161, Street Venkojipalem",Venkojipalem,Visakhapatnam,53042,37NZXNG6520Y5K0,2024-03-16 00:00:00,Active
+283,Teja Shetty,Balaji General Stores,Wholesale,9238559353,tejashetty2576@example.com,"170, Street Pendurthi",Pendurthi,Visakhapatnam,53067,37MNHWH2073KFX5,2023-12-17 00:00:00,Active
+284,Harsha Joshi,Om General Stores,HoReCa,8447724910,harshajoshi6133@demo.in,"125, Lane Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53063,37XODFA0998KS69,2023-10-08 00:00:00,Active
+285,Vikram Joshi,Annapurna Café,Wholesale,6046589934,vikramjoshi9469@mail.com,"56, Rd PM Palem",PM Palem,Visakhapatnam,53099,37GPSQR8129SMSO,2022-12-16 00:00:00,Active
+286,Neha Verma,Sri Hotel,Wholesale,6138779061,nehaverma5310@demo.in,"176, Nagar Pendurthi",Pendurthi,Visakhapatnam,53083,37ZGBFY6747NVT8,2022-09-20 00:00:00,Active
+287,Karthik Sharma,Venkateswara General Stores,Institutional,7116863929,karthiksharma4621@example.com,"134, Lane Gopalapatnam",Gopalapatnam,Visakhapatnam,53017,37YVPVA3740RN9B,2022-03-22 00:00:00,Active
+288,Suma Naidu,Sai Beverages,HoReCa,9420337481,sumanaidu5138@example.com,"46, Lane Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53023,37EONTN2941R9CY,2023-03-19 00:00:00,Active
+289,Teja Verma,Balaji Super Mart,Wholesale,9620383858,tejaverma798@demo.in,"103, Lane PM Palem",PM Palem,Visakhapatnam,53017,37OOOYS8906XLJ6,2020-12-22 00:00:00,Active
+290,Anil Verma,Sri Cool Drinks,Retail,7025090913,anilverma6814@example.com,"67, Lane Akkayyapalem",Akkayyapalem,Visakhapatnam,53030,37EKMCB9007MJJ3,2025-05-10 00:00:00,Inactive
+291,Prasad Das,Venkateswara General Stores,Institutional,7040409859,prasaddas885@demo.in,"67, Nagar Venkojipalem",Venkojipalem,Visakhapatnam,53003,37TOOCE1089LBCS,2025-04-10 00:00:00,Active
+292,Arun Reddy,Sree General Stores,Institutional,8776864930,arunreddy1735@mail.com,"114, Street PM Palem",PM Palem,Visakhapatnam,53071,37AOLEE2854S0QE,2023-04-27 00:00:00,Active
+293,Madhu Babu,Sree Cool Drinks,Wholesale,7822273237,madhubabu2125@example.com,"173, Rd Maddilapalem",Maddilapalem,Visakhapatnam,53096,37VOKCH0075LWGN,2022-08-04 00:00:00,Active
+294,Sirisha Joshi,Balaji Cool Drinks,Retail,8642525749,sirishajoshi8470@example.com,"54, Street Dabagardens",Dabagardens,Visakhapatnam,53028,37JBHDM2973RMJI,2020-12-24 00:00:00,Active
+295,Teja Sharma,Balaji Cool Drinks,Wholesale,7262985978,tejasharma8565@mail.com,"21, Street Auto Nagar",Auto Nagar,Visakhapatnam,53010,37ZEVQO6984BIBL,2023-01-05 00:00:00,Active
+296,Mahesh Patel,Annapurna Super Mart,HoReCa,8288426882,maheshpatel3492@example.com,"56, Nagar MVP Colony",MVP Colony,Visakhapatnam,53001,37KTHSA4082Y1DK,2022-07-12 00:00:00,Active
+297,Anil Naidu,Venkateswara Cool Drinks,Wholesale,6556005482,anilnaidu5697@mail.com,"32, Street Gopalapatnam",Gopalapatnam,Visakhapatnam,53013,37ZSOEW3741D46V,2021-11-25 00:00:00,Active
+298,Keerthi Gupta,Om Cool Drinks,HoReCa,6046650272,keerthigupta3426@example.com,"50, Lane Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53088,37IVMEP2814X33G,2020-02-22 00:00:00,Active
+299,Suresh Das,Lakshmi Cool Drinks,Institutional,8957564126,sureshdas7435@demo.in,"111, Nagar Gopalapatnam",Gopalapatnam,Visakhapatnam,53018,37MGPLT8705OPRS,2022-05-24 00:00:00,Active
+300,Keerthi Babu,Sree Super Mart,Retail,7966019547,keerthibabu6590@demo.in,"32, Lane Maddilapalem",Maddilapalem,Visakhapatnam,53034,37OOOEK5753MCGM,2025-03-27 00:00:00,Inactive
+301,Vamsi Babu,Lakshmi Hotel,Retail,8596228294,vamsibabu1640@demo.in,"187, Nagar Venkojipalem",Venkojipalem,Visakhapatnam,53002,37UMMLA7245FRTB,2023-08-03 00:00:00,Active
+302,Ravi Gupta,Lakshmi Super Mart,HoReCa,8629027632,ravigupta1672@mail.com,"196, Rd Siripuram",Siripuram,Visakhapatnam,53020,37SERXT1030OMSJ,2022-05-02 00:00:00,Active
+303,Suma Sharma,Sree General Stores,Wholesale,8285435731,sumasharma3011@example.com,"180, Lane Venkojipalem",Venkojipalem,Visakhapatnam,53042,37YFSKH7324NW6U,2024-12-15 00:00:00,Active
+304,Ramesh Verma,Om Refreshments,HoReCa,6306316519,rameshverma2556@demo.in,"17, Rd Seethammadhara",Seethammadhara,Visakhapatnam,53016,37EQLYV2254ZJEN,2024-11-23 00:00:00,Active
+305,Anusha Gupta,Annapurna Beverages,Institutional,7782497371,anushagupta6447@demo.in,"105, Nagar Old Town",Old Town,Visakhapatnam,53002,37EIKTU1914HRNY,2021-07-03 00:00:00,Active
+306,Neha Shetty,Lakshmi Café,Wholesale,8647720902,nehashetty8540@demo.in,"143, Street Akkayyapalem",Akkayyapalem,Visakhapatnam,53095,37KFNSI1672FF59,2022-02-23 00:00:00,Active
+307,Deepak Chowdary,Balaji Super Mart,HoReCa,9336723064,deepakchowdary5080@mail.com,"24, Nagar Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53052,37KJPFG2423TYGG,2024-11-25 00:00:00,Active
+308,Sirisha Shetty,Sree Cool Drinks,Wholesale,6702051267,sirishashetty4126@example.com,"175, Lane MVP Colony",MVP Colony,Visakhapatnam,53088,37URUGM3505YY4I,2020-11-15 00:00:00,Active
+309,Vamsi Nair,Sree Café,Retail,8192478335,vamsinair7864@demo.in,"103, Nagar Venkojipalem",Venkojipalem,Visakhapatnam,53039,37MELXY9970DJKA,2021-09-20 00:00:00,Active
+310,Prasad Shetty,Venkateswara Hotel,Retail,7688831923,prasadshetty766@mail.com,"66, Street Siripuram",Siripuram,Visakhapatnam,53068,37VTIIY2793ZTKL,2021-12-16 00:00:00,Active
+311,Arun Nair,Om Café,Institutional,7310468364,arunnair5052@mail.com,"71, Rd Akkayyapalem",Akkayyapalem,Visakhapatnam,53053,37KAFNI3174L9V4,2024-08-13 00:00:00,Active
+312,Pooja Iyer,Balaji Café,Institutional,8658807500,poojaiyer3953@example.com,"126, Rd Seethammadhara",Seethammadhara,Visakhapatnam,53025,37UFSBU3604MZHK,2020-05-26 00:00:00,Active
+313,Harsha Shetty,Annapurna Hotel,Institutional,8391971807,harshashetty8444@mail.com,"91, Nagar Malkapuram",Malkapuram,Visakhapatnam,53067,37EJCXL9146LW0Y,2024-04-11 00:00:00,Active
+314,Chaitanya Patel,Sree General Stores,Institutional,7854693151,chaitanyapatel4005@demo.in,"169, Rd Pendurthi",Pendurthi,Visakhapatnam,53058,37KRXMW7600Q8XX,2024-06-21 00:00:00,Inactive
+315,Mahesh Chowdary,Venkateswara Café,Retail,9059525330,maheshchowdary2464@demo.in,"167, Lane Seethammadhara",Seethammadhara,Visakhapatnam,53087,37XRLXV1865GL6Z,2021-04-01 00:00:00,Active
+316,Sirisha Shetty,Sree General Stores,HoReCa,9971503874,sirishashetty9534@example.com,"68, Street Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53069,37WSBLS7817M86X,2021-03-30 00:00:00,Inactive
+317,Arun Yadav,Balaji Cool Drinks,HoReCa,8624720953,arunyadav3626@demo.in,"138, Street Akkayyapalem",Akkayyapalem,Visakhapatnam,53029,37UFPVD5946YCYE,2020-04-01 00:00:00,Inactive
+318,Anil Yadav,Om Hotel,Wholesale,9968428198,anilyadav1811@demo.in,"94, Street Marripalem",Marripalem,Visakhapatnam,53047,37OXPYH2346GFP5,2020-10-28 00:00:00,Active
+319,Lakshmi Patel,Sree Refreshments,Wholesale,8346913881,lakshmipatel8253@demo.in,"174, Nagar Marripalem",Marripalem,Visakhapatnam,53008,37RAOIN8039KPBT,2025-09-11 00:00:00,Active
+320,Lakshmi Kumar,Annapurna Café,Retail,6385118253,lakshmikumar5001@example.com,"94, Lane Old Town",Old Town,Visakhapatnam,53080,37BQALV7795WY9I,2020-01-09 00:00:00,Active
+321,Naveen Das,Lakshmi Refreshments,HoReCa,9549949167,naveendas6693@example.com,"27, Rd Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53057,37DTBLL3197OLK2,2024-07-16 00:00:00,Inactive
+322,Anusha Patel,Sree Café,HoReCa,8776146801,anushapatel3154@example.com,"160, Rd Venkojipalem",Venkojipalem,Visakhapatnam,53069,37HVZDQ4539WZHM,2020-04-11 00:00:00,Inactive
+323,Sirisha Reddy,Balaji Refreshments,Institutional,6020873868,sirishareddy3508@demo.in,"190, Nagar Kancharapalem",Kancharapalem,Visakhapatnam,53070,37QQCQW2344XCF3,2020-01-08 00:00:00,Active
+324,Teja Babu,Sai Beverages,HoReCa,8767144051,tejababu8184@example.com,"108, Rd NAD",NAD,Visakhapatnam,53096,37CULPN6881COHS,2022-10-17 00:00:00,Inactive
+325,Naveen Babu,Sri Refreshments,Institutional,6916833209,naveenbabu6564@mail.com,"150, Street Auto Nagar",Auto Nagar,Visakhapatnam,53074,37XMVHG4431A4GH,2021-05-20 00:00:00,Active
+326,Karthik Gupta,Venkateswara Super Mart,Wholesale,8344056799,karthikgupta8134@demo.in,"92, Street Dabagardens",Dabagardens,Visakhapatnam,53045,37MWBKS0027X989,2023-11-13 00:00:00,Active
+327,Neha Gupta,Lakshmi Hotel,Retail,6983908648,nehagupta5028@mail.com,"168, Lane Pendurthi",Pendurthi,Visakhapatnam,53090,37KLVAH6173QI14,2023-08-28 00:00:00,Inactive
+328,Anusha Sharma,Sri Hotel,Wholesale,7159513940,anushasharma4668@demo.in,"147, Rd Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53022,37LMQXT4184Z4GT,2023-02-14 00:00:00,Active
+329,Manikanta Naidu,Om Café,Retail,9217063914,manikantanaidu2069@example.com,"33, Rd Old Town",Old Town,Visakhapatnam,53080,37DHGGP0889U2ZZ,2020-02-29 00:00:00,Active
+330,Akhil Patel,Sai Cool Drinks,HoReCa,9990784435,akhilpatel3914@mail.com,"48, Lane Anakapalle",Anakapalle,Visakhapatnam,53027,37CDWUE4564A0KO,2021-08-11 00:00:00,Active
+331,Madhu Patel,Sai Super Mart,Wholesale,9482908581,madhupatel1477@mail.com,"198, Lane Maharanipeta",Maharanipeta,Visakhapatnam,53053,37TYYIG0331IG6N,2023-07-21 00:00:00,Inactive
+332,Harsha Nair,Sai Cool Drinks,Wholesale,8441699929,harshanair3110@mail.com,"1, Lane Anakapalle",Anakapalle,Visakhapatnam,53088,37ZUJZB7886JEPC,2021-12-12 00:00:00,Active
+333,Suresh Sharma,Lakshmi Cool Drinks,HoReCa,8764210025,sureshsharma1157@demo.in,"110, Lane Maharanipeta",Maharanipeta,Visakhapatnam,53040,37HPEKF7479EQMG,2020-07-26 00:00:00,Active
+334,Suma Iyer,Lakshmi Beverages,HoReCa,8125327795,sumaiyer9538@demo.in,"31, Nagar Pendurthi",Pendurthi,Visakhapatnam,53073,37NTUHP4139KE1X,2020-09-27 00:00:00,Active
+335,Ramesh Shetty,Annapurna Super Mart,Institutional,9393546322,rameshshetty95@demo.in,"48, Rd Maharanipeta",Maharanipeta,Visakhapatnam,53086,37JZCKN2376ZGMA,2025-05-19 00:00:00,Active
+336,Prasad Kumar,Lakshmi Café,Retail,6412758879,prasadkumar2502@example.com,"190, Lane Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53071,37GTJOB4282PZRQ,2024-05-28 00:00:00,Active
+337,Karthik Gupta,Annapurna Hotel,Wholesale,9165453925,karthikgupta4899@demo.in,"46, Nagar Maharanipeta",Maharanipeta,Visakhapatnam,53055,37ZRHYI5217Z707,2025-08-12 00:00:00,Active
+338,Harsha Iyer,Balaji Café,Wholesale,9241664169,harshaiyer2466@example.com,"85, Nagar Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53088,37XDZFF6442M54V,2025-01-16 00:00:00,Inactive
+339,Akhil Reddy,Annapurna Super Mart,Retail,8897181076,akhilreddy967@demo.in,"112, Street Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53020,37AQTJT3466U0VE,2022-09-25 00:00:00,Active
+340,Mahesh Das,Sree Hotel,HoReCa,6318592965,maheshdas1751@demo.in,"17, Rd Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53064,37PYIBM9071HNY6,2024-06-22 00:00:00,Active
+341,Pavan Reddy,Om General Stores,Retail,8049968686,pavanreddy3214@mail.com,"164, Rd Dabagardens",Dabagardens,Visakhapatnam,53017,37UHUEO9657SDR6,2020-05-11 00:00:00,Active
+342,Deepak Nair,Om Super Mart,Retail,9827175978,deepaknair659@demo.in,"118, Street NAD",NAD,Visakhapatnam,53097,37LROJI8683VFAT,2020-08-08 00:00:00,Active
+343,Chaitanya Babu,Sree Beverages,Institutional,8995300340,chaitanyababu3674@demo.in,"14, Nagar Gajuwaka",Gajuwaka,Visakhapatnam,53095,37CYXTR6250KKWA,2024-12-17 00:00:00,Active
+344,Suma Shetty,Sree Refreshments,Wholesale,9281562706,sumashetty4691@demo.in,"161, Rd Dabagardens",Dabagardens,Visakhapatnam,53050,37YYVSM4477UTB2,2022-07-02 00:00:00,Active
+345,Deepak Shetty,Venkateswara Hotel,Wholesale,6212833863,deepakshetty468@example.com,"118, Rd Pendurthi",Pendurthi,Visakhapatnam,53080,37LXYSH4993ZNSE,2024-04-07 00:00:00,Active
+346,Anusha Chowdary,Sree Café,Institutional,6465019888,anushachowdary492@demo.in,"110, Nagar Kurmannapalem",Kurmannapalem,Visakhapatnam,53026,37VWOWG6609IFV4,2021-05-29 00:00:00,Active
+347,Sai Chowdary,Annapurna Café,Retail,8465659543,saichowdary5177@demo.in,"26, Lane Auto Nagar",Auto Nagar,Visakhapatnam,53058,37UVNPO6962HTL8,2021-01-30 00:00:00,Active
+348,Deepak Reddy,Sri Beverages,Retail,7048923111,deepakreddy3821@example.com,"134, Nagar Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53081,37GATDZ8395R2EL,2020-06-14 00:00:00,Active
+349,Chaitanya Verma,Venkateswara Beverages,HoReCa,7706709409,chaitanyaverma6693@demo.in,"46, Street Maharanipeta",Maharanipeta,Visakhapatnam,53036,37LIXDR9614A5P9,2021-06-17 00:00:00,Active
+350,Pavan Iyer,Sri General Stores,HoReCa,8853238832,pavaniyer893@demo.in,"100, Lane Maddilapalem",Maddilapalem,Visakhapatnam,53096,37SBRAF4716AEXR,2022-06-18 00:00:00,Active
+351,Deepak Joshi,Venkateswara Super Mart,Wholesale,8437894355,deepakjoshi6339@demo.in,"65, Street Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53061,37VCKWK1070LD2N,2020-10-21 00:00:00,Active
+352,Madhu Das,Lakshmi Café,Wholesale,8684141349,madhudas7515@example.com,"110, Rd Malkapuram",Malkapuram,Visakhapatnam,53052,37AHNAZ4069AQ89,2024-04-09 00:00:00,Active
+353,Prasad Iyer,Sree Super Mart,HoReCa,9631188052,prasadiyer7444@mail.com,"51, Nagar Auto Nagar",Auto Nagar,Visakhapatnam,53093,37UPWIC5044OEMD,2020-10-29 00:00:00,Active
+354,Lakshmi Nair,Sai Refreshments,Wholesale,7749828431,lakshminair2867@example.com,"134, Rd PM Palem",PM Palem,Visakhapatnam,53002,37KRXRZ9820SIEO,2024-08-24 00:00:00,Inactive
+355,Sirisha Naidu,Annapurna Beverages,Retail,6855052292,sirishanaidu3246@demo.in,"193, Nagar Maharanipeta",Maharanipeta,Visakhapatnam,53023,37PRMAD5126C6JL,2024-04-27 00:00:00,Active
+356,Deepak Shetty,Venkateswara General Stores,Retail,8644643397,deepakshetty9263@mail.com,"77, Lane Marripalem",Marripalem,Visakhapatnam,53088,37YRZIN7717A9G3,2023-07-08 00:00:00,Active
+357,Vikram Babu,Annapurna Cool Drinks,Wholesale,6723901338,vikrambabu9533@example.com,"34, Nagar Auto Nagar",Auto Nagar,Visakhapatnam,53011,37EIFIW8630NYDM,2023-01-31 00:00:00,Active
+358,Sirisha Sharma,Sri Café,HoReCa,8691272730,sirishasharma9187@demo.in,"37, Lane Malkapuram",Malkapuram,Visakhapatnam,53034,37IYKCP3396OBCU,2021-04-03 00:00:00,Active
+359,Sirisha Reddy,Balaji Refreshments,HoReCa,8277203537,sirishareddy7723@demo.in,"56, Nagar Kancharapalem",Kancharapalem,Visakhapatnam,53018,37ZOLBC7357PYSI,2023-05-11 00:00:00,Inactive
+360,Chaitanya Shetty,Balaji Refreshments,HoReCa,9571208955,chaitanyashetty7050@example.com,"84, Nagar Akkayyapalem",Akkayyapalem,Visakhapatnam,53048,37LLBIX4320J9A8,2022-03-16 00:00:00,Active
+361,Keerthi Babu,Balaji Cool Drinks,Retail,9673896624,keerthibabu9634@demo.in,"134, Rd Gopalapatnam",Gopalapatnam,Visakhapatnam,53014,37AMVZD9294ZBZI,2020-02-09 00:00:00,Active
+362,Madhu Naidu,Sri Café,Wholesale,8721362343,madhunaidu6996@demo.in,"138, Street Anakapalle",Anakapalle,Visakhapatnam,53030,37PZLLD4142BRWR,2021-03-16 00:00:00,Active
+363,Deepak Nair,Sai Super Mart,HoReCa,9741562700,deepaknair9157@example.com,"17, Rd Venkojipalem",Venkojipalem,Visakhapatnam,53036,37RYOOO0345IZM9,2020-10-25 00:00:00,Active
+364,Rohit Patel,Om Beverages,HoReCa,6561903327,rohitpatel8672@example.com,"94, Rd Maharanipeta",Maharanipeta,Visakhapatnam,53070,37OFYVD1621FGY9,2020-10-21 00:00:00,Active
+365,Harsha Kumar,Sai Beverages,Wholesale,6517097618,harshakumar6338@mail.com,"96, Lane Gopalapatnam",Gopalapatnam,Visakhapatnam,53038,37LRTFO8923O40N,2021-01-26 00:00:00,Active
+366,Ramesh Kumar,Sai Super Mart,Retail,8627058513,rameshkumar9866@example.com,"17, Street Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53032,37WKIBS5703K1WZ,2025-08-06 00:00:00,Inactive
+367,Ravi Nair,Om Cool Drinks,Institutional,7246427188,ravinair3318@mail.com,"46, Rd Gopalapatnam",Gopalapatnam,Visakhapatnam,53005,37ZOASE0999PKIV,2020-02-24 00:00:00,Active
+368,Neha Sharma,Balaji General Stores,Wholesale,6924980927,nehasharma3618@example.com,"151, Lane Venkojipalem",Venkojipalem,Visakhapatnam,53076,37XKJHE8348SG4J,2024-04-04 00:00:00,Active
+369,Anil Reddy,Annapurna Refreshments,Institutional,6190630131,anilreddy8591@mail.com,"196, Lane Anakapalle",Anakapalle,Visakhapatnam,53080,37LEBOK6326DQ1A,2025-09-18 00:00:00,Active
+370,Arun Iyer,Lakshmi Hotel,Retail,6693150964,aruniyer1214@mail.com,"138, Street Pendurthi",Pendurthi,Visakhapatnam,53059,37DMHMR0965BLGQ,2024-03-25 00:00:00,Active
+371,Lakshmi Reddy,Balaji Refreshments,Institutional,8904857729,lakshmireddy514@example.com,"196, Nagar Anakapalle",Anakapalle,Visakhapatnam,53002,37EYUVW0087H698,2024-07-22 00:00:00,Active
+372,Manikanta Joshi,Lakshmi Super Mart,Wholesale,6988254410,manikantajoshi3321@example.com,"85, Lane Venkojipalem",Venkojipalem,Visakhapatnam,53038,37OMFQW9381ML65,2022-10-04 00:00:00,Active
+373,Pavan Das,Annapurna Café,HoReCa,7576322955,pavandas3402@example.com,"18, Nagar Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53056,37WEHCR3229ODS6,2024-06-13 00:00:00,Active
+374,Ramesh Nair,Lakshmi General Stores,Retail,7127227597,rameshnair7410@example.com,"99, Rd Anakapalle",Anakapalle,Visakhapatnam,53042,37WRECZ8662DUXY,2020-12-18 00:00:00,Active
+375,Arun Verma,Venkateswara Refreshments,Retail,8754411741,arunverma3328@mail.com,"29, Nagar MVP Colony",MVP Colony,Visakhapatnam,53073,37SREJZ5891BCLF,2025-02-08 00:00:00,Active
+376,Harsha Verma,Sri Beverages,Retail,6200798841,harshaverma8884@demo.in,"151, Street Kancharapalem",Kancharapalem,Visakhapatnam,53030,37PLHZX0416IZR1,2022-04-23 00:00:00,Active
+377,Teja Gupta,Venkateswara Cool Drinks,Institutional,8840204631,tejagupta770@demo.in,"130, Rd Marripalem",Marripalem,Visakhapatnam,53098,37RBKDH8937J5JY,2020-01-11 00:00:00,Active
+378,Divya Nair,Om Cool Drinks,Retail,7491853111,divyanair9065@mail.com,"138, Rd Marripalem",Marripalem,Visakhapatnam,53070,37RFGZT5454NDSR,2024-12-20 00:00:00,Active
+379,Keerthi Patel,Sai Refreshments,Retail,7725700561,keerthipatel5562@mail.com,"166, Rd Siripuram",Siripuram,Visakhapatnam,53023,37VFUSJ9851ZF85,2020-07-14 00:00:00,Inactive
+380,Akhil Naidu,Sri General Stores,Retail,9456226344,akhilnaidu8282@demo.in,"94, Nagar Anakapalle",Anakapalle,Visakhapatnam,53077,37TZHML4847Q0OY,2022-02-13 00:00:00,Active
+381,Divya Nair,Om Café,HoReCa,8837599072,divyanair8954@example.com,"102, Nagar Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53081,37APBCP1088PHDJ,2021-03-04 00:00:00,Active
+382,Pavan Das,Sree Super Mart,HoReCa,9293450561,pavandas7375@mail.com,"75, Lane Kurmannapalem",Kurmannapalem,Visakhapatnam,53088,37CXHYR3588EYTS,2025-08-24 00:00:00,Active
+383,Vamsi Das,Om Cool Drinks,Retail,9337421093,vamsidas1817@mail.com,"150, Rd NAD",NAD,Visakhapatnam,53023,37DARIR8787KLLB,2022-07-31 00:00:00,Active
+384,Chaitanya Babu,Sree Refreshments,HoReCa,9382268541,chaitanyababu2551@mail.com,"60, Lane Pendurthi",Pendurthi,Visakhapatnam,53057,37IVUIW9748D4YA,2021-02-06 00:00:00,Inactive
+385,Karthik Kumar,Lakshmi Refreshments,HoReCa,9379025335,karthikkumar7093@mail.com,"174, Rd Maddilapalem",Maddilapalem,Visakhapatnam,53008,37EZCGZ8149IJ3Q,2023-10-16 00:00:00,Active
+386,Suma Joshi,Sree Cool Drinks,Wholesale,8444087754,sumajoshi5990@example.com,"31, Lane Auto Nagar",Auto Nagar,Visakhapatnam,53019,37CURSM0434AVCP,2020-05-30 00:00:00,Inactive
+387,Vikram Sharma,Annapurna Café,Institutional,8604756590,vikramsharma2232@demo.in,"100, Rd Dabagardens",Dabagardens,Visakhapatnam,53095,37AIMGA8285P40O,2021-08-28 00:00:00,Active
+388,Sridhar Shetty,Sree Beverages,Retail,9353607620,sridharshetty2185@example.com,"40, Lane Yendada",Yendada,Visakhapatnam,53067,37EAJBA8522N0QM,2021-11-27 00:00:00,Inactive
+389,Rohit Chowdary,Sri Refreshments,Retail,8261976750,rohitchowdary4858@mail.com,"83, Lane Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53006,37YHAVB6027B0KS,2023-01-26 00:00:00,Active
+390,Akhil Chowdary,Annapurna General Stores,Retail,9108783553,akhilchowdary8869@demo.in,"115, Rd Kurmannapalem",Kurmannapalem,Visakhapatnam,53006,37JPXOZ6253SBC9,2025-03-21 00:00:00,Active
+391,Mahesh Joshi,Om Café,Institutional,6537503080,maheshjoshi7245@demo.in,"188, Lane Dabagardens",Dabagardens,Visakhapatnam,53028,37AFKGV2962NNNT,2022-07-22 00:00:00,Active
+392,Deepak Sharma,Om General Stores,HoReCa,7567598254,deepaksharma6160@mail.com,"15, Rd Marripalem",Marripalem,Visakhapatnam,53039,37DVCNU3626C0FK,2021-11-20 00:00:00,Active
+393,Anusha Reddy,Venkateswara Beverages,HoReCa,8574268108,anushareddy6134@example.com,"124, Street Siripuram",Siripuram,Visakhapatnam,53050,37WZJMC4178AJHX,2021-09-10 00:00:00,Inactive
+394,Vamsi Joshi,Sai Hotel,Institutional,6805916015,vamsijoshi478@example.com,"185, Rd Pendurthi",Pendurthi,Visakhapatnam,53081,37AHRWU2958XPH0,2025-04-05 00:00:00,Active
+395,Harsha Kumar,Sai Beverages,Wholesale,9770942716,harshakumar897@example.com,"173, Nagar Dabagardens",Dabagardens,Visakhapatnam,53093,37MKHYV5052HAL0,2024-06-24 00:00:00,Inactive
+396,Sirisha Gupta,Balaji Super Mart,Retail,9596633887,sirishagupta5000@mail.com,"180, Rd Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53032,37EGMJH3061PI6W,2021-01-12 00:00:00,Inactive
+397,Lakshmi Verma,Annapurna Super Mart,Wholesale,9428144841,lakshmiverma283@mail.com,"43, Lane Akkayyapalem",Akkayyapalem,Visakhapatnam,53009,37KTJNC0463UCEI,2022-05-09 00:00:00,Active
+398,Ramesh Naidu,Sai Super Mart,Institutional,7776560668,rameshnaidu8685@mail.com,"96, Nagar Malkapuram",Malkapuram,Visakhapatnam,53073,37GEPHF7819L0UI,2024-09-11 00:00:00,Active
+399,Lakshmi Yadav,Sai General Stores,HoReCa,8608102652,lakshmiyadav6769@mail.com,"3, Rd PM Palem",PM Palem,Visakhapatnam,53066,37CYERQ0787DZ1N,2025-03-10 00:00:00,Active
+400,Sai Das,Sree Cool Drinks,Institutional,6632733027,saidas245@example.com,"134, Nagar MVP Colony",MVP Colony,Visakhapatnam,53037,37MUYSM8162E9MY,2022-05-28 00:00:00,Active
+401,Suresh Das,Sree General Stores,Wholesale,6443695365,sureshdas9941@demo.in,"104, Street Maharanipeta",Maharanipeta,Visakhapatnam,53059,37TIBJF7085DWLC,2025-07-25 00:00:00,Active
+402,Arun Gupta,Annapurna Café,HoReCa,9105443541,arungupta1504@example.com,"189, Street Auto Nagar",Auto Nagar,Visakhapatnam,53092,37VUMJZ7907I9HI,2021-01-17 00:00:00,Inactive
+403,Naveen Patel,Lakshmi General Stores,Wholesale,8580213152,naveenpatel381@demo.in,"5, Nagar Marripalem",Marripalem,Visakhapatnam,53048,37UOUUG5102IXFQ,2020-01-21 00:00:00,Active
+404,Naveen Verma,Sree Cool Drinks,Institutional,7001066094,naveenverma6382@example.com,"81, Street Venkojipalem",Venkojipalem,Visakhapatnam,53089,37SVSSC8946XL16,2020-09-10 00:00:00,Active
+405,Ramesh Yadav,Venkateswara Refreshments,Wholesale,9413080810,rameshyadav9275@mail.com,"137, Street Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53039,37YJXVX6877PYAN,2023-05-11 00:00:00,Inactive
+406,Keerthi Sharma,Lakshmi Beverages,HoReCa,8141493273,keerthisharma9620@example.com,"67, Rd Seethammadhara",Seethammadhara,Visakhapatnam,53047,37CRBXB8779MV93,2020-09-05 00:00:00,Active
+407,Naveen Patel,Balaji General Stores,HoReCa,6897598565,naveenpatel3022@mail.com,"70, Street Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53072,37WRMMZ1813DOXD,2022-01-08 00:00:00,Active
+408,Manikanta Shetty,Sai Cool Drinks,Wholesale,7754078980,manikantashetty8065@demo.in,"132, Lane Auto Nagar",Auto Nagar,Visakhapatnam,53045,37OOUFM5810HCBM,2024-09-11 00:00:00,Active
+409,Karthik Yadav,Om Beverages,HoReCa,9260426085,karthikyadav441@example.com,"94, Street Seethammadhara",Seethammadhara,Visakhapatnam,53028,37HUMHK8960X5QF,2022-10-19 00:00:00,Active
+410,Ramesh Naidu,Sree Beverages,Wholesale,6295541896,rameshnaidu7588@example.com,"113, Lane Gajuwaka",Gajuwaka,Visakhapatnam,53099,37RLAKF4043ZZ8U,2021-03-28 00:00:00,Active
+411,Arun Verma,Sri Refreshments,Institutional,6094021011,arunverma2922@example.com,"112, Street Maharanipeta",Maharanipeta,Visakhapatnam,53092,37XUTUN0171TQEW,2022-12-03 00:00:00,Active
+412,Arun Yadav,Sri Hotel,Wholesale,8268492654,arunyadav3115@demo.in,"144, Street Malkapuram",Malkapuram,Visakhapatnam,53048,37KNEEK0352Q39A,2023-03-25 00:00:00,Active
+413,Suresh Das,Sree Cool Drinks,HoReCa,8259207072,sureshdas5058@example.com,"99, Street Kancharapalem",Kancharapalem,Visakhapatnam,53078,37TQNZY3825CZHZ,2025-03-15 00:00:00,Inactive
+414,Pooja Chowdary,Annapurna Beverages,Wholesale,8634891663,poojachowdary2879@example.com,"103, Lane Maharanipeta",Maharanipeta,Visakhapatnam,53075,37OSHAM4450U7H8,2025-08-15 00:00:00,Active
+415,Sirisha Patel,Sai General Stores,HoReCa,6500999691,sirishapatel7714@mail.com,"167, Rd Maddilapalem",Maddilapalem,Visakhapatnam,53097,37VKVGR5532IA4N,2025-10-21 00:00:00,Active
+416,Madhu Nair,Lakshmi Café,Retail,6003045115,madhunair9465@example.com,"164, Nagar Akkayyapalem",Akkayyapalem,Visakhapatnam,53054,37VLKXR5705Y6EQ,2023-06-13 00:00:00,Active
+417,Vamsi Gupta,Sri Beverages,Retail,8636359582,vamsigupta2396@example.com,"117, Lane Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53034,37VBUJE7677XQ8E,2020-12-16 00:00:00,Inactive
+418,Harsha Das,Venkateswara Super Mart,Wholesale,8496528493,harshadas6373@example.com,"108, Nagar Dabagardens",Dabagardens,Visakhapatnam,53077,37TPAEI7334A5P8,2023-05-05 00:00:00,Active
+419,Lakshmi Sharma,Sri General Stores,Retail,7758531233,lakshmisharma8946@demo.in,"131, Nagar Old Town",Old Town,Visakhapatnam,53088,37MRZFB6773C9SX,2020-01-29 00:00:00,Active
+420,Arun Verma,Sai Super Mart,Retail,9425292386,arunverma3558@demo.in,"97, Street Seethammadhara",Seethammadhara,Visakhapatnam,53059,37HOWLV5893M6IE,2021-01-22 00:00:00,Inactive
+421,Vamsi Shetty,Lakshmi Refreshments,HoReCa,6724340958,vamsishetty1091@mail.com,"17, Rd Marripalem",Marripalem,Visakhapatnam,53058,37HTUAT0090T9G2,2023-11-29 00:00:00,Inactive
+422,Pavan Gupta,Sai Café,Retail,6046219760,pavangupta9663@mail.com,"119, Rd NAD",NAD,Visakhapatnam,53051,37TDMBH9253BE8M,2025-09-24 00:00:00,Active
+423,Naveen Das,Annapurna General Stores,HoReCa,8074039792,naveendas2002@mail.com,"14, Rd Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53020,37XBRAA9782EYAB,2024-03-07 00:00:00,Inactive
+424,Karthik Verma,Om Refreshments,HoReCa,8471243688,karthikverma7244@demo.in,"53, Nagar Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53061,37SEYTT4546CN0Y,2023-11-28 00:00:00,Active
+425,Vikram Verma,Sree Cool Drinks,Wholesale,6727084851,vikramverma437@example.com,"38, Rd Dabagardens",Dabagardens,Visakhapatnam,53018,37AAJYR6062PTND,2021-11-01 00:00:00,Active
+426,Akhil Nair,Om General Stores,Wholesale,8888440940,akhilnair8983@demo.in,"55, Rd Anakapalle",Anakapalle,Visakhapatnam,53005,37BPFOS3889B44C,2021-09-05 00:00:00,Active
+427,Suma Nair,Om Café,Retail,7670702477,sumanair5511@mail.com,"121, Lane Yendada",Yendada,Visakhapatnam,53002,37AGHGV5124I3K0,2024-07-10 00:00:00,Active
+428,Sai Naidu,Sree Hotel,Institutional,8004098067,sainaidu1371@example.com,"7, Nagar MVP Colony",MVP Colony,Visakhapatnam,53028,37AHCHW7518PSO3,2025-09-13 00:00:00,Active
+429,Pavan Chowdary,Om Cool Drinks,Retail,9247869510,pavanchowdary738@example.com,"81, Rd Akkayyapalem",Akkayyapalem,Visakhapatnam,53034,37MCVPX2548N06Z,2021-05-02 00:00:00,Inactive
+430,Ravi Iyer,Balaji Refreshments,Institutional,6329248493,raviiyer7630@mail.com,"63, Lane MVP Colony",MVP Colony,Visakhapatnam,53045,37PFOON0111YSLU,2021-01-13 00:00:00,Active
+431,Deepak Yadav,Balaji Hotel,Retail,8281129872,deepakyadav8012@demo.in,"71, Rd Seethammadhara",Seethammadhara,Visakhapatnam,53011,37KWAYG8503OMH3,2022-09-30 00:00:00,Active
+432,Sirisha Iyer,Annapurna Super Mart,HoReCa,7729080898,sirishaiyer7682@example.com,"41, Rd Kurmannapalem",Kurmannapalem,Visakhapatnam,53093,37GLVBN2382KRHD,2023-08-04 00:00:00,Inactive
+433,Teja Verma,Annapurna Cool Drinks,Institutional,9609468606,tejaverma5643@demo.in,"145, Street Yendada",Yendada,Visakhapatnam,53040,37DFZOO7992E9PA,2023-10-04 00:00:00,Active
+434,Lakshmi Yadav,Sree General Stores,HoReCa,9990271460,lakshmiyadav6034@demo.in,"127, Street NAD",NAD,Visakhapatnam,53068,37DBRTK6925R8PN,2025-09-12 00:00:00,Active
+435,Manikanta Iyer,Om General Stores,Institutional,6395605482,manikantaiyer9870@demo.in,"130, Street Dabagardens",Dabagardens,Visakhapatnam,53064,37SHGCV2331T8Y7,2023-01-29 00:00:00,Inactive
+436,Prasad Patel,Annapurna Beverages,Institutional,7790554956,prasadpatel4882@example.com,"164, Nagar Venkojipalem",Venkojipalem,Visakhapatnam,53006,37MCKJJ8043KUX4,2025-02-15 00:00:00,Active
+437,Deepak Sharma,Venkateswara Refreshments,HoReCa,7947408175,deepaksharma9034@example.com,"6, Street Gajuwaka",Gajuwaka,Visakhapatnam,53036,37LKAEY9999YODP,2020-02-22 00:00:00,Inactive
+438,Mahesh Patel,Lakshmi General Stores,HoReCa,9893599221,maheshpatel8552@example.com,"62, Nagar Yendada",Yendada,Visakhapatnam,53026,37PJVYX2025YE1J,2024-05-06 00:00:00,Inactive
+439,Anusha Das,Annapurna Hotel,Institutional,9089736113,anushadas3947@demo.in,"130, Nagar Malkapuram",Malkapuram,Visakhapatnam,53091,37SOPMX2839VC3P,2021-11-13 00:00:00,Active
+440,Teja Gupta,Lakshmi Hotel,Wholesale,7524829661,tejagupta6812@example.com,"168, Street Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53067,37IHDDS3122MBF8,2022-05-26 00:00:00,Active
+441,Chaitanya Yadav,Balaji Hotel,Retail,9643275102,chaitanyayadav2408@mail.com,"137, Rd Gajuwaka",Gajuwaka,Visakhapatnam,53019,37CFBOB8977KSF8,2025-03-19 00:00:00,Active
+442,Sai Patel,Om Hotel,Wholesale,8888935921,saipatel6536@example.com,"121, Lane Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53033,37UUWWU2576RETQ,2022-10-28 00:00:00,Inactive
+443,Anusha Iyer,Venkateswara Cool Drinks,HoReCa,7605311805,anushaiyer1445@mail.com,"177, Lane Gopalapatnam",Gopalapatnam,Visakhapatnam,53067,37OTYCH1964XXQU,2024-03-30 00:00:00,Active
+444,Sridhar Babu,Balaji Refreshments,Institutional,7461155707,sridharbabu957@demo.in,"75, Street Gajuwaka",Gajuwaka,Visakhapatnam,53003,37QGRWV5539VXI6,2020-03-17 00:00:00,Active
+445,Ravi Joshi,Lakshmi Beverages,Wholesale,6926222292,ravijoshi4677@example.com,"170, Street Anakapalle",Anakapalle,Visakhapatnam,53089,37WKFPV6063F63W,2024-01-19 00:00:00,Active
+446,Sridhar Reddy,Om Refreshments,Wholesale,6506167045,sridharreddy1402@mail.com,"44, Nagar Gajuwaka",Gajuwaka,Visakhapatnam,53003,37VDIUS1968H4VL,2024-05-07 00:00:00,Active
+447,Suma Babu,Om Super Mart,Wholesale,6603598524,sumababu4321@demo.in,"131, Street Gopalapatnam",Gopalapatnam,Visakhapatnam,53081,37LHOPL0934OORS,2022-08-25 00:00:00,Active
+448,Pooja Shetty,Sri Cool Drinks,Retail,8861644764,poojashetty3111@mail.com,"140, Street Venkojipalem",Venkojipalem,Visakhapatnam,53037,37KZVGQ4997Y894,2021-10-14 00:00:00,Active
+449,Harsha Verma,Sai Refreshments,Retail,8952926597,harshaverma572@mail.com,"161, Street Pendurthi",Pendurthi,Visakhapatnam,53018,37LBOCR6556LNXF,2023-11-01 00:00:00,Active
+450,Divya Chowdary,Lakshmi Refreshments,HoReCa,7546435889,divyachowdary7901@example.com,"67, Street Maddilapalem",Maddilapalem,Visakhapatnam,53080,37WKMJT8929MMFV,2025-08-13 00:00:00,Active
+451,Arun Sharma,Sri Hotel,HoReCa,6391479801,arunsharma8185@demo.in,"76, Nagar Old Town",Old Town,Visakhapatnam,53064,37JMVFM1143J4RC,2024-03-20 00:00:00,Active
+452,Arun Das,Venkateswara Super Mart,HoReCa,8149518027,arundas4875@demo.in,"172, Lane Kurmannapalem",Kurmannapalem,Visakhapatnam,53007,37BNLES2235Q1TL,2024-09-07 00:00:00,Active
+453,Mahesh Joshi,Sai Super Mart,HoReCa,6878261994,maheshjoshi9619@mail.com,"63, Lane Auto Nagar",Auto Nagar,Visakhapatnam,53079,37EWART4955Y0XH,2023-01-23 00:00:00,Inactive
+454,Ravi Chowdary,Sai Cool Drinks,HoReCa,7602066010,ravichowdary9930@example.com,"176, Lane Gajuwaka",Gajuwaka,Visakhapatnam,53014,37DKVDR6494YT6U,2023-08-31 00:00:00,Active
+455,Pooja Shetty,Sri Refreshments,HoReCa,7472279162,poojashetty215@example.com,"124, Rd Old Town",Old Town,Visakhapatnam,53042,37ZELUU8136MEDF,2022-01-06 00:00:00,Active
+456,Harsha Yadav,Venkateswara Café,HoReCa,8360324421,harshayadav434@demo.in,"24, Street Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53025,37XBIEO1005B3LO,2023-11-20 00:00:00,Active
+457,Harsha Shetty,Sree General Stores,HoReCa,6099872500,harshashetty3636@mail.com,"81, Lane Dabagardens",Dabagardens,Visakhapatnam,53013,37PSBRY5576I5Z9,2024-03-30 00:00:00,Active
+458,Suma Patel,Sree Café,HoReCa,7635713364,sumapatel99@demo.in,"66, Nagar Dabagardens",Dabagardens,Visakhapatnam,53073,37DBAPM5397E7US,2021-11-17 00:00:00,Active
+459,Anil Chowdary,Sai Beverages,Wholesale,9316488587,anilchowdary1184@mail.com,"131, Lane MVP Colony",MVP Colony,Visakhapatnam,53074,37GFRVL9978MNL9,2025-07-12 00:00:00,Active
+460,Chaitanya Das,Balaji Hotel,HoReCa,6760954230,chaitanyadas281@demo.in,"42, Nagar Malkapuram",Malkapuram,Visakhapatnam,53066,37RCRGI3571WJAF,2020-04-05 00:00:00,Inactive
+461,Mahesh Nair,Sai General Stores,Retail,8764080525,maheshnair9558@mail.com,"101, Lane Kancharapalem",Kancharapalem,Visakhapatnam,53047,37ITMAA3883STXZ,2020-04-12 00:00:00,Active
+462,Naveen Naidu,Venkateswara Super Mart,HoReCa,7422250280,naveennaidu6310@example.com,"191, Street Malkapuram",Malkapuram,Visakhapatnam,53070,37CMCAR2687JP4I,2024-10-22 00:00:00,Active
+463,Prasad Das,Lakshmi Beverages,Institutional,8856888380,prasaddas6844@demo.in,"154, Lane Seethammadhara",Seethammadhara,Visakhapatnam,53093,37UFYBR4807X88R,2021-01-05 00:00:00,Active
+464,Vamsi Das,Balaji Café,Retail,7908909140,vamsidas1007@example.com,"75, Nagar Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53085,37PVRYL8391FH6G,2020-02-13 00:00:00,Active
+465,Sirisha Sharma,Sree General Stores,Retail,8404327669,sirishasharma3337@mail.com,"140, Nagar Maddilapalem",Maddilapalem,Visakhapatnam,53034,37LUSUJ4257T0AI,2024-08-29 00:00:00,Active
+466,Manikanta Shetty,Sree Beverages,Institutional,7908425867,manikantashetty6979@mail.com,"169, Lane Pendurthi",Pendurthi,Visakhapatnam,53018,37YBHDE9515MJYM,2024-04-17 00:00:00,Inactive
+467,Sirisha Sharma,Balaji Super Mart,HoReCa,6518806651,sirishasharma8071@demo.in,"193, Street Siripuram",Siripuram,Visakhapatnam,53029,37PXMAJ8439RN8N,2023-02-05 00:00:00,Inactive
+468,Sridhar Iyer,Om Hotel,HoReCa,7009614812,sridhariyer8121@mail.com,"107, Rd Auto Nagar",Auto Nagar,Visakhapatnam,53048,37TZSIQ4100SKSS,2024-04-13 00:00:00,Inactive
+469,Arun Gupta,Sai Hotel,Wholesale,6503170751,arungupta801@demo.in,"169, Nagar Kancharapalem",Kancharapalem,Visakhapatnam,53082,37FEVUL7082OCB9,2020-10-15 00:00:00,Active
+470,Rohit Nair,Sri Café,Institutional,9733337873,rohitnair1369@mail.com,"62, Rd Yendada",Yendada,Visakhapatnam,53028,37WRNLN3926UNM7,2021-04-23 00:00:00,Inactive
+471,Vikram Babu,Sree Refreshments,HoReCa,8508206685,vikrambabu6402@mail.com,"22, Rd NAD",NAD,Visakhapatnam,53044,37KJRSC4456LOJY,2023-09-04 00:00:00,Inactive
+472,Sridhar Shetty,Sree Hotel,Institutional,6221215814,sridharshetty1300@demo.in,"194, Street Akkayyapalem",Akkayyapalem,Visakhapatnam,53040,37VTTEH3735CSA3,2020-01-27 00:00:00,Active
+473,Pooja Shetty,Venkateswara Beverages,Institutional,9744596901,poojashetty3500@example.com,"99, Lane Kurmannapalem",Kurmannapalem,Visakhapatnam,53042,37TYFQM2550W766,2020-04-13 00:00:00,Active
+474,Suma Chowdary,Lakshmi Refreshments,HoReCa,6136953588,sumachowdary7271@mail.com,"52, Street Venkojipalem",Venkojipalem,Visakhapatnam,53092,37TJFZZ5485LUGZ,2022-10-13 00:00:00,Active
+475,Anil Chowdary,Balaji Beverages,Institutional,7022183452,anilchowdary4095@mail.com,"93, Nagar Seethammadhara",Seethammadhara,Visakhapatnam,53079,37XYDCR1138PSFW,2025-01-24 00:00:00,Active
+476,Anil Yadav,Om Cool Drinks,Wholesale,7681820028,anilyadav7485@example.com,"115, Rd Gajuwaka",Gajuwaka,Visakhapatnam,53088,37YGRXQ1876TSDZ,2022-08-13 00:00:00,Active
+477,Ramesh Das,Balaji Hotel,Wholesale,7117979942,rameshdas4817@mail.com,"95, Nagar Seethammadhara",Seethammadhara,Visakhapatnam,53001,37IGLEY6464WU6U,2022-12-04 00:00:00,Inactive
+478,Mahesh Iyer,Sai Super Mart,HoReCa,9903932285,maheshiyer6279@demo.in,"49, Rd Old Town",Old Town,Visakhapatnam,53035,37NIBSX0621K3HM,2021-03-07 00:00:00,Active
+479,Mahesh Naidu,Sri Cool Drinks,Wholesale,8257873796,maheshnaidu1367@demo.in,"137, Nagar Anakapalle",Anakapalle,Visakhapatnam,53061,37VABUO2903JXFT,2025-05-18 00:00:00,Active
+480,Lakshmi Reddy,Om Hotel,Institutional,6828893687,lakshmireddy6556@example.com,"97, Rd Anakapalle",Anakapalle,Visakhapatnam,53059,37ZOWBE4422BXKY,2022-07-30 00:00:00,Active
+481,Deepak Joshi,Balaji Refreshments,Wholesale,8941866908,deepakjoshi9042@demo.in,"27, Rd Maharanipeta",Maharanipeta,Visakhapatnam,53088,37TOYCJ0344L7BV,2021-12-21 00:00:00,Active
+482,Chaitanya Patel,Annapurna Café,HoReCa,7561565699,chaitanyapatel9687@example.com,"146, Lane PM Palem",PM Palem,Visakhapatnam,53027,37JJKFV5959EDTW,2024-09-12 00:00:00,Inactive
+483,Ravi Nair,Venkateswara Cool Drinks,Institutional,8400832174,ravinair5493@example.com,"11, Lane Yendada",Yendada,Visakhapatnam,53065,37PDKMZ6747F820,2024-08-01 00:00:00,Active
+484,Ramesh Sharma,Sree Beverages,Wholesale,9757842339,rameshsharma124@mail.com,"160, Rd Kurmannapalem",Kurmannapalem,Visakhapatnam,53021,37EJLTG6033E3F4,2023-02-11 00:00:00,Active
+485,Pooja Chowdary,Lakshmi Refreshments,Retail,7653901138,poojachowdary3864@demo.in,"142, Nagar Pendurthi",Pendurthi,Visakhapatnam,53071,37WUJLJ4734WA1K,2024-01-15 00:00:00,Inactive
+486,Karthik Yadav,Annapurna Hotel,Retail,6271114924,karthikyadav8780@demo.in,"192, Rd MVP Colony",MVP Colony,Visakhapatnam,53043,37OXMMW8111CT08,2021-10-09 00:00:00,Inactive
+487,Ravi Patel,Annapurna Super Mart,Wholesale,9635083655,ravipatel4381@example.com,"182, Rd Venkojipalem",Venkojipalem,Visakhapatnam,53087,37XMXAB0505E7EF,2024-08-27 00:00:00,Active
+488,Karthik Yadav,Lakshmi Cool Drinks,Retail,8631108748,karthikyadav8713@demo.in,"176, Lane Siripuram",Siripuram,Visakhapatnam,53007,37QBUVO4830VI3E,2025-07-05 00:00:00,Active
+489,Akhil Sharma,Balaji Hotel,Institutional,8654780057,akhilsharma5567@mail.com,"135, Lane Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53013,37THOQL3178YYXJ,2024-11-28 00:00:00,Active
+490,Manikanta Das,Annapurna Cool Drinks,Institutional,7404356528,manikantadas5402@example.com,"16, Rd Maharanipeta",Maharanipeta,Visakhapatnam,53055,37DAWGY0164V1EV,2021-12-18 00:00:00,Active
+491,Akhil Gupta,Balaji Café,Wholesale,7662940945,akhilgupta1524@mail.com,"182, Street Seethammadhara",Seethammadhara,Visakhapatnam,53051,37ZOIIQ7602MTH7,2024-11-12 00:00:00,Active
+492,Chaitanya Iyer,Venkateswara Beverages,HoReCa,9935348588,chaitanyaiyer1214@mail.com,"115, Nagar Gajuwaka",Gajuwaka,Visakhapatnam,53029,37FSAKO4509M8K7,2022-03-31 00:00:00,Active
+493,Prasad Naidu,Sri Hotel,Institutional,8261206189,prasadnaidu3625@demo.in,"3, Rd Old Town",Old Town,Visakhapatnam,53097,37XCEIW8766AD2R,2024-12-11 00:00:00,Active
+494,Pooja Verma,Venkateswara Refreshments,Retail,8254044304,poojaverma3779@example.com,"2, Street Gopalapatnam",Gopalapatnam,Visakhapatnam,53090,37FLPLU6898GVQB,2023-01-06 00:00:00,Active
+495,Anil Verma,Annapurna Cool Drinks,HoReCa,7624401644,anilverma8280@mail.com,"143, Rd Maharanipeta",Maharanipeta,Visakhapatnam,53079,37LMUWU0536IAI7,2021-06-29 00:00:00,Inactive
+496,Sridhar Verma,Om Refreshments,Retail,9510513299,sridharverma6720@demo.in,"30, Nagar MVP Colony",MVP Colony,Visakhapatnam,53060,37QVCUF9702SKX0,2025-09-24 00:00:00,Inactive
+497,Divya Kumar,Sri Super Mart,HoReCa,9517889410,divyakumar8146@mail.com,"53, Nagar Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53053,37WNZEJ4854IWVD,2020-01-05 00:00:00,Active
+498,Keerthi Gupta,Balaji Cool Drinks,Institutional,9089785123,keerthigupta9586@mail.com,"2, Lane Marripalem",Marripalem,Visakhapatnam,53081,37ZQIWA6576B57C,2023-12-03 00:00:00,Active
+499,Teja Reddy,Sai General Stores,Institutional,6122250672,tejareddy4089@mail.com,"177, Nagar Malkapuram",Malkapuram,Visakhapatnam,53023,37CCGSZ0718PRKA,2024-09-20 00:00:00,Active
+500,Pooja Joshi,Annapurna Café,Retail,6776260983,poojajoshi1793@example.com,"156, Lane PM Palem",PM Palem,Visakhapatnam,53030,37DQQUV4716CFRC,2021-04-21 00:00:00,Active
+501,Sirisha Babu,Sri General Stores,HoReCa,6521827228,sirishababu6977@mail.com,"112, Street Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53088,37AHTMD1650LVXX,2023-09-17 00:00:00,Active
+502,Anil Nair,Venkateswara General Stores,Institutional,8647338305,anilnair2372@demo.in,"117, Lane Seethammadhara",Seethammadhara,Visakhapatnam,53039,37QCHOP8366AW22,2023-06-04 00:00:00,Inactive
+503,Manikanta Patel,Balaji Refreshments,HoReCa,9488996313,manikantapatel1487@demo.in,"184, Street Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53015,37STRIS7438IZCW,2021-06-03 00:00:00,Active
+504,Teja Yadav,Annapurna Refreshments,Retail,8976510633,tejayadav4340@mail.com,"28, Lane Maharanipeta",Maharanipeta,Visakhapatnam,53082,37DHJDX9596X6BN,2023-01-20 00:00:00,Active
+505,Neha Verma,Sree Hotel,Institutional,9995790560,nehaverma313@example.com,"134, Street Siripuram",Siripuram,Visakhapatnam,53036,37SFQRC6088WIZ7,2023-04-29 00:00:00,Active
+506,Teja Verma,Annapurna Cool Drinks,HoReCa,7820166938,tejaverma1350@demo.in,"12, Lane Yendada",Yendada,Visakhapatnam,53029,37FOMSK3553MD55,2024-11-25 00:00:00,Active
+507,Pavan Iyer,Sree Café,Wholesale,8137103547,pavaniyer7637@example.com,"126, Rd Marripalem",Marripalem,Visakhapatnam,53067,37KCDYM4922W4WE,2021-01-09 00:00:00,Inactive
+508,Karthik Sharma,Sri Beverages,HoReCa,6129093730,karthiksharma5758@example.com,"32, Street Kancharapalem",Kancharapalem,Visakhapatnam,53060,37DXHOJ3007IARR,2025-09-25 00:00:00,Active
+509,Akhil Shetty,Venkateswara Cool Drinks,Retail,6067108757,akhilshetty577@example.com,"150, Rd Marripalem",Marripalem,Visakhapatnam,53046,37IBOWN1372BYVA,2021-09-23 00:00:00,Active
+510,Naveen Gupta,Lakshmi Refreshments,Institutional,8625516169,naveengupta9557@demo.in,"60, Lane Malkapuram",Malkapuram,Visakhapatnam,53053,37JIPKB4779EKCV,2022-02-28 00:00:00,Active
+511,Akhil Gupta,Annapurna Hotel,Wholesale,9181027982,akhilgupta252@example.com,"75, Lane Kancharapalem",Kancharapalem,Visakhapatnam,53023,37XHNJE9443KH12,2020-03-09 00:00:00,Inactive
+512,Neha Joshi,Lakshmi Hotel,Wholesale,7238510899,nehajoshi8655@example.com,"155, Rd Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53008,37RWZJJ9146CUNM,2025-08-11 00:00:00,Inactive
+513,Ramesh Sharma,Sai Refreshments,Wholesale,7308407703,rameshsharma8239@mail.com,"183, Lane Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53055,37SBBYJ4418IWHW,2024-03-27 00:00:00,Inactive
+514,Sai Das,Annapurna Café,HoReCa,6787342717,saidas3570@example.com,"78, Nagar Maddilapalem",Maddilapalem,Visakhapatnam,53028,37IFRAP9659UDV3,2020-08-25 00:00:00,Active
+515,Anil Reddy,Balaji Refreshments,Retail,7651727125,anilreddy4206@demo.in,"19, Lane Akkayyapalem",Akkayyapalem,Visakhapatnam,53057,37BWULG0897OWLL,2020-07-14 00:00:00,Inactive
+516,Madhu Shetty,Venkateswara General Stores,Retail,6039743823,madhushetty9598@mail.com,"182, Nagar Yendada",Yendada,Visakhapatnam,53014,37MLLGU1531UDEM,2023-08-29 00:00:00,Active
+517,Harsha Shetty,Annapurna Cool Drinks,Wholesale,6238116851,harshashetty4326@example.com,"4, Lane Siripuram",Siripuram,Visakhapatnam,53054,37RPIJA3043HPQ8,2020-03-16 00:00:00,Active
+518,Karthik Chowdary,Om Café,Retail,7916476641,karthikchowdary2037@demo.in,"167, Rd Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53071,37MNWFY6960AEUO,2022-08-09 00:00:00,Inactive
+519,Suma Das,Lakshmi General Stores,Institutional,8181834132,sumadas3518@mail.com,"13, Lane Old Town",Old Town,Visakhapatnam,53002,37ROMAB2875FRRO,2024-06-06 00:00:00,Active
+520,Divya Babu,Venkateswara Café,Institutional,6969677081,divyababu4577@mail.com,"68, Rd Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53067,37VMTDD1786OCR6,2025-05-29 00:00:00,Active
+521,Karthik Verma,Lakshmi General Stores,HoReCa,6410401833,karthikverma222@demo.in,"197, Lane Yendada",Yendada,Visakhapatnam,53039,37XPRGD1552TFOV,2021-07-25 00:00:00,Active
+522,Chaitanya Gupta,Sai Super Mart,HoReCa,7170207882,chaitanyagupta1111@demo.in,"125, Street Siripuram",Siripuram,Visakhapatnam,53002,37WUPRJ8514EIVB,2021-01-14 00:00:00,Active
+523,Teja Naidu,Om Refreshments,Institutional,8742467829,tejanaidu33@mail.com,"120, Rd Auto Nagar",Auto Nagar,Visakhapatnam,53058,37EQLAL5992S0HQ,2025-03-13 00:00:00,Inactive
+524,Pooja Nair,Venkateswara General Stores,HoReCa,8907597108,poojanair6180@mail.com,"145, Lane Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53029,37RSJQE0025C0H2,2021-01-16 00:00:00,Inactive
+525,Vikram Nair,Lakshmi General Stores,HoReCa,7570212745,vikramnair4324@demo.in,"96, Nagar Marripalem",Marripalem,Visakhapatnam,53042,37BJARG9774SH3G,2021-06-19 00:00:00,Active
+526,Rohit Nair,Balaji Beverages,Retail,7477756863,rohitnair2415@mail.com,"106, Rd Yendada",Yendada,Visakhapatnam,53020,37TIQVZ7666QKTY,2023-09-13 00:00:00,Active
+527,Suma Gupta,Om Hotel,Retail,9308227461,sumagupta156@demo.in,"94, Nagar Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53054,37LSFPZ7697SAB6,2021-02-02 00:00:00,Active
+528,Ravi Shetty,Venkateswara Café,Retail,7246012429,ravishetty5922@demo.in,"150, Nagar Gajuwaka",Gajuwaka,Visakhapatnam,53040,37RYUWB7846LVE0,2025-06-02 00:00:00,Active
+529,Naveen Gupta,Venkateswara Refreshments,Wholesale,9640200215,naveengupta4363@mail.com,"189, Lane Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53002,37EQVRQ7767ZGRR,2022-09-13 00:00:00,Active
+530,Arun Gupta,Lakshmi Refreshments,Retail,6039959530,arungupta82@mail.com,"126, Rd Marripalem",Marripalem,Visakhapatnam,53080,37CDUIF0369KAYF,2021-12-27 00:00:00,Active
+531,Prasad Sharma,Lakshmi Café,Retail,7646044476,prasadsharma909@mail.com,"129, Nagar Auto Nagar",Auto Nagar,Visakhapatnam,53041,37YRZPL3781TG9A,2020-03-16 00:00:00,Active
+532,Mahesh Reddy,Venkateswara Café,HoReCa,6223292646,maheshreddy7304@demo.in,"40, Street Kancharapalem",Kancharapalem,Visakhapatnam,53050,37HLHKY7098J7ZB,2025-06-04 00:00:00,Inactive
+533,Lakshmi Chowdary,Balaji Super Mart,HoReCa,7326399608,lakshmichowdary5958@demo.in,"2, Nagar Akkayyapalem",Akkayyapalem,Visakhapatnam,53096,37JPWPL6704RORK,2025-05-22 00:00:00,Active
+534,Madhu Naidu,Sri Super Mart,Wholesale,7607112696,madhunaidu953@example.com,"111, Lane Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53093,37VRMMH2900OO79,2022-07-22 00:00:00,Active
+535,Ravi Shetty,Balaji Café,Retail,8457151887,ravishetty5620@example.com,"192, Rd Gopalapatnam",Gopalapatnam,Visakhapatnam,53030,37MRWMY0202KSFM,2021-01-21 00:00:00,Active
+536,Sirisha Yadav,Sri Beverages,Institutional,8954200399,sirishayadav4344@mail.com,"178, Nagar Maharanipeta",Maharanipeta,Visakhapatnam,53043,37TNGOC3722RXWH,2021-11-18 00:00:00,Inactive
+537,Rohit Verma,Balaji Super Mart,Wholesale,6829615839,rohitverma8426@mail.com,"126, Rd Seethammadhara",Seethammadhara,Visakhapatnam,53033,37CNYNN5875GG7E,2020-12-23 00:00:00,Inactive
+538,Akhil Reddy,Om Café,Retail,6686869394,akhilreddy9799@mail.com,"200, Lane Kancharapalem",Kancharapalem,Visakhapatnam,53075,37LKHSD5115P3HI,2022-03-30 00:00:00,Active
+539,Keerthi Chowdary,Venkateswara General Stores,Institutional,8849789165,keerthichowdary8451@demo.in,"139, Lane Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53088,37PKUXO2489P8HS,2020-10-15 00:00:00,Inactive
+540,Madhu Nair,Balaji Cool Drinks,Retail,6852048249,madhunair6608@example.com,"80, Nagar Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53099,37DKRES1269YICA,2024-07-14 00:00:00,Active
+541,Manikanta Gupta,Balaji Super Mart,Retail,8362757241,manikantagupta9427@example.com,"58, Street NAD",NAD,Visakhapatnam,53010,37FSVFY0829SKXS,2021-06-15 00:00:00,Active
+542,Suma Reddy,Sai Cool Drinks,Institutional,7433388466,sumareddy6277@example.com,"18, Nagar Gajuwaka",Gajuwaka,Visakhapatnam,53067,37JTMQK9951RA9F,2025-06-22 00:00:00,Active
+543,Arun Joshi,Lakshmi Cool Drinks,Wholesale,8606009502,arunjoshi7106@example.com,"65, Nagar Pendurthi",Pendurthi,Visakhapatnam,53051,37MKIAO6479R3Y9,2020-09-22 00:00:00,Active
+544,Lakshmi Patel,Om Hotel,Wholesale,7155840743,lakshmipatel7461@example.com,"143, Street Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53073,37YWBGP7667QTSS,2025-01-22 00:00:00,Active
+545,Vikram Babu,Sri General Stores,Institutional,9881834448,vikrambabu3679@demo.in,"132, Lane Maddilapalem",Maddilapalem,Visakhapatnam,53003,37HBTTB4561MZF9,2024-12-15 00:00:00,Active
+546,Karthik Naidu,Annapurna Refreshments,Institutional,9186357882,karthiknaidu8862@example.com,"77, Rd NAD",NAD,Visakhapatnam,53084,37DYADA6029IBFD,2020-04-08 00:00:00,Inactive
+547,Divya Kumar,Lakshmi Beverages,Institutional,7714516705,divyakumar9354@mail.com,"182, Lane Venkojipalem",Venkojipalem,Visakhapatnam,53014,37ONLPM6524I82E,2021-11-05 00:00:00,Active
+548,Chaitanya Nair,Sri Refreshments,Wholesale,7709070018,chaitanyanair7692@demo.in,"138, Lane NAD",NAD,Visakhapatnam,53009,37EFCQY1351YIZE,2024-05-23 00:00:00,Inactive
+549,Keerthi Patel,Venkateswara Café,HoReCa,6318332012,keerthipatel944@mail.com,"143, Nagar Auto Nagar",Auto Nagar,Visakhapatnam,53070,37LKGGD5443T84M,2022-07-11 00:00:00,Active
+550,Karthik Chowdary,Annapurna Refreshments,Wholesale,6891791874,karthikchowdary8296@mail.com,"33, Nagar Yendada",Yendada,Visakhapatnam,53087,37XFDIK1701V30Q,2021-08-25 00:00:00,Active
+551,Prasad Babu,Balaji Beverages,Institutional,8355614816,prasadbabu1741@example.com,"19, Rd Gajuwaka",Gajuwaka,Visakhapatnam,53013,37TONVI5993PK0I,2021-05-19 00:00:00,Inactive
+552,Sridhar Sharma,Sai Super Mart,Wholesale,6186909307,sridharsharma7234@example.com,"108, Nagar MVP Colony",MVP Colony,Visakhapatnam,53093,37MYHAZ1805TN0X,2023-03-24 00:00:00,Active
+553,Mahesh Yadav,Sai Refreshments,Institutional,8235401791,maheshyadav7356@example.com,"115, Lane NAD",NAD,Visakhapatnam,53050,37JNFPL0272OGB8,2020-08-27 00:00:00,Inactive
+554,Harsha Shetty,Om Cool Drinks,Institutional,7504506482,harshashetty9147@mail.com,"92, Nagar Maddilapalem",Maddilapalem,Visakhapatnam,53031,37ZAKPT9727JCCY,2024-10-30 00:00:00,Active
+555,Akhil Patel,Sai Cool Drinks,Wholesale,7908253214,akhilpatel6064@mail.com,"124, Nagar Kancharapalem",Kancharapalem,Visakhapatnam,53029,37NWHFX9798TISM,2022-12-19 00:00:00,Inactive
+556,Arun Joshi,Sree General Stores,HoReCa,6432341198,arunjoshi667@demo.in,"66, Lane Dabagardens",Dabagardens,Visakhapatnam,53056,37ESRJT3308TGME,2022-04-01 00:00:00,Active
+557,Anil Joshi,Sai General Stores,Institutional,8938569826,aniljoshi6214@demo.in,"68, Rd Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53035,37WCELP7039U1SJ,2023-01-09 00:00:00,Active
+558,Pooja Yadav,Om General Stores,Institutional,7985053757,poojayadav3746@example.com,"65, Rd Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53066,37JNLZQ6270TQ9S,2023-01-10 00:00:00,Inactive
+559,Deepak Gupta,Lakshmi Hotel,HoReCa,6594615194,deepakgupta5495@example.com,"25, Lane Akkayyapalem",Akkayyapalem,Visakhapatnam,53066,37HGHFV8503Z0V5,2020-08-16 00:00:00,Active
+560,Suma Reddy,Sri Refreshments,HoReCa,6705521661,sumareddy8906@mail.com,"31, Nagar Seethammadhara",Seethammadhara,Visakhapatnam,53001,37HEOGZ6735S1Y7,2022-01-30 00:00:00,Active
+561,Anil Shetty,Sree Café,Wholesale,8339329746,anilshetty1715@example.com,"75, Lane PM Palem",PM Palem,Visakhapatnam,53068,37GBSXL6869E4OE,2022-04-07 00:00:00,Inactive
+562,Sai Sharma,Balaji General Stores,Retail,9119115994,saisharma622@example.com,"56, Nagar Seethammadhara",Seethammadhara,Visakhapatnam,53099,37VMHTG2074JRZQ,2024-11-12 00:00:00,Active
+563,Ravi Verma,Sai Super Mart,HoReCa,6323374205,raviverma8160@demo.in,"151, Street Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53027,37RVGJW9244SACS,2022-09-02 00:00:00,Active
+564,Sai Reddy,Annapurna Super Mart,Retail,9350897984,saireddy9868@demo.in,"145, Nagar Anakapalle",Anakapalle,Visakhapatnam,53037,37WVDDV3070QOPR,2020-11-17 00:00:00,Active
+565,Arun Iyer,Sri Cool Drinks,HoReCa,6721711657,aruniyer1555@mail.com,"152, Nagar Pendurthi",Pendurthi,Visakhapatnam,53071,37ICGQG7300ANQN,2024-10-09 00:00:00,Active
+566,Anil Sharma,Lakshmi Super Mart,Retail,9998209689,anilsharma2650@mail.com,"138, Lane Maharanipeta",Maharanipeta,Visakhapatnam,53066,37IVNQW3543Q9RS,2023-03-15 00:00:00,Active
+567,Divya Das,Annapurna Beverages,HoReCa,7952912227,divyadas1877@mail.com,"97, Street Venkojipalem",Venkojipalem,Visakhapatnam,53092,37BGNIA2928F7KM,2025-06-08 00:00:00,Inactive
+568,Ramesh Yadav,Sree General Stores,Retail,9126155305,rameshyadav1792@example.com,"192, Street Seethammadhara",Seethammadhara,Visakhapatnam,53018,37IEOWC4556ZNPE,2022-11-28 00:00:00,Inactive
+569,Ramesh Naidu,Lakshmi Beverages,Retail,7830777181,rameshnaidu76@example.com,"181, Lane Akkayyapalem",Akkayyapalem,Visakhapatnam,53027,37QNQOX7376IL0Q,2020-10-17 00:00:00,Active
+570,Suma Das,Balaji Refreshments,HoReCa,7356198630,sumadas5006@mail.com,"157, Street Gajuwaka",Gajuwaka,Visakhapatnam,53069,37UBLEP8601H0T1,2022-03-19 00:00:00,Active
+571,Anusha Chowdary,Venkateswara Refreshments,Retail,7571451724,anushachowdary9182@example.com,"168, Street Old Town",Old Town,Visakhapatnam,53001,37OQQEU4544JZN2,2022-10-05 00:00:00,Active
+572,Madhu Yadav,Venkateswara Hotel,Wholesale,9082161627,madhuyadav6266@mail.com,"103, Nagar Malkapuram",Malkapuram,Visakhapatnam,53052,37BRGSE8085FJ4U,2020-08-05 00:00:00,Active
+573,Neha Sharma,Balaji Hotel,Wholesale,6805593658,nehasharma8568@mail.com,"142, Street Malkapuram",Malkapuram,Visakhapatnam,53029,37YCBJR6067W4MK,2023-02-03 00:00:00,Active
+574,Anusha Sharma,Annapurna Refreshments,Retail,7333736330,anushasharma3640@example.com,"65, Rd Malkapuram",Malkapuram,Visakhapatnam,53011,37KRDGG5356VCB5,2020-10-01 00:00:00,Active
+575,Keerthi Nair,Sai Refreshments,HoReCa,7872231470,keerthinair2460@demo.in,"83, Nagar PM Palem",PM Palem,Visakhapatnam,53061,37KODDA5377PBSD,2020-01-25 00:00:00,Active
+576,Vikram Gupta,Balaji Super Mart,HoReCa,6839288720,vikramgupta5389@example.com,"116, Lane Maddilapalem",Maddilapalem,Visakhapatnam,53031,37DYAIC5955UA0H,2023-05-06 00:00:00,Active
+577,Chaitanya Shetty,Sri Beverages,HoReCa,8180368543,chaitanyashetty5163@demo.in,"40, Lane Kancharapalem",Kancharapalem,Visakhapatnam,53037,37TKEPB1939PL57,2023-04-13 00:00:00,Inactive
+578,Pavan Das,Annapurna Refreshments,Institutional,7083704445,pavandas6176@mail.com,"16, Rd Venkojipalem",Venkojipalem,Visakhapatnam,53026,37VSNTF4434DW5Y,2020-09-10 00:00:00,Inactive
+579,Arun Gupta,Venkateswara Cool Drinks,Retail,8131696553,arungupta8228@example.com,"183, Rd Auto Nagar",Auto Nagar,Visakhapatnam,53043,37IEPST0206E5MK,2020-04-22 00:00:00,Inactive
+580,Neha Patel,Sri Super Mart,Retail,7657021584,nehapatel5802@example.com,"117, Lane Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53060,37IVTYM7600MHKJ,2025-06-22 00:00:00,Inactive
+581,Naveen Joshi,Sree General Stores,HoReCa,9246529084,naveenjoshi4911@example.com,"59, Street Seethammadhara",Seethammadhara,Visakhapatnam,53019,37YMMBW3913F65C,2022-01-12 00:00:00,Active
+582,Prasad Yadav,Annapurna Cool Drinks,Retail,7084724730,prasadyadav4969@example.com,"175, Street Kurmannapalem",Kurmannapalem,Visakhapatnam,53032,37ZNOCT5471H7MR,2022-09-12 00:00:00,Active
+583,Anusha Shetty,Sri Hotel,Institutional,6395758914,anushashetty1674@mail.com,"190, Nagar Maddilapalem",Maddilapalem,Visakhapatnam,53021,37WPPZM8021ROY7,2021-12-09 00:00:00,Active
+584,Anil Kumar,Sree Cool Drinks,Institutional,7123189512,anilkumar3551@example.com,"5, Nagar Pendurthi",Pendurthi,Visakhapatnam,53085,37WNDWD5552H776,2020-03-10 00:00:00,Inactive
+585,Anil Patel,Venkateswara Café,Wholesale,8806403928,anilpatel9671@demo.in,"190, Lane Akkayyapalem",Akkayyapalem,Visakhapatnam,53044,37WLFRQ4261YDCU,2022-02-13 00:00:00,Active
+586,Sai Joshi,Sai Café,HoReCa,6651322430,saijoshi5800@demo.in,"166, Lane Maharanipeta",Maharanipeta,Visakhapatnam,53081,37DWBCY3090HRNF,2022-11-12 00:00:00,Inactive
+587,Naveen Shetty,Lakshmi Refreshments,HoReCa,7368371436,naveenshetty3863@mail.com,"156, Rd PM Palem",PM Palem,Visakhapatnam,53042,37FPMRC3414HSQS,2025-01-10 00:00:00,Inactive
+588,Teja Chowdary,Venkateswara Café,HoReCa,6623143200,tejachowdary4298@demo.in,"124, Street Seethammadhara",Seethammadhara,Visakhapatnam,53063,37ZUJLJ9512L3U6,2022-03-07 00:00:00,Active
+589,Chaitanya Iyer,Sree Café,Wholesale,9860000134,chaitanyaiyer8742@demo.in,"137, Lane Akkayyapalem",Akkayyapalem,Visakhapatnam,53048,37JHTYB7472HN9F,2022-12-07 00:00:00,Active
+590,Manikanta Shetty,Sri Café,Retail,6804433527,manikantashetty9485@demo.in,"64, Nagar NAD",NAD,Visakhapatnam,53033,37STRHZ2036G258,2020-08-10 00:00:00,Active
+591,Madhu Reddy,Annapurna Café,Wholesale,6567790528,madhureddy4532@example.com,"12, Lane PM Palem",PM Palem,Visakhapatnam,53019,37XEYCI9687NZOI,2024-07-25 00:00:00,Active
+592,Ravi Naidu,Sai Hotel,HoReCa,6961819417,ravinaidu2605@demo.in,"142, Lane Kurmannapalem",Kurmannapalem,Visakhapatnam,53089,37GHBZU4890XRTW,2023-10-25 00:00:00,Active
+593,Lakshmi Shetty,Sri Beverages,Wholesale,9469272520,lakshmishetty5631@mail.com,"98, Nagar Anakapalle",Anakapalle,Visakhapatnam,53097,37FGVAG1893M7XY,2025-01-20 00:00:00,Active
+594,Madhu Nair,Lakshmi Super Mart,Wholesale,8216306389,madhunair3733@example.com,"136, Street Gopalapatnam",Gopalapatnam,Visakhapatnam,53079,37DAWNO8119VVIX,2022-09-11 00:00:00,Inactive
+595,Teja Chowdary,Balaji Refreshments,Retail,7372386487,tejachowdary8828@demo.in,"173, Rd Seethammadhara",Seethammadhara,Visakhapatnam,53016,37UMANH5143KA10,2023-01-12 00:00:00,Active
+596,Sai Yadav,Lakshmi Beverages,HoReCa,6735168266,saiyadav4333@example.com,"135, Rd Siripuram",Siripuram,Visakhapatnam,53090,37HLMOJ4812YPUW,2022-08-09 00:00:00,Inactive
+597,Teja Gupta,Lakshmi Beverages,HoReCa,8609116353,tejagupta7482@mail.com,"29, Nagar Marripalem",Marripalem,Visakhapatnam,53044,37OKRFN2728NGEU,2023-12-11 00:00:00,Active
+598,Arun Reddy,Sai Café,Wholesale,9512035434,arunreddy1001@example.com,"137, Street Old Town",Old Town,Visakhapatnam,53042,37NLOJV5242FK7R,2021-11-25 00:00:00,Active
+599,Harsha Nair,Lakshmi General Stores,HoReCa,8728832590,harshanair2867@demo.in,"5, Lane Malkapuram",Malkapuram,Visakhapatnam,53013,37GZFFV1605B9LG,2022-08-07 00:00:00,Active
+600,Akhil Yadav,Om General Stores,Wholesale,8162095701,akhilyadav9776@mail.com,"134, Nagar Venkojipalem",Venkojipalem,Visakhapatnam,53037,37AMAPZ3246BCGO,2022-04-26 00:00:00,Active
+601,Teja Yadav,Balaji Refreshments,HoReCa,8301430269,tejayadav174@example.com,"137, Rd Auto Nagar",Auto Nagar,Visakhapatnam,53034,37ERQIE1614YLNO,2023-10-31 00:00:00,Inactive
+602,Sai Das,Venkateswara General Stores,Institutional,9442473367,saidas18@example.com,"141, Street Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53045,37DNFAO7291XYQ7,2024-02-19 00:00:00,Inactive
+603,Akhil Chowdary,Venkateswara Beverages,HoReCa,8407861868,akhilchowdary8532@mail.com,"128, Lane NAD",NAD,Visakhapatnam,53071,37RIEMC1808VXAC,2022-01-18 00:00:00,Active
+604,Sai Babu,Sree Cool Drinks,Institutional,8342153831,saibabu658@example.com,"126, Rd Venkojipalem",Venkojipalem,Visakhapatnam,53085,37WQBEU3917LBWB,2022-08-12 00:00:00,Active
+605,Sirisha Patel,Om Beverages,Institutional,7878204595,sirishapatel3649@demo.in,"8, Rd Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53018,37YAQYM8643B18H,2022-10-03 00:00:00,Active
+606,Arun Chowdary,Sai Hotel,HoReCa,6519678405,arunchowdary9790@demo.in,"193, Street Maddilapalem",Maddilapalem,Visakhapatnam,53068,37FNDIG3834AD91,2021-07-04 00:00:00,Inactive
+607,Naveen Sharma,Venkateswara Beverages,Institutional,7571680942,naveensharma6313@example.com,"11, Lane Maddilapalem",Maddilapalem,Visakhapatnam,53082,37ENOPF6592GSGL,2021-03-19 00:00:00,Active
+608,Pooja Das,Annapurna General Stores,HoReCa,7973509793,poojadas7246@demo.in,"38, Lane Dabagardens",Dabagardens,Visakhapatnam,53083,37NXEEW2698A1IX,2022-02-06 00:00:00,Inactive
+609,Suresh Nair,Sai Beverages,HoReCa,6903204679,sureshnair930@example.com,"66, Lane Dabagardens",Dabagardens,Visakhapatnam,53096,37PVZIU8927CSL0,2022-03-02 00:00:00,Active
+610,Pavan Iyer,Venkateswara Super Mart,Retail,6874009544,pavaniyer4944@example.com,"44, Nagar Venkojipalem",Venkojipalem,Visakhapatnam,53074,37NCEPZ3847LPM5,2020-10-16 00:00:00,Active
+611,Keerthi Iyer,Lakshmi Super Mart,Institutional,8514338306,keerthiiyer5395@mail.com,"65, Rd Dabagardens",Dabagardens,Visakhapatnam,53072,37NJKUO4245MIK3,2024-09-07 00:00:00,Active
+612,Harsha Gupta,Om Super Mart,Retail,9731821694,harshagupta1808@demo.in,"189, Nagar Akkayyapalem",Akkayyapalem,Visakhapatnam,53041,37TUAJV8283ROHS,2025-10-06 00:00:00,Active
+613,Keerthi Kumar,Sai Refreshments,HoReCa,9523080482,keerthikumar1854@example.com,"104, Rd Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53003,37IGWAR9373KPRX,2020-02-23 00:00:00,Active
+614,Harsha Das,Annapurna General Stores,Wholesale,8927828781,harshadas8890@mail.com,"125, Nagar Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53001,37AAGKS9264EIWX,2024-07-02 00:00:00,Inactive
+615,Suresh Iyer,Lakshmi Café,Wholesale,6397370135,sureshiyer439@demo.in,"158, Nagar Anakapalle",Anakapalle,Visakhapatnam,53056,37GFGGP0820GCY3,2022-05-14 00:00:00,Active
+616,Lakshmi Reddy,Annapurna Super Mart,HoReCa,9147888794,lakshmireddy251@demo.in,"5, Street Maddilapalem",Maddilapalem,Visakhapatnam,53049,37PGRNT9092UPFK,2021-11-24 00:00:00,Active
+617,Madhu Reddy,Balaji Super Mart,Retail,9392806708,madhureddy7582@mail.com,"40, Nagar Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53055,37BFMFX4065F112,2021-07-23 00:00:00,Active
+618,Ramesh Das,Venkateswara Beverages,Wholesale,8105210181,rameshdas1406@mail.com,"170, Nagar Maharanipeta",Maharanipeta,Visakhapatnam,53071,37XARWH4696O4VO,2022-12-27 00:00:00,Active
+619,Teja Verma,Sri Beverages,Wholesale,7614942559,tejaverma5885@demo.in,"105, Lane Dabagardens",Dabagardens,Visakhapatnam,53016,37PNMUB4410JESA,2023-06-28 00:00:00,Inactive
+620,Suma Chowdary,Sai Super Mart,HoReCa,7434724362,sumachowdary5841@example.com,"97, Nagar Dabagardens",Dabagardens,Visakhapatnam,53057,37MVYBR9754QDY2,2021-06-26 00:00:00,Inactive
+621,Chaitanya Das,Sri Hotel,HoReCa,8913915782,chaitanyadas1495@demo.in,"130, Street Akkayyapalem",Akkayyapalem,Visakhapatnam,53098,37GNEUX1783IA62,2023-02-02 00:00:00,Active
+622,Manikanta Verma,Venkateswara Refreshments,HoReCa,9374361446,manikantaverma8590@mail.com,"47, Rd MVP Colony",MVP Colony,Visakhapatnam,53031,37CERGC9361PKGG,2022-02-03 00:00:00,Inactive
+623,Sai Shetty,Venkateswara General Stores,Retail,6508884633,saishetty2860@example.com,"197, Rd Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53025,37TPZCU8008Z6H7,2022-09-21 00:00:00,Active
+624,Akhil Chowdary,Sri Refreshments,Institutional,7309474855,akhilchowdary8909@mail.com,"124, Lane Auto Nagar",Auto Nagar,Visakhapatnam,53080,37KOGKU0984F5QH,2022-10-31 00:00:00,Inactive
+625,Anil Reddy,Balaji Beverages,Retail,8636398631,anilreddy1348@mail.com,"37, Nagar Auto Nagar",Auto Nagar,Visakhapatnam,53062,37EUDOE5703IF6I,2020-10-20 00:00:00,Active
+626,Anusha Patel,Venkateswara Café,Wholesale,8216020071,anushapatel2013@mail.com,"197, Nagar Akkayyapalem",Akkayyapalem,Visakhapatnam,53069,37STDND7197KHHK,2024-07-30 00:00:00,Active
+627,Naveen Das,Sai Super Mart,HoReCa,6793462099,naveendas4452@example.com,"41, Street Kancharapalem",Kancharapalem,Visakhapatnam,53021,37TGHXB0466RRU9,2025-01-08 00:00:00,Inactive
+628,Keerthi Chowdary,Venkateswara Refreshments,Retail,7360324902,keerthichowdary210@mail.com,"36, Nagar Auto Nagar",Auto Nagar,Visakhapatnam,53037,37GFAVE6121X0RX,2021-09-15 00:00:00,Active
+629,Madhu Shetty,Annapurna Super Mart,Institutional,7399316884,madhushetty7596@example.com,"31, Street Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53004,37VBQQP7500JB4A,2025-10-20 00:00:00,Inactive
+630,Pavan Patel,Lakshmi Beverages,Institutional,7222069196,pavanpatel218@example.com,"114, Nagar Old Town",Old Town,Visakhapatnam,53017,37LJDSN1659OXJO,2020-12-11 00:00:00,Active
+631,Karthik Babu,Venkateswara Super Mart,Retail,7920629927,karthikbabu6661@mail.com,"108, Rd Dabagardens",Dabagardens,Visakhapatnam,53028,37YWCUM0898QFGG,2024-03-14 00:00:00,Inactive
+632,Prasad Iyer,Annapurna Café,Retail,8918193356,prasadiyer8975@example.com,"192, Nagar Old Town",Old Town,Visakhapatnam,53031,37IJVCJ4026RGNL,2023-03-15 00:00:00,Active
+633,Arun Patel,Om Hotel,HoReCa,9390658336,arunpatel7771@mail.com,"148, Nagar Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53019,37NRDAJ0539FO6L,2023-04-17 00:00:00,Inactive
+634,Suma Joshi,Om Hotel,Institutional,9314471091,sumajoshi9234@demo.in,"136, Nagar Marripalem",Marripalem,Visakhapatnam,53022,37SMQXW5778KAXF,2021-07-26 00:00:00,Active
+635,Divya Naidu,Sri Café,Wholesale,6577862614,divyanaidu6574@demo.in,"3, Rd Maddilapalem",Maddilapalem,Visakhapatnam,53012,37FIHCR0418K2R8,2021-11-24 00:00:00,Active
+636,Pooja Patel,Balaji Super Mart,Wholesale,8985968744,poojapatel6778@mail.com,"111, Nagar Gopalapatnam",Gopalapatnam,Visakhapatnam,53089,37PZOXO2436U1GI,2020-01-24 00:00:00,Active
+637,Deepak Babu,Venkateswara Beverages,Wholesale,8651198160,deepakbabu3873@example.com,"177, Rd PM Palem",PM Palem,Visakhapatnam,53060,37DOZPI0578UIHK,2025-08-24 00:00:00,Active
+638,Akhil Das,Om Hotel,Institutional,9780374528,akhildas9843@example.com,"155, Nagar Kancharapalem",Kancharapalem,Visakhapatnam,53054,37LRMDQ7024ZDHM,2024-08-09 00:00:00,Active
+639,Vikram Naidu,Balaji Refreshments,Wholesale,7964780809,vikramnaidu9379@demo.in,"150, Nagar Gajuwaka",Gajuwaka,Visakhapatnam,53049,37VWNKS5133P3PE,2023-04-28 00:00:00,Inactive
+640,Anusha Reddy,Sai Beverages,Institutional,8988590028,anushareddy7363@mail.com,"48, Rd MVP Colony",MVP Colony,Visakhapatnam,53089,37UFEFM2393ABP0,2021-07-21 00:00:00,Active
+641,Anusha Chowdary,Venkateswara Super Mart,Institutional,6798904023,anushachowdary435@example.com,"58, Street Malkapuram",Malkapuram,Visakhapatnam,53085,37HTAYC5763V4ZH,2025-09-29 00:00:00,Active
+642,Anusha Das,Sri Super Mart,Institutional,8197245525,anushadas7947@demo.in,"115, Rd Pendurthi",Pendurthi,Visakhapatnam,53017,37TAZQJ2535ER1B,2022-05-07 00:00:00,Active
+643,Ramesh Chowdary,Balaji Refreshments,HoReCa,8882711768,rameshchowdary6018@example.com,"86, Nagar Gopalapatnam",Gopalapatnam,Visakhapatnam,53025,37XASLU9018TQR8,2022-02-16 00:00:00,Inactive
+644,Sirisha Das,Om Cool Drinks,Retail,9036100109,sirishadas6092@example.com,"4, Nagar PM Palem",PM Palem,Visakhapatnam,53026,37QTZGY1315T5P8,2023-05-29 00:00:00,Active
+645,Akhil Naidu,Sree Super Mart,HoReCa,8811024952,akhilnaidu6877@mail.com,"177, Nagar Pendurthi",Pendurthi,Visakhapatnam,53099,37BTDJP0668PA3W,2025-10-10 00:00:00,Active
+646,Pavan Nair,Lakshmi Refreshments,Institutional,8962781687,pavannair4362@example.com,"113, Lane Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53070,37KSKSU0589ICDG,2022-07-02 00:00:00,Active
+647,Deepak Joshi,Sree General Stores,Institutional,6734913167,deepakjoshi9394@mail.com,"12, Rd Maddilapalem",Maddilapalem,Visakhapatnam,53029,37OYABU6958JD5V,2025-10-07 00:00:00,Active
+648,Teja Shetty,Sri Super Mart,Retail,7478655698,tejashetty1841@mail.com,"106, Nagar Kurmannapalem",Kurmannapalem,Visakhapatnam,53027,37ZVAWM0628MTQM,2022-09-25 00:00:00,Active
+649,Ramesh Joshi,Balaji Beverages,Retail,6090876860,rameshjoshi6869@demo.in,"19, Nagar Marripalem",Marripalem,Visakhapatnam,53029,37TTZDA2240RW13,2023-12-11 00:00:00,Active
+650,Anil Reddy,Balaji Hotel,HoReCa,6032039576,anilreddy9265@example.com,"166, Rd Maharanipeta",Maharanipeta,Visakhapatnam,53086,37RIFYQ3801YMTV,2025-06-30 00:00:00,Active
+651,Karthik Joshi,Annapurna Café,Retail,9780631756,karthikjoshi7381@example.com,"71, Nagar Kancharapalem",Kancharapalem,Visakhapatnam,53095,37UQUQG6243XMV7,2021-10-09 00:00:00,Inactive
+652,Anil Naidu,Annapurna Refreshments,HoReCa,8231662620,anilnaidu970@demo.in,"109, Street Kurmannapalem",Kurmannapalem,Visakhapatnam,53025,37EYMRS9292ZYG1,2020-03-21 00:00:00,Inactive
+653,Neha Shetty,Annapurna Hotel,Retail,7290626144,nehashetty9189@mail.com,"55, Street Siripuram",Siripuram,Visakhapatnam,53052,37GQFUQ8116L8AD,2025-07-28 00:00:00,Active
+654,Prasad Yadav,Om Super Mart,HoReCa,9253547303,prasadyadav384@demo.in,"79, Nagar Venkojipalem",Venkojipalem,Visakhapatnam,53020,37KKEQY3984TC5F,2022-11-20 00:00:00,Active
+655,Vamsi Verma,Venkateswara General Stores,Wholesale,8842621080,vamsiverma456@demo.in,"36, Street Kurmannapalem",Kurmannapalem,Visakhapatnam,53060,37SMHRN3556FKFF,2023-05-18 00:00:00,Active
+656,Teja Kumar,Venkateswara Super Mart,Wholesale,7337503835,tejakumar684@example.com,"1, Street Marripalem",Marripalem,Visakhapatnam,53093,37CZHLR6958OOTU,2021-10-20 00:00:00,Active
+657,Teja Yadav,Balaji General Stores,Wholesale,9652810702,tejayadav9254@demo.in,"117, Lane Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53007,37ATOUY7811J9X0,2024-04-05 00:00:00,Inactive
+658,Chaitanya Verma,Balaji Super Mart,Institutional,7003255333,chaitanyaverma6240@demo.in,"47, Lane Pendurthi",Pendurthi,Visakhapatnam,53059,37EYXRE1382OE03,2022-12-16 00:00:00,Active
+659,Sai Chowdary,Sri Refreshments,Institutional,8677494417,saichowdary313@example.com,"132, Nagar Marripalem",Marripalem,Visakhapatnam,53074,37CROEM9927SNJ4,2023-06-25 00:00:00,Active
+660,Vamsi Sharma,Venkateswara Hotel,Retail,9562218439,vamsisharma5581@mail.com,"93, Street Old Town",Old Town,Visakhapatnam,53038,37JZUEM3562X1NG,2021-06-24 00:00:00,Active
+661,Sai Reddy,Venkateswara Beverages,HoReCa,7428454932,saireddy9917@demo.in,"61, Rd Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53024,37CMRQS5087H6TE,2023-11-10 00:00:00,Active
+662,Naveen Verma,Sai Cool Drinks,HoReCa,9088616321,naveenverma1846@mail.com,"9, Nagar Malkapuram",Malkapuram,Visakhapatnam,53057,37XLSEH3253JSC1,2025-03-03 00:00:00,Active
+663,Anusha Sharma,Venkateswara General Stores,HoReCa,9260689704,anushasharma1338@demo.in,"179, Nagar Akkayyapalem",Akkayyapalem,Visakhapatnam,53088,37SDEIU5096YB1W,2021-11-07 00:00:00,Active
+664,Teja Naidu,Annapurna General Stores,HoReCa,6626241395,tejanaidu5143@example.com,"165, Rd Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53016,37XAJYD6751DU0W,2021-01-31 00:00:00,Active
+665,Keerthi Babu,Sri Cool Drinks,Wholesale,9136290450,keerthibabu4425@mail.com,"178, Lane Akkayyapalem",Akkayyapalem,Visakhapatnam,53030,37PBVHX2833EIY9,2020-10-13 00:00:00,Inactive
+666,Sirisha Verma,Venkateswara General Stores,Wholesale,7628839899,sirishaverma7483@demo.in,"197, Street Old Town",Old Town,Visakhapatnam,53085,37VHMPC1416TY2J,2020-04-11 00:00:00,Inactive
+667,Lakshmi Shetty,Om Refreshments,HoReCa,6412983207,lakshmishetty7254@demo.in,"84, Street Seethammadhara",Seethammadhara,Visakhapatnam,53078,37NPFMP9368S47R,2025-01-22 00:00:00,Active
+668,Ramesh Babu,Balaji Café,Institutional,6214089090,rameshbabu7343@mail.com,"139, Rd Kancharapalem",Kancharapalem,Visakhapatnam,53063,37RWWOG7921FCRD,2022-08-21 00:00:00,Inactive
+669,Anil Reddy,Venkateswara Refreshments,Wholesale,6629292158,anilreddy6464@demo.in,"20, Nagar Kurmannapalem",Kurmannapalem,Visakhapatnam,53059,37ZXXNL7488RR8A,2023-04-22 00:00:00,Active
+670,Madhu Sharma,Sai Super Mart,Institutional,8337281402,madhusharma7162@demo.in,"176, Nagar Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53016,37ACAPG8864FEI0,2020-11-09 00:00:00,Active
+671,Prasad Gupta,Sri Refreshments,Institutional,9658956540,prasadgupta470@example.com,"162, Rd Kancharapalem",Kancharapalem,Visakhapatnam,53004,37TJQIB8663E7BS,2020-06-27 00:00:00,Active
+672,Sai Patel,Venkateswara Cool Drinks,Wholesale,8016158529,saipatel3168@demo.in,"165, Street Anakapalle",Anakapalle,Visakhapatnam,53077,37QEXJH6537XXMK,2020-05-22 00:00:00,Active
+673,Ramesh Nair,Sai Beverages,HoReCa,8965177395,rameshnair833@demo.in,"10, Lane Kancharapalem",Kancharapalem,Visakhapatnam,53097,37PTEUX2742Z24J,2023-01-26 00:00:00,Inactive
+674,Keerthi Nair,Om Super Mart,Retail,7161913034,keerthinair6608@example.com,"26, Nagar Dabagardens",Dabagardens,Visakhapatnam,53067,37KVKXC5953ZLJL,2020-10-09 00:00:00,Active
+675,Vamsi Gupta,Annapurna Café,HoReCa,8833009300,vamsigupta6731@demo.in,"183, Rd Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53049,37WHXFL3014KYRL,2023-08-04 00:00:00,Active
+676,Anusha Joshi,Annapurna Cool Drinks,HoReCa,9711321579,anushajoshi4574@mail.com,"51, Nagar Old Town",Old Town,Visakhapatnam,53015,37KDHCO2243Y8UI,2021-03-15 00:00:00,Active
+677,Vamsi Naidu,Balaji Refreshments,Wholesale,6591777494,vamsinaidu1146@example.com,"76, Nagar Auto Nagar",Auto Nagar,Visakhapatnam,53081,37TPYPT2724KJKY,2025-03-29 00:00:00,Active
+678,Harsha Kumar,Om Hotel,HoReCa,8798105769,harshakumar7080@example.com,"71, Street Anakapalle",Anakapalle,Visakhapatnam,53069,37HMYDX4685SQK5,2020-04-19 00:00:00,Active
+679,Deepak Joshi,Balaji Cool Drinks,Institutional,7908089350,deepakjoshi4955@mail.com,"95, Rd Maddilapalem",Maddilapalem,Visakhapatnam,53077,37ASQKT7013JN0M,2025-07-05 00:00:00,Active
+680,Anil Gupta,Om Cool Drinks,Retail,7239544887,anilgupta4250@example.com,"137, Street Old Town",Old Town,Visakhapatnam,53015,37ADOPW7798HMX9,2024-05-19 00:00:00,Active
+681,Harsha Kumar,Balaji Cool Drinks,Wholesale,9225823928,harshakumar1231@example.com,"130, Nagar Marripalem",Marripalem,Visakhapatnam,53050,37SRLBP2893MNKP,2024-12-01 00:00:00,Active
+682,Prasad Shetty,Lakshmi Refreshments,Institutional,9460275529,prasadshetty3844@demo.in,"109, Nagar Siripuram",Siripuram,Visakhapatnam,53089,37KFOYE7566H27V,2025-01-16 00:00:00,Inactive
+683,Pavan Chowdary,Sri Hotel,HoReCa,7949122411,pavanchowdary8881@example.com,"174, Street Maddilapalem",Maddilapalem,Visakhapatnam,53020,37KRUKA4646RM3J,2022-10-14 00:00:00,Active
+684,Sai Chowdary,Om General Stores,Institutional,8422024440,saichowdary9863@mail.com,"28, Street Kancharapalem",Kancharapalem,Visakhapatnam,53080,37UPYAY4927PS2O,2020-06-01 00:00:00,Inactive
+685,Suma Kumar,Annapurna Super Mart,Retail,9015450676,sumakumar8082@mail.com,"68, Nagar Siripuram",Siripuram,Visakhapatnam,53047,37FDGSE0335NZG0,2024-01-28 00:00:00,Inactive
+686,Sridhar Yadav,Annapurna Beverages,Wholesale,9598928481,sridharyadav1110@example.com,"107, Lane Kurmannapalem",Kurmannapalem,Visakhapatnam,53087,37ZRSAC3841BERX,2020-10-07 00:00:00,Inactive
+687,Lakshmi Verma,Lakshmi Café,Wholesale,9513800739,lakshmiverma3520@demo.in,"35, Street Seethammadhara",Seethammadhara,Visakhapatnam,53056,37FLPFC7851RJPV,2020-04-12 00:00:00,Active
+688,Deepak Patel,Sri Café,Wholesale,9946405889,deepakpatel9235@example.com,"8, Lane Auto Nagar",Auto Nagar,Visakhapatnam,53070,37WYULT8934CTCA,2023-12-08 00:00:00,Active
+689,Sridhar Verma,Om Beverages,Wholesale,8141197597,sridharverma6340@mail.com,"156, Street Auto Nagar",Auto Nagar,Visakhapatnam,53020,37RBFGZ1973WYRD,2020-03-06 00:00:00,Active
+690,Pavan Gupta,Balaji Cool Drinks,Retail,7718150468,pavangupta6515@example.com,"89, Nagar Malkapuram",Malkapuram,Visakhapatnam,53077,37BUIOW0937ZALF,2021-08-28 00:00:00,Active
+691,Vamsi Kumar,Om Refreshments,Wholesale,6150427124,vamsikumar646@demo.in,"103, Street Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53019,37WVKFD6760IYR6,2024-11-22 00:00:00,Active
+692,Suresh Iyer,Lakshmi Café,Retail,6558425892,sureshiyer6180@demo.in,"118, Street Kancharapalem",Kancharapalem,Visakhapatnam,53044,37IJOPE5485DGBX,2025-04-23 00:00:00,Inactive
+693,Deepak Babu,Sai Super Mart,Institutional,6570376001,deepakbabu3216@example.com,"55, Street Anakapalle",Anakapalle,Visakhapatnam,53061,37TZCJU3812M0TA,2021-02-11 00:00:00,Active
+694,Lakshmi Kumar,Sree Super Mart,Institutional,7574729294,lakshmikumar6867@example.com,"90, Nagar Kurmannapalem",Kurmannapalem,Visakhapatnam,53046,37ESDFG3420DXAT,2025-03-29 00:00:00,Active
+695,Chaitanya Naidu,Om General Stores,Retail,9960665644,chaitanyanaidu761@example.com,"23, Lane Kancharapalem",Kancharapalem,Visakhapatnam,53010,37QDFSF3400FOCP,2020-03-08 00:00:00,Inactive
+696,Pooja Patel,Sai Super Mart,Wholesale,7099425439,poojapatel2441@demo.in,"188, Rd MVP Colony",MVP Colony,Visakhapatnam,53057,37FWRXB7286N2GB,2021-11-29 00:00:00,Active
+697,Ravi Reddy,Annapurna Refreshments,HoReCa,9243055771,ravireddy1713@example.com,"13, Street Maddilapalem",Maddilapalem,Visakhapatnam,53025,37VDROR5006CZZ4,2024-08-19 00:00:00,Active
+698,Teja Das,Om General Stores,Institutional,9982067997,tejadas7403@demo.in,"130, Nagar Anakapalle",Anakapalle,Visakhapatnam,53044,37GRPTB2256W6FX,2022-07-31 00:00:00,Active
+699,Rohit Gupta,Venkateswara Super Mart,Wholesale,8656254417,rohitgupta9103@demo.in,"18, Lane Auto Nagar",Auto Nagar,Visakhapatnam,53043,37AFBMX1910H4BS,2021-10-17 00:00:00,Active
+700,Vikram Verma,Sri Café,HoReCa,8749803238,vikramverma4707@mail.com,"28, Rd Gajuwaka",Gajuwaka,Visakhapatnam,53065,37GODGL5141NBT1,2022-07-20 00:00:00,Active
+701,Sai Shetty,Sree Refreshments,Institutional,8309910112,saishetty8387@example.com,"191, Lane Kancharapalem",Kancharapalem,Visakhapatnam,53098,37WUMAA3730V01Y,2025-01-05 00:00:00,Active
+702,Anil Nair,Sri Super Mart,Institutional,8163508316,anilnair2581@example.com,"1, Lane Auto Nagar",Auto Nagar,Visakhapatnam,53072,37GVSTR3548M4ER,2023-02-27 00:00:00,Active
+703,Lakshmi Iyer,Sri Café,HoReCa,7309667911,lakshmiiyer2045@example.com,"171, Nagar NAD",NAD,Visakhapatnam,53017,37BIQYA3231Q4QO,2022-04-11 00:00:00,Inactive
+704,Sirisha Babu,Sree Refreshments,Wholesale,7912659958,sirishababu5376@demo.in,"35, Lane Seethammadhara",Seethammadhara,Visakhapatnam,53057,37DGINU2392I45F,2022-05-12 00:00:00,Inactive
+705,Anil Patel,Om General Stores,Retail,7693096915,anilpatel6097@mail.com,"182, Rd Malkapuram",Malkapuram,Visakhapatnam,53005,37LLWNC3069GBZG,2020-01-11 00:00:00,Active
+706,Prasad Kumar,Sai Hotel,Institutional,6243416472,prasadkumar2174@demo.in,"197, Nagar Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53096,37QAAVO1711LM4H,2025-05-11 00:00:00,Active
+707,Mahesh Naidu,Om Cool Drinks,HoReCa,9974285683,maheshnaidu15@mail.com,"136, Rd Dabagardens",Dabagardens,Visakhapatnam,53064,37MRTWN0361XV83,2021-01-16 00:00:00,Inactive
+708,Karthik Nair,Om Super Mart,Wholesale,8965063502,karthiknair2402@mail.com,"124, Nagar Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53016,37YCQBJ7969AC7T,2020-12-25 00:00:00,Active
+709,Neha Nair,Annapurna Beverages,HoReCa,7196054993,nehanair2287@mail.com,"133, Street Maharanipeta",Maharanipeta,Visakhapatnam,53054,37BLCQV0742CTXQ,2022-11-14 00:00:00,Active
+710,Akhil Das,Sree Super Mart,Retail,9765512206,akhildas2700@demo.in,"125, Street Gajuwaka",Gajuwaka,Visakhapatnam,53024,37UBVPW6953YZPW,2025-09-21 00:00:00,Inactive
+711,Divya Babu,Om Café,Retail,8933386871,divyababu2975@mail.com,"97, Rd Old Town",Old Town,Visakhapatnam,53054,37OEHZM5934X14T,2021-05-21 00:00:00,Active
+712,Lakshmi Patel,Sri Hotel,Retail,9435722302,lakshmipatel85@mail.com,"47, Street Seethammadhara",Seethammadhara,Visakhapatnam,53066,37UDFLH5366IWVK,2024-10-22 00:00:00,Active
+713,Ramesh Chowdary,Annapurna Super Mart,Wholesale,7269254315,rameshchowdary5233@demo.in,"77, Rd Akkayyapalem",Akkayyapalem,Visakhapatnam,53071,37OEEID1715Y2ZQ,2025-02-25 00:00:00,Inactive
+714,Arun Kumar,Sai Café,Wholesale,8426226491,arunkumar2922@demo.in,"35, Lane Maddilapalem",Maddilapalem,Visakhapatnam,53076,37MEPWC5150QP6R,2022-04-07 00:00:00,Active
+715,Vikram Shetty,Annapurna Café,Retail,9977335028,vikramshetty8240@demo.in,"106, Street Pendurthi",Pendurthi,Visakhapatnam,53043,37JBJZP5814OJHN,2023-04-11 00:00:00,Active
+716,Arun Shetty,Sree Cool Drinks,Wholesale,9470573943,arunshetty1262@mail.com,"54, Rd Yendada",Yendada,Visakhapatnam,53059,37MSXGV3789MSKK,2022-06-07 00:00:00,Active
+717,Suresh Gupta,Sree Cool Drinks,Institutional,7936025805,sureshgupta5846@mail.com,"188, Nagar Venkojipalem",Venkojipalem,Visakhapatnam,53048,37YNFQG5002PC6L,2020-06-16 00:00:00,Active
+718,Vamsi Patel,Om General Stores,Wholesale,9589410793,vamsipatel362@mail.com,"143, Lane Yendada",Yendada,Visakhapatnam,53099,37ULRSH7919S84L,2024-07-14 00:00:00,Inactive
+719,Keerthi Verma,Sree Café,Institutional,8535605724,keerthiverma3633@demo.in,"95, Rd Auto Nagar",Auto Nagar,Visakhapatnam,53015,37ACWQY1140IQG7,2022-04-17 00:00:00,Active
+720,Chaitanya Chowdary,Venkateswara Cool Drinks,Institutional,8772972628,chaitanyachowdary3006@example.com,"81, Street Anakapalle",Anakapalle,Visakhapatnam,53008,37IIJOI5200QX7K,2020-12-08 00:00:00,Active
+721,Pavan Shetty,Annapurna Super Mart,HoReCa,9395238874,pavanshetty2511@example.com,"33, Street Venkojipalem",Venkojipalem,Visakhapatnam,53051,37HLJUJ8660QM85,2023-06-06 00:00:00,Active
+722,Karthik Shetty,Sree Beverages,Wholesale,8302395625,karthikshetty9182@mail.com,"159, Rd Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53015,37WUUFX5734V5QQ,2022-04-14 00:00:00,Inactive
+723,Karthik Shetty,Annapurna General Stores,Institutional,7571586367,karthikshetty6122@example.com,"193, Rd Gopalapatnam",Gopalapatnam,Visakhapatnam,53042,37WCHYJ2351AKCU,2023-06-20 00:00:00,Active
+724,Manikanta Naidu,Sri Beverages,Retail,7817372232,manikantanaidu3160@demo.in,"168, Rd Akkayyapalem",Akkayyapalem,Visakhapatnam,53028,37SWOCU7573G6A7,2022-09-03 00:00:00,Active
+725,Sridhar Nair,Sree Beverages,HoReCa,8287932420,sridharnair1990@mail.com,"180, Lane Siripuram",Siripuram,Visakhapatnam,53014,37IYUNW1288HEOJ,2025-09-20 00:00:00,Active
+726,Prasad Iyer,Venkateswara Super Mart,HoReCa,6339854047,prasadiyer7607@example.com,"137, Nagar Venkojipalem",Venkojipalem,Visakhapatnam,53019,37UFVQO5627CXQE,2025-03-23 00:00:00,Active
+727,Suma Kumar,Annapurna Super Mart,Wholesale,9596036842,sumakumar9913@demo.in,"116, Nagar Maharanipeta",Maharanipeta,Visakhapatnam,53090,37SIPEM8446R3JN,2025-10-09 00:00:00,Active
+728,Sirisha Kumar,Lakshmi Refreshments,Retail,6869548443,sirishakumar2108@demo.in,"88, Nagar Gopalapatnam",Gopalapatnam,Visakhapatnam,53023,37CKVSY2012FL14,2020-08-16 00:00:00,Active
+729,Manikanta Babu,Balaji Café,Wholesale,6225233956,manikantababu9631@demo.in,"170, Street Maddilapalem",Maddilapalem,Visakhapatnam,53051,37OLHEH4239SJZZ,2022-05-26 00:00:00,Active
+730,Teja Joshi,Sri Beverages,HoReCa,8462675914,tejajoshi8242@demo.in,"72, Nagar Marripalem",Marripalem,Visakhapatnam,53094,37KWSMW7149B6I4,2022-05-12 00:00:00,Active
+731,Manikanta Iyer,Om Café,Wholesale,7711704440,manikantaiyer3705@demo.in,"94, Nagar Dabagardens",Dabagardens,Visakhapatnam,53089,37ZPCKJ2336B5IW,2020-06-30 00:00:00,Active
+732,Manikanta Babu,Sree Cool Drinks,Institutional,9085662567,manikantababu7285@demo.in,"190, Lane Siripuram",Siripuram,Visakhapatnam,53071,37SDTHV2217U7QI,2021-09-10 00:00:00,Active
+733,Suma Iyer,Sri Beverages,HoReCa,7716330201,sumaiyer8324@mail.com,"67, Lane Maddilapalem",Maddilapalem,Visakhapatnam,53081,37LZMEK5947NFR6,2024-07-21 00:00:00,Active
+734,Sridhar Babu,Lakshmi Hotel,Retail,6524547629,sridharbabu2999@demo.in,"143, Lane Siripuram",Siripuram,Visakhapatnam,53008,37HXODS9519MEQ1,2022-04-18 00:00:00,Active
+735,Prasad Gupta,Om Beverages,Retail,7172474673,prasadgupta5633@demo.in,"8, Street PM Palem",PM Palem,Visakhapatnam,53077,37DLZVW6852BFPZ,2023-01-16 00:00:00,Inactive
+736,Ravi Das,Lakshmi Hotel,HoReCa,7470757155,ravidas136@example.com,"100, Lane Maddilapalem",Maddilapalem,Visakhapatnam,53054,37SWIER5687S8H0,2024-04-09 00:00:00,Active
+737,Pavan Shetty,Om Super Mart,Wholesale,7210439854,pavanshetty9165@demo.in,"194, Rd Marripalem",Marripalem,Visakhapatnam,53011,37QFFSD4607MOE0,2020-10-12 00:00:00,Active
+738,Harsha Das,Sri Super Mart,Wholesale,9511113896,harshadas7903@example.com,"115, Lane PM Palem",PM Palem,Visakhapatnam,53032,37VTJEN4078FEIQ,2020-03-13 00:00:00,Active
+739,Deepak Babu,Sai Cool Drinks,HoReCa,8339420316,deepakbabu6334@mail.com,"152, Rd Venkojipalem",Venkojipalem,Visakhapatnam,53062,37WICWX6702FZGS,2022-07-17 00:00:00,Active
+740,Arun Sharma,Sri Café,Wholesale,9158100255,arunsharma520@demo.in,"22, Nagar Maddilapalem",Maddilapalem,Visakhapatnam,53097,37VLZVB1427JKPB,2022-07-01 00:00:00,Active
+741,Ramesh Patel,Om Super Mart,Retail,9427991840,rameshpatel603@example.com,"69, Lane Kancharapalem",Kancharapalem,Visakhapatnam,53065,37BAMCL2006WPMQ,2021-05-28 00:00:00,Active
+742,Sai Iyer,Annapurna Cool Drinks,HoReCa,6865368917,saiiyer3930@example.com,"61, Lane Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53025,37JDZAX4060XX5F,2021-07-23 00:00:00,Active
+743,Vamsi Naidu,Sai General Stores,Institutional,8278812255,vamsinaidu2334@demo.in,"183, Street Maharanipeta",Maharanipeta,Visakhapatnam,53016,37HMRAH7822PVHR,2023-03-08 00:00:00,Active
+744,Sirisha Das,Balaji Café,Wholesale,9682311607,sirishadas5519@example.com,"181, Street PM Palem",PM Palem,Visakhapatnam,53055,37NWVWN5752JVYX,2025-06-20 00:00:00,Active
+745,Neha Reddy,Venkateswara Hotel,Institutional,6483503255,nehareddy2943@demo.in,"182, Lane Marripalem",Marripalem,Visakhapatnam,53004,37WQNSO3663HM6G,2020-03-17 00:00:00,Inactive
+746,Prasad Reddy,Sri General Stores,HoReCa,7768993809,prasadreddy7445@mail.com,"55, Rd Old Town",Old Town,Visakhapatnam,53078,37ZUFDY6663BU0H,2024-06-26 00:00:00,Active
+747,Mahesh Kumar,Sree Cool Drinks,Wholesale,8934333079,maheshkumar6108@mail.com,"99, Lane Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53020,37WENHZ9286U6YL,2025-07-25 00:00:00,Active
+748,Ravi Naidu,Sri Beverages,HoReCa,8760267754,ravinaidu984@mail.com,"145, Rd Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53030,37CPPOI0508F1PN,2020-03-01 00:00:00,Active
+749,Madhu Chowdary,Sri Super Mart,HoReCa,9852657731,madhuchowdary9761@mail.com,"49, Nagar Pendurthi",Pendurthi,Visakhapatnam,53015,37TRPXZ7519XVQE,2020-07-21 00:00:00,Inactive
+750,Prasad Sharma,Annapurna Super Mart,HoReCa,9416983923,prasadsharma2263@mail.com,"56, Lane Malkapuram",Malkapuram,Visakhapatnam,53040,37PTGEY1793GPS5,2024-10-20 00:00:00,Active
+751,Vikram Gupta,Venkateswara Hotel,HoReCa,7536494659,vikramgupta9607@example.com,"53, Nagar Siripuram",Siripuram,Visakhapatnam,53041,37MTHLW0182VIWB,2024-11-15 00:00:00,Active
+752,Ramesh Kumar,Annapurna Super Mart,Wholesale,6890177110,rameshkumar5604@demo.in,"139, Rd Kancharapalem",Kancharapalem,Visakhapatnam,53099,37NUIAE6204RLPA,2022-01-26 00:00:00,Active
+753,Deepak Yadav,Sree Cool Drinks,Retail,8544748472,deepakyadav9633@mail.com,"100, Lane Pendurthi",Pendurthi,Visakhapatnam,53089,37QKYET6857ESB9,2023-06-06 00:00:00,Active
+754,Ravi Iyer,Sree Hotel,Wholesale,9266190625,raviiyer1980@mail.com,"9, Nagar MVP Colony",MVP Colony,Visakhapatnam,53077,37JPCGF2338F3OD,2021-05-17 00:00:00,Active
+755,Pavan Iyer,Om Café,Institutional,9695813579,pavaniyer9270@example.com,"2, Street Kurmannapalem",Kurmannapalem,Visakhapatnam,53084,37IZGOI2851A7R8,2020-05-15 00:00:00,Active
+756,Prasad Shetty,Annapurna Café,Retail,9630687646,prasadshetty2623@demo.in,"195, Street NAD",NAD,Visakhapatnam,53041,37QBJBA4717W07A,2023-06-28 00:00:00,Inactive
+757,Vamsi Reddy,Annapurna Cool Drinks,Retail,7721486091,vamsireddy6858@mail.com,"104, Street Maharanipeta",Maharanipeta,Visakhapatnam,53066,37FQHNF3868THSA,2022-11-14 00:00:00,Active
+758,Sridhar Chowdary,Om Café,Retail,8567982048,sridharchowdary1913@mail.com,"62, Nagar Venkojipalem",Venkojipalem,Visakhapatnam,53069,37VGMGE0230YNYZ,2021-07-14 00:00:00,Active
+759,Vikram Patel,Annapurna Cool Drinks,Institutional,6613893451,vikrampatel2986@mail.com,"167, Lane Seethammadhara",Seethammadhara,Visakhapatnam,53043,37WINMQ4757X4MM,2024-03-26 00:00:00,Active
+760,Sai Joshi,Om Super Mart,Institutional,9276020429,saijoshi259@demo.in,"174, Nagar Old Town",Old Town,Visakhapatnam,53093,37KBFQB0981VURV,2023-09-30 00:00:00,Active
+761,Deepak Das,Lakshmi Refreshments,Retail,7922919509,deepakdas9650@example.com,"37, Rd Gajuwaka",Gajuwaka,Visakhapatnam,53045,37FSICW2908SLOD,2021-01-14 00:00:00,Active
+762,Arun Shetty,Sree Refreshments,Retail,7333341464,arunshetty3868@demo.in,"18, Nagar Old Town",Old Town,Visakhapatnam,53005,37NKGQE8366EFOL,2022-01-05 00:00:00,Inactive
+763,Harsha Joshi,Balaji General Stores,Retail,7058175352,harshajoshi7460@mail.com,"135, Rd Malkapuram",Malkapuram,Visakhapatnam,53084,37GAPLR4466PISD,2022-08-21 00:00:00,Inactive
+764,Sai Patel,Sree Cool Drinks,Wholesale,8339075328,saipatel7650@demo.in,"42, Rd Old Town",Old Town,Visakhapatnam,53009,37NYGUC6323B8JU,2021-05-11 00:00:00,Active
+765,Pavan Shetty,Sree Refreshments,Wholesale,6585444744,pavanshetty7928@example.com,"52, Lane Kurmannapalem",Kurmannapalem,Visakhapatnam,53070,37RJAHK1544K7GG,2020-06-30 00:00:00,Active
+766,Chaitanya Nair,Balaji Refreshments,Retail,6412236442,chaitanyanair686@example.com,"27, Lane Kurmannapalem",Kurmannapalem,Visakhapatnam,53010,37BOMUO3214C2HA,2025-03-31 00:00:00,Inactive
+767,Sridhar Gupta,Venkateswara Cool Drinks,Institutional,6759601868,sridhargupta7876@demo.in,"74, Rd Siripuram",Siripuram,Visakhapatnam,53028,37HAYGD5546OD6U,2024-08-10 00:00:00,Active
+768,Manikanta Iyer,Balaji Refreshments,Retail,8993954460,manikantaiyer1502@demo.in,"93, Street Gajuwaka",Gajuwaka,Visakhapatnam,53012,37CTJFC3993EPQK,2023-04-19 00:00:00,Active
+769,Akhil Babu,Sai Hotel,Institutional,8530784819,akhilbabu3027@mail.com,"117, Nagar Yendada",Yendada,Visakhapatnam,53085,37MIQQX2656J8DC,2025-08-21 00:00:00,Active
+770,Manikanta Shetty,Sree Refreshments,Retail,9339345143,manikantashetty4003@mail.com,"88, Street Kancharapalem",Kancharapalem,Visakhapatnam,53067,37RXBJG7481VVUL,2023-09-02 00:00:00,Active
+771,Ravi Kumar,Sai General Stores,Retail,6102294253,ravikumar2369@example.com,"179, Lane Kancharapalem",Kancharapalem,Visakhapatnam,53055,37KWPLZ9295Y5XY,2022-02-27 00:00:00,Active
+772,Akhil Das,Om Beverages,Institutional,6031735278,akhildas1669@example.com,"53, Nagar Marripalem",Marripalem,Visakhapatnam,53010,37OVFMF7681L9FB,2024-12-31 00:00:00,Active
+773,Sridhar Babu,Om General Stores,Institutional,7918497683,sridharbabu9707@mail.com,"54, Rd Siripuram",Siripuram,Visakhapatnam,53003,37RTYDL7012OF4D,2024-01-16 00:00:00,Inactive
+774,Deepak Sharma,Sai General Stores,HoReCa,7741002129,deepaksharma821@example.com,"79, Rd Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53036,37AGMCZ0141IU06,2020-01-21 00:00:00,Active
+775,Karthik Naidu,Sree Refreshments,Institutional,6772134217,karthiknaidu7942@example.com,"131, Street Kurmannapalem",Kurmannapalem,Visakhapatnam,53069,37XPWXS2001H0QC,2021-04-16 00:00:00,Inactive
+776,Suma Shetty,Lakshmi General Stores,Institutional,9362549021,sumashetty4889@mail.com,"71, Lane Maddilapalem",Maddilapalem,Visakhapatnam,53017,37UUBYK9562OG25,2023-01-19 00:00:00,Active
+777,Rohit Naidu,Venkateswara Cool Drinks,HoReCa,8330644524,rohitnaidu5154@mail.com,"43, Rd Akkayyapalem",Akkayyapalem,Visakhapatnam,53008,37RSTDO2001QE85,2023-07-21 00:00:00,Inactive
+778,Manikanta Naidu,Venkateswara Cool Drinks,Institutional,7172011221,manikantanaidu8726@mail.com,"80, Street Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53087,37NRGEG8915RBVH,2021-04-08 00:00:00,Active
+779,Anil Chowdary,Sri Hotel,Wholesale,9370445785,anilchowdary3581@example.com,"143, Rd Pendurthi",Pendurthi,Visakhapatnam,53048,37XLNJT4206CNWQ,2023-05-01 00:00:00,Inactive
+780,Chaitanya Das,Annapurna Beverages,Retail,6476348344,chaitanyadas7793@mail.com,"90, Rd Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53073,37SBPXH4051VAGG,2024-09-02 00:00:00,Inactive
+781,Pavan Joshi,Venkateswara Cool Drinks,Retail,9681577486,pavanjoshi9256@mail.com,"106, Rd Kancharapalem",Kancharapalem,Visakhapatnam,53005,37HGSBF3624W3TN,2020-02-14 00:00:00,Active
+782,Karthik Shetty,Om Refreshments,HoReCa,6507383504,karthikshetty3936@demo.in,"85, Lane Akkayyapalem",Akkayyapalem,Visakhapatnam,53053,37HXWAX2912YH53,2020-05-11 00:00:00,Inactive
+783,Vamsi Nair,Venkateswara General Stores,Institutional,7951906764,vamsinair6409@demo.in,"39, Nagar PM Palem",PM Palem,Visakhapatnam,53032,37HUBME7251YKCD,2020-07-20 00:00:00,Inactive
+784,Ramesh Joshi,Sai General Stores,Institutional,7447035437,rameshjoshi9591@example.com,"30, Rd Seethammadhara",Seethammadhara,Visakhapatnam,53079,37OZDBK4818HURZ,2022-11-24 00:00:00,Active
+785,Vikram Sharma,Sree General Stores,Wholesale,9914747208,vikramsharma6279@example.com,"180, Lane Maddilapalem",Maddilapalem,Visakhapatnam,53008,37TAIIF2246KTOO,2023-07-08 00:00:00,Active
+786,Vamsi Joshi,Sri Cool Drinks,Retail,7561942219,vamsijoshi3840@mail.com,"16, Rd Anakapalle",Anakapalle,Visakhapatnam,53090,37MBXDI0280K4W0,2021-09-22 00:00:00,Active
+787,Manikanta Gupta,Balaji Café,Wholesale,8579271602,manikantagupta9997@mail.com,"93, Rd PM Palem",PM Palem,Visakhapatnam,53018,37CCRBL5386U53Y,2020-10-27 00:00:00,Inactive
+788,Lakshmi Shetty,Sree Super Mart,Retail,8543464788,lakshmishetty5521@example.com,"35, Rd Malkapuram",Malkapuram,Visakhapatnam,53066,37BLJUO6772CEAY,2025-07-26 00:00:00,Active
+789,Prasad Patel,Sri Hotel,Wholesale,6315263586,prasadpatel3958@demo.in,"146, Nagar Maharanipeta",Maharanipeta,Visakhapatnam,53099,37AKFGR2895KMSA,2020-03-25 00:00:00,Active
+790,Karthik Gupta,Sree Café,Wholesale,7044158369,karthikgupta9781@demo.in,"9, Rd PM Palem",PM Palem,Visakhapatnam,53094,37QJNDI1061N8RL,2024-05-13 00:00:00,Active
+791,Anusha Das,Sai Café,Institutional,8917565994,anushadas8307@mail.com,"188, Street Pendurthi",Pendurthi,Visakhapatnam,53069,37JFEBA5556LRGM,2022-12-20 00:00:00,Inactive
+792,Mahesh Chowdary,Venkateswara Hotel,Institutional,8637332882,maheshchowdary9469@example.com,"123, Street Yendada",Yendada,Visakhapatnam,53095,37JOBFD5107ZPRL,2021-04-20 00:00:00,Active
+793,Teja Gupta,Sri Super Mart,Institutional,8069330784,tejagupta7215@demo.in,"117, Lane MVP Colony",MVP Colony,Visakhapatnam,53021,37NFQEO1384ORZ7,2020-05-31 00:00:00,Inactive
+794,Ravi Das,Sree Hotel,Wholesale,8675425783,ravidas3972@mail.com,"55, Street Venkojipalem",Venkojipalem,Visakhapatnam,53071,37YAELK2008WHVB,2024-11-08 00:00:00,Active
+795,Chaitanya Nair,Om Refreshments,Retail,9123584731,chaitanyanair2158@mail.com,"78, Rd Gajuwaka",Gajuwaka,Visakhapatnam,53074,37WKJZI2218RHRM,2021-10-09 00:00:00,Inactive
+796,Ramesh Naidu,Sri Cool Drinks,Wholesale,9717881736,rameshnaidu2924@demo.in,"116, Nagar Auto Nagar",Auto Nagar,Visakhapatnam,53041,37YLFAY1055YYO7,2022-10-23 00:00:00,Active
+797,Sirisha Shetty,Balaji Cool Drinks,Wholesale,9502793369,sirishashetty3169@mail.com,"70, Rd Auto Nagar",Auto Nagar,Visakhapatnam,53051,37XYSJR3354ZMSP,2022-12-29 00:00:00,Inactive
+798,Neha Babu,Sri Hotel,Wholesale,8800739821,nehababu3111@mail.com,"105, Nagar PM Palem",PM Palem,Visakhapatnam,53067,37QODPE3626CROU,2022-07-16 00:00:00,Active
+799,Chaitanya Gupta,Sai Cool Drinks,Wholesale,6160294173,chaitanyagupta575@demo.in,"5, Rd Pendurthi",Pendurthi,Visakhapatnam,53062,37OTHDH6677IDR1,2020-05-02 00:00:00,Inactive
+800,Vikram Patel,Annapurna General Stores,HoReCa,9532057447,vikrampatel5499@mail.com,"181, Nagar Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53035,37GNBET6507QB6P,2023-11-16 00:00:00,Active
+801,Anusha Patel,Om Super Mart,Retail,9394682475,anushapatel3304@example.com,"160, Lane Akkayyapalem",Akkayyapalem,Visakhapatnam,53008,37CTWIM7215GZ11,2023-12-21 00:00:00,Inactive
+802,Lakshmi Naidu,Sri Super Mart,HoReCa,9105255220,lakshminaidu3305@example.com,"138, Lane Maddilapalem",Maddilapalem,Visakhapatnam,53068,37NINVJ5541L0S5,2024-03-13 00:00:00,Active
+803,Suma Verma,Sree General Stores,HoReCa,6646100971,sumaverma8082@example.com,"113, Lane Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53094,37DXEAH4491SOWQ,2024-10-09 00:00:00,Active
+804,Vikram Das,Lakshmi Cool Drinks,Retail,9357939690,vikramdas8923@demo.in,"62, Street Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53066,37YGDAS1569N52Q,2024-02-19 00:00:00,Inactive
+805,Sridhar Verma,Balaji General Stores,Retail,9504130573,sridharverma8904@example.com,"198, Nagar Kancharapalem",Kancharapalem,Visakhapatnam,53027,37NQJRI5338FS30,2025-09-24 00:00:00,Active
+806,Arun Naidu,Annapurna Beverages,Retail,8844383709,arunnaidu9778@demo.in,"23, Nagar Malkapuram",Malkapuram,Visakhapatnam,53006,37OTGDP4411YTX1,2020-09-07 00:00:00,Active
+807,Vamsi Yadav,Sree General Stores,HoReCa,8063796205,vamsiyadav9627@demo.in,"26, Rd Kurmannapalem",Kurmannapalem,Visakhapatnam,53024,37CAXKZ1233KJHQ,2024-12-29 00:00:00,Active
+808,Naveen Nair,Om Hotel,HoReCa,8669446474,naveennair7515@demo.in,"121, Rd Yendada",Yendada,Visakhapatnam,53038,37QIYGN5466FXJV,2022-01-16 00:00:00,Inactive
+809,Anil Joshi,Om Café,Wholesale,9782606482,aniljoshi7215@demo.in,"163, Lane Kurmannapalem",Kurmannapalem,Visakhapatnam,53045,37IYHUF6375YN3U,2022-10-05 00:00:00,Active
+810,Madhu Verma,Annapurna General Stores,Institutional,9595550019,madhuverma9700@demo.in,"121, Lane Anakapalle",Anakapalle,Visakhapatnam,53059,37RQJQA4431P3N5,2024-10-12 00:00:00,Inactive
+811,Sridhar Sharma,Sree Super Mart,Institutional,9758751523,sridharsharma5117@demo.in,"117, Lane Akkayyapalem",Akkayyapalem,Visakhapatnam,53080,37PITPH8982IQ62,2024-03-01 00:00:00,Active
+812,Ravi Patel,Om Café,HoReCa,7818169417,ravipatel9943@demo.in,"114, Street Akkayyapalem",Akkayyapalem,Visakhapatnam,53003,37AQFCA8308BMGF,2020-06-06 00:00:00,Active
+813,Ravi Patel,Venkateswara Refreshments,Wholesale,6420883480,ravipatel5234@mail.com,"125, Rd Marripalem",Marripalem,Visakhapatnam,53095,37LPBTU6303EGE7,2024-05-27 00:00:00,Active
+814,Akhil Joshi,Sai Beverages,HoReCa,9355470539,akhiljoshi8766@demo.in,"195, Nagar Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53085,37EURYH0384GTR1,2022-05-22 00:00:00,Inactive
+815,Teja Naidu,Balaji Super Mart,HoReCa,8536436874,tejanaidu2024@demo.in,"40, Lane Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53035,37QQBPY2946A3RP,2025-01-06 00:00:00,Active
+816,Karthik Kumar,Lakshmi Refreshments,Retail,8484492438,karthikkumar9216@demo.in,"139, Rd Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53074,37MGAEI8543BU4F,2021-11-01 00:00:00,Active
+817,Chaitanya Das,Balaji General Stores,Retail,7961024568,chaitanyadas9422@example.com,"24, Street Auto Nagar",Auto Nagar,Visakhapatnam,53086,37HPQRX8740KDKT,2022-08-03 00:00:00,Inactive
+818,Madhu Gupta,Om Beverages,Institutional,7937635630,madhugupta6434@demo.in,"159, Rd MVP Colony",MVP Colony,Visakhapatnam,53025,37FXJDE6846EFQZ,2024-11-04 00:00:00,Active
+819,Manikanta Verma,Sree Café,HoReCa,6065001217,manikantaverma9375@mail.com,"58, Street Venkojipalem",Venkojipalem,Visakhapatnam,53020,37WOXOY3179VWK7,2020-05-08 00:00:00,Active
+820,Neha Joshi,Venkateswara Refreshments,Wholesale,6437870128,nehajoshi6640@demo.in,"45, Lane Kurmannapalem",Kurmannapalem,Visakhapatnam,53018,37VDLLQ1680X37T,2022-04-07 00:00:00,Active
+821,Anusha Babu,Sai Refreshments,HoReCa,6925950972,anushababu7456@demo.in,"168, Nagar Gajuwaka",Gajuwaka,Visakhapatnam,53002,37RTAZL5533NNZ0,2020-09-10 00:00:00,Active
+822,Lakshmi Shetty,Sree Super Mart,Institutional,7036414632,lakshmishetty6803@mail.com,"29, Street MVP Colony",MVP Colony,Visakhapatnam,53082,37BMJXT3627PAPV,2023-09-13 00:00:00,Inactive
+823,Sirisha Kumar,Sree Super Mart,Wholesale,6451455755,sirishakumar4106@example.com,"15, Lane Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53030,37NVHER3198TQWK,2021-03-29 00:00:00,Inactive
+824,Naveen Das,Sai General Stores,Retail,7551036590,naveendas6106@example.com,"30, Nagar Maharanipeta",Maharanipeta,Visakhapatnam,53006,37WELHK9416WLKW,2020-01-14 00:00:00,Active
+825,Pavan Reddy,Sri Refreshments,Wholesale,7295164198,pavanreddy9693@mail.com,"61, Rd NAD",NAD,Visakhapatnam,53010,37OBFOQ6478XX2J,2025-09-03 00:00:00,Active
+826,Sridhar Das,Sai Cool Drinks,HoReCa,7300868029,sridhardas2994@example.com,"200, Lane Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53028,37QWAEI7445W9HL,2021-05-03 00:00:00,Active
+827,Harsha Sharma,Sree Cool Drinks,Retail,9727964669,harshasharma564@demo.in,"58, Lane Venkojipalem",Venkojipalem,Visakhapatnam,53015,37CERXQ7625HFRR,2023-05-29 00:00:00,Active
+828,Chaitanya Das,Sai General Stores,Retail,8683420214,chaitanyadas3022@example.com,"95, Street MVP Colony",MVP Colony,Visakhapatnam,53097,37ACSFA9772CI5F,2023-02-21 00:00:00,Active
+829,Neha Joshi,Balaji General Stores,Institutional,7234974076,nehajoshi6288@mail.com,"93, Nagar Pendurthi",Pendurthi,Visakhapatnam,53092,37SEEXN8921B0ZQ,2023-05-27 00:00:00,Active
+830,Suresh Chowdary,Sai Refreshments,Wholesale,8525267004,sureshchowdary545@demo.in,"22, Lane Kancharapalem",Kancharapalem,Visakhapatnam,53017,37JKJGH5440FTVE,2021-08-10 00:00:00,Active
+831,Madhu Das,Sree Hotel,Retail,7237841262,madhudas7023@demo.in,"116, Street Maharanipeta",Maharanipeta,Visakhapatnam,53040,37TQIPG7876ZJWA,2020-11-18 00:00:00,Inactive
+832,Keerthi Nair,Om Cool Drinks,HoReCa,7497477831,keerthinair8949@example.com,"53, Rd Malkapuram",Malkapuram,Visakhapatnam,53062,37IRPSM3792LHY9,2023-11-08 00:00:00,Active
+833,Keerthi Verma,Om General Stores,Institutional,9368254224,keerthiverma4521@mail.com,"158, Street Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53023,37LTVKU5258L0DY,2022-03-01 00:00:00,Active
+834,Madhu Kumar,Lakshmi Cool Drinks,Wholesale,6429849474,madhukumar7882@example.com,"83, Street Yendada",Yendada,Visakhapatnam,53072,37ZJJLB1901PUSC,2023-02-26 00:00:00,Inactive
+835,Keerthi Babu,Venkateswara Hotel,Institutional,9126029665,keerthibabu3914@demo.in,"84, Rd Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53090,37MSEPO6979JPDM,2022-10-04 00:00:00,Active
+836,Sai Nair,Lakshmi Cool Drinks,Retail,7851960884,sainair6665@mail.com,"111, Lane Anakapalle",Anakapalle,Visakhapatnam,53056,37JANDV9660IHPW,2025-10-01 00:00:00,Inactive
+837,Keerthi Sharma,Venkateswara Super Mart,Institutional,9732713400,keerthisharma713@demo.in,"1, Street Kancharapalem",Kancharapalem,Visakhapatnam,53018,37JSKEW9765PTHK,2024-06-28 00:00:00,Active
+838,Ravi Sharma,Venkateswara General Stores,Retail,8842952174,ravisharma8679@example.com,"58, Street Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53024,37ZHKVV2503K9R5,2021-06-01 00:00:00,Active
+839,Pavan Yadav,Sree Hotel,Institutional,7283697442,pavanyadav3983@example.com,"33, Lane Kancharapalem",Kancharapalem,Visakhapatnam,53074,37ULOZD7460X1LF,2025-09-30 00:00:00,Inactive
+840,Suma Yadav,Sri Super Mart,Wholesale,6202435297,sumayadav2704@mail.com,"106, Nagar PM Palem",PM Palem,Visakhapatnam,53096,37NUSIZ4366U6EO,2023-01-04 00:00:00,Active
+841,Deepak Joshi,Sree General Stores,Wholesale,8038807794,deepakjoshi703@demo.in,"12, Rd Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53037,37KWPXM0726FV9Y,2021-11-26 00:00:00,Inactive
+842,Rohit Iyer,Om Refreshments,Wholesale,8299661995,rohitiyer696@example.com,"62, Rd Marripalem",Marripalem,Visakhapatnam,53096,37KHYDN6529R47M,2020-07-10 00:00:00,Inactive
+843,Pavan Kumar,Balaji Hotel,Institutional,7598718209,pavankumar1856@mail.com,"49, Nagar Yendada",Yendada,Visakhapatnam,53043,37LEWZA0595Z82P,2022-04-22 00:00:00,Active
+844,Prasad Joshi,Venkateswara Café,HoReCa,9331770052,prasadjoshi1838@mail.com,"76, Street Akkayyapalem",Akkayyapalem,Visakhapatnam,53078,37QHOHJ1084KYY3,2020-03-15 00:00:00,Active
+845,Anusha Reddy,Om Cool Drinks,Retail,7811333235,anushareddy4991@demo.in,"53, Lane Maharanipeta",Maharanipeta,Visakhapatnam,53084,37ILLJG0304UR4Z,2025-02-27 00:00:00,Active
+846,Anil Naidu,Om Hotel,Institutional,9809305326,anilnaidu208@example.com,"147, Street MVP Colony",MVP Colony,Visakhapatnam,53007,37BDZCE2350S091,2021-07-28 00:00:00,Inactive
+847,Teja Verma,Annapurna Refreshments,HoReCa,6386912647,tejaverma7734@example.com,"100, Street Yendada",Yendada,Visakhapatnam,53068,37UZLAV8438OEC3,2020-12-09 00:00:00,Active
+848,Deepak Verma,Sai Hotel,Institutional,9369676297,deepakverma1646@example.com,"157, Nagar Marripalem",Marripalem,Visakhapatnam,53094,37TVUXR2646TR1E,2021-10-07 00:00:00,Active
+849,Sai Iyer,Om Hotel,Wholesale,8355585842,saiiyer2622@demo.in,"116, Street Old Town",Old Town,Visakhapatnam,53028,37IVFSY8416L03A,2022-04-13 00:00:00,Active
+850,Madhu Chowdary,Balaji Hotel,Retail,8586228905,madhuchowdary1925@demo.in,"140, Lane Kancharapalem",Kancharapalem,Visakhapatnam,53029,37ILHTW0817Y02T,2021-05-08 00:00:00,Active
+851,Anusha Das,Sri Café,Wholesale,7577077676,anushadas8937@example.com,"162, Nagar Gopalapatnam",Gopalapatnam,Visakhapatnam,53092,37XZDRD0263VJIY,2021-11-10 00:00:00,Active
+852,Keerthi Babu,Venkateswara Super Mart,Retail,8554910846,keerthibabu4667@demo.in,"54, Street Marripalem",Marripalem,Visakhapatnam,53035,37AIQTS2935KH3N,2022-02-05 00:00:00,Inactive
+853,Suma Sharma,Sri Hotel,Institutional,8083937716,sumasharma8752@example.com,"51, Street NAD",NAD,Visakhapatnam,53079,37TMKAR1621YFXD,2023-03-28 00:00:00,Inactive
+854,Ravi Joshi,Sai Hotel,HoReCa,8552070977,ravijoshi6426@example.com,"183, Rd Gopalapatnam",Gopalapatnam,Visakhapatnam,53023,37HMHEM5521LTIK,2023-03-04 00:00:00,Inactive
+855,Sridhar Verma,Lakshmi Super Mart,HoReCa,7576786240,sridharverma241@example.com,"189, Rd Gopalapatnam",Gopalapatnam,Visakhapatnam,53068,37UOTPY9985WAAM,2021-06-05 00:00:00,Inactive
+856,Akhil Verma,Annapurna Beverages,Retail,7771306897,akhilverma4389@mail.com,"26, Nagar Gajuwaka",Gajuwaka,Visakhapatnam,53053,37LZPBY7219EMTN,2025-01-12 00:00:00,Inactive
+857,Mahesh Reddy,Balaji General Stores,Retail,6334095806,maheshreddy6050@demo.in,"101, Rd Akkayyapalem",Akkayyapalem,Visakhapatnam,53097,37SORSS1888N3SZ,2020-03-13 00:00:00,Inactive
+858,Sirisha Babu,Annapurna Café,HoReCa,7476044486,sirishababu9937@demo.in,"43, Street Yendada",Yendada,Visakhapatnam,53053,37DMCTF1926NO70,2025-02-20 00:00:00,Inactive
+859,Naveen Patel,Om Beverages,Institutional,8844761863,naveenpatel4089@demo.in,"85, Lane Kancharapalem",Kancharapalem,Visakhapatnam,53095,37UTPNH9058NCO5,2025-10-27 00:00:00,Active
+860,Madhu Verma,Annapurna Refreshments,Institutional,6436798366,madhuverma468@demo.in,"144, Rd Marripalem",Marripalem,Visakhapatnam,53030,37HKPYA0368SASF,2021-02-20 00:00:00,Active
+861,Suma Joshi,Lakshmi Refreshments,Retail,7187190972,sumajoshi6419@demo.in,"107, Nagar Pendurthi",Pendurthi,Visakhapatnam,53017,37YWNBG6375ZWB4,2020-02-15 00:00:00,Active
+862,Vikram Naidu,Annapurna Café,Institutional,6140402820,vikramnaidu8685@demo.in,"44, Nagar Venkojipalem",Venkojipalem,Visakhapatnam,53046,37SODFS4124QDUX,2023-08-21 00:00:00,Inactive
+863,Sai Chowdary,Annapurna Refreshments,Institutional,6488467104,saichowdary9223@mail.com,"45, Street Dabagardens",Dabagardens,Visakhapatnam,53079,37DDZLX3338AOK5,2023-11-27 00:00:00,Active
+864,Teja Nair,Om Refreshments,Institutional,7848594113,tejanair9486@demo.in,"159, Lane Maharanipeta",Maharanipeta,Visakhapatnam,53012,37QJVNC3882AA09,2020-01-29 00:00:00,Active
+865,Chaitanya Babu,Balaji Beverages,Wholesale,9751668830,chaitanyababu2161@demo.in,"92, Street Seethammadhara",Seethammadhara,Visakhapatnam,53062,37BBMRI4475Y0JG,2021-08-07 00:00:00,Active
+866,Deepak Iyer,Balaji Super Mart,HoReCa,9008915029,deepakiyer6185@demo.in,"44, Street Auto Nagar",Auto Nagar,Visakhapatnam,53012,37ZPOSS5770I34W,2024-04-23 00:00:00,Active
+867,Prasad Kumar,Lakshmi Hotel,Wholesale,8982375346,prasadkumar1249@example.com,"85, Rd Malkapuram",Malkapuram,Visakhapatnam,53022,37TKHSE9795SBZ5,2024-10-11 00:00:00,Active
+868,Pavan Shetty,Om Hotel,Wholesale,7623976538,pavanshetty4061@example.com,"81, Nagar Auto Nagar",Auto Nagar,Visakhapatnam,53082,37ZTEVN3906C6OC,2022-06-26 00:00:00,Active
+869,Akhil Iyer,Sree General Stores,Retail,7389800765,akhiliyer9477@demo.in,"188, Rd Old Town",Old Town,Visakhapatnam,53027,37POZNO7363LVRW,2023-10-22 00:00:00,Inactive
+870,Keerthi Kumar,Om Super Mart,HoReCa,6707206986,keerthikumar7577@demo.in,"108, Rd Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53067,37NQJNX8902S3JR,2023-08-22 00:00:00,Active
+871,Teja Yadav,Sree Cool Drinks,Institutional,6428157046,tejayadav6412@example.com,"50, Street Gajuwaka",Gajuwaka,Visakhapatnam,53080,37QZAJW5158R1LO,2023-01-23 00:00:00,Inactive
+872,Vikram Das,Sree General Stores,Retail,6439854502,vikramdas8621@example.com,"32, Lane Akkayyapalem",Akkayyapalem,Visakhapatnam,53017,37TMQPI0298GFR8,2020-08-08 00:00:00,Inactive
+873,Arun Nair,Venkateswara Cool Drinks,Institutional,9925498847,arunnair5768@demo.in,"114, Lane Marripalem",Marripalem,Visakhapatnam,53010,37YFTNM7742V2AJ,2022-08-22 00:00:00,Active
+874,Prasad Iyer,Om Beverages,Wholesale,6365682437,prasadiyer4592@example.com,"13, Rd Venkojipalem",Venkojipalem,Visakhapatnam,53071,37IOOEM8066FE1Z,2021-06-03 00:00:00,Active
+875,Rohit Yadav,Balaji Refreshments,Institutional,8622160725,rohityadav821@example.com,"133, Lane Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53004,37LKRFD6812G4QF,2024-03-18 00:00:00,Active
+876,Deepak Chowdary,Sree General Stores,Retail,7761135902,deepakchowdary934@mail.com,"61, Rd Malkapuram",Malkapuram,Visakhapatnam,53020,37BRKIK9576GSG5,2022-12-31 00:00:00,Active
+877,Madhu Iyer,Lakshmi Café,Wholesale,6531431095,madhuiyer1263@mail.com,"170, Street Maharanipeta",Maharanipeta,Visakhapatnam,53062,37PHZKP3635ARLH,2023-06-18 00:00:00,Inactive
+878,Arun Joshi,Sai Refreshments,HoReCa,6629233442,arunjoshi4067@demo.in,"135, Nagar NAD",NAD,Visakhapatnam,53049,37RSCPX7938GPAN,2023-10-11 00:00:00,Inactive
+879,Sirisha Naidu,Sai Beverages,Retail,9447132983,sirishanaidu7031@example.com,"16, Rd Akkayyapalem",Akkayyapalem,Visakhapatnam,53083,37VTMOW7806IXT6,2020-04-12 00:00:00,Active
+880,Harsha Joshi,Om Hotel,HoReCa,8099859923,harshajoshi8404@demo.in,"136, Street Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53086,37IDZBL9292NE5P,2024-02-06 00:00:00,Inactive
+881,Ravi Nair,Annapurna General Stores,Institutional,6076755221,ravinair9805@demo.in,"44, Rd Maharanipeta",Maharanipeta,Visakhapatnam,53029,37FNBJT1613VZBO,2023-10-28 00:00:00,Inactive
+882,Vikram Sharma,Annapurna Cool Drinks,Wholesale,7634737941,vikramsharma5624@mail.com,"181, Rd Gajuwaka",Gajuwaka,Visakhapatnam,53029,37LCYCE5834KDM9,2022-06-14 00:00:00,Active
+883,Naveen Sharma,Venkateswara Beverages,Institutional,6374931205,naveensharma5741@demo.in,"25, Nagar Gajuwaka",Gajuwaka,Visakhapatnam,53086,37DJLPS7857JHM8,2024-09-19 00:00:00,Active
+884,Arun Patel,Sree Super Mart,HoReCa,8858111016,arunpatel1916@demo.in,"192, Street NAD",NAD,Visakhapatnam,53080,37QOCYY6004D3LI,2020-03-06 00:00:00,Active
+885,Teja Joshi,Om Hotel,Institutional,8601371454,tejajoshi5331@mail.com,"32, Street Gopalapatnam",Gopalapatnam,Visakhapatnam,53003,37KUMYN6055SV7T,2021-02-16 00:00:00,Active
+886,Prasad Naidu,Sree Beverages,Institutional,6448058343,prasadnaidu3642@example.com,"51, Nagar Seethammadhara",Seethammadhara,Visakhapatnam,53024,37UOHUQ0523CCQ0,2020-05-17 00:00:00,Active
+887,Lakshmi Reddy,Sri Cool Drinks,Institutional,9428181646,lakshmireddy117@demo.in,"180, Rd Marripalem",Marripalem,Visakhapatnam,53045,37KYLOV9220ZYCL,2022-04-22 00:00:00,Active
+888,Harsha Yadav,Annapurna Cool Drinks,Wholesale,9643434330,harshayadav2927@mail.com,"101, Rd Dabagardens",Dabagardens,Visakhapatnam,53005,37CFQLA8580IOOI,2022-10-04 00:00:00,Inactive
+889,Harsha Nair,Sri General Stores,Wholesale,7794370330,harshanair4584@mail.com,"110, Nagar Seethammadhara",Seethammadhara,Visakhapatnam,53013,37FVOOC8051OCH1,2021-10-02 00:00:00,Active
+890,Ravi Shetty,Annapurna Refreshments,Wholesale,9923013683,ravishetty4549@demo.in,"183, Nagar Maharanipeta",Maharanipeta,Visakhapatnam,53006,37TDEOT4548RQBF,2021-10-23 00:00:00,Active
+891,Pavan Chowdary,Sri Refreshments,Retail,8968354594,pavanchowdary1793@mail.com,"89, Nagar Auto Nagar",Auto Nagar,Visakhapatnam,53052,37LIQAA6665IWPK,2022-03-07 00:00:00,Active
+892,Karthik Verma,Annapurna Beverages,Institutional,8229800578,karthikverma5034@mail.com,"11, Nagar PM Palem",PM Palem,Visakhapatnam,53053,37OBGFH8857HPOK,2022-01-23 00:00:00,Inactive
+893,Suma Gupta,Venkateswara Super Mart,Retail,6975975002,sumagupta7055@demo.in,"26, Rd Gajuwaka",Gajuwaka,Visakhapatnam,53091,37VMUQF4160V7GU,2021-03-11 00:00:00,Active
+894,Harsha Patel,Sri Beverages,HoReCa,7056543861,harshapatel1834@mail.com,"198, Nagar Pendurthi",Pendurthi,Visakhapatnam,53015,37ODGXL3360S25J,2021-11-19 00:00:00,Active
+895,Naveen Kumar,Annapurna General Stores,HoReCa,8945787549,naveenkumar806@example.com,"93, Lane Akkayyapalem",Akkayyapalem,Visakhapatnam,53028,37SCSQN6459QNFX,2025-05-23 00:00:00,Active
+896,Karthik Joshi,Annapurna Beverages,HoReCa,9566441982,karthikjoshi5239@mail.com,"36, Nagar NAD",NAD,Visakhapatnam,53024,37ZDGKC5079K49J,2023-02-28 00:00:00,Active
+897,Anusha Sharma,Om Super Mart,Institutional,9360444517,anushasharma8466@demo.in,"95, Street Anakapalle",Anakapalle,Visakhapatnam,53050,37DZRHD3101K7H3,2020-12-31 00:00:00,Active
+898,Ravi Iyer,Sri Beverages,Retail,8683130838,raviiyer1383@example.com,"7, Rd Auto Nagar",Auto Nagar,Visakhapatnam,53011,37OHFHK1243J9RP,2024-12-10 00:00:00,Active
+899,Pavan Kumar,Sri Refreshments,Retail,7686781876,pavankumar9135@mail.com,"122, Rd Venkojipalem",Venkojipalem,Visakhapatnam,53064,37HLPWZ3370EFKY,2021-03-17 00:00:00,Active
+900,Suma Kumar,Sai General Stores,HoReCa,6168236357,sumakumar7794@example.com,"149, Rd Pendurthi",Pendurthi,Visakhapatnam,53047,37UKRDZ3950ADPP,2020-05-04 00:00:00,Active
+901,Harsha Yadav,Sai Cool Drinks,HoReCa,9165937665,harshayadav2684@mail.com,"183, Nagar Akkayyapalem",Akkayyapalem,Visakhapatnam,53022,37QPWNV6496JU4T,2024-02-15 00:00:00,Active
+902,Suma Verma,Venkateswara Super Mart,Wholesale,8235014495,sumaverma5308@example.com,"75, Lane Dabagardens",Dabagardens,Visakhapatnam,53086,37XZQBK8547Y98V,2021-01-19 00:00:00,Active
+903,Chaitanya Patel,Sri Café,HoReCa,9823717353,chaitanyapatel4416@mail.com,"165, Lane Maharanipeta",Maharanipeta,Visakhapatnam,53099,37ECOVF0201N4WV,2023-03-15 00:00:00,Active
+904,Pavan Nair,Om Beverages,Institutional,6070308586,pavannair8013@example.com,"165, Lane MVP Colony",MVP Colony,Visakhapatnam,53058,37WSJYH0914NXCS,2021-05-31 00:00:00,Active
+905,Deepak Gupta,Venkateswara Café,Institutional,8458603048,deepakgupta7250@example.com,"157, Nagar Dabagardens",Dabagardens,Visakhapatnam,53040,37DHQAO4095L9IM,2025-09-07 00:00:00,Active
+906,Suresh Iyer,Balaji Hotel,Institutional,6762495451,sureshiyer8052@example.com,"133, Nagar Malkapuram",Malkapuram,Visakhapatnam,53035,37RKTTF8292KE6B,2021-11-13 00:00:00,Active
+907,Akhil Iyer,Annapurna Beverages,Institutional,7416723610,akhiliyer6036@example.com,"84, Nagar Maharanipeta",Maharanipeta,Visakhapatnam,53093,37OLVVU6996RDAA,2021-11-01 00:00:00,Active
+908,Rohit Das,Sree Cool Drinks,Institutional,9799288786,rohitdas8786@example.com,"32, Lane Seethammadhara",Seethammadhara,Visakhapatnam,53073,37SKXXZ0022JNRK,2020-01-13 00:00:00,Active
+909,Arun Das,Sree Café,Retail,6045761332,arundas3971@example.com,"72, Lane NAD",NAD,Visakhapatnam,53058,37UWJNR2406KHCK,2023-08-12 00:00:00,Active
+910,Ravi Naidu,Lakshmi Cool Drinks,Wholesale,8772345688,ravinaidu2267@demo.in,"70, Street Yendada",Yendada,Visakhapatnam,53027,37BFUGS3113RUL1,2020-01-18 00:00:00,Active
+911,Vamsi Babu,Balaji Cool Drinks,HoReCa,9672258627,vamsibabu3126@example.com,"167, Street MVP Colony",MVP Colony,Visakhapatnam,53003,37PATZX2242IDYP,2022-05-28 00:00:00,Active
+912,Vikram Naidu,Annapurna General Stores,HoReCa,8725277118,vikramnaidu3892@mail.com,"113, Rd Gopalapatnam",Gopalapatnam,Visakhapatnam,53010,37ACEBV1356Q1T9,2022-06-25 00:00:00,Active
+913,Pavan Chowdary,Lakshmi Cool Drinks,Wholesale,9252821304,pavanchowdary7550@example.com,"20, Street Maharanipeta",Maharanipeta,Visakhapatnam,53083,37ULXJF8220NX2A,2021-04-22 00:00:00,Active
+914,Divya Chowdary,Annapurna Cool Drinks,HoReCa,9692428260,divyachowdary3206@example.com,"148, Nagar Siripuram",Siripuram,Visakhapatnam,53087,37JBURK9823CP6Y,2024-07-14 00:00:00,Inactive
+915,Vikram Gupta,Om Beverages,Retail,7158496106,vikramgupta3088@demo.in,"108, Nagar PM Palem",PM Palem,Visakhapatnam,53086,37OBRRO3772PKCG,2021-08-22 00:00:00,Inactive
+916,Sirisha Kumar,Sai Refreshments,Retail,7372538491,sirishakumar3902@example.com,"182, Lane Siripuram",Siripuram,Visakhapatnam,53087,37NDLJV1955G21P,2025-04-16 00:00:00,Inactive
+917,Teja Nair,Annapurna General Stores,HoReCa,6519105104,tejanair8483@mail.com,"62, Lane Anakapalle",Anakapalle,Visakhapatnam,53055,37WXJSS9179S2YY,2025-05-26 00:00:00,Active
+918,Ravi Nair,Annapurna Super Mart,Retail,8473152484,ravinair3797@demo.in,"4, Street Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53005,37URBEO1218AXTR,2020-09-13 00:00:00,Active
+919,Keerthi Nair,Sri Refreshments,Institutional,8549995433,keerthinair5250@demo.in,"1, Rd Seethammadhara",Seethammadhara,Visakhapatnam,53001,37MWLUO7831YYO0,2021-11-18 00:00:00,Inactive
+920,Divya Shetty,Annapurna General Stores,Retail,8166816137,divyashetty822@demo.in,"20, Rd Siripuram",Siripuram,Visakhapatnam,53008,37OYLXV1158MA0Y,2020-03-25 00:00:00,Inactive
+921,Harsha Patel,Sri Cool Drinks,Retail,7916400621,harshapatel2253@demo.in,"14, Street Maharanipeta",Maharanipeta,Visakhapatnam,53039,37QXFMJ7176LF58,2023-08-27 00:00:00,Active
+922,Neha Joshi,Sri Super Mart,HoReCa,7319309090,nehajoshi8920@mail.com,"84, Rd Akkayyapalem",Akkayyapalem,Visakhapatnam,53080,37GMNNY6571J5V5,2020-08-18 00:00:00,Active
+923,Naveen Sharma,Sai Super Mart,Wholesale,7845867441,naveensharma4837@example.com,"120, Street Marripalem",Marripalem,Visakhapatnam,53032,37INEKI0574T6MD,2024-06-01 00:00:00,Active
+924,Karthik Reddy,Lakshmi Beverages,Institutional,6391172324,karthikreddy1112@mail.com,"73, Lane Auto Nagar",Auto Nagar,Visakhapatnam,53068,37TGPUM5729CSZP,2020-04-12 00:00:00,Inactive
+925,Arun Joshi,Sri Hotel,Institutional,8511763869,arunjoshi2939@mail.com,"91, Rd Gopalapatnam",Gopalapatnam,Visakhapatnam,53028,37ZHGFG9843ZY3K,2020-09-22 00:00:00,Inactive
+926,Suma Naidu,Lakshmi Beverages,Retail,8029011622,sumanaidu3140@demo.in,"81, Street Anakapalle",Anakapalle,Visakhapatnam,53028,37YIQXG3467Z7M3,2024-09-08 00:00:00,Active
+927,Ravi Yadav,Lakshmi Refreshments,Institutional,7399216412,raviyadav7626@demo.in,"105, Lane MVP Colony",MVP Colony,Visakhapatnam,53084,37HCMAT9825FUO9,2022-03-10 00:00:00,Active
+928,Sai Sharma,Sree Refreshments,Wholesale,9129519611,saisharma2902@example.com,"157, Nagar Marripalem",Marripalem,Visakhapatnam,53021,37HFWKT1281GEMK,2025-02-06 00:00:00,Inactive
+929,Pavan Reddy,Sree General Stores,HoReCa,8130898223,pavanreddy7636@mail.com,"64, Rd Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53014,37HOMJN2292GV4X,2025-01-16 00:00:00,Active
+930,Naveen Nair,Venkateswara Super Mart,Institutional,7948563352,naveennair980@demo.in,"121, Street Maddilapalem",Maddilapalem,Visakhapatnam,53052,37BRCRC8996PP8T,2025-02-27 00:00:00,Inactive
+931,Sridhar Nair,Sree Refreshments,Institutional,6176776069,sridharnair4562@demo.in,"111, Rd PM Palem",PM Palem,Visakhapatnam,53090,37JZKJB1703PLLZ,2024-05-05 00:00:00,Inactive
+932,Divya Joshi,Annapurna General Stores,Retail,7754395328,divyajoshi6672@demo.in,"33, Lane Venkojipalem",Venkojipalem,Visakhapatnam,53075,37WNIEN1531N3XJ,2022-07-03 00:00:00,Inactive
+933,Karthik Joshi,Venkateswara General Stores,Retail,6971763147,karthikjoshi466@mail.com,"87, Lane Siripuram",Siripuram,Visakhapatnam,53084,37EJSQF1288UYM2,2023-02-17 00:00:00,Active
+934,Chaitanya Verma,Lakshmi Super Mart,Institutional,8226080551,chaitanyaverma9619@demo.in,"21, Street Dwaraka Nagar",Dwaraka Nagar,Visakhapatnam,53034,37UFYQA6225YMXX,2025-09-13 00:00:00,Active
+935,Pavan Yadav,Sree Cool Drinks,HoReCa,6451368926,pavanyadav1535@demo.in,"83, Lane Dabagardens",Dabagardens,Visakhapatnam,53018,37TPFRV5260STLS,2021-06-08 00:00:00,Active
+936,Suresh Naidu,Sai Cool Drinks,Retail,9622248254,sureshnaidu4689@demo.in,"171, Rd Siripuram",Siripuram,Visakhapatnam,53049,37HTZSC8872NWN2,2021-05-17 00:00:00,Active
+937,Teja Naidu,Sree Refreshments,HoReCa,6532792568,tejanaidu8021@mail.com,"184, Rd Marripalem",Marripalem,Visakhapatnam,53013,37ICBEZ1662NNSP,2025-10-08 00:00:00,Active
+938,Arun Joshi,Annapurna Super Mart,Institutional,7988886155,arunjoshi102@mail.com,"150, Rd Maharanipeta",Maharanipeta,Visakhapatnam,53034,37SMLIA0715BSB8,2025-02-20 00:00:00,Inactive
+939,Lakshmi Naidu,Sree Refreshments,HoReCa,9620267277,lakshminaidu5635@demo.in,"36, Rd Old Town",Old Town,Visakhapatnam,53036,37CUUIF8306EPCO,2020-01-04 00:00:00,Active
+940,Vikram Nair,Balaji Refreshments,HoReCa,9322281605,vikramnair571@example.com,"123, Rd Gopalapatnam",Gopalapatnam,Visakhapatnam,53010,37HQTUB1302OQN7,2020-03-14 00:00:00,Active
+941,Rohit Kumar,Sri Café,HoReCa,6468902354,rohitkumar7335@demo.in,"78, Nagar Marripalem",Marripalem,Visakhapatnam,53025,37RFRAC5047K86D,2021-08-20 00:00:00,Inactive
+942,Neha Chowdary,Sai Hotel,Institutional,7715395957,nehachowdary8682@mail.com,"117, Street Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53085,37XSSRL4825ANY9,2022-11-24 00:00:00,Active
+943,Suma Naidu,Sree Beverages,Wholesale,6474163118,sumanaidu6206@demo.in,"130, Lane Venkojipalem",Venkojipalem,Visakhapatnam,53096,37OYMXA7324KCFF,2023-10-21 00:00:00,Active
+944,Arun Joshi,Annapurna Cool Drinks,Institutional,8005031708,arunjoshi1595@example.com,"183, Nagar Seethammadhara",Seethammadhara,Visakhapatnam,53083,37FQDZJ3284WNXF,2022-12-20 00:00:00,Active
+945,Akhil Shetty,Venkateswara Super Mart,Institutional,6211021651,akhilshetty7091@demo.in,"190, Nagar Akkayyapalem",Akkayyapalem,Visakhapatnam,53095,37UBHVP3592IBPM,2025-09-16 00:00:00,Active
+946,Neha Nair,Sree Beverages,Wholesale,8924014086,nehanair9577@demo.in,"92, Rd Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53076,37AYEHF6738IE19,2025-06-15 00:00:00,Active
+947,Teja Yadav,Annapurna Beverages,Wholesale,9024175019,tejayadav61@demo.in,"168, Rd Malkapuram",Malkapuram,Visakhapatnam,53039,37JJXON4406V7FW,2025-03-01 00:00:00,Active
+948,Pavan Iyer,Sai Super Mart,Institutional,8406765503,pavaniyer674@mail.com,"52, Nagar Kurmannapalem",Kurmannapalem,Visakhapatnam,53071,37RWGVD5479JIDD,2021-01-17 00:00:00,Active
+949,Rohit Naidu,Venkateswara Hotel,Wholesale,9181751375,rohitnaidu1851@demo.in,"138, Nagar Gopalapatnam",Gopalapatnam,Visakhapatnam,53004,37YWUCM6355AL06,2025-10-20 00:00:00,Active
+950,Karthik Das,Sree Super Mart,HoReCa,7133719594,karthikdas9200@demo.in,"90, Rd Anakapalle",Anakapalle,Visakhapatnam,53036,37VFODP7913Y1DK,2022-07-23 00:00:00,Active
+951,Akhil Das,Om Café,HoReCa,6932821210,akhildas3327@mail.com,"193, Lane Yendada",Yendada,Visakhapatnam,53012,37JONMW8100HEEP,2022-03-03 00:00:00,Active
+952,Pavan Joshi,Sri Hotel,HoReCa,6309261657,pavanjoshi2205@demo.in,"95, Nagar Maddilapalem",Maddilapalem,Visakhapatnam,53011,37ZKBRK8008CGPH,2024-05-09 00:00:00,Active
+953,Pooja Das,Balaji Café,Retail,9820407995,poojadas8780@demo.in,"115, Lane Maddilapalem",Maddilapalem,Visakhapatnam,53022,37JUFYN8596KGJL,2023-04-27 00:00:00,Active
+954,Sirisha Naidu,Lakshmi General Stores,HoReCa,7954422488,sirishanaidu7299@demo.in,"18, Street Malkapuram",Malkapuram,Visakhapatnam,53095,37MNQWE8175U1QI,2025-05-01 00:00:00,Active
+955,Akhil Verma,Om General Stores,Retail,6846076366,akhilverma1208@demo.in,"119, Street Siripuram",Siripuram,Visakhapatnam,53090,37YSMIZ0719ZERU,2024-02-18 00:00:00,Inactive
+956,Manikanta Naidu,Om Super Mart,Wholesale,9208580110,manikantanaidu63@mail.com,"29, Nagar NAD",NAD,Visakhapatnam,53015,37QEMMY0494O6A4,2025-03-14 00:00:00,Active
+957,Ravi Joshi,Sri Hotel,Wholesale,6608013546,ravijoshi9557@mail.com,"88, Nagar Gajuwaka",Gajuwaka,Visakhapatnam,53033,37VRTKX3743BQ7S,2020-12-14 00:00:00,Inactive
+958,Akhil Babu,Sree General Stores,Wholesale,6235436752,akhilbabu2909@demo.in,"117, Street PM Palem",PM Palem,Visakhapatnam,53004,37BJVXH5874VM8N,2021-06-15 00:00:00,Inactive
+959,Ravi Shetty,Venkateswara Beverages,Wholesale,7915710603,ravishetty6140@demo.in,"19, Lane Anakapalle",Anakapalle,Visakhapatnam,53044,37WDQRG1259E06S,2021-03-27 00:00:00,Active
+960,Sridhar Sharma,Lakshmi Refreshments,Wholesale,8007317764,sridharsharma653@demo.in,"54, Nagar Auto Nagar",Auto Nagar,Visakhapatnam,53015,37OVBZE7729C6NJ,2023-04-04 00:00:00,Active
+961,Vikram Gupta,Annapurna General Stores,HoReCa,9553717709,vikramgupta1642@example.com,"64, Rd Dabagardens",Dabagardens,Visakhapatnam,53042,37TNGIC8912TCFC,2023-07-13 00:00:00,Active
+962,Sridhar Kumar,Lakshmi Cool Drinks,Retail,8027823286,sridharkumar9291@demo.in,"35, Rd Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53056,37WBWTZ6956UYLY,2024-08-17 00:00:00,Active
+963,Karthik Sharma,Sree Refreshments,HoReCa,8361748059,karthiksharma270@demo.in,"55, Rd Gajuwaka",Gajuwaka,Visakhapatnam,53059,37PAIVQ4812MWFF,2025-02-21 00:00:00,Active
+964,Rohit Naidu,Venkateswara General Stores,Retail,8996693408,rohitnaidu8008@mail.com,"107, Street NAD",NAD,Visakhapatnam,53030,37RQNUY9277K4HQ,2020-06-23 00:00:00,Active
+965,Teja Gupta,Sai Beverages,Institutional,8229664514,tejagupta9866@example.com,"112, Rd Dabagardens",Dabagardens,Visakhapatnam,53087,37PDPVU1966E8TQ,2020-08-27 00:00:00,Active
+966,Prasad Reddy,Venkateswara Cool Drinks,Retail,9467566006,prasadreddy9837@mail.com,"173, Street Resapuvanipalem",Resapuvanipalem,Visakhapatnam,53089,37SJBDY3560BZ8U,2022-03-09 00:00:00,Active
+967,Deepak Nair,Sree Café,Institutional,7107724561,deepaknair3494@mail.com,"141, Rd Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53064,37GNOYV7684G9OZ,2024-09-25 00:00:00,Active
+968,Mahesh Das,Sree General Stores,Wholesale,9995732417,maheshdas9368@demo.in,"190, Rd Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53016,37JIUHA6853Y9YE,2024-11-14 00:00:00,Active
+969,Prasad Verma,Sri General Stores,Wholesale,7335513691,prasadverma384@mail.com,"109, Nagar Maharanipeta",Maharanipeta,Visakhapatnam,53007,37ZVLDV8996DU5S,2021-12-27 00:00:00,Active
+970,Madhu Das,Venkateswara Super Mart,Retail,9065092414,madhudas6934@demo.in,"80, Rd Malkapuram",Malkapuram,Visakhapatnam,53064,37XGPVY8166S1ZA,2023-08-15 00:00:00,Inactive
+971,Pooja Joshi,Annapurna Hotel,Retail,6579487349,poojajoshi870@mail.com,"142, Nagar Malkapuram",Malkapuram,Visakhapatnam,53082,37YBMXX8564DYCZ,2024-05-01 00:00:00,Active
+972,Rohit Verma,Sri Cool Drinks,Institutional,8519497815,rohitverma6830@mail.com,"82, Nagar Seethammadhara",Seethammadhara,Visakhapatnam,53046,37WODFS1857ZGVB,2023-12-05 00:00:00,Active
+973,Madhu Sharma,Om Refreshments,Retail,7823403838,madhusharma5257@example.com,"42, Nagar PM Palem",PM Palem,Visakhapatnam,53012,37VTFEV0168GAVH,2021-12-30 00:00:00,Inactive
+974,Karthik Shetty,Lakshmi Cool Drinks,Wholesale,6971929139,karthikshetty1511@example.com,"158, Street Siripuram",Siripuram,Visakhapatnam,53085,37UVGKM0693GS19,2022-05-14 00:00:00,Active
+975,Suresh Nair,Balaji Hotel,Retail,9747646829,sureshnair2252@demo.in,"182, Nagar Anakapalle",Anakapalle,Visakhapatnam,53077,37PFACQ0691BZQC,2024-09-30 00:00:00,Inactive
+976,Divya Gupta,Venkateswara Café,Institutional,9106556125,divyagupta4314@example.com,"152, Lane Gopalapatnam",Gopalapatnam,Visakhapatnam,53052,37TTEYP0983S3LP,2022-10-03 00:00:00,Active
+977,Deepak Naidu,Lakshmi Cool Drinks,HoReCa,6813319837,deepaknaidu8004@demo.in,"162, Lane Kurmannapalem",Kurmannapalem,Visakhapatnam,53050,37PNXID3568JM68,2022-04-15 00:00:00,Active
+978,Pooja Reddy,Sri Cool Drinks,Wholesale,7686575137,poojareddy5398@example.com,"56, Rd Maddilapalem",Maddilapalem,Visakhapatnam,53080,37WHXEY8748D82D,2023-02-09 00:00:00,Active
+979,Sai Nair,Om Super Mart,Institutional,6030068248,sainair4491@mail.com,"67, Rd Maharanipeta",Maharanipeta,Visakhapatnam,53096,37XLFXP4156QWZS,2022-02-26 00:00:00,Active
+980,Rohit Chowdary,Sai Refreshments,Wholesale,8630280605,rohitchowdary2093@demo.in,"66, Street Pendurthi",Pendurthi,Visakhapatnam,53016,37EAZRT3279WIHN,2024-09-08 00:00:00,Inactive
+981,Suma Kumar,Sree Beverages,Wholesale,7446744632,sumakumar1769@demo.in,"142, Nagar PM Palem",PM Palem,Visakhapatnam,53089,37VUFPB0869XEZW,2023-01-03 00:00:00,Active
+982,Vamsi Chowdary,Sree Beverages,Retail,6959788487,vamsichowdary1557@mail.com,"45, Street Maharanipeta",Maharanipeta,Visakhapatnam,53047,37SVSPO3061XXS0,2020-04-14 00:00:00,Inactive
+983,Anil Sharma,Om Hotel,Institutional,6726984069,anilsharma4335@demo.in,"150, Street Kurmannapalem",Kurmannapalem,Visakhapatnam,53076,37PALCA1243RAGS,2025-05-14 00:00:00,Active
+984,Sirisha Patel,Balaji Super Mart,Institutional,6870360116,sirishapatel7026@example.com,"153, Lane Gopalapatnam",Gopalapatnam,Visakhapatnam,53008,37CUXOM2522UPC4,2024-03-27 00:00:00,Inactive
+985,Harsha Nair,Venkateswara Café,Retail,7648742388,harshanair4247@example.com,"167, Lane PM Palem",PM Palem,Visakhapatnam,53028,37GLFHJ2108P8TH,2023-07-05 00:00:00,Inactive
+986,Harsha Babu,Balaji General Stores,HoReCa,7425476679,harshababu6489@mail.com,"176, Rd Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53067,37UDWZG9349DC6Z,2025-10-01 00:00:00,Inactive
+987,Divya Shetty,Balaji Refreshments,HoReCa,6072859048,divyashetty4171@demo.in,"112, Nagar Kurmannapalem",Kurmannapalem,Visakhapatnam,53061,37OFTXT0046FGQ9,2021-08-01 00:00:00,Active
+988,Ramesh Babu,Lakshmi Beverages,Institutional,7778972895,rameshbabu419@mail.com,"174, Lane PM Palem",PM Palem,Visakhapatnam,53039,37CFPIL9465J8IS,2024-12-03 00:00:00,Active
+989,Prasad Verma,Sri Beverages,Retail,8523375049,prasadverma6402@demo.in,"193, Nagar Old Town",Old Town,Visakhapatnam,53021,37KRNIY1804TIU5,2021-06-16 00:00:00,Active
+990,Suresh Naidu,Venkateswara General Stores,HoReCa,6879843270,sureshnaidu4111@example.com,"29, Street Kurmannapalem",Kurmannapalem,Visakhapatnam,53070,37YBUCS7028VGZK,2023-03-07 00:00:00,Inactive
+991,Pooja Verma,Annapurna General Stores,HoReCa,9073016369,poojaverma6551@demo.in,"71, Rd Bheemunipatnam",Bheemunipatnam,Visakhapatnam,53035,37PADMU8275BIKX,2020-10-18 00:00:00,Active
+992,Neha Patel,Om Café,Wholesale,6097964704,nehapatel1002@mail.com,"161, Street PM Palem",PM Palem,Visakhapatnam,53033,37AGQSD7625DGDQ,2023-08-04 00:00:00,Active
+993,Sridhar Shetty,Sai Cool Drinks,Institutional,9089414994,sridharshetty3322@demo.in,"143, Rd NAD",NAD,Visakhapatnam,53010,37QUXDU0444OGGX,2020-04-29 00:00:00,Active
+994,Arun Shetty,Sai Hotel,Wholesale,7822801726,arunshetty7687@mail.com,"51, Street Kurmannapalem",Kurmannapalem,Visakhapatnam,53009,37TWHJD5045IGEX,2023-10-07 00:00:00,Active
+995,Ramesh Reddy,Balaji Cool Drinks,Retail,8782310164,rameshreddy1446@example.com,"129, Nagar Siripuram",Siripuram,Visakhapatnam,53045,37AUXHP3309GYZV,2020-08-11 00:00:00,Inactive
+996,Karthik Reddy,Sri Cool Drinks,Institutional,6883014370,karthikreddy5704@mail.com,"83, Street Malkapuram",Malkapuram,Visakhapatnam,53040,37AELNU7392TA2R,2023-02-02 00:00:00,Active
+997,Sridhar Iyer,Om Hotel,Wholesale,7906648564,sridhariyer9208@mail.com,"20, Nagar Yendada",Yendada,Visakhapatnam,53006,37MENNH8894X0NT,2020-02-05 00:00:00,Inactive
+998,Harsha Kumar,Sri Beverages,Retail,9824567667,harshakumar525@demo.in,"155, Rd Malkapuram",Malkapuram,Visakhapatnam,53054,37KNYVV0006M1N0,2022-12-22 00:00:00,Inactive
+999,Ramesh Chowdary,Annapurna Café,Retail,8534861010,rameshchowdary8714@example.com,"9, Street Siripuram",Siripuram,Visakhapatnam,53024,37TXFYJ4114KB5S,2025-06-08 00:00:00,Active
+1000,Suma Verma,Sree Hotel,Institutional,6150768891,sumaverma3019@example.com,"129, Rd Kurmannapalem",Kurmannapalem,Visakhapatnam,53091,37FMMWT1023Y998,2024-10-08 00:00:00,Inactive

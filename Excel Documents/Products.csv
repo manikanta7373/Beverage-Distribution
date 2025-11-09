@@ -1,0 +1,1001 @@
+ProductID,BrandFamily,ProductName,Container,SizeML,Category,GSTPct,MRP,DefaultSupplier
+1,Coke,ThumsUp,Glass Bottle,200,Cola,28,13.79,Ramu Agencies
+2,Coke,ThumsUp,Glass Bottle,250,Cola,28,14.88,Ramu Agencies
+3,Coke,ThumsUp,Glass Bottle,300,Cola,28,18.37,Ramu Agencies
+4,Coke,ThumsUp,Glass Bottle,330,Cola,28,19.15,Ramu Agencies
+5,Coke,ThumsUp,Glass Bottle,500,Cola,28,24.41,Ramu Agencies
+6,Coke,ThumsUp,Glass Bottle,600,Cola,28,28.25,Ramu Agencies
+7,Coke,ThumsUp,Glass Bottle,750,Cola,28,33.39,Ramu Agencies
+8,Coke,ThumsUp,Glass Bottle,1000,Cola,28,43.08,Ramu Agencies
+9,Coke,ThumsUp,Glass Bottle,1500,Cola,28,66.86,Ramu Agencies
+10,Coke,ThumsUp,Glass Bottle,2000,Cola,28,76.39,Ramu Agencies
+11,Coke,ThumsUp,PET Bottle,200,Cola,28,14.36,Ramu Agencies
+12,Coke,ThumsUp,PET Bottle,250,Cola,28,16.67,Ramu Agencies
+13,Coke,ThumsUp,PET Bottle,300,Cola,28,18.31,Ramu Agencies
+14,Coke,ThumsUp,PET Bottle,330,Cola,28,19.03,Ramu Agencies
+15,Coke,ThumsUp,PET Bottle,500,Cola,28,25.08,Ramu Agencies
+16,Coke,ThumsUp,PET Bottle,600,Cola,28,28.04,Ramu Agencies
+17,Coke,ThumsUp,PET Bottle,750,Cola,28,35.84,Ramu Agencies
+18,Coke,ThumsUp,PET Bottle,1000,Cola,28,45.89,Ramu Agencies
+19,Coke,ThumsUp,PET Bottle,1500,Cola,28,58.61,Ramu Agencies
+20,Coke,ThumsUp,PET Bottle,2000,Cola,28,82.01,Ramu Agencies
+21,Coke,ThumsUp,Can,200,Cola,28,13.03,Ramu Agencies
+22,Coke,ThumsUp,Can,250,Cola,28,15.66,Ramu Agencies
+23,Coke,ThumsUp,Can,300,Cola,28,16.45,Ramu Agencies
+24,Coke,ThumsUp,Can,330,Cola,28,18.93,Ramu Agencies
+25,Coke,ThumsUp,Can,500,Cola,28,25.95,Ramu Agencies
+26,Coke,ThumsUp,Can,600,Cola,28,30.32,Ramu Agencies
+27,Coke,ThumsUp,Can,750,Cola,28,34.98,Ramu Agencies
+28,Coke,ThumsUp,Can,1000,Cola,28,42.67,Ramu Agencies
+29,Coke,ThumsUp,Can,1500,Cola,28,62.32,Ramu Agencies
+30,Coke,ThumsUp,Can,2000,Cola,28,82.06,Ramu Agencies
+31,Coke,ThumsUp,Tetra Pack,200,Cola,28,13.41,Ramu Agencies
+32,Coke,ThumsUp,Tetra Pack,250,Cola,28,16.3,Ramu Agencies
+33,Coke,ThumsUp,Tetra Pack,300,Cola,28,16.47,Ramu Agencies
+34,Coke,ThumsUp,Tetra Pack,330,Cola,28,18.33,Ramu Agencies
+35,Coke,ThumsUp,Tetra Pack,500,Cola,28,23.68,Ramu Agencies
+36,Coke,ThumsUp,Tetra Pack,600,Cola,28,29.76,Ramu Agencies
+37,Coke,ThumsUp,Tetra Pack,750,Cola,28,36.24,Ramu Agencies
+38,Coke,ThumsUp,Tetra Pack,1000,Cola,28,47.04,Ramu Agencies
+39,Coke,ThumsUp,Tetra Pack,1500,Cola,28,63.76,Ramu Agencies
+40,Coke,ThumsUp,Tetra Pack,2000,Cola,28,87.24,Ramu Agencies
+41,Coke,Sprite,Glass Bottle,200,Lemon,28,13.87,Ramu Agencies
+42,Coke,Sprite,Glass Bottle,250,Lemon,28,15.91,Ramu Agencies
+43,Coke,Sprite,Glass Bottle,300,Lemon,28,16.74,Ramu Agencies
+44,Coke,Sprite,Glass Bottle,330,Lemon,28,19.61,Ramu Agencies
+45,Coke,Sprite,Glass Bottle,500,Lemon,28,26.77,Ramu Agencies
+46,Coke,Sprite,Glass Bottle,600,Lemon,28,27.8,Ramu Agencies
+47,Coke,Sprite,Glass Bottle,750,Lemon,28,32.91,Ramu Agencies
+48,Coke,Sprite,Glass Bottle,1000,Lemon,28,46.86,Ramu Agencies
+49,Coke,Sprite,Glass Bottle,1500,Lemon,28,65.36,Ramu Agencies
+50,Coke,Sprite,Glass Bottle,2000,Lemon,28,81.67,Ramu Agencies
+51,Coke,Sprite,PET Bottle,200,Lemon,28,14.83,Ramu Agencies
+52,Coke,Sprite,PET Bottle,250,Lemon,28,15.87,Ramu Agencies
+53,Coke,Sprite,PET Bottle,300,Lemon,28,16.6,Ramu Agencies
+54,Coke,Sprite,PET Bottle,330,Lemon,28,18.27,Ramu Agencies
+55,Coke,Sprite,PET Bottle,500,Lemon,28,23.68,Ramu Agencies
+56,Coke,Sprite,PET Bottle,600,Lemon,28,30.75,Ramu Agencies
+57,Coke,Sprite,PET Bottle,750,Lemon,28,36.58,Ramu Agencies
+58,Coke,Sprite,PET Bottle,1000,Lemon,28,45.61,Ramu Agencies
+59,Coke,Sprite,PET Bottle,1500,Lemon,28,62.2,Ramu Agencies
+60,Coke,Sprite,PET Bottle,2000,Lemon,28,83.52,Ramu Agencies
+61,Coke,Sprite,Can,200,Lemon,28,13.58,Ramu Agencies
+62,Coke,Sprite,Can,250,Lemon,28,15.28,Ramu Agencies
+63,Coke,Sprite,Can,300,Lemon,28,17.43,Ramu Agencies
+64,Coke,Sprite,Can,330,Lemon,28,18.87,Ramu Agencies
+65,Coke,Sprite,Can,500,Lemon,28,23.96,Ramu Agencies
+66,Coke,Sprite,Can,600,Lemon,28,30.98,Ramu Agencies
+67,Coke,Sprite,Can,750,Lemon,28,35.26,Ramu Agencies
+68,Coke,Sprite,Can,1000,Lemon,28,46.89,Ramu Agencies
+69,Coke,Sprite,Can,1500,Lemon,28,59.48,Ramu Agencies
+70,Coke,Sprite,Can,2000,Lemon,28,82.91,Ramu Agencies
+71,Coke,Sprite,Tetra Pack,200,Lemon,28,14.22,Ramu Agencies
+72,Coke,Sprite,Tetra Pack,250,Lemon,28,15.97,Ramu Agencies
+73,Coke,Sprite,Tetra Pack,300,Lemon,28,16.42,Ramu Agencies
+74,Coke,Sprite,Tetra Pack,330,Lemon,28,18.97,Ramu Agencies
+75,Coke,Sprite,Tetra Pack,500,Lemon,28,25.24,Ramu Agencies
+76,Coke,Sprite,Tetra Pack,600,Lemon,28,30.49,Ramu Agencies
+77,Coke,Sprite,Tetra Pack,750,Lemon,28,34.35,Ramu Agencies
+78,Coke,Sprite,Tetra Pack,1000,Lemon,28,44.38,Ramu Agencies
+79,Coke,Sprite,Tetra Pack,1500,Lemon,28,61.29,Ramu Agencies
+80,Coke,Sprite,Tetra Pack,2000,Lemon,28,81.34,Ramu Agencies
+81,Coke,Limca,Glass Bottle,200,Mixed,28,14.22,Ramu Agencies
+82,Coke,Limca,Glass Bottle,250,Mixed,28,15.17,Ramu Agencies
+83,Coke,Limca,Glass Bottle,300,Mixed,28,16.92,Ramu Agencies
+84,Coke,Limca,Glass Bottle,330,Mixed,28,18.29,Ramu Agencies
+85,Coke,Limca,Glass Bottle,500,Mixed,28,25.69,Ramu Agencies
+86,Coke,Limca,Glass Bottle,600,Mixed,28,29.77,Ramu Agencies
+87,Coke,Limca,Glass Bottle,750,Mixed,28,34.64,Ramu Agencies
+88,Coke,Limca,Glass Bottle,1000,Mixed,28,42.54,Ramu Agencies
+89,Coke,Limca,Glass Bottle,1500,Mixed,28,65.25,Ramu Agencies
+90,Coke,Limca,Glass Bottle,2000,Mixed,28,85.68,Ramu Agencies
+91,Coke,Limca,PET Bottle,200,Mixed,28,14.08,Ramu Agencies
+92,Coke,Limca,PET Bottle,250,Mixed,28,16.24,Ramu Agencies
+93,Coke,Limca,PET Bottle,300,Mixed,28,18.84,Ramu Agencies
+94,Coke,Limca,PET Bottle,330,Mixed,28,19.36,Ramu Agencies
+95,Coke,Limca,PET Bottle,500,Mixed,28,25.54,Ramu Agencies
+96,Coke,Limca,PET Bottle,600,Mixed,28,28.3,Ramu Agencies
+97,Coke,Limca,PET Bottle,750,Mixed,28,33.27,Ramu Agencies
+98,Coke,Limca,PET Bottle,1000,Mixed,28,46.97,Ramu Agencies
+99,Coke,Limca,PET Bottle,1500,Mixed,28,60.69,Ramu Agencies
+100,Coke,Limca,PET Bottle,2000,Mixed,28,87.21,Ramu Agencies
+101,Coke,Limca,Can,200,Mixed,28,14.84,Ramu Agencies
+102,Coke,Limca,Can,250,Mixed,28,14.96,Ramu Agencies
+103,Coke,Limca,Can,300,Mixed,28,18.02,Ramu Agencies
+104,Coke,Limca,Can,330,Mixed,28,17.91,Ramu Agencies
+105,Coke,Limca,Can,500,Mixed,28,23.88,Ramu Agencies
+106,Coke,Limca,Can,600,Mixed,28,27.45,Ramu Agencies
+107,Coke,Limca,Can,750,Mixed,28,33.6,Ramu Agencies
+108,Coke,Limca,Can,1000,Mixed,28,42.74,Ramu Agencies
+109,Coke,Limca,Can,1500,Mixed,28,60.83,Ramu Agencies
+110,Coke,Limca,Can,2000,Mixed,28,77.12,Ramu Agencies
+111,Coke,Limca,Tetra Pack,200,Mixed,28,14.67,Ramu Agencies
+112,Coke,Limca,Tetra Pack,250,Mixed,28,15.22,Ramu Agencies
+113,Coke,Limca,Tetra Pack,300,Mixed,28,18.61,Ramu Agencies
+114,Coke,Limca,Tetra Pack,330,Mixed,28,18.65,Ramu Agencies
+115,Coke,Limca,Tetra Pack,500,Mixed,28,23.37,Ramu Agencies
+116,Coke,Limca,Tetra Pack,600,Mixed,28,30.43,Ramu Agencies
+117,Coke,Limca,Tetra Pack,750,Mixed,28,34.28,Ramu Agencies
+118,Coke,Limca,Tetra Pack,1000,Mixed,28,42.25,Ramu Agencies
+119,Coke,Limca,Tetra Pack,1500,Mixed,28,67.32,Ramu Agencies
+120,Coke,Limca,Tetra Pack,2000,Mixed,28,79.35,Ramu Agencies
+121,Coke,Fanta,Glass Bottle,200,Mixed,28,12.88,Ramu Agencies
+122,Coke,Fanta,Glass Bottle,250,Mixed,28,15.17,Ramu Agencies
+123,Coke,Fanta,Glass Bottle,300,Mixed,28,18.23,Ramu Agencies
+124,Coke,Fanta,Glass Bottle,330,Mixed,28,17.39,Ramu Agencies
+125,Coke,Fanta,Glass Bottle,500,Mixed,28,24.22,Ramu Agencies
+126,Coke,Fanta,Glass Bottle,600,Mixed,28,30.43,Ramu Agencies
+127,Coke,Fanta,Glass Bottle,750,Mixed,28,35.62,Ramu Agencies
+128,Coke,Fanta,Glass Bottle,1000,Mixed,28,44.6,Ramu Agencies
+129,Coke,Fanta,Glass Bottle,1500,Mixed,28,64.26,Ramu Agencies
+130,Coke,Fanta,Glass Bottle,2000,Mixed,28,85.91,Ramu Agencies
+131,Coke,Fanta,PET Bottle,200,Mixed,28,14.18,Ramu Agencies
+132,Coke,Fanta,PET Bottle,250,Mixed,28,16.08,Ramu Agencies
+133,Coke,Fanta,PET Bottle,300,Mixed,28,18.59,Ramu Agencies
+134,Coke,Fanta,PET Bottle,330,Mixed,28,19.13,Ramu Agencies
+135,Coke,Fanta,PET Bottle,500,Mixed,28,25.47,Ramu Agencies
+136,Coke,Fanta,PET Bottle,600,Mixed,28,27.79,Ramu Agencies
+137,Coke,Fanta,PET Bottle,750,Mixed,28,32.99,Ramu Agencies
+138,Coke,Fanta,PET Bottle,1000,Mixed,28,41.62,Ramu Agencies
+139,Coke,Fanta,PET Bottle,1500,Mixed,28,62.29,Ramu Agencies
+140,Coke,Fanta,PET Bottle,2000,Mixed,28,78.92,Ramu Agencies
+141,Coke,Fanta,Can,200,Mixed,28,14.25,Ramu Agencies
+142,Coke,Fanta,Can,250,Mixed,28,16.63,Ramu Agencies
+143,Coke,Fanta,Can,300,Mixed,28,16.95,Ramu Agencies
+144,Coke,Fanta,Can,330,Mixed,28,18.47,Ramu Agencies
+145,Coke,Fanta,Can,500,Mixed,28,25.94,Ramu Agencies
+146,Coke,Fanta,Can,600,Mixed,28,27.49,Ramu Agencies
+147,Coke,Fanta,Can,750,Mixed,28,36.36,Ramu Agencies
+148,Coke,Fanta,Can,1000,Mixed,28,43.93,Ramu Agencies
+149,Coke,Fanta,Can,1500,Mixed,28,58.5,Ramu Agencies
+150,Coke,Fanta,Can,2000,Mixed,28,86.06,Ramu Agencies
+151,Coke,Fanta,Tetra Pack,200,Mixed,28,13.88,Ramu Agencies
+152,Coke,Fanta,Tetra Pack,250,Mixed,28,16.1,Ramu Agencies
+153,Coke,Fanta,Tetra Pack,300,Mixed,28,18.57,Ramu Agencies
+154,Coke,Fanta,Tetra Pack,330,Mixed,28,19.83,Ramu Agencies
+155,Coke,Fanta,Tetra Pack,500,Mixed,28,24.53,Ramu Agencies
+156,Coke,Fanta,Tetra Pack,600,Mixed,28,26.87,Ramu Agencies
+157,Coke,Fanta,Tetra Pack,750,Mixed,28,36.28,Ramu Agencies
+158,Coke,Fanta,Tetra Pack,1000,Mixed,28,46.66,Ramu Agencies
+159,Coke,Fanta,Tetra Pack,1500,Mixed,28,59.3,Ramu Agencies
+160,Coke,Fanta,Tetra Pack,2000,Mixed,28,78.81,Ramu Agencies
+161,Coke,Coca-Cola,Glass Bottle,200,Cola,28,13.27,Ramu Agencies
+162,Coke,Coca-Cola,Glass Bottle,250,Cola,28,16.22,Ramu Agencies
+163,Coke,Coca-Cola,Glass Bottle,300,Cola,28,18.77,Ramu Agencies
+164,Coke,Coca-Cola,Glass Bottle,330,Cola,28,17.93,Ramu Agencies
+165,Coke,Coca-Cola,Glass Bottle,500,Cola,28,24.61,Ramu Agencies
+166,Coke,Coca-Cola,Glass Bottle,600,Cola,28,30.4,Ramu Agencies
+167,Coke,Coca-Cola,Glass Bottle,750,Cola,28,34.38,Ramu Agencies
+168,Coke,Coca-Cola,Glass Bottle,1000,Cola,28,42.14,Ramu Agencies
+169,Coke,Coca-Cola,Glass Bottle,1500,Cola,28,62.69,Ramu Agencies
+170,Coke,Coca-Cola,Glass Bottle,2000,Cola,28,76.01,Ramu Agencies
+171,Coke,Coca-Cola,PET Bottle,200,Cola,28,14.43,Ramu Agencies
+172,Coke,Coca-Cola,PET Bottle,250,Cola,28,15.43,Ramu Agencies
+173,Coke,Coca-Cola,PET Bottle,300,Cola,28,17.21,Ramu Agencies
+174,Coke,Coca-Cola,PET Bottle,330,Cola,28,19.41,Ramu Agencies
+175,Coke,Coca-Cola,PET Bottle,500,Cola,28,25.01,Ramu Agencies
+176,Coke,Coca-Cola,PET Bottle,600,Cola,28,31.01,Ramu Agencies
+177,Coke,Coca-Cola,PET Bottle,750,Cola,28,33,Ramu Agencies
+178,Coke,Coca-Cola,PET Bottle,1000,Cola,28,44.13,Ramu Agencies
+179,Coke,Coca-Cola,PET Bottle,1500,Cola,28,66.88,Ramu Agencies
+180,Coke,Coca-Cola,PET Bottle,2000,Cola,28,84.52,Ramu Agencies
+181,Coke,Coca-Cola,Can,200,Cola,28,14.07,Ramu Agencies
+182,Coke,Coca-Cola,Can,250,Cola,28,16.04,Ramu Agencies
+183,Coke,Coca-Cola,Can,300,Cola,28,16.98,Ramu Agencies
+184,Coke,Coca-Cola,Can,330,Cola,28,18.42,Ramu Agencies
+185,Coke,Coca-Cola,Can,500,Cola,28,23.55,Ramu Agencies
+186,Coke,Coca-Cola,Can,600,Cola,28,27.14,Ramu Agencies
+187,Coke,Coca-Cola,Can,750,Cola,28,36.7,Ramu Agencies
+188,Coke,Coca-Cola,Can,1000,Cola,28,44.86,Ramu Agencies
+189,Coke,Coca-Cola,Can,1500,Cola,28,64.52,Ramu Agencies
+190,Coke,Coca-Cola,Can,2000,Cola,28,82.74,Ramu Agencies
+191,Coke,Coca-Cola,Tetra Pack,200,Cola,28,13.05,Ramu Agencies
+192,Coke,Coca-Cola,Tetra Pack,250,Cola,28,15.28,Ramu Agencies
+193,Coke,Coca-Cola,Tetra Pack,300,Cola,28,17.36,Ramu Agencies
+194,Coke,Coca-Cola,Tetra Pack,330,Cola,28,19.99,Ramu Agencies
+195,Coke,Coca-Cola,Tetra Pack,500,Cola,28,26.9,Ramu Agencies
+196,Coke,Coca-Cola,Tetra Pack,600,Cola,28,31.03,Ramu Agencies
+197,Coke,Coca-Cola,Tetra Pack,750,Cola,28,36.93,Ramu Agencies
+198,Coke,Coca-Cola,Tetra Pack,1000,Cola,28,43.79,Ramu Agencies
+199,Coke,Coca-Cola,Tetra Pack,1500,Cola,28,59.83,Ramu Agencies
+200,Coke,Coca-Cola,Tetra Pack,2000,Cola,28,86.91,Ramu Agencies
+201,Coke,Kinley Soda,Glass Bottle,200,Soda,28,12.97,Ramu Agencies
+202,Coke,Kinley Soda,Glass Bottle,250,Soda,28,16.41,Ramu Agencies
+203,Coke,Kinley Soda,Glass Bottle,300,Soda,28,16.83,Ramu Agencies
+204,Coke,Kinley Soda,Glass Bottle,330,Soda,28,19.14,Ramu Agencies
+205,Coke,Kinley Soda,Glass Bottle,500,Soda,28,25.97,Ramu Agencies
+206,Coke,Kinley Soda,Glass Bottle,600,Soda,28,30.27,Ramu Agencies
+207,Coke,Kinley Soda,Glass Bottle,750,Soda,28,32.81,Ramu Agencies
+208,Coke,Kinley Soda,Glass Bottle,1000,Soda,28,45.1,Ramu Agencies
+209,Coke,Kinley Soda,Glass Bottle,1500,Soda,28,65.95,Ramu Agencies
+210,Coke,Kinley Soda,Glass Bottle,2000,Soda,28,85.31,Ramu Agencies
+211,Coke,Kinley Soda,PET Bottle,200,Soda,28,13.67,Ramu Agencies
+212,Coke,Kinley Soda,PET Bottle,250,Soda,28,16.87,Ramu Agencies
+213,Coke,Kinley Soda,PET Bottle,300,Soda,28,18.28,Ramu Agencies
+214,Coke,Kinley Soda,PET Bottle,330,Soda,28,19.16,Ramu Agencies
+215,Coke,Kinley Soda,PET Bottle,500,Soda,28,26.19,Ramu Agencies
+216,Coke,Kinley Soda,PET Bottle,600,Soda,28,28.81,Ramu Agencies
+217,Coke,Kinley Soda,PET Bottle,750,Soda,28,36.03,Ramu Agencies
+218,Coke,Kinley Soda,PET Bottle,1000,Soda,28,42.3,Ramu Agencies
+219,Coke,Kinley Soda,PET Bottle,1500,Soda,28,64.78,Ramu Agencies
+220,Coke,Kinley Soda,PET Bottle,2000,Soda,28,84.02,Ramu Agencies
+221,Coke,Kinley Soda,Can,200,Soda,28,14.82,Ramu Agencies
+222,Coke,Kinley Soda,Can,250,Soda,28,16.14,Ramu Agencies
+223,Coke,Kinley Soda,Can,300,Soda,28,17.57,Ramu Agencies
+224,Coke,Kinley Soda,Can,330,Soda,28,19.58,Ramu Agencies
+225,Coke,Kinley Soda,Can,500,Soda,28,26.26,Ramu Agencies
+226,Coke,Kinley Soda,Can,600,Soda,28,28.34,Ramu Agencies
+227,Coke,Kinley Soda,Can,750,Soda,28,35.38,Ramu Agencies
+228,Coke,Kinley Soda,Can,1000,Soda,28,42.88,Ramu Agencies
+229,Coke,Kinley Soda,Can,1500,Soda,28,62.77,Ramu Agencies
+230,Coke,Kinley Soda,Can,2000,Soda,28,83.26,Ramu Agencies
+231,Coke,Kinley Soda,Tetra Pack,200,Soda,28,13,Ramu Agencies
+232,Coke,Kinley Soda,Tetra Pack,250,Soda,28,16.64,Ramu Agencies
+233,Coke,Kinley Soda,Tetra Pack,300,Soda,28,16.72,Ramu Agencies
+234,Coke,Kinley Soda,Tetra Pack,330,Soda,28,18.21,Ramu Agencies
+235,Coke,Kinley Soda,Tetra Pack,500,Soda,28,24.74,Ramu Agencies
+236,Coke,Kinley Soda,Tetra Pack,600,Soda,28,27.19,Ramu Agencies
+237,Coke,Kinley Soda,Tetra Pack,750,Soda,28,34.93,Ramu Agencies
+238,Coke,Kinley Soda,Tetra Pack,1000,Soda,28,42.91,Ramu Agencies
+239,Coke,Kinley Soda,Tetra Pack,1500,Soda,28,66.97,Ramu Agencies
+240,Coke,Kinley Soda,Tetra Pack,2000,Soda,28,82.15,Ramu Agencies
+241,Coke,Kinley Water,Glass Bottle,200,Water,18,11.07,Ramu Agencies
+242,Coke,Kinley Water,Glass Bottle,250,Water,18,12.73,Ramu Agencies
+243,Coke,Kinley Water,Glass Bottle,300,Water,18,14.16,Ramu Agencies
+244,Coke,Kinley Water,Glass Bottle,330,Water,18,13.98,Ramu Agencies
+245,Coke,Kinley Water,Glass Bottle,500,Water,18,17.69,Ramu Agencies
+246,Coke,Kinley Water,Glass Bottle,600,Water,18,20.74,Ramu Agencies
+247,Coke,Kinley Water,Glass Bottle,750,Water,18,25.56,Ramu Agencies
+248,Coke,Kinley Water,Glass Bottle,1000,Water,18,31.82,Ramu Agencies
+249,Coke,Kinley Water,Glass Bottle,1500,Water,18,46.31,Ramu Agencies
+250,Coke,Kinley Water,Glass Bottle,2000,Water,18,54.02,Ramu Agencies
+251,Coke,Kinley Water,PET Bottle,200,Water,18,11.24,Ramu Agencies
+252,Coke,Kinley Water,PET Bottle,250,Water,18,13.11,Ramu Agencies
+253,Coke,Kinley Water,PET Bottle,300,Water,18,13.25,Ramu Agencies
+254,Coke,Kinley Water,PET Bottle,330,Water,18,14.39,Ramu Agencies
+255,Coke,Kinley Water,PET Bottle,500,Water,18,18.97,Ramu Agencies
+256,Coke,Kinley Water,PET Bottle,600,Water,18,21.73,Ramu Agencies
+257,Coke,Kinley Water,PET Bottle,750,Water,18,25.85,Ramu Agencies
+258,Coke,Kinley Water,PET Bottle,1000,Water,18,33.65,Ramu Agencies
+259,Coke,Kinley Water,PET Bottle,1500,Water,18,41.4,Ramu Agencies
+260,Coke,Kinley Water,PET Bottle,2000,Water,18,59.94,Ramu Agencies
+261,Coke,Kinley Water,Can,200,Water,18,11.4,Ramu Agencies
+262,Coke,Kinley Water,Can,250,Water,18,12.83,Ramu Agencies
+263,Coke,Kinley Water,Can,300,Water,18,13.43,Ramu Agencies
+264,Coke,Kinley Water,Can,330,Water,18,14.58,Ramu Agencies
+265,Coke,Kinley Water,Can,500,Water,18,18.08,Ramu Agencies
+266,Coke,Kinley Water,Can,600,Water,18,20.07,Ramu Agencies
+267,Coke,Kinley Water,Can,750,Water,18,26.41,Ramu Agencies
+268,Coke,Kinley Water,Can,1000,Water,18,32.24,Ramu Agencies
+269,Coke,Kinley Water,Can,1500,Water,18,41.58,Ramu Agencies
+270,Coke,Kinley Water,Can,2000,Water,18,53.47,Ramu Agencies
+271,Coke,Kinley Water,Tetra Pack,200,Water,18,11.19,Ramu Agencies
+272,Coke,Kinley Water,Tetra Pack,250,Water,18,13.18,Ramu Agencies
+273,Coke,Kinley Water,Tetra Pack,300,Water,18,13.79,Ramu Agencies
+274,Coke,Kinley Water,Tetra Pack,330,Water,18,14.72,Ramu Agencies
+275,Coke,Kinley Water,Tetra Pack,500,Water,18,18.83,Ramu Agencies
+276,Coke,Kinley Water,Tetra Pack,600,Water,18,22.65,Ramu Agencies
+277,Coke,Kinley Water,Tetra Pack,750,Water,18,25.9,Ramu Agencies
+278,Coke,Kinley Water,Tetra Pack,1000,Water,18,30.29,Ramu Agencies
+279,Coke,Kinley Water,Tetra Pack,1500,Water,18,41.88,Ramu Agencies
+280,Coke,Kinley Water,Tetra Pack,2000,Water,18,57.44,Ramu Agencies
+281,Coke,Maaza,Glass Bottle,200,Mixed,28,14.31,Ramu Agencies
+282,Coke,Maaza,Glass Bottle,250,Mixed,28,14.95,Ramu Agencies
+283,Coke,Maaza,Glass Bottle,300,Mixed,28,17.15,Ramu Agencies
+284,Coke,Maaza,Glass Bottle,330,Mixed,28,19.28,Ramu Agencies
+285,Coke,Maaza,Glass Bottle,500,Mixed,28,25.16,Ramu Agencies
+286,Coke,Maaza,Glass Bottle,600,Mixed,28,28.08,Ramu Agencies
+287,Coke,Maaza,Glass Bottle,750,Mixed,28,34.43,Ramu Agencies
+288,Coke,Maaza,Glass Bottle,1000,Mixed,28,43.56,Ramu Agencies
+289,Coke,Maaza,Glass Bottle,1500,Mixed,28,67.5,Ramu Agencies
+290,Coke,Maaza,Glass Bottle,2000,Mixed,28,83.88,Ramu Agencies
+291,Coke,Maaza,PET Bottle,200,Mixed,28,13.19,Ramu Agencies
+292,Coke,Maaza,PET Bottle,250,Mixed,28,15.41,Ramu Agencies
+293,Coke,Maaza,PET Bottle,300,Mixed,28,17.99,Ramu Agencies
+294,Coke,Maaza,PET Bottle,330,Mixed,28,17.44,Ramu Agencies
+295,Coke,Maaza,PET Bottle,500,Mixed,28,23.5,Ramu Agencies
+296,Coke,Maaza,PET Bottle,600,Mixed,28,29.94,Ramu Agencies
+297,Coke,Maaza,PET Bottle,750,Mixed,28,37.12,Ramu Agencies
+298,Coke,Maaza,PET Bottle,1000,Mixed,28,46.02,Ramu Agencies
+299,Coke,Maaza,PET Bottle,1500,Mixed,28,59.18,Ramu Agencies
+300,Coke,Maaza,PET Bottle,2000,Mixed,28,81.59,Ramu Agencies
+301,Coke,Maaza,Can,200,Mixed,28,14.36,Ramu Agencies
+302,Coke,Maaza,Can,250,Mixed,28,14.91,Ramu Agencies
+303,Coke,Maaza,Can,300,Mixed,28,16.88,Ramu Agencies
+304,Coke,Maaza,Can,330,Mixed,28,18.52,Ramu Agencies
+305,Coke,Maaza,Can,500,Mixed,28,23.79,Ramu Agencies
+306,Coke,Maaza,Can,600,Mixed,28,27.23,Ramu Agencies
+307,Coke,Maaza,Can,750,Mixed,28,35.4,Ramu Agencies
+308,Coke,Maaza,Can,1000,Mixed,28,43.02,Ramu Agencies
+309,Coke,Maaza,Can,1500,Mixed,28,65.47,Ramu Agencies
+310,Coke,Maaza,Can,2000,Mixed,28,82.43,Ramu Agencies
+311,Coke,Maaza,Tetra Pack,200,Mixed,28,14.67,Ramu Agencies
+312,Coke,Maaza,Tetra Pack,250,Mixed,28,15.23,Ramu Agencies
+313,Coke,Maaza,Tetra Pack,300,Mixed,28,17.21,Ramu Agencies
+314,Coke,Maaza,Tetra Pack,330,Mixed,28,18.07,Ramu Agencies
+315,Coke,Maaza,Tetra Pack,500,Mixed,28,23.52,Ramu Agencies
+316,Coke,Maaza,Tetra Pack,600,Mixed,28,28.05,Ramu Agencies
+317,Coke,Maaza,Tetra Pack,750,Mixed,28,33.87,Ramu Agencies
+318,Coke,Maaza,Tetra Pack,1000,Mixed,28,44,Ramu Agencies
+319,Coke,Maaza,Tetra Pack,1500,Mixed,28,61.38,Ramu Agencies
+320,Coke,Maaza,Tetra Pack,2000,Mixed,28,87.56,Ramu Agencies
+321,Coke,Minute Maid Pulpy Orange,Glass Bottle,200,Orange,28,14.59,Ramu Agencies
+322,Coke,Minute Maid Pulpy Orange,Glass Bottle,250,Orange,28,15.37,Ramu Agencies
+323,Coke,Minute Maid Pulpy Orange,Glass Bottle,300,Orange,28,16.85,Ramu Agencies
+324,Coke,Minute Maid Pulpy Orange,Glass Bottle,330,Orange,28,18.73,Ramu Agencies
+325,Coke,Minute Maid Pulpy Orange,Glass Bottle,500,Orange,28,23.76,Ramu Agencies
+326,Coke,Minute Maid Pulpy Orange,Glass Bottle,600,Orange,28,27.64,Ramu Agencies
+327,Coke,Minute Maid Pulpy Orange,Glass Bottle,750,Orange,28,35.68,Ramu Agencies
+328,Coke,Minute Maid Pulpy Orange,Glass Bottle,1000,Orange,28,41.64,Ramu Agencies
+329,Coke,Minute Maid Pulpy Orange,Glass Bottle,1500,Orange,28,67.25,Ramu Agencies
+330,Coke,Minute Maid Pulpy Orange,Glass Bottle,2000,Orange,28,76.86,Ramu Agencies
+331,Coke,Minute Maid Pulpy Orange,PET Bottle,200,Orange,28,14.84,Ramu Agencies
+332,Coke,Minute Maid Pulpy Orange,PET Bottle,250,Orange,28,15.5,Ramu Agencies
+333,Coke,Minute Maid Pulpy Orange,PET Bottle,300,Orange,28,17.75,Ramu Agencies
+334,Coke,Minute Maid Pulpy Orange,PET Bottle,330,Orange,28,18.49,Ramu Agencies
+335,Coke,Minute Maid Pulpy Orange,PET Bottle,500,Orange,28,25.44,Ramu Agencies
+336,Coke,Minute Maid Pulpy Orange,PET Bottle,600,Orange,28,28.51,Ramu Agencies
+337,Coke,Minute Maid Pulpy Orange,PET Bottle,750,Orange,28,32.62,Ramu Agencies
+338,Coke,Minute Maid Pulpy Orange,PET Bottle,1000,Orange,28,41.12,Ramu Agencies
+339,Coke,Minute Maid Pulpy Orange,PET Bottle,1500,Orange,28,65.87,Ramu Agencies
+340,Coke,Minute Maid Pulpy Orange,PET Bottle,2000,Orange,28,81.49,Ramu Agencies
+341,Coke,Minute Maid Pulpy Orange,Can,200,Orange,28,14.38,Ramu Agencies
+342,Coke,Minute Maid Pulpy Orange,Can,250,Orange,28,14.72,Ramu Agencies
+343,Coke,Minute Maid Pulpy Orange,Can,300,Orange,28,17.62,Ramu Agencies
+344,Coke,Minute Maid Pulpy Orange,Can,330,Orange,28,18.87,Ramu Agencies
+345,Coke,Minute Maid Pulpy Orange,Can,500,Orange,28,24.71,Ramu Agencies
+346,Coke,Minute Maid Pulpy Orange,Can,600,Orange,28,27.45,Ramu Agencies
+347,Coke,Minute Maid Pulpy Orange,Can,750,Orange,28,35.48,Ramu Agencies
+348,Coke,Minute Maid Pulpy Orange,Can,1000,Orange,28,45.25,Ramu Agencies
+349,Coke,Minute Maid Pulpy Orange,Can,1500,Orange,28,66.36,Ramu Agencies
+350,Coke,Minute Maid Pulpy Orange,Can,2000,Orange,28,76.81,Ramu Agencies
+351,Coke,Minute Maid Pulpy Orange,Tetra Pack,200,Orange,28,12.91,Ramu Agencies
+352,Coke,Minute Maid Pulpy Orange,Tetra Pack,250,Orange,28,16.03,Ramu Agencies
+353,Coke,Minute Maid Pulpy Orange,Tetra Pack,300,Orange,28,17.94,Ramu Agencies
+354,Coke,Minute Maid Pulpy Orange,Tetra Pack,330,Orange,28,17.86,Ramu Agencies
+355,Coke,Minute Maid Pulpy Orange,Tetra Pack,500,Orange,28,25.76,Ramu Agencies
+356,Coke,Minute Maid Pulpy Orange,Tetra Pack,600,Orange,28,30.5,Ramu Agencies
+357,Coke,Minute Maid Pulpy Orange,Tetra Pack,750,Orange,28,34.2,Ramu Agencies
+358,Coke,Minute Maid Pulpy Orange,Tetra Pack,1000,Orange,28,41.47,Ramu Agencies
+359,Coke,Minute Maid Pulpy Orange,Tetra Pack,1500,Orange,28,66.86,Ramu Agencies
+360,Coke,Minute Maid Pulpy Orange,Tetra Pack,2000,Orange,28,75.98,Ramu Agencies
+361,Coke,Minute Maid Apple,Glass Bottle,200,Apple,28,14.59,Ramu Agencies
+362,Coke,Minute Maid Apple,Glass Bottle,250,Apple,28,14.9,Ramu Agencies
+363,Coke,Minute Maid Apple,Glass Bottle,300,Apple,28,17.12,Ramu Agencies
+364,Coke,Minute Maid Apple,Glass Bottle,330,Apple,28,19.32,Ramu Agencies
+365,Coke,Minute Maid Apple,Glass Bottle,500,Apple,28,26.49,Ramu Agencies
+366,Coke,Minute Maid Apple,Glass Bottle,600,Apple,28,27.61,Ramu Agencies
+367,Coke,Minute Maid Apple,Glass Bottle,750,Apple,28,32.25,Ramu Agencies
+368,Coke,Minute Maid Apple,Glass Bottle,1000,Apple,28,40.96,Ramu Agencies
+369,Coke,Minute Maid Apple,Glass Bottle,1500,Apple,28,63.52,Ramu Agencies
+370,Coke,Minute Maid Apple,Glass Bottle,2000,Apple,28,82.72,Ramu Agencies
+371,Coke,Minute Maid Apple,PET Bottle,200,Apple,28,14.68,Ramu Agencies
+372,Coke,Minute Maid Apple,PET Bottle,250,Apple,28,15.72,Ramu Agencies
+373,Coke,Minute Maid Apple,PET Bottle,300,Apple,28,17.67,Ramu Agencies
+374,Coke,Minute Maid Apple,PET Bottle,330,Apple,28,19.64,Ramu Agencies
+375,Coke,Minute Maid Apple,PET Bottle,500,Apple,28,26.17,Ramu Agencies
+376,Coke,Minute Maid Apple,PET Bottle,600,Apple,28,28.61,Ramu Agencies
+377,Coke,Minute Maid Apple,PET Bottle,750,Apple,28,35.59,Ramu Agencies
+378,Coke,Minute Maid Apple,PET Bottle,1000,Apple,28,43.42,Ramu Agencies
+379,Coke,Minute Maid Apple,PET Bottle,1500,Apple,28,58.94,Ramu Agencies
+380,Coke,Minute Maid Apple,PET Bottle,2000,Apple,28,83.93,Ramu Agencies
+381,Coke,Minute Maid Apple,Can,200,Apple,28,14.03,Ramu Agencies
+382,Coke,Minute Maid Apple,Can,250,Apple,28,16.86,Ramu Agencies
+383,Coke,Minute Maid Apple,Can,300,Apple,28,18.02,Ramu Agencies
+384,Coke,Minute Maid Apple,Can,330,Apple,28,17.8,Ramu Agencies
+385,Coke,Minute Maid Apple,Can,500,Apple,28,26.16,Ramu Agencies
+386,Coke,Minute Maid Apple,Can,600,Apple,28,29.14,Ramu Agencies
+387,Coke,Minute Maid Apple,Can,750,Apple,28,32.49,Ramu Agencies
+388,Coke,Minute Maid Apple,Can,1000,Apple,28,43.86,Ramu Agencies
+389,Coke,Minute Maid Apple,Can,1500,Apple,28,66.54,Ramu Agencies
+390,Coke,Minute Maid Apple,Can,2000,Apple,28,83.3,Ramu Agencies
+391,Coke,Minute Maid Apple,Tetra Pack,200,Apple,28,13.69,Ramu Agencies
+392,Coke,Minute Maid Apple,Tetra Pack,250,Apple,28,14.6,Ramu Agencies
+393,Coke,Minute Maid Apple,Tetra Pack,300,Apple,28,18.05,Ramu Agencies
+394,Coke,Minute Maid Apple,Tetra Pack,330,Apple,28,20.08,Ramu Agencies
+395,Coke,Minute Maid Apple,Tetra Pack,500,Apple,28,26.48,Ramu Agencies
+396,Coke,Minute Maid Apple,Tetra Pack,600,Apple,28,27.75,Ramu Agencies
+397,Coke,Minute Maid Apple,Tetra Pack,750,Apple,28,32.69,Ramu Agencies
+398,Coke,Minute Maid Apple,Tetra Pack,1000,Apple,28,43.86,Ramu Agencies
+399,Coke,Minute Maid Apple,Tetra Pack,1500,Apple,28,60.85,Ramu Agencies
+400,Coke,Minute Maid Apple,Tetra Pack,2000,Apple,28,82.61,Ramu Agencies
+401,Coke,Tetra Pack Orange,Glass Bottle,200,Orange,28,13.74,Ramu Agencies
+402,Coke,Tetra Pack Orange,Glass Bottle,250,Orange,28,16.29,Ramu Agencies
+403,Coke,Tetra Pack Orange,Glass Bottle,300,Orange,28,18.7,Ramu Agencies
+404,Coke,Tetra Pack Orange,Glass Bottle,330,Orange,28,18.38,Ramu Agencies
+405,Coke,Tetra Pack Orange,Glass Bottle,500,Orange,28,26.07,Ramu Agencies
+406,Coke,Tetra Pack Orange,Glass Bottle,600,Orange,28,29.76,Ramu Agencies
+407,Coke,Tetra Pack Orange,Glass Bottle,750,Orange,28,32.81,Ramu Agencies
+408,Coke,Tetra Pack Orange,Glass Bottle,1000,Orange,28,45.7,Ramu Agencies
+409,Coke,Tetra Pack Orange,Glass Bottle,1500,Orange,28,61.01,Ramu Agencies
+410,Coke,Tetra Pack Orange,Glass Bottle,2000,Orange,28,82.47,Ramu Agencies
+411,Coke,Tetra Pack Orange,PET Bottle,200,Orange,28,13.84,Ramu Agencies
+412,Coke,Tetra Pack Orange,PET Bottle,250,Orange,28,16.12,Ramu Agencies
+413,Coke,Tetra Pack Orange,PET Bottle,300,Orange,28,18.62,Ramu Agencies
+414,Coke,Tetra Pack Orange,PET Bottle,330,Orange,28,19.88,Ramu Agencies
+415,Coke,Tetra Pack Orange,PET Bottle,500,Orange,28,23.52,Ramu Agencies
+416,Coke,Tetra Pack Orange,PET Bottle,600,Orange,28,26.96,Ramu Agencies
+417,Coke,Tetra Pack Orange,PET Bottle,750,Orange,28,32.38,Ramu Agencies
+418,Coke,Tetra Pack Orange,PET Bottle,1000,Orange,28,46.5,Ramu Agencies
+419,Coke,Tetra Pack Orange,PET Bottle,1500,Orange,28,64.62,Ramu Agencies
+420,Coke,Tetra Pack Orange,PET Bottle,2000,Orange,28,83.19,Ramu Agencies
+421,Coke,Tetra Pack Orange,Can,200,Orange,28,13.62,Ramu Agencies
+422,Coke,Tetra Pack Orange,Can,250,Orange,28,15.3,Ramu Agencies
+423,Coke,Tetra Pack Orange,Can,300,Orange,28,17.87,Ramu Agencies
+424,Coke,Tetra Pack Orange,Can,330,Orange,28,20,Ramu Agencies
+425,Coke,Tetra Pack Orange,Can,500,Orange,28,26.39,Ramu Agencies
+426,Coke,Tetra Pack Orange,Can,600,Orange,28,29.4,Ramu Agencies
+427,Coke,Tetra Pack Orange,Can,750,Orange,28,33.67,Ramu Agencies
+428,Coke,Tetra Pack Orange,Can,1000,Orange,28,46.92,Ramu Agencies
+429,Coke,Tetra Pack Orange,Can,1500,Orange,28,65,Ramu Agencies
+430,Coke,Tetra Pack Orange,Can,2000,Orange,28,81.42,Ramu Agencies
+431,Coke,Tetra Pack Orange,Tetra Pack,200,Orange,28,13.17,Ramu Agencies
+432,Coke,Tetra Pack Orange,Tetra Pack,250,Orange,28,16.8,Ramu Agencies
+433,Coke,Tetra Pack Orange,Tetra Pack,300,Orange,28,16.63,Ramu Agencies
+434,Coke,Tetra Pack Orange,Tetra Pack,330,Orange,28,19.99,Ramu Agencies
+435,Coke,Tetra Pack Orange,Tetra Pack,500,Orange,28,23.93,Ramu Agencies
+436,Coke,Tetra Pack Orange,Tetra Pack,600,Orange,28,30.21,Ramu Agencies
+437,Coke,Tetra Pack Orange,Tetra Pack,750,Orange,28,34.48,Ramu Agencies
+438,Coke,Tetra Pack Orange,Tetra Pack,1000,Orange,28,45.82,Ramu Agencies
+439,Coke,Tetra Pack Orange,Tetra Pack,1500,Orange,28,62.48,Ramu Agencies
+440,Coke,Tetra Pack Orange,Tetra Pack,2000,Orange,28,79.06,Ramu Agencies
+441,Coke,Tetra Pack Mango,Glass Bottle,200,Mixed,28,14.35,Ramu Agencies
+442,Coke,Tetra Pack Mango,Glass Bottle,250,Mixed,28,15.35,Ramu Agencies
+443,Coke,Tetra Pack Mango,Glass Bottle,300,Mixed,28,17.05,Ramu Agencies
+444,Coke,Tetra Pack Mango,Glass Bottle,330,Mixed,28,19.08,Ramu Agencies
+445,Coke,Tetra Pack Mango,Glass Bottle,500,Mixed,28,25.72,Ramu Agencies
+446,Coke,Tetra Pack Mango,Glass Bottle,600,Mixed,28,30.21,Ramu Agencies
+447,Coke,Tetra Pack Mango,Glass Bottle,750,Mixed,28,35.1,Ramu Agencies
+448,Coke,Tetra Pack Mango,Glass Bottle,1000,Mixed,28,46.41,Ramu Agencies
+449,Coke,Tetra Pack Mango,Glass Bottle,1500,Mixed,28,64.98,Ramu Agencies
+450,Coke,Tetra Pack Mango,Glass Bottle,2000,Mixed,28,76,Ramu Agencies
+451,Coke,Tetra Pack Mango,PET Bottle,200,Mixed,28,13.14,Ramu Agencies
+452,Coke,Tetra Pack Mango,PET Bottle,250,Mixed,28,16.49,Ramu Agencies
+453,Coke,Tetra Pack Mango,PET Bottle,300,Mixed,28,17.83,Ramu Agencies
+454,Coke,Tetra Pack Mango,PET Bottle,330,Mixed,28,20.05,Ramu Agencies
+455,Coke,Tetra Pack Mango,PET Bottle,500,Mixed,28,24.23,Ramu Agencies
+456,Coke,Tetra Pack Mango,PET Bottle,600,Mixed,28,28.46,Ramu Agencies
+457,Coke,Tetra Pack Mango,PET Bottle,750,Mixed,28,33.98,Ramu Agencies
+458,Coke,Tetra Pack Mango,PET Bottle,1000,Mixed,28,45.78,Ramu Agencies
+459,Coke,Tetra Pack Mango,PET Bottle,1500,Mixed,28,60.47,Ramu Agencies
+460,Coke,Tetra Pack Mango,PET Bottle,2000,Mixed,28,81.2,Ramu Agencies
+461,Coke,Tetra Pack Mango,Can,200,Mixed,28,14.22,Ramu Agencies
+462,Coke,Tetra Pack Mango,Can,250,Mixed,28,15.32,Ramu Agencies
+463,Coke,Tetra Pack Mango,Can,300,Mixed,28,17.02,Ramu Agencies
+464,Coke,Tetra Pack Mango,Can,330,Mixed,28,17.81,Ramu Agencies
+465,Coke,Tetra Pack Mango,Can,500,Mixed,28,26.71,Ramu Agencies
+466,Coke,Tetra Pack Mango,Can,600,Mixed,28,30.05,Ramu Agencies
+467,Coke,Tetra Pack Mango,Can,750,Mixed,28,36.03,Ramu Agencies
+468,Coke,Tetra Pack Mango,Can,1000,Mixed,28,42.68,Ramu Agencies
+469,Coke,Tetra Pack Mango,Can,1500,Mixed,28,59.61,Ramu Agencies
+470,Coke,Tetra Pack Mango,Can,2000,Mixed,28,86.44,Ramu Agencies
+471,Coke,Tetra Pack Mango,Tetra Pack,200,Mixed,28,14.84,Ramu Agencies
+472,Coke,Tetra Pack Mango,Tetra Pack,250,Mixed,28,14.92,Ramu Agencies
+473,Coke,Tetra Pack Mango,Tetra Pack,300,Mixed,28,18.84,Ramu Agencies
+474,Coke,Tetra Pack Mango,Tetra Pack,330,Mixed,28,19.56,Ramu Agencies
+475,Coke,Tetra Pack Mango,Tetra Pack,500,Mixed,28,25.34,Ramu Agencies
+476,Coke,Tetra Pack Mango,Tetra Pack,600,Mixed,28,30.11,Ramu Agencies
+477,Coke,Tetra Pack Mango,Tetra Pack,750,Mixed,28,34.6,Ramu Agencies
+478,Coke,Tetra Pack Mango,Tetra Pack,1000,Mixed,28,44.26,Ramu Agencies
+479,Coke,Tetra Pack Mango,Tetra Pack,1500,Mixed,28,63.28,Ramu Agencies
+480,Coke,Tetra Pack Mango,Tetra Pack,2000,Mixed,28,81.6,Ramu Agencies
+481,Coke,Soda,Glass Bottle,200,Soda,28,13.6,Ramu Agencies
+482,Coke,Soda,Glass Bottle,250,Soda,28,16.39,Ramu Agencies
+483,Coke,Soda,Glass Bottle,300,Soda,28,18.19,Ramu Agencies
+484,Coke,Soda,Glass Bottle,330,Soda,28,20.07,Ramu Agencies
+485,Coke,Soda,Glass Bottle,500,Soda,28,24.46,Ramu Agencies
+486,Coke,Soda,Glass Bottle,600,Soda,28,27.07,Ramu Agencies
+487,Coke,Soda,Glass Bottle,750,Soda,28,34.07,Ramu Agencies
+488,Coke,Soda,Glass Bottle,1000,Soda,28,45.38,Ramu Agencies
+489,Coke,Soda,Glass Bottle,1500,Soda,28,66.82,Ramu Agencies
+490,Coke,Soda,Glass Bottle,2000,Soda,28,82.81,Ramu Agencies
+491,Coke,Soda,PET Bottle,200,Soda,28,12.85,Ramu Agencies
+492,Coke,Soda,PET Bottle,250,Soda,28,15.46,Ramu Agencies
+493,Coke,Soda,PET Bottle,300,Soda,28,17.72,Ramu Agencies
+494,Coke,Soda,PET Bottle,330,Soda,28,18.85,Ramu Agencies
+495,Coke,Soda,PET Bottle,500,Soda,28,24.63,Ramu Agencies
+496,Coke,Soda,PET Bottle,600,Soda,28,27.09,Ramu Agencies
+497,Coke,Soda,PET Bottle,750,Soda,28,34.09,Ramu Agencies
+498,Coke,Soda,PET Bottle,1000,Soda,28,44.17,Ramu Agencies
+499,Coke,Soda,PET Bottle,1500,Soda,28,60.7,Ramu Agencies
+500,Coke,Soda,PET Bottle,2000,Soda,28,85.76,Ramu Agencies
+501,Coke,Soda,Can,200,Soda,28,13.48,Ramu Agencies
+502,Coke,Soda,Can,250,Soda,28,15.74,Ramu Agencies
+503,Coke,Soda,Can,300,Soda,28,16.85,Ramu Agencies
+504,Coke,Soda,Can,330,Soda,28,17.96,Ramu Agencies
+505,Coke,Soda,Can,500,Soda,28,23.67,Ramu Agencies
+506,Coke,Soda,Can,600,Soda,28,30.23,Ramu Agencies
+507,Coke,Soda,Can,750,Soda,28,33.54,Ramu Agencies
+508,Coke,Soda,Can,1000,Soda,28,44.54,Ramu Agencies
+509,Coke,Soda,Can,1500,Soda,28,61.61,Ramu Agencies
+510,Coke,Soda,Can,2000,Soda,28,85.12,Ramu Agencies
+511,Coke,Soda,Tetra Pack,200,Soda,28,14.56,Ramu Agencies
+512,Coke,Soda,Tetra Pack,250,Soda,28,15.15,Ramu Agencies
+513,Coke,Soda,Tetra Pack,300,Soda,28,18.7,Ramu Agencies
+514,Coke,Soda,Tetra Pack,330,Soda,28,18.73,Ramu Agencies
+515,Coke,Soda,Tetra Pack,500,Soda,28,26.51,Ramu Agencies
+516,Coke,Soda,Tetra Pack,600,Soda,28,28.4,Ramu Agencies
+517,Coke,Soda,Tetra Pack,750,Soda,28,34.42,Ramu Agencies
+518,Coke,Soda,Tetra Pack,1000,Soda,28,41.35,Ramu Agencies
+519,Coke,Soda,Tetra Pack,1500,Soda,28,61.22,Ramu Agencies
+520,Coke,Soda,Tetra Pack,2000,Soda,28,76.18,Ramu Agencies
+521,Pepsi,Pepsi,Glass Bottle,200,Mixed,28,13.02,Manoj Enterprises
+522,Pepsi,Pepsi,Glass Bottle,250,Mixed,28,15.53,Manoj Enterprises
+523,Pepsi,Pepsi,Glass Bottle,300,Mixed,28,16.11,Manoj Enterprises
+524,Pepsi,Pepsi,Glass Bottle,330,Mixed,28,17.44,Manoj Enterprises
+525,Pepsi,Pepsi,Glass Bottle,500,Mixed,28,25.79,Manoj Enterprises
+526,Pepsi,Pepsi,Glass Bottle,600,Mixed,28,28.4,Manoj Enterprises
+527,Pepsi,Pepsi,Glass Bottle,750,Mixed,28,34.07,Manoj Enterprises
+528,Pepsi,Pepsi,Glass Bottle,1000,Mixed,28,41.02,Manoj Enterprises
+529,Pepsi,Pepsi,Glass Bottle,1500,Mixed,28,64.96,Manoj Enterprises
+530,Pepsi,Pepsi,Glass Bottle,2000,Mixed,28,76.96,Manoj Enterprises
+531,Pepsi,Pepsi,PET Bottle,200,Mixed,28,12.66,Manoj Enterprises
+532,Pepsi,Pepsi,PET Bottle,250,Mixed,28,15.17,Manoj Enterprises
+533,Pepsi,Pepsi,PET Bottle,300,Mixed,28,17.36,Manoj Enterprises
+534,Pepsi,Pepsi,PET Bottle,330,Mixed,28,18.52,Manoj Enterprises
+535,Pepsi,Pepsi,PET Bottle,500,Mixed,28,23.15,Manoj Enterprises
+536,Pepsi,Pepsi,PET Bottle,600,Mixed,28,29.55,Manoj Enterprises
+537,Pepsi,Pepsi,PET Bottle,750,Mixed,28,32.85,Manoj Enterprises
+538,Pepsi,Pepsi,PET Bottle,1000,Mixed,28,45.9,Manoj Enterprises
+539,Pepsi,Pepsi,PET Bottle,1500,Mixed,28,60.08,Manoj Enterprises
+540,Pepsi,Pepsi,PET Bottle,2000,Mixed,28,74.03,Manoj Enterprises
+541,Pepsi,Pepsi,Can,200,Mixed,28,12.54,Manoj Enterprises
+542,Pepsi,Pepsi,Can,250,Mixed,28,15,Manoj Enterprises
+543,Pepsi,Pepsi,Can,300,Mixed,28,17.64,Manoj Enterprises
+544,Pepsi,Pepsi,Can,330,Mixed,28,18.19,Manoj Enterprises
+545,Pepsi,Pepsi,Can,500,Mixed,28,25.7,Manoj Enterprises
+546,Pepsi,Pepsi,Can,600,Mixed,28,29.76,Manoj Enterprises
+547,Pepsi,Pepsi,Can,750,Mixed,28,35.42,Manoj Enterprises
+548,Pepsi,Pepsi,Can,1000,Mixed,28,43.69,Manoj Enterprises
+549,Pepsi,Pepsi,Can,1500,Mixed,28,64.93,Manoj Enterprises
+550,Pepsi,Pepsi,Can,2000,Mixed,28,81.91,Manoj Enterprises
+551,Pepsi,Pepsi,Tetra Pack,200,Mixed,28,12.65,Manoj Enterprises
+552,Pepsi,Pepsi,Tetra Pack,250,Mixed,28,14.89,Manoj Enterprises
+553,Pepsi,Pepsi,Tetra Pack,300,Mixed,28,16.46,Manoj Enterprises
+554,Pepsi,Pepsi,Tetra Pack,330,Mixed,28,17.14,Manoj Enterprises
+555,Pepsi,Pepsi,Tetra Pack,500,Mixed,28,25.97,Manoj Enterprises
+556,Pepsi,Pepsi,Tetra Pack,600,Mixed,28,28.16,Manoj Enterprises
+557,Pepsi,Pepsi,Tetra Pack,750,Mixed,28,32.08,Manoj Enterprises
+558,Pepsi,Pepsi,Tetra Pack,1000,Mixed,28,45,Manoj Enterprises
+559,Pepsi,Pepsi,Tetra Pack,1500,Mixed,28,60.01,Manoj Enterprises
+560,Pepsi,Pepsi,Tetra Pack,2000,Mixed,28,76.44,Manoj Enterprises
+561,Pepsi,7Up,Glass Bottle,200,Lemon,28,13.89,Manoj Enterprises
+562,Pepsi,7Up,Glass Bottle,250,Lemon,28,14.56,Manoj Enterprises
+563,Pepsi,7Up,Glass Bottle,300,Lemon,28,18.23,Manoj Enterprises
+564,Pepsi,7Up,Glass Bottle,330,Lemon,28,19.4,Manoj Enterprises
+565,Pepsi,7Up,Glass Bottle,500,Lemon,28,22.89,Manoj Enterprises
+566,Pepsi,7Up,Glass Bottle,600,Lemon,28,28.35,Manoj Enterprises
+567,Pepsi,7Up,Glass Bottle,750,Lemon,28,31.32,Manoj Enterprises
+568,Pepsi,7Up,Glass Bottle,1000,Lemon,28,45.43,Manoj Enterprises
+569,Pepsi,7Up,Glass Bottle,1500,Lemon,28,59,Manoj Enterprises
+570,Pepsi,7Up,Glass Bottle,2000,Lemon,28,79.67,Manoj Enterprises
+571,Pepsi,7Up,PET Bottle,200,Lemon,28,13.93,Manoj Enterprises
+572,Pepsi,7Up,PET Bottle,250,Lemon,28,15.87,Manoj Enterprises
+573,Pepsi,7Up,PET Bottle,300,Lemon,28,17.08,Manoj Enterprises
+574,Pepsi,7Up,PET Bottle,330,Lemon,28,17.17,Manoj Enterprises
+575,Pepsi,7Up,PET Bottle,500,Lemon,28,23.81,Manoj Enterprises
+576,Pepsi,7Up,PET Bottle,600,Lemon,28,26.11,Manoj Enterprises
+577,Pepsi,7Up,PET Bottle,750,Lemon,28,32.16,Manoj Enterprises
+578,Pepsi,7Up,PET Bottle,1000,Lemon,28,44.36,Manoj Enterprises
+579,Pepsi,7Up,PET Bottle,1500,Lemon,28,61.96,Manoj Enterprises
+580,Pepsi,7Up,PET Bottle,2000,Lemon,28,78.83,Manoj Enterprises
+581,Pepsi,7Up,Can,200,Lemon,28,13.76,Manoj Enterprises
+582,Pepsi,7Up,Can,250,Lemon,28,15.23,Manoj Enterprises
+583,Pepsi,7Up,Can,300,Lemon,28,16.8,Manoj Enterprises
+584,Pepsi,7Up,Can,330,Lemon,28,17.93,Manoj Enterprises
+585,Pepsi,7Up,Can,500,Lemon,28,24.02,Manoj Enterprises
+586,Pepsi,7Up,Can,600,Lemon,28,27.64,Manoj Enterprises
+587,Pepsi,7Up,Can,750,Lemon,28,33.35,Manoj Enterprises
+588,Pepsi,7Up,Can,1000,Lemon,28,44.74,Manoj Enterprises
+589,Pepsi,7Up,Can,1500,Lemon,28,64.86,Manoj Enterprises
+590,Pepsi,7Up,Can,2000,Lemon,28,84.06,Manoj Enterprises
+591,Pepsi,7Up,Tetra Pack,200,Lemon,28,13.39,Manoj Enterprises
+592,Pepsi,7Up,Tetra Pack,250,Lemon,28,16.21,Manoj Enterprises
+593,Pepsi,7Up,Tetra Pack,300,Lemon,28,17.87,Manoj Enterprises
+594,Pepsi,7Up,Tetra Pack,330,Lemon,28,17.31,Manoj Enterprises
+595,Pepsi,7Up,Tetra Pack,500,Lemon,28,25.65,Manoj Enterprises
+596,Pepsi,7Up,Tetra Pack,600,Lemon,28,26.4,Manoj Enterprises
+597,Pepsi,7Up,Tetra Pack,750,Lemon,28,34.22,Manoj Enterprises
+598,Pepsi,7Up,Tetra Pack,1000,Lemon,28,42.02,Manoj Enterprises
+599,Pepsi,7Up,Tetra Pack,1500,Lemon,28,63.39,Manoj Enterprises
+600,Pepsi,7Up,Tetra Pack,2000,Lemon,28,82.74,Manoj Enterprises
+601,Pepsi,Mirinda,Glass Bottle,200,Mixed,28,14.35,Manoj Enterprises
+602,Pepsi,Mirinda,Glass Bottle,250,Mixed,28,16.24,Manoj Enterprises
+603,Pepsi,Mirinda,Glass Bottle,300,Mixed,28,16.84,Manoj Enterprises
+604,Pepsi,Mirinda,Glass Bottle,330,Mixed,28,16.95,Manoj Enterprises
+605,Pepsi,Mirinda,Glass Bottle,500,Mixed,28,22.95,Manoj Enterprises
+606,Pepsi,Mirinda,Glass Bottle,600,Mixed,28,30.07,Manoj Enterprises
+607,Pepsi,Mirinda,Glass Bottle,750,Mixed,28,32.77,Manoj Enterprises
+608,Pepsi,Mirinda,Glass Bottle,1000,Mixed,28,41.15,Manoj Enterprises
+609,Pepsi,Mirinda,Glass Bottle,1500,Mixed,28,57.73,Manoj Enterprises
+610,Pepsi,Mirinda,Glass Bottle,2000,Mixed,28,77.96,Manoj Enterprises
+611,Pepsi,Mirinda,PET Bottle,200,Mixed,28,13.13,Manoj Enterprises
+612,Pepsi,Mirinda,PET Bottle,250,Mixed,28,15.82,Manoj Enterprises
+613,Pepsi,Mirinda,PET Bottle,300,Mixed,28,16.33,Manoj Enterprises
+614,Pepsi,Mirinda,PET Bottle,330,Mixed,28,18.1,Manoj Enterprises
+615,Pepsi,Mirinda,PET Bottle,500,Mixed,28,25.85,Manoj Enterprises
+616,Pepsi,Mirinda,PET Bottle,600,Mixed,28,27.88,Manoj Enterprises
+617,Pepsi,Mirinda,PET Bottle,750,Mixed,28,31.92,Manoj Enterprises
+618,Pepsi,Mirinda,PET Bottle,1000,Mixed,28,42.3,Manoj Enterprises
+619,Pepsi,Mirinda,PET Bottle,1500,Mixed,28,58.9,Manoj Enterprises
+620,Pepsi,Mirinda,PET Bottle,2000,Mixed,28,74,Manoj Enterprises
+621,Pepsi,Mirinda,Can,200,Mixed,28,13.6,Manoj Enterprises
+622,Pepsi,Mirinda,Can,250,Mixed,28,14.84,Manoj Enterprises
+623,Pepsi,Mirinda,Can,300,Mixed,28,17.89,Manoj Enterprises
+624,Pepsi,Mirinda,Can,330,Mixed,28,17.59,Manoj Enterprises
+625,Pepsi,Mirinda,Can,500,Mixed,28,23.07,Manoj Enterprises
+626,Pepsi,Mirinda,Can,600,Mixed,28,27.95,Manoj Enterprises
+627,Pepsi,Mirinda,Can,750,Mixed,28,33.55,Manoj Enterprises
+628,Pepsi,Mirinda,Can,1000,Mixed,28,40.65,Manoj Enterprises
+629,Pepsi,Mirinda,Can,1500,Mixed,28,61.28,Manoj Enterprises
+630,Pepsi,Mirinda,Can,2000,Mixed,28,81.03,Manoj Enterprises
+631,Pepsi,Mirinda,Tetra Pack,200,Mixed,28,14.02,Manoj Enterprises
+632,Pepsi,Mirinda,Tetra Pack,250,Mixed,28,16.24,Manoj Enterprises
+633,Pepsi,Mirinda,Tetra Pack,300,Mixed,28,17.28,Manoj Enterprises
+634,Pepsi,Mirinda,Tetra Pack,330,Mixed,28,19.12,Manoj Enterprises
+635,Pepsi,Mirinda,Tetra Pack,500,Mixed,28,23.11,Manoj Enterprises
+636,Pepsi,Mirinda,Tetra Pack,600,Mixed,28,29.18,Manoj Enterprises
+637,Pepsi,Mirinda,Tetra Pack,750,Mixed,28,35.95,Manoj Enterprises
+638,Pepsi,Mirinda,Tetra Pack,1000,Mixed,28,42.39,Manoj Enterprises
+639,Pepsi,Mirinda,Tetra Pack,1500,Mixed,28,59.03,Manoj Enterprises
+640,Pepsi,Mirinda,Tetra Pack,2000,Mixed,28,76.48,Manoj Enterprises
+641,Pepsi,Mountain Dew,Glass Bottle,200,Lemon,28,12.94,Manoj Enterprises
+642,Pepsi,Mountain Dew,Glass Bottle,250,Lemon,28,15.05,Manoj Enterprises
+643,Pepsi,Mountain Dew,Glass Bottle,300,Lemon,28,16.91,Manoj Enterprises
+644,Pepsi,Mountain Dew,Glass Bottle,330,Lemon,28,17.33,Manoj Enterprises
+645,Pepsi,Mountain Dew,Glass Bottle,500,Lemon,28,25.65,Manoj Enterprises
+646,Pepsi,Mountain Dew,Glass Bottle,600,Lemon,28,30.1,Manoj Enterprises
+647,Pepsi,Mountain Dew,Glass Bottle,750,Lemon,28,31.89,Manoj Enterprises
+648,Pepsi,Mountain Dew,Glass Bottle,1000,Lemon,28,43.69,Manoj Enterprises
+649,Pepsi,Mountain Dew,Glass Bottle,1500,Lemon,28,60.65,Manoj Enterprises
+650,Pepsi,Mountain Dew,Glass Bottle,2000,Lemon,28,79.6,Manoj Enterprises
+651,Pepsi,Mountain Dew,PET Bottle,200,Lemon,28,13.48,Manoj Enterprises
+652,Pepsi,Mountain Dew,PET Bottle,250,Lemon,28,15.16,Manoj Enterprises
+653,Pepsi,Mountain Dew,PET Bottle,300,Lemon,28,17.85,Manoj Enterprises
+654,Pepsi,Mountain Dew,PET Bottle,330,Lemon,28,19.41,Manoj Enterprises
+655,Pepsi,Mountain Dew,PET Bottle,500,Lemon,28,23.7,Manoj Enterprises
+656,Pepsi,Mountain Dew,PET Bottle,600,Lemon,28,27.56,Manoj Enterprises
+657,Pepsi,Mountain Dew,PET Bottle,750,Lemon,28,31.38,Manoj Enterprises
+658,Pepsi,Mountain Dew,PET Bottle,1000,Lemon,28,42.24,Manoj Enterprises
+659,Pepsi,Mountain Dew,PET Bottle,1500,Lemon,28,59.17,Manoj Enterprises
+660,Pepsi,Mountain Dew,PET Bottle,2000,Lemon,28,75.81,Manoj Enterprises
+661,Pepsi,Mountain Dew,Can,200,Lemon,28,14.13,Manoj Enterprises
+662,Pepsi,Mountain Dew,Can,250,Lemon,28,15.34,Manoj Enterprises
+663,Pepsi,Mountain Dew,Can,300,Lemon,28,16.45,Manoj Enterprises
+664,Pepsi,Mountain Dew,Can,330,Lemon,28,17.36,Manoj Enterprises
+665,Pepsi,Mountain Dew,Can,500,Lemon,28,24.82,Manoj Enterprises
+666,Pepsi,Mountain Dew,Can,600,Lemon,28,29.49,Manoj Enterprises
+667,Pepsi,Mountain Dew,Can,750,Lemon,28,35.55,Manoj Enterprises
+668,Pepsi,Mountain Dew,Can,1000,Lemon,28,44.26,Manoj Enterprises
+669,Pepsi,Mountain Dew,Can,1500,Lemon,28,63.49,Manoj Enterprises
+670,Pepsi,Mountain Dew,Can,2000,Lemon,28,75.74,Manoj Enterprises
+671,Pepsi,Mountain Dew,Tetra Pack,200,Lemon,28,12.74,Manoj Enterprises
+672,Pepsi,Mountain Dew,Tetra Pack,250,Lemon,28,15.67,Manoj Enterprises
+673,Pepsi,Mountain Dew,Tetra Pack,300,Lemon,28,17.45,Manoj Enterprises
+674,Pepsi,Mountain Dew,Tetra Pack,330,Lemon,28,17.41,Manoj Enterprises
+675,Pepsi,Mountain Dew,Tetra Pack,500,Lemon,28,23.78,Manoj Enterprises
+676,Pepsi,Mountain Dew,Tetra Pack,600,Lemon,28,26.12,Manoj Enterprises
+677,Pepsi,Mountain Dew,Tetra Pack,750,Lemon,28,34.58,Manoj Enterprises
+678,Pepsi,Mountain Dew,Tetra Pack,1000,Lemon,28,42.94,Manoj Enterprises
+679,Pepsi,Mountain Dew,Tetra Pack,1500,Lemon,28,64.21,Manoj Enterprises
+680,Pepsi,Mountain Dew,Tetra Pack,2000,Lemon,28,84.34,Manoj Enterprises
+681,Pepsi,Aquafina Water,Glass Bottle,200,Water,18,11.04,Manoj Enterprises
+682,Pepsi,Aquafina Water,Glass Bottle,250,Water,18,11.96,Manoj Enterprises
+683,Pepsi,Aquafina Water,Glass Bottle,300,Water,18,13.03,Manoj Enterprises
+684,Pepsi,Aquafina Water,Glass Bottle,330,Water,18,14.48,Manoj Enterprises
+685,Pepsi,Aquafina Water,Glass Bottle,500,Water,18,19.54,Manoj Enterprises
+686,Pepsi,Aquafina Water,Glass Bottle,600,Water,18,19.55,Manoj Enterprises
+687,Pepsi,Aquafina Water,Glass Bottle,750,Water,18,24.14,Manoj Enterprises
+688,Pepsi,Aquafina Water,Glass Bottle,1000,Water,18,31.75,Manoj Enterprises
+689,Pepsi,Aquafina Water,Glass Bottle,1500,Water,18,40.52,Manoj Enterprises
+690,Pepsi,Aquafina Water,Glass Bottle,2000,Water,18,56.38,Manoj Enterprises
+691,Pepsi,Aquafina Water,PET Bottle,200,Water,18,10.6,Manoj Enterprises
+692,Pepsi,Aquafina Water,PET Bottle,250,Water,18,12.35,Manoj Enterprises
+693,Pepsi,Aquafina Water,PET Bottle,300,Water,18,14.41,Manoj Enterprises
+694,Pepsi,Aquafina Water,PET Bottle,330,Water,18,13.23,Manoj Enterprises
+695,Pepsi,Aquafina Water,PET Bottle,500,Water,18,18.89,Manoj Enterprises
+696,Pepsi,Aquafina Water,PET Bottle,600,Water,18,21.02,Manoj Enterprises
+697,Pepsi,Aquafina Water,PET Bottle,750,Water,18,25.74,Manoj Enterprises
+698,Pepsi,Aquafina Water,PET Bottle,1000,Water,18,29.94,Manoj Enterprises
+699,Pepsi,Aquafina Water,PET Bottle,1500,Water,18,45.51,Manoj Enterprises
+700,Pepsi,Aquafina Water,PET Bottle,2000,Water,18,58.81,Manoj Enterprises
+701,Pepsi,Aquafina Water,Can,200,Water,18,10.32,Manoj Enterprises
+702,Pepsi,Aquafina Water,Can,250,Water,18,11.98,Manoj Enterprises
+703,Pepsi,Aquafina Water,Can,300,Water,18,12.95,Manoj Enterprises
+704,Pepsi,Aquafina Water,Can,330,Water,18,14.87,Manoj Enterprises
+705,Pepsi,Aquafina Water,Can,500,Water,18,19.45,Manoj Enterprises
+706,Pepsi,Aquafina Water,Can,600,Water,18,21.64,Manoj Enterprises
+707,Pepsi,Aquafina Water,Can,750,Water,18,25.78,Manoj Enterprises
+708,Pepsi,Aquafina Water,Can,1000,Water,18,30.92,Manoj Enterprises
+709,Pepsi,Aquafina Water,Can,1500,Water,18,45.3,Manoj Enterprises
+710,Pepsi,Aquafina Water,Can,2000,Water,18,53.37,Manoj Enterprises
+711,Pepsi,Aquafina Water,Tetra Pack,200,Water,18,10.38,Manoj Enterprises
+712,Pepsi,Aquafina Water,Tetra Pack,250,Water,18,12.64,Manoj Enterprises
+713,Pepsi,Aquafina Water,Tetra Pack,300,Water,18,13.35,Manoj Enterprises
+714,Pepsi,Aquafina Water,Tetra Pack,330,Water,18,13.21,Manoj Enterprises
+715,Pepsi,Aquafina Water,Tetra Pack,500,Water,18,19.16,Manoj Enterprises
+716,Pepsi,Aquafina Water,Tetra Pack,600,Water,18,19.69,Manoj Enterprises
+717,Pepsi,Aquafina Water,Tetra Pack,750,Water,18,23.55,Manoj Enterprises
+718,Pepsi,Aquafina Water,Tetra Pack,1000,Water,18,28.75,Manoj Enterprises
+719,Pepsi,Aquafina Water,Tetra Pack,1500,Water,18,43.56,Manoj Enterprises
+720,Pepsi,Aquafina Water,Tetra Pack,2000,Water,18,52.38,Manoj Enterprises
+721,Pepsi,Soda,Glass Bottle,200,Soda,28,13.09,Manoj Enterprises
+722,Pepsi,Soda,Glass Bottle,250,Soda,28,15.41,Manoj Enterprises
+723,Pepsi,Soda,Glass Bottle,300,Soda,28,18.26,Manoj Enterprises
+724,Pepsi,Soda,Glass Bottle,330,Soda,28,16.95,Manoj Enterprises
+725,Pepsi,Soda,Glass Bottle,500,Soda,28,25.99,Manoj Enterprises
+726,Pepsi,Soda,Glass Bottle,600,Soda,28,29.11,Manoj Enterprises
+727,Pepsi,Soda,Glass Bottle,750,Soda,28,32.47,Manoj Enterprises
+728,Pepsi,Soda,Glass Bottle,1000,Soda,28,44.92,Manoj Enterprises
+729,Pepsi,Soda,Glass Bottle,1500,Soda,28,62.38,Manoj Enterprises
+730,Pepsi,Soda,Glass Bottle,2000,Soda,28,79.09,Manoj Enterprises
+731,Pepsi,Soda,PET Bottle,200,Soda,28,12.94,Manoj Enterprises
+732,Pepsi,Soda,PET Bottle,250,Soda,28,15.17,Manoj Enterprises
+733,Pepsi,Soda,PET Bottle,300,Soda,28,16.75,Manoj Enterprises
+734,Pepsi,Soda,PET Bottle,330,Soda,28,17.15,Manoj Enterprises
+735,Pepsi,Soda,PET Bottle,500,Soda,28,23.32,Manoj Enterprises
+736,Pepsi,Soda,PET Bottle,600,Soda,28,27.2,Manoj Enterprises
+737,Pepsi,Soda,PET Bottle,750,Soda,28,33.47,Manoj Enterprises
+738,Pepsi,Soda,PET Bottle,1000,Soda,28,43.35,Manoj Enterprises
+739,Pepsi,Soda,PET Bottle,1500,Soda,28,63.5,Manoj Enterprises
+740,Pepsi,Soda,PET Bottle,2000,Soda,28,74.99,Manoj Enterprises
+741,Pepsi,Soda,Can,200,Soda,28,12.71,Manoj Enterprises
+742,Pepsi,Soda,Can,250,Soda,28,16.15,Manoj Enterprises
+743,Pepsi,Soda,Can,300,Soda,28,17.23,Manoj Enterprises
+744,Pepsi,Soda,Can,330,Soda,28,17.5,Manoj Enterprises
+745,Pepsi,Soda,Can,500,Soda,28,23.49,Manoj Enterprises
+746,Pepsi,Soda,Can,600,Soda,28,28.83,Manoj Enterprises
+747,Pepsi,Soda,Can,750,Soda,28,33.45,Manoj Enterprises
+748,Pepsi,Soda,Can,1000,Soda,28,42.17,Manoj Enterprises
+749,Pepsi,Soda,Can,1500,Soda,28,65.16,Manoj Enterprises
+750,Pepsi,Soda,Can,2000,Soda,28,73.92,Manoj Enterprises
+751,Pepsi,Soda,Tetra Pack,200,Soda,28,13.72,Manoj Enterprises
+752,Pepsi,Soda,Tetra Pack,250,Soda,28,15.72,Manoj Enterprises
+753,Pepsi,Soda,Tetra Pack,300,Soda,28,17.37,Manoj Enterprises
+754,Pepsi,Soda,Tetra Pack,330,Soda,28,18.5,Manoj Enterprises
+755,Pepsi,Soda,Tetra Pack,500,Soda,28,22.81,Manoj Enterprises
+756,Pepsi,Soda,Tetra Pack,600,Soda,28,30.07,Manoj Enterprises
+757,Pepsi,Soda,Tetra Pack,750,Soda,28,31.44,Manoj Enterprises
+758,Pepsi,Soda,Tetra Pack,1000,Soda,28,41.96,Manoj Enterprises
+759,Pepsi,Soda,Tetra Pack,1500,Soda,28,60.28,Manoj Enterprises
+760,Pepsi,Soda,Tetra Pack,2000,Soda,28,83.44,Manoj Enterprises
+761,Local,Tilo Cola,Glass Bottle,200,Cola,28,12.56,Radha Enterprises
+762,Local,Tilo Cola,Glass Bottle,250,Cola,28,14.53,Radha Enterprises
+763,Local,Tilo Cola,Glass Bottle,300,Cola,28,15.64,Radha Enterprises
+764,Local,Tilo Cola,Glass Bottle,330,Cola,28,17.66,Radha Enterprises
+765,Local,Tilo Cola,Glass Bottle,500,Cola,28,21.56,Radha Enterprises
+766,Local,Tilo Cola,Glass Bottle,600,Cola,28,25.09,Radha Enterprises
+767,Local,Tilo Cola,Glass Bottle,750,Cola,28,30.71,Radha Enterprises
+768,Local,Tilo Cola,Glass Bottle,1000,Cola,28,37.75,Radha Enterprises
+769,Local,Tilo Cola,Glass Bottle,1500,Cola,28,52.48,Radha Enterprises
+770,Local,Tilo Cola,Glass Bottle,2000,Cola,28,73.83,Radha Enterprises
+771,Local,Tilo Cola,PET Bottle,200,Cola,28,11.91,Radha Enterprises
+772,Local,Tilo Cola,PET Bottle,250,Cola,28,14.58,Radha Enterprises
+773,Local,Tilo Cola,PET Bottle,300,Cola,28,15.86,Radha Enterprises
+774,Local,Tilo Cola,PET Bottle,330,Cola,28,15.32,Radha Enterprises
+775,Local,Tilo Cola,PET Bottle,500,Cola,28,20.87,Radha Enterprises
+776,Local,Tilo Cola,PET Bottle,600,Cola,28,24.29,Radha Enterprises
+777,Local,Tilo Cola,PET Bottle,750,Cola,28,29.66,Radha Enterprises
+778,Local,Tilo Cola,PET Bottle,1000,Cola,28,37.04,Radha Enterprises
+779,Local,Tilo Cola,PET Bottle,1500,Cola,28,56.7,Radha Enterprises
+780,Local,Tilo Cola,PET Bottle,2000,Cola,28,69.06,Radha Enterprises
+781,Local,Tilo Cola,Can,200,Cola,28,12.03,Radha Enterprises
+782,Local,Tilo Cola,Can,250,Cola,28,13.63,Radha Enterprises
+783,Local,Tilo Cola,Can,300,Cola,28,16.62,Radha Enterprises
+784,Local,Tilo Cola,Can,330,Cola,28,16.38,Radha Enterprises
+785,Local,Tilo Cola,Can,500,Cola,28,20.67,Radha Enterprises
+786,Local,Tilo Cola,Can,600,Cola,28,27.24,Radha Enterprises
+787,Local,Tilo Cola,Can,750,Cola,28,32.54,Radha Enterprises
+788,Local,Tilo Cola,Can,1000,Cola,28,36.14,Radha Enterprises
+789,Local,Tilo Cola,Can,1500,Cola,28,58.29,Radha Enterprises
+790,Local,Tilo Cola,Can,2000,Cola,28,73.21,Radha Enterprises
+791,Local,Tilo Cola,Tetra Pack,200,Cola,28,12.92,Radha Enterprises
+792,Local,Tilo Cola,Tetra Pack,250,Cola,28,14.08,Radha Enterprises
+793,Local,Tilo Cola,Tetra Pack,300,Cola,28,15.78,Radha Enterprises
+794,Local,Tilo Cola,Tetra Pack,330,Cola,28,17.23,Radha Enterprises
+795,Local,Tilo Cola,Tetra Pack,500,Cola,28,20.64,Radha Enterprises
+796,Local,Tilo Cola,Tetra Pack,600,Cola,28,23.97,Radha Enterprises
+797,Local,Tilo Cola,Tetra Pack,750,Cola,28,28.76,Radha Enterprises
+798,Local,Tilo Cola,Tetra Pack,1000,Cola,28,35.99,Radha Enterprises
+799,Local,Tilo Cola,Tetra Pack,1500,Cola,28,53.21,Radha Enterprises
+800,Local,Tilo Cola,Tetra Pack,2000,Cola,28,67.1,Radha Enterprises
+801,Local,Tilo Orange,Glass Bottle,200,Orange,28,11.49,Radha Enterprises
+802,Local,Tilo Orange,Glass Bottle,250,Orange,28,13.53,Radha Enterprises
+803,Local,Tilo Orange,Glass Bottle,300,Orange,28,14.74,Radha Enterprises
+804,Local,Tilo Orange,Glass Bottle,330,Orange,28,15.43,Radha Enterprises
+805,Local,Tilo Orange,Glass Bottle,500,Orange,28,23.62,Radha Enterprises
+806,Local,Tilo Orange,Glass Bottle,600,Orange,28,27.02,Radha Enterprises
+807,Local,Tilo Orange,Glass Bottle,750,Orange,28,32.22,Radha Enterprises
+808,Local,Tilo Orange,Glass Bottle,1000,Orange,28,36.39,Radha Enterprises
+809,Local,Tilo Orange,Glass Bottle,1500,Orange,28,56.07,Radha Enterprises
+810,Local,Tilo Orange,Glass Bottle,2000,Orange,28,76.47,Radha Enterprises
+811,Local,Tilo Orange,PET Bottle,200,Orange,28,12.07,Radha Enterprises
+812,Local,Tilo Orange,PET Bottle,250,Orange,28,13.86,Radha Enterprises
+813,Local,Tilo Orange,PET Bottle,300,Orange,28,16.37,Radha Enterprises
+814,Local,Tilo Orange,PET Bottle,330,Orange,28,17.49,Radha Enterprises
+815,Local,Tilo Orange,PET Bottle,500,Orange,28,22.38,Radha Enterprises
+816,Local,Tilo Orange,PET Bottle,600,Orange,28,24.62,Radha Enterprises
+817,Local,Tilo Orange,PET Bottle,750,Orange,28,31.48,Radha Enterprises
+818,Local,Tilo Orange,PET Bottle,1000,Orange,28,40.1,Radha Enterprises
+819,Local,Tilo Orange,PET Bottle,1500,Orange,28,53.62,Radha Enterprises
+820,Local,Tilo Orange,PET Bottle,2000,Orange,28,71.46,Radha Enterprises
+821,Local,Tilo Orange,Can,200,Orange,28,12.52,Radha Enterprises
+822,Local,Tilo Orange,Can,250,Orange,28,13.27,Radha Enterprises
+823,Local,Tilo Orange,Can,300,Orange,28,15.24,Radha Enterprises
+824,Local,Tilo Orange,Can,330,Orange,28,16.61,Radha Enterprises
+825,Local,Tilo Orange,Can,500,Orange,28,21.7,Radha Enterprises
+826,Local,Tilo Orange,Can,600,Orange,28,26.91,Radha Enterprises
+827,Local,Tilo Orange,Can,750,Orange,28,29.56,Radha Enterprises
+828,Local,Tilo Orange,Can,1000,Orange,28,38.61,Radha Enterprises
+829,Local,Tilo Orange,Can,1500,Orange,28,57.91,Radha Enterprises
+830,Local,Tilo Orange,Can,2000,Orange,28,67.02,Radha Enterprises
+831,Local,Tilo Orange,Tetra Pack,200,Orange,28,11.88,Radha Enterprises
+832,Local,Tilo Orange,Tetra Pack,250,Orange,28,13.21,Radha Enterprises
+833,Local,Tilo Orange,Tetra Pack,300,Orange,28,15.6,Radha Enterprises
+834,Local,Tilo Orange,Tetra Pack,330,Orange,28,17.62,Radha Enterprises
+835,Local,Tilo Orange,Tetra Pack,500,Orange,28,21.8,Radha Enterprises
+836,Local,Tilo Orange,Tetra Pack,600,Orange,28,27.03,Radha Enterprises
+837,Local,Tilo Orange,Tetra Pack,750,Orange,28,28.94,Radha Enterprises
+838,Local,Tilo Orange,Tetra Pack,1000,Orange,28,41.29,Radha Enterprises
+839,Local,Tilo Orange,Tetra Pack,1500,Orange,28,53.92,Radha Enterprises
+840,Local,Tilo Orange,Tetra Pack,2000,Orange,28,70.11,Radha Enterprises
+841,Local,Local Soda,Glass Bottle,200,Soda,28,11.77,Radha Enterprises
+842,Local,Local Soda,Glass Bottle,250,Soda,28,14.6,Radha Enterprises
+843,Local,Local Soda,Glass Bottle,300,Soda,28,14.85,Radha Enterprises
+844,Local,Local Soda,Glass Bottle,330,Soda,28,15.42,Radha Enterprises
+845,Local,Local Soda,Glass Bottle,500,Soda,28,20.59,Radha Enterprises
+846,Local,Local Soda,Glass Bottle,600,Soda,28,25.65,Radha Enterprises
+847,Local,Local Soda,Glass Bottle,750,Soda,28,30.91,Radha Enterprises
+848,Local,Local Soda,Glass Bottle,1000,Soda,28,37.88,Radha Enterprises
+849,Local,Local Soda,Glass Bottle,1500,Soda,28,56.61,Radha Enterprises
+850,Local,Local Soda,Glass Bottle,2000,Soda,28,72.12,Radha Enterprises
+851,Local,Local Soda,PET Bottle,200,Soda,28,12.77,Radha Enterprises
+852,Local,Local Soda,PET Bottle,250,Soda,28,13.54,Radha Enterprises
+853,Local,Local Soda,PET Bottle,300,Soda,28,16.09,Radha Enterprises
+854,Local,Local Soda,PET Bottle,330,Soda,28,16.54,Radha Enterprises
+855,Local,Local Soda,PET Bottle,500,Soda,28,23.72,Radha Enterprises
+856,Local,Local Soda,PET Bottle,600,Soda,28,26.12,Radha Enterprises
+857,Local,Local Soda,PET Bottle,750,Soda,28,32.36,Radha Enterprises
+858,Local,Local Soda,PET Bottle,1000,Soda,28,38.27,Radha Enterprises
+859,Local,Local Soda,PET Bottle,1500,Soda,28,56.7,Radha Enterprises
+860,Local,Local Soda,PET Bottle,2000,Soda,28,68.16,Radha Enterprises
+861,Local,Local Soda,Can,200,Soda,28,11.65,Radha Enterprises
+862,Local,Local Soda,Can,250,Soda,28,14.06,Radha Enterprises
+863,Local,Local Soda,Can,300,Soda,28,14.99,Radha Enterprises
+864,Local,Local Soda,Can,330,Soda,28,17.31,Radha Enterprises
+865,Local,Local Soda,Can,500,Soda,28,20.83,Radha Enterprises
+866,Local,Local Soda,Can,600,Soda,28,26.78,Radha Enterprises
+867,Local,Local Soda,Can,750,Soda,28,32.31,Radha Enterprises
+868,Local,Local Soda,Can,1000,Soda,28,41.54,Radha Enterprises
+869,Local,Local Soda,Can,1500,Soda,28,53.47,Radha Enterprises
+870,Local,Local Soda,Can,2000,Soda,28,73.31,Radha Enterprises
+871,Local,Local Soda,Tetra Pack,200,Soda,28,12.41,Radha Enterprises
+872,Local,Local Soda,Tetra Pack,250,Soda,28,14.25,Radha Enterprises
+873,Local,Local Soda,Tetra Pack,300,Soda,28,15.3,Radha Enterprises
+874,Local,Local Soda,Tetra Pack,330,Soda,28,15.54,Radha Enterprises
+875,Local,Local Soda,Tetra Pack,500,Soda,28,21.85,Radha Enterprises
+876,Local,Local Soda,Tetra Pack,600,Soda,28,25.64,Radha Enterprises
+877,Local,Local Soda,Tetra Pack,750,Soda,28,28.74,Radha Enterprises
+878,Local,Local Soda,Tetra Pack,1000,Soda,28,38.16,Radha Enterprises
+879,Local,Local Soda,Tetra Pack,1500,Soda,28,59.32,Radha Enterprises
+880,Local,Local Soda,Tetra Pack,2000,Soda,28,68.26,Radha Enterprises
+881,Local,Local Water,Glass Bottle,200,Water,18,10.47,Radha Enterprises
+882,Local,Local Water,Glass Bottle,250,Water,18,10.71,Radha Enterprises
+883,Local,Local Water,Glass Bottle,300,Water,18,12.39,Radha Enterprises
+884,Local,Local Water,Glass Bottle,330,Water,18,12.11,Radha Enterprises
+885,Local,Local Water,Glass Bottle,500,Water,18,17.45,Radha Enterprises
+886,Local,Local Water,Glass Bottle,600,Water,18,19.34,Radha Enterprises
+887,Local,Local Water,Glass Bottle,750,Water,18,21.45,Radha Enterprises
+888,Local,Local Water,Glass Bottle,1000,Water,18,27.07,Radha Enterprises
+889,Local,Local Water,Glass Bottle,1500,Water,18,37.91,Radha Enterprises
+890,Local,Local Water,Glass Bottle,2000,Water,18,49.99,Radha Enterprises
+891,Local,Local Water,PET Bottle,200,Water,18,10.1,Radha Enterprises
+892,Local,Local Water,PET Bottle,250,Water,18,11.31,Radha Enterprises
+893,Local,Local Water,PET Bottle,300,Water,18,11.3,Radha Enterprises
+894,Local,Local Water,PET Bottle,330,Water,18,13.3,Radha Enterprises
+895,Local,Local Water,PET Bottle,500,Water,18,17.79,Radha Enterprises
+896,Local,Local Water,PET Bottle,600,Water,18,18.49,Radha Enterprises
+897,Local,Local Water,PET Bottle,750,Water,18,21.49,Radha Enterprises
+898,Local,Local Water,PET Bottle,1000,Water,18,27.82,Radha Enterprises
+899,Local,Local Water,PET Bottle,1500,Water,18,40.45,Radha Enterprises
+900,Local,Local Water,PET Bottle,2000,Water,18,49.34,Radha Enterprises
+901,Local,Local Water,Can,200,Water,18,9.78,Radha Enterprises
+902,Local,Local Water,Can,250,Water,18,10.63,Radha Enterprises
+903,Local,Local Water,Can,300,Water,18,12.75,Radha Enterprises
+904,Local,Local Water,Can,330,Water,18,12.52,Radha Enterprises
+905,Local,Local Water,Can,500,Water,18,17.74,Radha Enterprises
+906,Local,Local Water,Can,600,Water,18,19.11,Radha Enterprises
+907,Local,Local Water,Can,750,Water,18,21.3,Radha Enterprises
+908,Local,Local Water,Can,1000,Water,18,26.97,Radha Enterprises
+909,Local,Local Water,Can,1500,Water,18,41.4,Radha Enterprises
+910,Local,Local Water,Can,2000,Water,18,52.65,Radha Enterprises
+911,Local,Local Water,Tetra Pack,200,Water,18,10.62,Radha Enterprises
+912,Local,Local Water,Tetra Pack,250,Water,18,10.3,Radha Enterprises
+913,Local,Local Water,Tetra Pack,300,Water,18,11.74,Radha Enterprises
+914,Local,Local Water,Tetra Pack,330,Water,18,13.58,Radha Enterprises
+915,Local,Local Water,Tetra Pack,500,Water,18,16.12,Radha Enterprises
+916,Local,Local Water,Tetra Pack,600,Water,18,18.91,Radha Enterprises
+917,Local,Local Water,Tetra Pack,750,Water,18,21.53,Radha Enterprises
+918,Local,Local Water,Tetra Pack,1000,Water,18,28.15,Radha Enterprises
+919,Local,Local Water,Tetra Pack,1500,Water,18,38.38,Radha Enterprises
+920,Local,Local Water,Tetra Pack,2000,Water,18,52.17,Radha Enterprises
+921,Local,Tilo Lemon,Glass Bottle,200,Lemon,28,12.58,Radha Enterprises
+922,Local,Tilo Lemon,Glass Bottle,250,Lemon,28,13.69,Radha Enterprises
+923,Local,Tilo Lemon,Glass Bottle,300,Lemon,28,15.41,Radha Enterprises
+924,Local,Tilo Lemon,Glass Bottle,330,Lemon,28,15.39,Radha Enterprises
+925,Local,Tilo Lemon,Glass Bottle,500,Lemon,28,22.7,Radha Enterprises
+926,Local,Tilo Lemon,Glass Bottle,600,Lemon,28,25.28,Radha Enterprises
+927,Local,Tilo Lemon,Glass Bottle,750,Lemon,28,28.26,Radha Enterprises
+928,Local,Tilo Lemon,Glass Bottle,1000,Lemon,28,36.3,Radha Enterprises
+929,Local,Tilo Lemon,Glass Bottle,1500,Lemon,28,53.15,Radha Enterprises
+930,Local,Tilo Lemon,Glass Bottle,2000,Lemon,28,70.99,Radha Enterprises
+931,Local,Tilo Lemon,PET Bottle,200,Lemon,28,12.18,Radha Enterprises
+932,Local,Tilo Lemon,PET Bottle,250,Lemon,28,14.13,Radha Enterprises
+933,Local,Tilo Lemon,PET Bottle,300,Lemon,28,16.46,Radha Enterprises
+934,Local,Tilo Lemon,PET Bottle,330,Lemon,28,15.66,Radha Enterprises
+935,Local,Tilo Lemon,PET Bottle,500,Lemon,28,21.13,Radha Enterprises
+936,Local,Tilo Lemon,PET Bottle,600,Lemon,28,25.16,Radha Enterprises
+937,Local,Tilo Lemon,PET Bottle,750,Lemon,28,30,Radha Enterprises
+938,Local,Tilo Lemon,PET Bottle,1000,Lemon,28,40.25,Radha Enterprises
+939,Local,Tilo Lemon,PET Bottle,1500,Lemon,28,58.56,Radha Enterprises
+940,Local,Tilo Lemon,PET Bottle,2000,Lemon,28,72.86,Radha Enterprises
+941,Local,Tilo Lemon,Can,200,Lemon,28,12.51,Radha Enterprises
+942,Local,Tilo Lemon,Can,250,Lemon,28,14.33,Radha Enterprises
+943,Local,Tilo Lemon,Can,300,Lemon,28,14.57,Radha Enterprises
+944,Local,Tilo Lemon,Can,330,Lemon,28,16.16,Radha Enterprises
+945,Local,Tilo Lemon,Can,500,Lemon,28,21.7,Radha Enterprises
+946,Local,Tilo Lemon,Can,600,Lemon,28,23.88,Radha Enterprises
+947,Local,Tilo Lemon,Can,750,Lemon,28,29.59,Radha Enterprises
+948,Local,Tilo Lemon,Can,1000,Lemon,28,36.9,Radha Enterprises
+949,Local,Tilo Lemon,Can,1500,Lemon,28,56.6,Radha Enterprises
+950,Local,Tilo Lemon,Can,2000,Lemon,28,69.79,Radha Enterprises
+951,Local,Tilo Lemon,Tetra Pack,200,Lemon,28,11.9,Radha Enterprises
+952,Local,Tilo Lemon,Tetra Pack,250,Lemon,28,14.71,Radha Enterprises
+953,Local,Tilo Lemon,Tetra Pack,300,Lemon,28,15.51,Radha Enterprises
+954,Local,Tilo Lemon,Tetra Pack,330,Lemon,28,17.62,Radha Enterprises
+955,Local,Tilo Lemon,Tetra Pack,500,Lemon,28,22.56,Radha Enterprises
+956,Local,Tilo Lemon,Tetra Pack,600,Lemon,28,25.54,Radha Enterprises
+957,Local,Tilo Lemon,Tetra Pack,750,Lemon,28,31.84,Radha Enterprises
+958,Local,Tilo Lemon,Tetra Pack,1000,Lemon,28,37.08,Radha Enterprises
+959,Local,Tilo Lemon,Tetra Pack,1500,Lemon,28,58.51,Radha Enterprises
+960,Local,Tilo Lemon,Tetra Pack,2000,Lemon,28,71.02,Radha Enterprises
+961,Local,Tilo Mango,Glass Bottle,200,Mixed,28,11.39,Radha Enterprises
+962,Local,Tilo Mango,Glass Bottle,250,Mixed,28,13.97,Radha Enterprises
+963,Local,Tilo Mango,Glass Bottle,300,Mixed,28,14.61,Radha Enterprises
+964,Local,Tilo Mango,Glass Bottle,330,Mixed,28,16.66,Radha Enterprises
+965,Local,Tilo Mango,Glass Bottle,500,Mixed,28,22.56,Radha Enterprises
+966,Local,Tilo Mango,Glass Bottle,600,Mixed,28,26.28,Radha Enterprises
+967,Local,Tilo Mango,Glass Bottle,750,Mixed,28,31.29,Radha Enterprises
+968,Local,Tilo Mango,Glass Bottle,1000,Mixed,28,35.97,Radha Enterprises
+969,Local,Tilo Mango,Glass Bottle,1500,Mixed,28,51.32,Radha Enterprises
+970,Local,Tilo Mango,Glass Bottle,2000,Mixed,28,74.15,Radha Enterprises
+971,Local,Tilo Mango,PET Bottle,200,Mixed,28,12.27,Radha Enterprises
+972,Local,Tilo Mango,PET Bottle,250,Mixed,28,14.68,Radha Enterprises
+973,Local,Tilo Mango,PET Bottle,300,Mixed,28,15.26,Radha Enterprises
+974,Local,Tilo Mango,PET Bottle,330,Mixed,28,15.52,Radha Enterprises
+975,Local,Tilo Mango,PET Bottle,500,Mixed,28,20.57,Radha Enterprises
+976,Local,Tilo Mango,PET Bottle,600,Mixed,28,23.71,Radha Enterprises
+977,Local,Tilo Mango,PET Bottle,750,Mixed,28,28.99,Radha Enterprises
+978,Local,Tilo Mango,PET Bottle,1000,Mixed,28,40.26,Radha Enterprises
+979,Local,Tilo Mango,PET Bottle,1500,Mixed,28,55.88,Radha Enterprises
+980,Local,Tilo Mango,PET Bottle,2000,Mixed,28,75.83,Radha Enterprises
+981,Local,Tilo Mango,Can,200,Mixed,28,12.88,Radha Enterprises
+982,Local,Tilo Mango,Can,250,Mixed,28,13.86,Radha Enterprises
+983,Local,Tilo Mango,Can,300,Mixed,28,14.69,Radha Enterprises
+984,Local,Tilo Mango,Can,330,Mixed,28,15.77,Radha Enterprises
+985,Local,Tilo Mango,Can,500,Mixed,28,22.46,Radha Enterprises
+986,Local,Tilo Mango,Can,600,Mixed,28,24.14,Radha Enterprises
+987,Local,Tilo Mango,Can,750,Mixed,28,30.52,Radha Enterprises
+988,Local,Tilo Mango,Can,1000,Mixed,28,38.79,Radha Enterprises
+989,Local,Tilo Mango,Can,1500,Mixed,28,51.53,Radha Enterprises
+990,Local,Tilo Mango,Can,2000,Mixed,28,67.49,Radha Enterprises
+991,Local,Tilo Mango,Tetra Pack,200,Mixed,28,12.97,Radha Enterprises
+992,Local,Tilo Mango,Tetra Pack,250,Mixed,28,13.82,Radha Enterprises
+993,Local,Tilo Mango,Tetra Pack,300,Mixed,28,15.42,Radha Enterprises
+994,Local,Tilo Mango,Tetra Pack,330,Mixed,28,16.32,Radha Enterprises
+995,Local,Tilo Mango,Tetra Pack,500,Mixed,28,23.1,Radha Enterprises
+996,Local,Tilo Mango,Tetra Pack,600,Mixed,28,26.01,Radha Enterprises
+997,Local,Tilo Mango,Tetra Pack,750,Mixed,28,31.26,Radha Enterprises
+998,Local,Tilo Mango,Tetra Pack,1000,Mixed,28,39.18,Radha Enterprises
+999,Local,Tilo Mango,Tetra Pack,1500,Mixed,28,52.46,Radha Enterprises
+1000,Local,Tilo Mango,Tetra Pack,2000,Mixed,28,69.19,Radha Enterprises
