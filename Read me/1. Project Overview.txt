@@ -1,0 +1,246 @@
+1. Project Overview
+
+This project simulates an end-to-end Beverage Distribution Analytics System:
+
+Creates a dedicated database
+
+Cleans & validates data
+
+Defines primary/foreign keys
+
+Optimizes with indexes
+
+Builds analytical views
+
+Runs business analysis queries (sales, margin, aging, etc.)
+
+Prepares BI-ready feeds for dashboards
+
+Adds basic automation & data quality checks
+
+
+2. How to Use This Script
+
+Step 0 – Setup & Database Creation
+
+Open MySQL Workbench / any MySQL client.
+
+Run the script from top to bottom.
+
+The script:
+
+Creates the database: BEVARAGES
+
+Switches context to it using USE BEVARAGES;
+
+Step 1 – Data Preparation (Validation & Cleaning)
+
+This step simulates what a Data Analyst does first.
+
+Row Count Sanity Check
+
+Counts rows from key tables (Customers, Suppliers, Branches, Employees, Products, Orders, Sales, Payments). 
+
+Ensures data is loaded and no table is unexpectedly empty.
+
+Null / Blank / Duplicate Checks
+
+Checks for:
+
+Missing employee IDs in sales targets
+
+Missing product attributes in products
+
+Duplicate Customer ID or duplicate Shop Name in customers 
+
+Fixes missing Employee ID using employees table when possible.
+
+Standardizes wrong values (sets invalid blanks to NULL).
+
+Basic Data Integrity Checks
+
+Finds sales without matching product
+
+Finds orders without customers
+
+Finds payments where dates are inconsistent with order dates
+
+Outcome: Cleaner, validated data ready for modelling.
+
+Step 2 – Data Modelling (Keys, Relationships & Views)
+
+This step makes the schema relational & analytics-friendly.
+
+Primary Keys
+
+Adds PKs on core tables: customers, suppliers, no of branches, employees, products, payments, inventory ledger, deliveries, expenses, sales targets. 
+
+Beverages
+
+Foreign Keys & Relationships
+
+orders linked to:
+
+customers (Customer ID)
+
+no of branches (Branch ID)
+
+employees (Employee ID)
+
+sales linked to:
+
+orders, products, suppliers
+
+returns linked to:
+
+sales (Return ID → Sales ID) 
+
+These relationships reflect a realistic transactional model.
+
+Indexes for Performance
+
+Creates indexes on frequently joined and filtered columns:
+
+Customer, Branch, Employee, Order Date Time, Product, Supplier, Payment Date, etc. 
+
+Beverages
+
+Analytical Views
+
+vSalesOrders:
+
+Combines Orders + Sales into a line-level sales fact view. 
+
+Beverages
+
+vPaymentsOrders:
+
+Combines Payments + Orders for payment analysis. 
+
+Beverages
+
+vOrderTotals:
+
+Aggregates order-level totals: gross, discount, tax, final order value.
+
+
+Outcome: Proper star-schema-style structure + reusable views for reporting.
+
+
+Step 3 – Data Analysis (Business Insights)
+
+These queries show what a Data Analyst delivers to management.
+
+Key analyses:
+
+Monthly Sales Trend
+
+Sales by Year-Month from vSalesOrders. 
+
+Beverages
+
+Top Orders
+
+Top 50 orders by sales value.
+
+Branch Performance
+
+Total sales by branch (Top performing branches). 
+
+Top Customers
+
+Top 10 customers by revenue. 
+
+Product Category Mix
+
+Sales by category (to see which categories drive revenue). 
+
+GST by Category
+
+Total GST collected per category (useful for finance/compliance). 
+
+Receivables Aging
+
+Buckets unpaid amounts into 0-30, 31-60, 61-90, 90+ days. 
+
+Discount Band Impact
+
+How different discount slabs affect total sales. 
+
+Fast-Moving SKUs
+
+Ranks products by quantity sold. 
+
+Collections by Payment Mode
+
+Revenue split by payment modes. 
+
+Gross Margin Calculation
+
+Calculates net revenue, COGS and gross margin % at line level.
+
+Step 4 – Presentation Layer (For BI Tools)
+
+This section prepares clean feeds that can be connected to Power BI
+
+Sales Dashboard Feeds 
+
+Monthly trend (YearMonth, Sales)
+Sales by Branch
+Sales by BrandFamily
+
+Operations Dashboard Feeds
+
+Orders by OrderStatus (for pipeline/operations). 
+
+Customer Insights Feed
+
+Revenue by Customer & Area (for segmentation & targeting). 
+
+Outcome: Ready-to-use datasets for dashboard pages:
+Executive Sales Overview
+Branch Performance
+Product & Brand Analysis
+Customer Segmentation
+Collections & Outstanding
+
+
+Step 5 – Improvements (Automation & Monitoring)
+
+Stored Procedure: sp_MonthlySalesSummary
+Generates a monthly summary:
+
+Total Sales
+
+Unique Customers
+
+Unique Products (SKUs) 
+
+Data Quality View: vDataQuality_Issues
+
+Centralized list of issues:
+
+Payment before order
+
+Sales without product
+
+Orders without customer 
+
+Outcome: Demonstrates automation + continuous data quality checks like in real companies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
